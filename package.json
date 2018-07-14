@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "express": ">=4.16.3",
-    "nightmare",
-    "fs"
+    "nightmare":">=0.0.2",
+    "fs":">=3.0.1"
   },
   "engines": {
     "node": "8.x"
