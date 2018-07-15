@@ -294,9 +294,12 @@ iframe {
   color: #fff;
 }
 
-.g-signin2 {
-  margin-left:500px;
-  margin-top:200px;
+.g-signin-2 {
+  color: #3b5998;
+  visibility: visible;
+  padding: 15px;
+  height: 190px;
+  width: 70px;
 }
 
 /*------------------------------------------------------------------
@@ -517,6 +520,7 @@ iframe {
     padding-left: 60px;
     padding-right: 60px;
   }
+}
 
 @media (max-width: 576px) {
   .wrap-login100 {
