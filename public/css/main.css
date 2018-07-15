@@ -294,7 +294,7 @@ iframe {
   color: #fff;
 }
 
-.g-signin-2 {
+#g-signin {
   color: #3b5998;
   visibility: visible;
   padding: 15px;
@@ -302,6 +302,9 @@ iframe {
   width: 70px;
 }
 
+#goToTripForm {
+  visibility: hidden;
+}
 /*------------------------------------------------------------------
 [ Input ]*/
 

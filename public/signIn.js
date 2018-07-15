@@ -1,14 +1,27 @@
-function authenticate() {
-    console.log(gapi);
+var express = require('express');
+const app = express();
+var googleUser = {};
+var startApp = function () {
     gapi.load('auth2', function () {
-        gapi.auth2.init();
+        // Retrieve the singleton for the GoogleAuth library and set up the client.
+        auth2 = gapi.auth2.init({
+            client_id: '11077402213-a6h8u1m348tfocov4mqtpfqsspeihks4.apps.googleusercontent.com',
+            cookiepolicy: 'single_host_origin',
+            // Request scopes in addition to 'profile' and 'email'
+            //scope: 'additional_scope'
+        });
+        attachSignin(document.getElementById('g-signin'));
     });
-}
+};
 
-function onSignIn(googleUser) {
-    var profile = googleUser.getBasicProfile();
-    console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.
-    console.log('Name: ' + profile.getName());
-    console.log('Image URL: ' + profile.getImageUrl());
-    console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
+function attachSignin(element) {
+    console.log("Element info: " + element);
+    auth2.attachClickHandler(element, {},
+        function (googleUser) {
+            console.log("Signed in: " + googleUser.getBasicProfile().getName());
+            window.open('trip.html', '_self');
+        },
+        function (error) {
+            alert(JSON.stringify(error, undefined, 2));
+        });
 }
