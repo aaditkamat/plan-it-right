@@ -294,10 +294,9 @@ iframe {
   color: #fff;
 }
 
-.googletext {
-  font-size: 18px;
-  font-family: Montserrat-SemiBold;
-  color: #000000;
+.g-signin2 {
+  margin-left:500px;
+  margin-top:200px;
 }
 
 /*------------------------------------------------------------------
