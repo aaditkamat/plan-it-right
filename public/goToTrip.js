@@ -25,5 +25,3 @@ function attachSignin(element) {
             alert(JSON.stringify(error, undefined, 2));
         });
 }
-
-module.exports.loggedIn = loggedIn;
