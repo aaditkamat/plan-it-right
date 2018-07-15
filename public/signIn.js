@@ -28,4 +28,4 @@ function attachSignin(element) {
 
 startApp();
 
-exports.loggedIn = loggedIn;
+export {loggedIn}

@@ -1,4 +1,4 @@
-var loggedIn = require("/.signIn");
+import {loggedIn} from './signIn'
 
 if (loggedIn)
     console.log("Logged in");
