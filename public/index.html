@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="">
+    <meta name="google-signin-client_id" content="11077402213-r1oggiilangs97ec86t4bvbd7l021vlo.apps.googleusercontent.com">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -130,6 +131,20 @@
                         <i class="fa fa-facebook-official"></i>
                         Facebook
                     </a>
+                    
+                    <script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.mJuq3Y5UdvU.O/m=signin2/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCOJP7yG0eW4urmgspKyK_IxTJNYdw/cb=gapi.loaded_0" async=""></script>
+                    <script>
+                            function onSuccess(googleUser) {
+                              console.log('Signed in as: ' + googleUser.getBasicProfile().getName());
+                            }
+                    </script>
+                    <div class="btn-google m-b-20" onclick="onSuccess" data-gapiscan="true" data-onload="true">
+                        <a class="googletext">
+                            <img src="images/icons/icon-google.png" alt="GOOGLE">
+                            Google
+                        </a>
+                    </div>
+                    <script src="https://apis.google.com/js/platform.js" async defer></script>
 
                     <a href="#" class="btn-google m-b-20">
                         <img src="images/icons/icon-google.png" alt="GOOGLE">
@@ -253,6 +268,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
+
+    <script src="./signIn.js"></script>
 
 </body>
 
