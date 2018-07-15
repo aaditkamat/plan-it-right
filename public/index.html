@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="">
-    <meta name="google-signin-client_id" content="11077402213-r1oggiilangs97ec86t4bvbd7l021vlo.apps.googleusercontent.com">
+    <meta name="google-signin-client_id" content="11077402213-a6h8u1m348tfocov4mqtpfqsspeihks4.apps.googleusercontent.com">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->  
     <link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
 <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 <!--===============================================================================================-->
@@ -30,6 +30,8 @@
     <link rel="stylesheet" type="text/css" href="css/util.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
 <!--===============================================================================================-->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title  -->
@@ -131,21 +133,13 @@
                         <i class="fa fa-facebook-official"></i>
                         Facebook
                     </a>
-                    
-                    <script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.mJuq3Y5UdvU.O/m=signin2/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCOJP7yG0eW4urmgspKyK_IxTJNYdw/cb=gapi.loaded_0" async=""></script>
-                    <script>
-                            function onSuccess(googleUser) {
-                              console.log('Signed in as: ' + googleUser.getBasicProfile().getName());
-                            }
-                    </script>
-                    
-                    <div class="btn-google m-b-20" onclick="onSuccess" data-gapiscan="true" data-onload="true">
+
+                    <div class="btn-google m-b-20" data-onsuccess="onSignIn">
                         <a class="googletext">
                             <img src="images/icons/icon-google.png" alt="GOOGLE">
                             Google
                         </a>
                     </div>
-                    <script src="https://apis.google.com/js/platform.js" async defer></script>
                     
                     <div class="p-t-31 p-b-9">
                         <span class="txt1">
@@ -238,9 +232,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     </footer>
     <!-- ***** Footer Area End ***** -->
 
-    <!-- jQuery (Necessary for All JavaScript Plugins) -->
-    <!--===============================================================================================-->
-    <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->
     <script src="vendor/animsition/js/animsition.min.js"></script>
 <!--===============================================================================================-->
@@ -265,7 +256,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <!-- Active js -->
     <script src="js/active.js"></script>
 
-    <script src="./signIn.js"></script>
 
 </body>
 
