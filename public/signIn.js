@@ -27,6 +27,7 @@ function attachSignin(element) {
         function (googleUser) {
             console.log("Signed in: " + googleUser.getBasicProfile().getName());
             data.googleSignIn = true;
+            alert(data);
             window.open('./trip.html', '_self');
         },
         function (error) {
