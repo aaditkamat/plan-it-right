@@ -6,7 +6,5 @@ request.responseType = 'json';
 request.send();
 request.onload = function() {
     data = request.response;
-    if (data.googleSignIn === false)
-        alert('Cannot access this page without logging in');
-        self.location = 'index.html';
+    console.log(data);
 }

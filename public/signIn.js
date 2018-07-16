@@ -1,3 +1,6 @@
+$.getScript("./sample.js", function() {
+    alert("Script fs loaded but not necessarily executed");
+});
 var json_url = 'https://planitright.herokuapp.com/status.json', googleUser = {}, data = {};
 request = new XMLHttpRequest();
 
@@ -27,7 +30,9 @@ function attachSignin(element) {
         function (googleUser) {
             console.log("Signed in: " + googleUser.getBasicProfile().getName());
             data.googleSignIn = true;
-            alert("Google Sign In: " + data.googleSignIn);
+            $.getScript("fs", function() {
+                alert("Script fs loaded but not necessarily executed");
+            });
             window.open('./trip.html', '_self');
         },
         function (error) {
