@@ -1,10 +1,13 @@
-'use strict';
+var data_url = 'https://planitright.herokuapp.com/status.json';
+request = new XMLHttpRequest();
 
-import fs from 'fs';
-
-let rawdata = fs.readFileSync('status.json');
-let status = JSON.parse(rawdata);
-console.log(status);
+request.open('GET', data_url);
+request.responseType = 'json';
+request.send();
+request.onload = function() {
+    data = request.response;
+    console.log(data);
+}
 
 var googleUser = {};
 var startApp = function () {
