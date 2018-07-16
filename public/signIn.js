@@ -1,4 +1,11 @@
-var loggedIn = false;
+'use strict';
+
+import fs from 'fs';
+
+let rawdata = fs.readFileSync('status.json');
+let status = JSON.parse(rawdata);
+console.log(status);
+
 var googleUser = {};
 var startApp = function () {
     gapi.load('auth2', function () {
@@ -27,5 +34,3 @@ function attachSignin(element) {
 }
 
 startApp();
-
-export {loggedIn}

@@ -294,14 +294,6 @@ iframe {
   color: #fff;
 }
 
-#g-signin {
-  color: #3b5998;
-  visibility: visible;
-  padding: 15px;
-  height: 190px;
-  width: 70px;
-}
-
 #goToTripForm {
   visibility: hidden;
 }
