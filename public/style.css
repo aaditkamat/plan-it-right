@@ -765,6 +765,9 @@ img {
 .page-content {
   padding: 60px 55px;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15); 
+}
+
+.form-box {
   float:left;
   width:100%;
   overflow-y: auto;
