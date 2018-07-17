@@ -19,6 +19,9 @@
 
     <script src="loginStatus.js"></script>
 
+    <script src="countries.js"></script>
+    
+    <script src="cities.js"></script>
     <style>
         #dropdown-button {
             font-family: '123CF' !important;
@@ -105,7 +108,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10 col-lg-8">
-                    <form action="form.php" method="post">
+                    <form action="/form.php" method="post">
                         <div class="page-content form-box">
                             <h1>Trip Details</h1>
                             <br>
@@ -120,7 +123,7 @@
                                 <div>
                                     <input name="City" type="text" placeholder="City" style="float:left; margin-right: 15px; width: 284px; height: 34.8px;">
                                     <div>
-                                        <input name="Country" type="text" data-i18n-placeholder="textdef_29" placeholder="Country" style="width:284px; height: 34.8px;">
+                                        <select id="country_options" style="width:284px; height: 34.8px;"></select>
                                         <button id="dropdown-button"></button>
                                     </div>
                                 </div>  
@@ -288,7 +291,7 @@
                             </div>   
                             <br>
                             <div style="margin-left:150px;"data-role="control" data-type="form-action-bar" data-hash="00000003" data-type-id="29" data-colspan="20" data-buttons-position="2">
-                                <button style="height:46px;width:223.2px;background-color:#4c4c4c;"data-role="submit" type="submit">
+                                <button onclick="form" style="height:46px;width:223.2px;background-color:#4c4c4c;"data-role="submit" type="submit">
                                     <span style="color:#ffffff;"class="normal-state" data-i18n-text="SendButton">Submit Booking Form</span>
                                 </button>
                             </div>
@@ -348,8 +351,3 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/active.js"></script>
 </body>
 </html>
-<script>
-    $(window).bind("load", function() {
-        console.log(document);
-    });
-</script>

@@ -2,12 +2,11 @@
 // where your node app starts
 
 // init project
-var express = require('express');
-var app = express();
+const express = require('express');
+const  app = express();
 
 // we've started you off with Express, 
 // but feel free to use whatever libs or frameworks you'd like through `package.json`.
-
 
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static(__dirname+'/public'));
@@ -18,11 +17,13 @@ app.get('/', function(request, response) {
 });
 
 // listen for requests :)
-var listener = app.listen(process.env.PORT || 3000, function () {
+ /* var listener = app.listen(process.env.PORT || 3000, function () {
   console.log('Your app is listening on port ' + listener.address().port);
-});
+}); */
 
-//function to create a https server on Node 
+/*
+ * function to create a https server on Node 
+ */
 var createHTTPSServer = function() {
   var https = require('https');
   var fs = require('fs');
@@ -32,9 +33,12 @@ var createHTTPSServer = function() {
     key: fs.readFileSync('public/key.pem'),
     cert: fs.readFileSync('public/cert.pem'),
     passphrase:'BearGryllsAndFedererFTW12@'
-  }; 
+  };
+
   https.createServer(options, app).listen(3000);
 };
+
+createHTTPSServer();
 
 
 
