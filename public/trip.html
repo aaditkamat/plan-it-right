@@ -19,6 +19,29 @@
 
     <script src="loginStatus.js"></script>
 
+    <style>
+        #dropdown-button {
+            font-family: '123CF' !important;
+            font-size: 1.8em !important;
+            content: "\e998";
+            display: block;
+            position: absolute;
+            z-index: 3;
+            right: 5px;
+            top: 50%;
+            transform: translateY(-50%) rotate(180deg);
+            -webkit-transform: translateY(-50%) rotate(180deg);
+            color: #aaa;
+        }
+        .form-label {
+            font-weight: bold;
+        }
+        .left-choice {
+            float:left;
+            width: 50%;
+        }
+    </style>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 
 <body onload="if (document.referrer == '') self.location='index.html';">
@@ -83,14 +106,185 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10 col-lg-8">
                     <div class="page-content">
-                        
-<!-- www.123formbuilder.com script begins here -->
-<iframe allowTransparency="true" style="min-height:300px; height:1000px; overflow:auto;" width="100%" id="contactform123" name="contactform123" marginwidth="0" marginheight="0" frameborder="0" src="https://www.123formbuilder.com/my-contact-form-3900104.html">
-<p>Your browser does not support iframes. The contact form cannot be displayed. Please use another contact method (phone, fax etc)</p>
-</iframe>
-
-<!-- www.123formbuilder.com script ends here -->
-
+                        <h1>Trip Details</h1>
+                        <br>
+                        <br>
+                        <span style="font-size: small;">
+                            Just fill in the form below and we will create your personalized day-by-day itinerary.&nbsp;
+                        </span>
+                        <hr>
+                        <div>
+                            <label class="form-label">Location</label>
+                            <dt></dt>
+                            <div>
+                                <input type="text" placeholder="City" style="float:left; margin-right: 15px; width: 284px; height: 34.8px;">
+                                <div>
+                                    <input type="text" data-i18n-placeholder="textdef_29" placeholder="Country" style="width:284px; height: 34.8px;">
+                                    <button id="dropdown-button"></button>
+                                </div>
+                            </div>  
+                        </div>
+                        <br>
+                        <div>
+                            <label class="form-label">Departure Date/Time</label>
+                            <dt></dt>
+                            <div>
+                                <input type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
+                            </div>
+                        </div>
+                        <br>
+                        <div>
+                            <label class="form-label">Return Date/Time</label>
+                            <dt></dt>
+                            <div>
+                                <input type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
+                            </div>
+                        </div>
+                        <br>
+                        <div>
+                            <label class="form-label">Number of guests/passengers</label>
+                            <dt></dt>
+                            <div>
+                                <input type="text" placeholder="*Please Select*" style="width: 584px;height: 34.8px;">
+                            </div>
+                        </div>
+                        <br>
+                        <div>
+                            <label class="form-label">Pace</label>
+                            <dt></dt>
+                            <div>
+                                <div data-role="choice" data-size="third" style="float:left; margin-right: 45px;">
+                                    <label data-role="choice" id="radio-000000100">
+                                        <input type="radio" id="00000010_0" name="c_00000010" value="Slow &amp; Relaxed" data-index="0" data-role="i123-input">
+                                        <label data-role="radio" for="00000010_0" aria-labelledby="radio-000000100" role="radio"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42193614_choice_0" data-skip-markdown="true">Slow &amp; Relaxed</span>
+                                    </label>
+                                </div>
+                                <div data-role="choice" data-size="third" style="float:left; margin-right: 45px;">
+                                    <label data-role="choice" id="radio-000000100">
+                                        <input type="radio" id="00000010_0" name="c_00000010" value="Slow &amp; Relaxed" data-index="0" data-role="i123-input">
+                                        <label data-role="radio" for="00000010_0" aria-labelledby="radio-000000100" role="radio"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42193614_choice_0" data-skip-markdown="true">Medium &amp; Chilled</span>
+                                    </label>
+                                </div>
+                                <div data-role="choice" data-size="third">
+                                    <label data-role="choice" id="radio-000000100">
+                                        <input type="radio" id="00000010_0" name="c_00000010" value="Slow &amp; Relaxed" data-index="0" data-role="i123-input">
+                                        <label data-role="radio" for="00000010_0" aria-labelledby="radio-000000100" role="radio"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42193614_choice_0" data-skip-markdown="true">Fast &amp; Energetic</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+                        <div data-role="container" data-type="virtual-form-table-row" data-hash="00000011" data-type-id="0" data-colspan="20" data-num-children="1">
+                            <div data-role="control" data-type="check-box" data-hash="00000012" data-type-id="2" data-colspan="20" aria-labelledby="checkbox-00000012-acc checkbox-00000012-error-acc checkbox-00000012-instr-acc" data-instructions-on-click="1" data-renderer-type="tln" data-id="42212190" data-is-active="1">
+                                <label class="form-label" data-role="label" id="checkbox-00000012-acc" data-i18n-text="control_label_42212190">Additional Details (Optional)</label>
+                                <dt data-role="instructions" id="checkbox-00000012-instr-acc" data-is-empty="1" data-i18n-text="control_instructions_42212190"></dt>
+                                <div data-role="input-row" data-is-first-row="1" data-fill-colspan="0">
+                                    <div data-role="choice" data-index="0" data-size="half" class="left-choice">
+                                        <label data-role="choice" id="checkbox-00000012-0">
+                                            <input type="checkbox" id="00000012_0" data-role="i123-input" data-index="0" data-value="Family &amp; kids">
+                                            <label data-role="checkbox" for="00000012_0" aria-labelledby="checkbox-00000012-0" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_0" data-skip-markdown="true">Family &amp; kids</span>
+                                        </label>
+                                    </div>
+                                    <div data-role="choice" data-index="6" data-size="half">
+                                        <label data-role="choice" id="checkbox-00000012-6">
+                                            <input type="checkbox" id="00000012_6" data-role="i123-input" data-index="6" data-value="Couple &amp; Romantic">
+                                            <label data-role="checkbox" for="00000012_6" aria-labelledby="checkbox-00000012-6" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_6" data-skip-markdown="true">Couple &amp; Romantic</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div data-role="input-row" data-fill-colspan="0">
+                                    <div data-role="choice" data-index="1" data-size="half" class="left-choice">
+                                        <label data-role="choice" id="checkbox-00000012-1">
+                                            <input type="checkbox" id="00000012_1" data-role="i123-input" data-index="1" data-value="Food &amp; drink">
+                                            <label data-role="checkbox" for="00000012_1" aria-labelledby="checkbox-00000012-1" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_1" data-skip-markdown="true">Food &amp; drink</span>
+                                        </label>
+                                    </div>
+                                    <div data-role="choice" data-index="7" data-size="half">
+                                        <label data-role="choice" id="checkbox-00000012-7">
+                                            <input type="checkbox" id="00000012_7" data-role="i123-input" data-index="7" data-value="Outdoor">
+                                            <label data-role="checkbox" for="00000012_7" aria-labelledby="checkbox-00000012-7" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_7" data-skip-markdown="true">Outdoor</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div data-role="input-row" data-fill-colspan="0">
+                                    <div data-role="choice" data-index="2" data-size="half" class="left-choice">
+                                        <label data-role="choice" id="checkbox-00000012-2">
+                                            <input type="checkbox" id="00000012_2" data-role="i123-input" data-index="2" data-value="Sight &amp; Landmarks">
+                                            <label data-role="checkbox" for="00000012_2" aria-labelledby="checkbox-00000012-2" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_2" data-skip-markdown="true">Sight &amp; Landmarks</span>
+                                        </label>
+                                    </div>
+                                    <div data-role="choice" data-index="8" data-size="half">
+                                        <label data-role="choice" id="checkbox-00000012-8">
+                                            <input type="checkbox" id="00000012_8" data-role="i123-input" data-index="8" data-value="History &amp; Culture">
+                                            <label data-role="checkbox" for="00000012_8" aria-labelledby="checkbox-00000012-8" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_8" data-skip-markdown="true">History &amp; Culture</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div data-role="input-row" data-fill-colspan="0">
+                                    <div data-role="choice" data-index="3" data-size="half" class="left-choice">
+                                        <label data-role="choice" id="checkbox-00000012-3">
+                                            <input type="checkbox" id="00000012_3" data-role="i123-input" data-index="3" data-value="Parks &amp; Nature">
+                                            <label data-role="checkbox" for="00000012_3" aria-labelledby="checkbox-00000012-3" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_3" data-skip-markdown="true">Parks &amp; Nature</span>
+                                        </label>
+                                    </div>
+                                    <div data-role="choice" data-index="9" data-size="half">
+                                        <label data-role="choice" id="checkbox-00000012-9">
+                                            <input type="checkbox" id="00000012_9" data-role="i123-input" data-index="9" data-value="Beaches">
+                                            <label data-role="checkbox" for="00000012_9" aria-labelledby="checkbox-00000012-9" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_9" data-skip-markdown="true">Beaches</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div data-role="input-row" data-fill-colspan="0">
+                                    <div data-role="choice" data-index="4" data-size="half" class="left-choice">
+                                        <label data-role="choice" id="checkbox-00000012-4">
+                                            <input type="checkbox" id="00000012_4" data-role="i123-input" data-index="4" data-value="Museums">
+                                            <label data-role="checkbox" for="00000012_4" aria-labelledby="checkbox-00000012-4" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_4" data-skip-markdown="true">Museums</span>
+                                        </label>
+                                    </div>
+                                    <div data-role="choice" data-index="10" data-size="half">
+                                        <label data-role="choice" id="checkbox-00000012-10">
+                                            <input type="checkbox" id="00000012_10" data-role="i123-input" data-index="10" data-value="Nightlife">
+                                            <label data-role="checkbox" for="00000012_10" aria-labelledby="checkbox-00000012-10" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_10" data-skip-markdown="true">Nightlife</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div data-role="input-row" data-is-last-row="1" data-fill-colspan="0">
+                                    <div data-role="choice" data-index="5" data-size="half" class="left-choice">
+                                        <label data-role="choice" id="checkbox-00000012-5">
+                                            <input type="checkbox" id="00000012_5" data-role="i123-input" data-index="5" data-value="Shopping">
+                                            <label data-role="checkbox" for="00000012_5" aria-labelledby="checkbox-00000012-5" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_5" data-skip-markdown="true">Shopping</span>
+                                        </label>
+                                    </div>
+                                    <div data-role="choice" data-index="11" data-size="half">
+                                        <label data-role="choice" id="checkbox-00000012-11">
+                                            <input type="checkbox" id="00000012_11" data-role="i123-input" data-index="11" data-value="Shows &amp; Concerts">
+                                            <label data-role="checkbox" for="00000012_11" aria-labelledby="checkbox-00000012-11" role="checkbox"></label>
+                                            <span data-role="option-text" data-i18n-text="control_label_42212190_choice_11" data-skip-markdown="true">Shows &amp; Concerts</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <label data-role="error" id="checkbox-00000012-error-acc" data-is-empty="1"></label>
+                            </div>
+                        </div>  
+                        <div>
+                            <label class="form-label">Verification</label>
+                            <dt></dt>
+                            <div class="g-recaptcha" data-sitekey="6Lf-jWQUAAAAAHboA9Ad47JkiRYWrmIOSVI5dKQt"></div>
+                        </div>         
                     </div>
                 </div>
             </div>
@@ -144,7 +338,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
-
 </body>
-
 </html>
+<script>
+    $(window).bind("load", function() {
+        console.log(document);
+    });
+</script>

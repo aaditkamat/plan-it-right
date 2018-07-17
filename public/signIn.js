@@ -1,6 +1,3 @@
-$.getScript("./sample.js", function() {
-    alert("Script fs loaded but not necessarily executed");
-});
 var json_url = 'https://planitright.herokuapp.com/status.json', googleUser = {}, data = {};
 request = new XMLHttpRequest();
 

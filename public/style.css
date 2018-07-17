@@ -764,8 +764,13 @@ img {
 
 .page-content {
   padding: 60px 55px;
-  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15); }
-  @media only screen and (max-width: 767px) {
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15); 
+  float:left;
+  width:100%;
+  overflow-y: auto;
+  height:700px;
+}
+@media only screen and (max-width: 767px) {
     .page-content {
       padding: 30px 25px; } }
   .page-content h6 {
