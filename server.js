@@ -17,9 +17,9 @@ app.get('/', function(request, response) {
 });
 
 // listen for requests :)
- /* var listener = app.listen(process.env.PORT || 3000, function () {
+ var listener = app.listen(process.env.PORT || 3000, function () {
   console.log('Your app is listening on port ' + listener.address().port);
-}); */
+}); 
 
 /*
  * function to create a https server on Node 
@@ -37,8 +37,6 @@ var createHTTPSServer = function() {
 
   https.createServer(options, app).listen(3000);
 };
-
-createHTTPSServer();
 
 
 
