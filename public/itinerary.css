@@ -1,0 +1,78 @@
+.page-heading {
+    position: absolute;
+    width: fit-content;
+    height: fit-content;
+}
+html {
+    height: fit-content;
+}
+text {
+    clear: right;
+}
+
+h1 {
+    color: black;   
+    text-align: center;
+    font-size: 40px;
+    padding: 16px;   
+}
+
+h2 {
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h4 {
+    width: 239.05px;
+    height: 34px;
+}
+
+.hamburger_button {
+    margin: 16px;
+    float: left;
+}
+.vertical_line {
+    border-left: 6px solid black;
+    height: 500vh;
+    margin-top: 25px;
+    margin-left: 16px;
+    float:left;
+}
+.suggestions_box {
+    background-color: lightblue;
+    height: 12%;
+}
+#entityName {
+    float:left;
+}
+#entityTime {
+    padding-right: 4.5em;
+    float:left;
+    color: gray;
+    font-weight: normal;
+}
+
+.horizontal_section {
+    margin: 32px;
+    float:left;
+    height: fit-content;
+    width: fit-content;
+}
+
+.star_section {
+    margin-left: 16px;
+    height: fit-content;
+    width: fit-content;
+}
+
+.star_section::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.plan {
+    overflow: hidden;
+    width: 100%;
+}

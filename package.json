@@ -19,7 +19,9 @@
     "jshint": "^2.9.5",
     "mongoose": "^5.2.3",
     "nightmare": "^3.0.1",
-    "openssl": "^1.1.0"
+    "openssl": "^1.1.0",
+    "php-express": "0.0.3",
+    "shuffle-array": "^1.0.1"
   },
   "engines": {
     "node": "8.x"

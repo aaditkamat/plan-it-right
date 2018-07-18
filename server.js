@@ -5,6 +5,21 @@
 const express = require('express');
 const  app = express();
 
+//from the php-express docs: https://www.npmjs.com/package/php-express
+var phpExpress = require('php-express')({
+
+  // assumes php is in your PATH
+  binPath: 'php'
+});
+
+// set view engine to php-express
+app.set('views', './public');
+app.engine('php', phpExpress.engine);
+app.set('view engine', 'php');
+
+// routing all .php file to php-express
+app.all(/.+\.php$/, phpExpress.router);
+
 // we've started you off with Express, 
 // but feel free to use whatever libs or frameworks you'd like through `package.json`.
 
@@ -18,7 +33,7 @@ app.get('/', function(request, response) {
 
 // listen for requests :)
  var listener = app.listen(process.env.PORT || 3000, function () {
-  console.log('Your app is listening on port ' + listener.address().port);
+  console.log('PHPExpress app is listening on port ' + listener.address().port);
 }); 
 
 /*

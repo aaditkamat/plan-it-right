@@ -108,7 +108,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10 col-lg-8">
-                    <form action="/form.php" method="post">
+                    <form method="get" action="itinerary.php">
                         <div class="page-content form-box">
                             <h1>Trip Details</h1>
                             <br>
@@ -121,7 +121,7 @@
                                 <label class="form-label">Location</label>
                                 <dt></dt>
                                 <div>
-                                    <input name="City" type="text" placeholder="City" style="float:left; margin-right: 15px; width: 284px; height: 34.8px;">
+                                    <input name="city" type="text" placeholder="City" style="float:left; margin-right: 15px; width: 284px; height: 34.8px;">
                                     <div>
                                         <select id="country_options" style="width:284px; height: 34.8px;"></select>
                                         <button id="dropdown-button"></button>
@@ -133,7 +133,7 @@
                                 <label class="form-label">Departure Date/Time</label>
                                 <dt></dt>
                                 <div>
-                                    <input name="Departure" type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
+                                    <input name="departure" type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
                                 </div>
                             </div>
                             <br>
@@ -141,7 +141,7 @@
                                 <label class="form-label">Return Date/Time</label>
                                 <dt></dt>
                                 <div>
-                                    <input name="Return" type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
+                                    <input name="return" type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
                                 </div>
                             </div>
                             <br>
@@ -149,7 +149,7 @@
                                 <label class="form-label">Number of guests/passengers</label>
                                 <dt></dt>
                                 <div>
-                                    <input name="Guests" type="text" placeholder="*Please Select*" style="width: 584px;height: 34.8px;">
+                                    <input name="guests" type="text" placeholder="*Please Select*" style="width: 584px;height: 34.8px;">
                                 </div>
                             </div>
                             <br>
@@ -290,12 +290,8 @@
                                 <div class="g-recaptcha" data-sitekey="6Lf-jWQUAAAAAHboA9Ad47JkiRYWrmIOSVI5dKQt"></div>
                             </div>   
                             <br>
-                            <div style="margin-left:150px;"data-role="control" data-type="form-action-bar" data-hash="00000003" data-type-id="29" data-colspan="20" data-buttons-position="2">
-                                <button onclick="form" style="height:46px;width:223.2px;background-color:#4c4c4c;"data-role="submit" type="submit">
-                                    <span style="color:#ffffff;"class="normal-state" data-i18n-text="SendButton">Submit Booking Form</span>
-                                </button>
-                            </div>
-                        </forx`m>
+                            <input style="margin-left:150px; height:46px;width:223.2px;background-color:#4c4c4c; color:#FFFFFF;" type="submit" value="Submit Booking Form" >
+                        </form>
                     </div>
                 </div>
             </div>
