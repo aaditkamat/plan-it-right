@@ -1,4 +1,5 @@
-var data_url = 'https://api.myjson.com/bins/930uk';
+var data_url = 'https://api.myjson.com/bins/14jn0a';
+
 request = new XMLHttpRequest();
 data = null;
 var itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
@@ -8,7 +9,6 @@ request.responseType = 'json';
 request.send();
 request.onload = function() {
     data = request.response;
-    //edit_title();
     edit_main_text();
 }
 
@@ -28,6 +28,8 @@ edit_main_text = function() {
     for (var day = 1; day <= data.daysCount; day++) {
         var plan = document.createElement("div");
         plan.className= "plan";
+        var planContents = document.createElement("div");
+        planContents.className = "plan_contents";
         itinerary_area.append(plan);  
         if (day === 1)
           plan.style="margin-top:120px;";
@@ -35,7 +37,8 @@ edit_main_text = function() {
         var dayText = document.createElement("h2");
         dayText.innerText = "Day " + day;
         plan.append(dayText);
-        create_plan(plan, day);
+        plan.append(planContents);
+        create_plan(planContents, day);
     }
 
 }
@@ -56,24 +59,25 @@ get_image_url = function(text) {
     return image_url;
 } 
 
-create_plan = function(plan, day) {
+create_plan = function(planContents, day) {
     var planItems = data.planItems;
     for (var i = 0; i < planItems.length; i++) {
         var entityDetails = document.createElement("div");
-        entityDetails.className = "entityDetails";
+        entityDetails.className = "entity_details";
         var horizontalSection = document.createElement("div");
         horizontalSection.className = "horizontal_section";
         var entityName = document.createElement("h3");
-        entityName.id = "entityName";
+        entityName.className = "entity_name";
         var entityTime = document.createElement("h4");
-        entityTime.id = "entityTime";
-        var circle = document.createElement("img");
-        circle.src = "http://man.hubwiz.com/docset/SVG.docset/Contents/Resources/Documents/mdn.mozillademos.org/files/7707/circle2.svg";       
-        circle.width = "100px"; 
-        var image = document.createElement("img");
+        entityTime.className= "entity_time"; 
         var starSection = document.createElement("div");
         starSection.className = "star_section";
         var numberOfStars = null;
+        
+        var imageDiv = document.createElement("div");
+        imageDiv.className="destination_images";
+        var image = document.createElement("img");
+        imageDiv.append(image);
 
         if (planItems[i].day === day) {
             name = planItems[i].entity.name;
@@ -85,20 +89,19 @@ create_plan = function(plan, day) {
                 entityTime.innerText = time + " am";
             else
                 entityTime.innerText = (hour - 12) + ":" + minutes + " pm";
-            image.src = get_image_url(name);
             numberOfStars = planItems[i].entity.rating;
+            image.src = planItems[i].entity.image_url;
         }
 
         if (numberOfStars != null) {
             horizontalSection.append(entityTime);
             horizontalSection.append(entityName);
             entityDetails.append(horizontalSection);
-            //entityDetails.append(image);
-            plan.append(horizontalSection);
-            plan.append(entityDetails);
+            entityDetails.append(starSection);
+            entityDetails.append(imageDiv);
+            planContents.append(entityDetails);
             for (var j = 0; j < 1; j++)
                 entityDetails.append(document.createElement("br"));
-            entityDetails.append(starSection);
             for (var j = 0; j < numberOfStars; j++) {
                 var starDiv = document.createElement("div");   
                 starDiv.style.float="left";
@@ -113,4 +116,4 @@ create_plan = function(plan, day) {
         }
 
     }
-}
+};

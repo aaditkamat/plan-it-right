@@ -43,17 +43,9 @@ h4 {
     background-color: lightblue;
     height: 12%;
 }
-#entityName {
-    float:left;
-}
-#entityTime {
-    padding-right: 4.5em;
-    float:left;
-    color: gray;
-    font-weight: normal;
-}
 
 .horizontal_section {
+    padding: 75px;
     margin: 32px;
     float:left;
     height: fit-content;
@@ -61,7 +53,7 @@ h4 {
 }
 
 .star_section {
-    margin-left: 16px;
+    margin-left: 95px;
     height: fit-content;
     width: fit-content;
 }
@@ -73,6 +65,35 @@ h4 {
 }
 
 .plan {
+    margin-top: 120px;
     overflow: hidden;
     width: 100%;
+}
+
+.plan_contents {
+    border-left: 7px solid black;
+}
+
+.destination_images {
+    margin-top: -130px;
+    margin-left: 350px;
+    width: 200px;
+    position: absolute;
+}
+
+.entity_details {
+    margin-left: 2em; 
+    height: fit-content;
+    width: fit-content;
+}
+
+.entity_name {
+    float:left;
+}
+
+.entity_time {
+    padding-right: 4.5em;
+    float:left;
+    color: gray;
+    font-weight: normal;
 }
