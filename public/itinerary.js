@@ -73,7 +73,14 @@ create_plan = function(planContents, day) {
         var starSection = document.createElement("div");
         starSection.className = "star_section";
         var numberOfStars = null;
-        
+
+        var circle = document.createElement("div");
+        circle.className="timeline_circle";
+        circle.innerHTML = `<svg height="100" width="100">
+        <circle cx="50" cy="50" r="10" stroke="black" stroke-width="3" fill="black" />
+        </svg>`;
+        circle.style = `margin-left: -115px; margin-top: -70px; position: absolute;`;
+
         var imageDiv = document.createElement("div");
         imageDiv.className="destination_images";
         var image = document.createElement("img");
@@ -99,6 +106,11 @@ create_plan = function(planContents, day) {
             entityDetails.append(horizontalSection);
             entityDetails.append(starSection);
             entityDetails.append(imageDiv);
+            entityDetails.append(circle);
+            entityDetails.addEventListener("click", function() {
+                var base_url = this.childNodes[0].childNodes[1].innerText;
+                window.open(base_url + ".html");
+            });
             planContents.append(entityDetails);
             for (var j = 0; j < 1; j++)
                 entityDetails.append(document.createElement("br"));
@@ -109,7 +121,7 @@ create_plan = function(planContents, day) {
                 var star = document.createElement("span");
                 star.innerHTML = "&starf;";
                 star.style.fontSize = "200%";
-                star.style.color="yellow";
+                star.style.color="orange";
                 starDiv.appendChild(star);
                 starSection.appendChild(starDiv);
             }

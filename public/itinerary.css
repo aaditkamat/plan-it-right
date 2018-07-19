@@ -14,7 +14,6 @@ h1 {
     color: black;   
     text-align: center;
     font-size: 40px;
-    padding: 16px;   
 }
 
 h2 {
@@ -45,7 +44,6 @@ h4 {
 }
 
 .horizontal_section {
-    padding: 75px;
     margin: 32px;
     float:left;
     height: fit-content;
@@ -53,7 +51,7 @@ h4 {
 }
 
 .star_section {
-    margin-left: 95px;
+    margin-left: 20px;
     height: fit-content;
     width: fit-content;
 }
@@ -64,9 +62,13 @@ h4 {
     display: table;
 }
 
+.timeline_circle {
+    height: fit-content;
+    width: fit-content;
+}
+
 .plan {
     margin-top: 120px;
-    overflow: hidden;
     width: 100%;
 }
 
@@ -75,16 +77,19 @@ h4 {
 }
 
 .destination_images {
-    margin-top: -130px;
-    margin-left: 350px;
+    margin-top: -70px;
+    margin-left: 270px;
     width: 200px;
     position: absolute;
 }
 
 .entity_details {
-    margin-left: 2em; 
-    height: fit-content;
-    width: fit-content;
+    align-content: center;
+    margin-left: 4em;
+    margin-top: 30px;
+    padding-bottom: 90px;
+    box-shadow: 1px 1px 1px 1px;
+    width: 815px;
 }
 
 .entity_name {
@@ -92,7 +97,6 @@ h4 {
 }
 
 .entity_time {
-    padding-right: 4.5em;
     float:left;
     color: gray;
     font-weight: normal;
