@@ -30,7 +30,7 @@ function attachSignin(element) {
             $.getScript("fs", function() {
                 alert("Script fs loaded but not necessarily executed");
             });
-            window.open('./trip.html', '_self');
+            window.open('./form.html', '_self');
         },
         function (error) {
             alert(JSON.stringify(error, undefined, 2));
