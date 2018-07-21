@@ -6,9 +6,6 @@
 html {
     height: fit-content;
 }
-text {
-    clear: right;
-}
 
 h1 {
     color: black;   
@@ -76,13 +73,6 @@ h4 {
     border-left: 7px solid black;
 }
 
-.destination_images {
-    margin-top: -70px;
-    margin-left: 270px;
-    width: 200px;
-    position: absolute;
-}
-
 .entity_details {
     align-content: center;
     margin-left: 4em;
@@ -94,10 +84,23 @@ h4 {
 
 .entity_name {
     float:left;
+    width: 400px;
+    height: 40px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 .entity_time {
     float:left;
     color: gray;
     font-weight: normal;
+}
+
+.destination_images {
+    margin-top: -70px;
+    margin-left: 270px;
+    width: 200px;
+    height: 150px;
+    position: absolute;
 }

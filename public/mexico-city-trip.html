@@ -93,12 +93,7 @@
         </div>
     </section>
 
-    <!-- Google Maps: If you want to google map, just uncomment below codes -->
-    <!--
-    <div class="map-area">
-        <div id="googleMap" class="googleMap"></div>
-    </div>
-    -->
+    <div id="map" class="googleMap"></div>
 
     <!-- ***** Footer Area Start ***** -->
     <footer class="footer-area">
@@ -148,12 +143,27 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
-    <!-- Google Maps: If you want to google map, just uncomment below codes -->
-    <!--
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwuyLRa1uKNtbgx6xAJVmWy-zADgegA2s"></script>
-    <script src="js/map-active.js"></script>
-    -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3q2jxEqqMAXtHTs5K0p6DyL2FumTkDes&libraries=places"></script>
+    <script>
+        function initMap() {
+            mapCenter = new google.maps.LatLng(-33.8617374,151.2021291);
+            map = new google.maps.Map(document.getElementById('map'), {
+            center: mapCenter,
+            zoom: 15
+            });
+            return map;
+        };
+        var map = initMap();
 
+        var dev_json_url = 'https://api.myjson.com/bins/kaxze';
+        xhr = new XMLHttpRequest();
+        dev_json = null;
+        var itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
+
+        xhr.open('GET', dev_json_url);
+        xhr.responseType = 'json';
+        xhr.send();
+    </script>
+    <script src="itinerary.js"></script>
 </body>
-<script src="itinerary.js"></script>
 </html>

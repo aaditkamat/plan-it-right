@@ -17,11 +17,11 @@
     <!-- Style CSS -->
     <link rel="stylesheet" href="style.css">
 
+    <link rel="stylesheet" href="dycalendar.min.css">
+
     <script src="loginStatus.js"></script>
 
     <script src="countries.js"></script>
-    
-    <script src="cities.js"></script>
     <style>
         #dropdown-button {
             font-family: '123CF' !important;
@@ -36,6 +36,16 @@
             -webkit-transform: translateY(-50%) rotate(180deg);
             color: #aaa;
         }
+        .calendar {
+            display: none;
+            margin-left: 360px;
+            width: fit-content;
+            height: fit-content;
+        }
+        .calendarIcon {
+            margin-left: 550px;
+            margin-top: -60px;
+        }
         .form-label {
             font-weight: bold;
         }
@@ -45,6 +55,16 @@
         }
     </style>
     <script src='https://www.google.com/recaptcha/api.js'></script>
+    <script>
+            var openFirstCalendar = function() {
+                var calendar = document.getElementById('dycalendar-month-with-skin-shadow');
+                calendar.style.display = "block";
+            }
+            var openSecondCalendar = function() {
+                var calendar = document.getElementById('secondCalendar');
+                calendar.style.display = "block";
+            }
+        </script>
 </head>
 
 <body>
@@ -135,6 +155,8 @@
                                 <div>
                                     <input name="departure" type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
                                 </div>
+                                <img class="calendarIcon" src="images/icons/calendar-icon.png" onclick="openFirstCalendar()">
+                                <div class="calendar" id="dycalendar-month-with-skin-shadow" class="dycalendar-container skin-green"></div>
                             </div>
                             <br>
                             <div>
@@ -143,6 +165,8 @@
                                 <div>
                                     <input name="return" type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
                                 </div>
+                                <img class="calendarIcon" src="images/icons/calendar-icon.png" onclick="openSecondCalendar()">
+                                <div class="calendar" id="secondCalendar" class="dycalendar-container"></div>
                             </div>
                             <br>
                             <div>
@@ -346,5 +370,21 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
+    <script src="dycalendar.min.js"></script>
+    <script>
+        dycalendar.draw({
+            target: '#dycalendar-month-with-skin-shadow',
+            type: 'month',
+            monthformat: "full",
+            prevnextbutton: 'show',
+            highlighttoday: true
+        });
+        dycalendar.draw({
+            target: '#secondCalendar',
+            type: 'month',
+            prevnextbutton: 'show',
+            highlighttoday: true
+        });
+    </script>
 </body>
 </html>

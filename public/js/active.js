@@ -155,7 +155,8 @@
         new WOW().init();
     }
 
-    /* Search Area */
+    /*
+     * Search Area 
     var search = document.getElementById('search'),
         searchWrapper = document.getElementById('search-wrapper'),
         closeIcon = document.getElementById('close-icon');
@@ -172,13 +173,13 @@
             closeIcon.classList.remove('closing');
             closeIcon.style.display = 'none';
         });
-    }
+    } 
     closeIcon.onclick = function () {
         this.classList.add('closing');
         document.activeElement.blur();
         setTimeout(function () {
             closeIcon.classList.remove('closing');
         }, 1000);
-    }
+    }*/
 
 })(jQuery);
