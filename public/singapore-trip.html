@@ -53,7 +53,7 @@
                                     <!-- @TODO use jquery below for saved trips -->
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                         <a class="dropdown-item" href="london-trip.html">London</a>
-                                        <a class="dropdown-item" href="mexico-city-trip.html">Mexico City</a>
+                                        <a class="dropdown-item" href="mexico city-trip.html">Mexico City</a>
                                         <a class="dropdown-item" href="singapore-trip.html">Singapore</a>
                                         <a class="dropdown-item" href="macau-trip.html">Macau</a>
                                     </div>

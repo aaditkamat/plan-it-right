@@ -21,7 +21,6 @@
 
     <script src="loginStatus.js"></script>
 
-    <script src="countries.js"></script>
     <style>
         #dropdown-button {
             font-family: '123CF' !important;
@@ -53,18 +52,13 @@
             float:left;
             width: 50%;
         }
+        .warning {
+            font-size: 12px;
+            color: red;
+            margin-left: 80px;
+        }
     </style>
     <script src='https://www.google.com/recaptcha/api.js'></script>
-    <script>
-            var openFirstCalendar = function() {
-                var calendar = document.getElementById('dycalendar-month-with-skin-shadow');
-                calendar.style.display = "block";
-            }
-            var openSecondCalendar = function() {
-                var calendar = document.getElementById('secondCalendar');
-                calendar.style.display = "block";
-            }
-        </script>
 </head>
 
 <body>
@@ -97,7 +91,7 @@
                                     <!-- @TODO use jquery below for saved trips -->
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                         <a class="dropdown-item" href="london-trip.html">London</a>
-                                        <a class="dropdown-item" href="mexico-city-trip.html">Mexico City</a>
+                                        <a class="dropdown-item" href="mexico city-trip.html">Mexico City</a>
                                         <a class="dropdown-item" href="singapore-trip.html">Singapore</a>
                                         <a class="dropdown-item" href="macau-trip.html">Macau</a>
                                     </div>
@@ -128,7 +122,6 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10 col-lg-8">
-                    <form method="get" action="itinerary.php">
                         <div class="page-content form-box">
                             <h1>Trip Details</h1>
                             <br>
@@ -138,10 +131,10 @@
                             </span>
                             <hr>
                             <div>
-                                <label class="form-label">Location</label>
+                                <label class="form-label" id="location-label">Location</label>
                                 <dt></dt>
                                 <div>
-                                    <input name="city" type="text" placeholder="City" style="float:left; margin-right: 15px; width: 284px; height: 34.8px;">
+                                    <input autocomplete="on"name="city" type="text" placeholder="City" style="float:left; margin-right: 15px; width: 284px; height: 34.8px;">
                                     <div>
                                         <select id="country_options" style="width:284px; height: 34.8px;"></select>
                                         <button id="dropdown-button"></button>
@@ -150,27 +143,27 @@
                             </div>
                             <br>
                             <div>
-                                <label class="form-label">Departure Date/Time</label>
+                                <label class="form-label" id="departure-label">Departure Date/Time</label>
                                 <dt></dt>
                                 <div>
-                                    <input name="departure" type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
+                                    <input name="departure" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
                                 </div>
-                                <img class="calendarIcon" src="images/icons/calendar-icon.png" onclick="openFirstCalendar()">
+                                <img class="calendarIcon" src="images/icons/calendar-icon.png">
                                 <div class="calendar" id="dycalendar-month-with-skin-shadow" class="dycalendar-container skin-green"></div>
                             </div>
                             <br>
                             <div>
-                                <label class="form-label">Return Date/Time</label>
+                                <label class="form-label" id="return-label">Return Date/Time</label>
                                 <dt></dt>
                                 <div>
-                                    <input name="return" type="text" placeholder="YYY/MM/DD" style="width: 584px;height: 34.8px;">
+                                    <input name="return" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
                                 </div>
-                                <img class="calendarIcon" src="images/icons/calendar-icon.png" onclick="openSecondCalendar()">
+                                <img class="calendarIcon" src="images/icons/calendar-icon.png">
                                 <div class="calendar" id="secondCalendar" class="dycalendar-container"></div>
                             </div>
                             <br>
                             <div>
-                                <label class="form-label">Number of guests/passengers</label>
+                                <label class="form-label" id="guests-label">Number of guests/passengers</label>
                                 <dt></dt>
                                 <div>
                                     <input name="guests" type="text" placeholder="*Please Select*" style="width: 584px;height: 34.8px;">
@@ -178,7 +171,7 @@
                             </div>
                             <br>
                             <div>
-                                <label class="form-label">Pace</label>
+                                <label class="form-label">Pace (Optional)</label>
                                 <dt></dt>
                                 <div>
                                     <div data-role="choice" data-size="third" style="float:left; margin-right: 45px;">
@@ -315,7 +308,6 @@
                             </div>   
                             <br>
                             <input style="margin-left:150px; height:46px;width:223.2px;background-color:#4c4c4c; color:#FFFFFF;" type="submit" value="Submit Booking Form" >
-                        </form>
                     </div>
                 </div>
             </div>
@@ -362,6 +354,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
     <!-- jQuery (Necessary for All JavaScript Plugins) -->
     <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <!-- Popper js -->
     <script src="js/popper.min.js"></script>
     <!-- Bootstrap js -->
@@ -370,7 +363,11 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
+    <!-- DyCalendar js-->
     <script src="dycalendar.min.js"></script>
+    <!-- Moment.js-->
+    <script src="vendor/daterangepicker/moment.min.js"></script>
+
     <script>
         dycalendar.draw({
             target: '#dycalendar-month-with-skin-shadow',
@@ -386,5 +383,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
             highlighttoday: true
         });
     </script>
+    <script src="cities.js"></script>
+    <script src="countries.js"></script>
+    <script src="form.js"></script>
 </body>
 </html>
