@@ -1,7 +1,32 @@
-xhr.onload = function() {
-    dev_json = xhr.response;
-    edit_main_text();
+var dev_json = null, img_json = null;
+const itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
+
+function initMap() {
+    const mapCenter = new google.maps.LatLng(-33.8617374,151.2021291);
+    const map = new google.maps.Map(document.getElementById('map'), {
+    center: mapCenter,
+    zoom: 15
+    });
+    return map;
 };
+const map = initMap();
+
+const firstXhr = new XMLHttpRequest();
+firstXhr.open('GET', dev_json_url);
+firstXhr.responseType = 'json';
+firstXhr.send();
+firstXhr.addEventListener('load', function() {
+    dev_json = firstXhr.response;
+    edit_main_text();
+});
+
+secondXhr = new XMLHttpRequest();
+secondXhr.open('GET', image_json_url);
+secondXhr.responseType = 'json';
+secondXhr.send();
+secondXhr.addEventListener('load', function() {
+    img_json = secondXhr.response;
+});
 
 edit_main_text = function() {
     for (var curr_day = 1; curr_day <= dev_json.daysCount; curr_day++) {
@@ -22,43 +47,70 @@ edit_main_text = function() {
 
 };
 
+var get_rating = (placeName) => { 
+    const planItems = dev_json.planItems;
+    for (let i = 0; i < planItems.length; i++) {
+        let regex = new RegExp(planItems[i].entity.name);
+        //console.log(i + " " + planItems[i].entity.name + " " + placeName + " " + regex.test(placeName) + " " + planItems[i].entity.rating);
+        if (regex.test(placeName)) {
+            return planItems[i].entity.rating;
+        }
+    }
+};
+
+
 get_destination_attributes = function(domObjects) {
     const service = new google.maps.places.PlacesService(map);
     const request = {
         address: domObjects[6].innerText,
         region: "sg"
     };
+    const starSection = domObjects[3];
+    const imageTag = domObjects[4];
+    imageTag.id = request.address;
+    imageTag.className= "destination_images";
+    let addStars = (rating, starSection) => {
+        for (let j = 0; j < rating; j++) {
+            const starDiv = document.createElement("div");   
+            starDiv.style.float="left";
+            starDiv.style.marginLeft="5px";
+            const star = document.createElement("span");
+            star.innerHTML = "&starf;";
+            star.style.fontSize = "200%";
+            star.style.color="orange";
+            starDiv.appendChild(star);
+            starSection.appendChild(starDiv);
+        }
+    };
+    let action = (starSection, status) => {
+        let item = img_json.find(function(item) {
+            return item.Name === request.address;
+        });
+        if (item != undefined)
+            imageTag.src = item.URL;
+        let rating = Math.round(get_rating(request.address));
+        addStars(rating, starSection);
+        console.log(request.address + ": " + status);
+    };
 
     function first_callback(places, status) {
         if (status === google.maps.places.PlacesServiceStatus.OK) {
-            //console.log(places);
-            var placeId = places[0].place_id;
+            const placeId = places[0].place_id;
             service.getDetails({placeId: placeId}, second_callback);
-            
             function second_callback(place, status) {
                 if (status === google.maps.places.PlacesServiceStatus.OK) {
-                    var imageTag = domObjects[4];
-                    imageTag.id = request.address;
-                    imageTag.className= "destination_images";
-                    imageTag.src =place.photos[0].getUrl({maxHeight: 300, maxWidth: 400});
-                    var starSection = domObjects[3];
-                    for (var j = 0; j < Math.round(place.rating); j++) {
-                        var starDiv = document.createElement("div");   
-                        starDiv.style.float="left";
-                        starDiv.style.marginLeft="5px";
-                        var star = document.createElement("span");
-                        star.innerHTML = "&starf;";
-                        star.style.fontSize = "200%";
-                        star.style.color="orange";
-                        starDiv.appendChild(star);
-                        starSection.appendChild(starDiv);
-                    }
+                    if (place.photos != undefined)
+                        imageTag.src = place.photos[0].getUrl({maxHeight: 300, maxWidth: 400});
+                    let rating = Math.round(place.rating);
+                    if (isNaN(rating))
+                        rating = Math.round(get_rating(imageTag.id));
+                    addStars(rating, starSection);
                 } else {
-                    console.log(request.address + ": " + status);
+                    action(starSection, status);
                 }
             }
         } else {
-            console.log(name + ": " + status);
+            action(starSection, status);
         }
     }
     const geocoder = new google.maps.Geocoder();
@@ -112,13 +164,13 @@ var handleDomObjects = function(domObjects) {
      * Unpackaging contents of the domObjects array into respective variables.
      */
     const horizontalSection = domObjects[0];
-    const  entityDetails = domObjects[1];
-    const  entityTime = domObjects[2];
-    const  starSection = domObjects[3];
-    const  image_tag = domObjects[4];
-    const  circle = domObjects[5];
-    const  entityName = domObjects[6];
-    const  planContents = domObjects[7];
+    const entityDetails = domObjects[1];
+    const entityTime = domObjects[2];
+    const starSection = domObjects[3];
+    const image_tag = domObjects[4];
+    const circle = domObjects[5];
+    const entityName = domObjects[6];
+    const planContents = domObjects[7];
 
     /**
      * Appending the DOM objects in the correct order.
@@ -127,7 +179,8 @@ var handleDomObjects = function(domObjects) {
     horizontalSection.append(entityName);
     entityDetails.append(horizontalSection);
     entityDetails.append(starSection);
-    entityDetails.append(image_tag);
+    if (entityName.innerText != "Lunch" && entityName.innerText != "Dinner")
+        entityDetails.append(image_tag);
     entityDetails.append(circle);
     //adding action upon clicking enittyDetails div in HTML
     entityDetails.addEventListener("click", function() {

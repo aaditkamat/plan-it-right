@@ -145,24 +145,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/active.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3q2jxEqqMAXtHTs5K0p6DyL2FumTkDes&libraries=places"></script>
     <script>
-        function initMap() {
-            mapCenter = new google.maps.LatLng(-33.8617374,151.2021291);
-            map = new google.maps.Map(document.getElementById('map'), {
-            center: mapCenter,
-            zoom: 15
-            });
-            return map;
-        };
-        var map = initMap();
-
-        var dev_json_url = 'https://api.myjson.com/bins/ufb9m';
-        xhr = new XMLHttpRequest();
-        dev_json = null;
-        var itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
-
-        xhr.open('GET', dev_json_url);
-        xhr.responseType = 'json';
-        xhr.send();
+        const dev_json_url = 'https://api.myjson.com/bins/ufb9m';
+        const image_json_url = 'https://api.myjson.com/bins/q4ka2';
     </script>
     <script src="itinerary.js"></script>
 </body>
