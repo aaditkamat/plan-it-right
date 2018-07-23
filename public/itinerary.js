@@ -51,7 +51,6 @@ var get_rating = (placeName) => {
     const planItems = dev_json.planItems;
     for (let i = 0; i < planItems.length; i++) {
         let regex = new RegExp(planItems[i].entity.name);
-        //console.log(i + " " + planItems[i].entity.name + " " + placeName + " " + regex.test(placeName) + " " + planItems[i].entity.rating);
         if (regex.test(placeName)) {
             return planItems[i].entity.rating;
         }
@@ -69,6 +68,8 @@ get_destination_attributes = function(domObjects) {
     const imageTag = domObjects[4];
     imageTag.id = request.address;
     imageTag.className= "destination_images";
+    var ctr = 0;
+    
     let addStars = (rating, starSection) => {
         for (let j = 0; j < rating; j++) {
             const starDiv = document.createElement("div");   
@@ -82,6 +83,7 @@ get_destination_attributes = function(domObjects) {
             starSection.appendChild(starDiv);
         }
     };
+
     let action = (starSection, status) => {
         let item = img_json.find(function(item) {
             return item.Name === request.address;
@@ -92,6 +94,64 @@ get_destination_attributes = function(domObjects) {
         addStars(rating, starSection);
         console.log(request.address + ": " + status);
     };
+
+    let addPopupContent = (place, popUpContent) => {
+        console.log(place);
+        let placeName = document.createElement('h1');
+        placeName.className = "place-name";
+        placeName.innerText = `${place.name}`;
+        let openingHours = document.createElement('h4');
+        openingHours.className ="opening-hours-label";
+        openingHours.innerText = "Opening Hours:";
+        let openingHoursDiv = document.createElement('div');
+        openingHoursDiv.className = "opening-hours-content";
+        let openNowLabel = document.createElement('h4'), openNowBox = document.createElement('div');;
+        openNowLabel.className ="open-today";
+        if ('opening_hours' in place && 'open_now' in place.opening_hours) {
+            const array = place.opening_hours.weekday_text, openNow = place.opening_hours.open_now;
+            for (let i = 0; i < array.length; i++)
+                openingHoursDiv.innerText += array[i] + "\n";
+            openNowLabel.innerText = `Open Now:`;
+            if (openNow)
+                openNowBox.style.color = "green";
+            else
+                openNowBox.style.color = "red";
+            openNowBox.innerText = openNow;
+            openNowBox.className = "open-now-box";
+        } 
+        let image = document.createElement('img');
+        if ('photos' in place) {
+            image.src = place.photos[1].getUrl({maxWidth: 600, maxHeight: 400});
+        }
+        popUpContent.append(image);
+        for (let i = 0; i < 3; i++)
+            popUpContent.append(document.createElement('br'));
+        popUpContent.append(placeName);
+        popUpContent.append(openingHours);
+        popUpContent.append(openingHoursDiv);
+        for (let i = 0; i < 2; i++)
+            popUpContent.append(document.createElement('br'));
+        popUpContent.append(openNowLabel);
+        popUpContent.append(openNowBox);
+    };
+
+    let createPopup = (place, ctr) => {
+        let popUp = document.createElement('div');
+        popUp.className = "popup";
+        let popUpContent = document.createElement('div');
+        popUpContent.className = "popup-content";
+        let closeButtonBox = document.createElement('div');
+        closeButtonBox.className = "close-button-box";
+        let closeButton = document.createElement('span');
+        closeButton.className = "close-button";
+        closeButton.id = "" + ctr;
+        closeButton.innerHTML = "&times;";
+        addPopupContent(place, popUpContent);  
+        closeButtonBox.append(closeButton);
+        popUpContent.append(closeButtonBox);
+        popUp.append(popUpContent);
+        document.body.append(popUp);
+    }
 
     function first_callback(places, status) {
         if (status === google.maps.places.PlacesServiceStatus.OK) {
@@ -105,6 +165,7 @@ get_destination_attributes = function(domObjects) {
                     if (isNaN(rating))
                         rating = Math.round(get_rating(imageTag.id));
                     addStars(rating, starSection);
+                    createPopup(place, ctr++);
                 } else {
                     action(starSection, status);
                 }
@@ -154,12 +215,12 @@ create_plan = function(planContents, curr_day, total_days) {
             </svg>`;
             var domObjects = [horizontalSection, entityDetails, entityTime, starSection, imageTag, circle, entityName, planContents];
             get_destination_attributes(domObjects);
-            handleDomObjects(domObjects);
+            handleDomObjects(domObjects, i);
         }
     }
 };
 
-var handleDomObjects = function(domObjects) {
+var handleDomObjects = function(domObjects, index) {
     /**
      * Unpackaging contents of the domObjects array into respective variables.
      */
@@ -184,9 +245,15 @@ var handleDomObjects = function(domObjects) {
     entityDetails.append(circle);
     //adding action upon clicking enittyDetails div in HTML
     entityDetails.addEventListener("click", function() {
-        const base_url = this.childNodes[0].childNodes[1].innerText;
-        const url_safe_data = encodeURI(JSON.stringify(dev_json));
-        window.open(base_url + ".html?=data=" + url_safe_data);
+            let popUp = document.getElementsByClassName('popup')[index];
+            let popUpContent = document.getElementsByClassName('popup-content')[index];
+            let closeButtonBox = document.querySelectorAll('div.close-button-box')[index];
+            console.log("Close Button Box: " + closeButtonBox);
+            closeButtonBox.addEventListener('click', function() {
+                popUp.style.display = "none";
+            });
+            if (popUp != undefined)
+                popUp.style.display="block";
     });
     planContents.append(entityDetails);
     //adding line break between each plan item
