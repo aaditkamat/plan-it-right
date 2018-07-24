@@ -1,3 +1,10 @@
+var controlCalendarDisplay = (calendar, calendarOpen) => {
+    if (calendarOpen === false)
+        calendar.style.display = "block";
+    else
+        calendar.style.display = "none";
+    calendarOpen = !calendarOpen;
+};
 
 /**
  * This function controls the display of calendar.
@@ -6,17 +13,10 @@ var displayCalendar = () => {
     var firstCalendarOpen = true, secondCalendarOpen = true;
     const firstCalendarIcon = document.querySelectorAll("img.calendarIcon")[0], secondCalendarIcon = document.querySelectorAll("img.calendarIcon")[1];
     const firstCalendar = document.getElementById('dycalendar-month-with-skin-shadow'), secondCalendar = document.getElementById('secondCalendar');
-    var controlCalendarDisplay = (calendar, calendarOpen) => {
-        if (calendarOpen === false)
-            calendar.style.display = "block";
-        else
-            calendar.style.display = "none";
-        calendarOpen = !calendarOpen;
-    }
     firstCalendarIcon.addEventListener("click", controlCalendarDisplay(firstCalendar, firstCalendarOpen));
     secondCalendarIcon.addEventListener("click", controlCalendarDisplay(secondCalendar, secondCalendarOpen));
 };
-displayCalendar();
+
 
 
 /**
@@ -30,17 +30,19 @@ var validateFormInput = () => {
         window.open(cityInput.value.toLowerCase() + "-trip.html");
     });
 };
-validateFormInput();
+
 
 var setRedBorder = (element) => {
     element.style.border="1px solid red";
 };
+
 var hasRedBorder = (element) => {
     return element.style.border === "1px solid red";
 };
+
 var unsetRedBorder = (element) => {
     element.style.border="";
-}
+};
 
 var checkDateFormat = (type) => {
     const input = document.querySelector(`input[name=${type}]`); 
@@ -121,4 +123,5 @@ var addWarning = (type, message) => {
     label.innerHTML+= `<span class="warning">${message}</span>`;
 };
 
-
+displayCalendar();
+validateFormInput();

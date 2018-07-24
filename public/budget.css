@@ -1,0 +1,28 @@
+.price-box {
+    box-shadow: 0 1px 15px rgba(12, 12, 20, 0.5);
+    height: 3000px;
+}
+#list-price {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    position: relative;
+    top: 100px;
+    right: 298px;
+    width: fit-content;
+    height: fit-content;
+    border-bottom: 4px solid black;
+}
+#total {
+    margin-left: -299px;
+    margin-top: 117px;
+}
+h1 {
+    padding-top: 50px;
+    text-decoration: underline;
+}
+h2 {
+    width: 815px;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
