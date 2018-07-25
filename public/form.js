@@ -3,21 +3,65 @@ var controlCalendarDisplay = (calendar, calendarOpen) => {
         calendar.style.display = "block";
     else
         calendar.style.display = "none";
-    calendarOpen = !calendarOpen;
+    return !calendarOpen;
 };
 
 /**
  * This function controls the display of calendar.
  */
 var displayCalendar = () => {
-    var firstCalendarOpen = true, secondCalendarOpen = true;
-    const firstCalendarIcon = document.querySelectorAll("img.calendarIcon")[0], secondCalendarIcon = document.querySelectorAll("img.calendarIcon")[1];
+    var firstCalendarOpen = false, secondCalendarOpen = false;
     const firstCalendar = document.getElementById('dycalendar-month-with-skin-shadow'), secondCalendar = document.getElementById('secondCalendar');
-    firstCalendarIcon.addEventListener("click", controlCalendarDisplay(firstCalendar, firstCalendarOpen));
-    secondCalendarIcon.addEventListener("click", controlCalendarDisplay(secondCalendar, secondCalendarOpen));
+    $('#firstCalendarIcon').on("click", function () {
+        console.log("1st Calendar Icon clicked");
+        firstCalendarOpen = controlCalendarDisplay(firstCalendar, firstCalendarOpen);
+    });
+    $('#secondCalendarIcon').on("click", function () {
+        console.log("2nd Calendar Icon clicked");
+        secondCalendarOpen = controlCalendarDisplay(secondCalendar, secondCalendarOpen);
+    });
 };
 
+var handleClickCalendar = () => {
+    let getHeader = (element) => {
+        for (let i = 0; i < 4; i++)
+            element = element.parentNode;
+        return element.previousSibling;
+    };
 
+    let isDeparture = (element) => {
+        while (element.className !== 'calendar')
+            element = element.parentNode;
+        while (element.className !== 'form-label')
+            element = element.previousSibling;
+        return element.id.includes('departure');
+    };
+
+    let parse = (num) => {
+        if (num < 10)
+            return '0' + num;
+        else
+            return num;
+    };
+
+    let getDateFormat = (headerJSON, element) => {
+        return headerJSON.year + "/" + parse(headerJSON.month + 1) + "/" + parse(element.innerText);
+    };
+
+    var departureInput = document.getElementsByName('departure')[0],
+        returnInput = document.getElementsByName('return')[0];
+    $("td").on("click", function () {
+        let header = getHeader(this);
+        let dateFormat = getDateFormat(JSON.parse(header.getAttribute('data-option')), this);
+        console.log(dateFormat);
+        if (isDeparture(this)) {
+            departureInput.value = dateFormat;
+        }
+        else {
+            returnInput.value = dateFormat;
+        }
+    });
+};
 
 /**
  * This function validates the form input.
@@ -114,7 +158,7 @@ var checkLocation = (cityInput, countryInput) => {
 
 var removeRedundantWarning = (type) => {
     const label = document.querySelector(`.form-label#${type}-label`);
-    if (label.childNodes[1] != undefined)
+    if (label.childNodes[1] !== undefined)
         label.removeChild(label.childNodes[1]);
 };
 
@@ -124,4 +168,5 @@ var addWarning = (type, message) => {
 };
 
 displayCalendar();
+handleClickCalendar();
 validateFormInput();

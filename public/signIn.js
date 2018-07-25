@@ -1,13 +1,3 @@
-var json_url = 'https://planitright.herokuapp.com/status.json', googleUser = {}, data = {};
-request = new XMLHttpRequest();
-
-request.open('GET', json_url);
-request.responseType = 'json';
-request.send();
-request.onload = function() {
-    data = request.response;
-}
-
 var startApp = function () {
     gapi.load('auth2', function () {
         // Retrieve the singleton for the GoogleAuth library and set up the client.
@@ -22,15 +12,13 @@ var startApp = function () {
 };
 
 function attachSignin(element) {
-    console.log("Element info: " + element);
+    console.log(auth2.isSignedIn.get());
     auth2.attachClickHandler(element, {},
         function (googleUser) {
-            console.log("Signed in: " + googleUser.getBasicProfile().getName());
-            data.googleSignIn = true;
-            $.getScript("fs", function() {
-                alert("Script fs loaded but not necessarily executed");
-            });
-            window.open('./form.html', '_self');
+            console.log(googleUser.getBasicProfile().getEmail());
+            setInterval(function () {
+                window.open('./form.html', '_self');
+            }, 6000);
         },
         function (error) {
             alert(JSON.stringify(error, undefined, 2));
