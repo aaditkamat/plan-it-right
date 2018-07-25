@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title  -->
-    <title>Plan It Right &amp; Trip Details</title>
+    <title>Trip Form</title>
 
     <!-- Favicon  -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -22,9 +22,6 @@
     <link rel="stylesheet" href="form.css">
 
     <script src="loginStatus.js"></script>
-
-    <script src='https://www.google.com/recaptcha/api.js'></script>
-</head>
 
 <body>
     <!-- Preloader Start -->
@@ -52,7 +49,9 @@
                                     <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Saved Trips</a> 
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Featured
+                                        Trips</a>
                                     <!-- @TODO use jquery below for saved trips -->
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                         <a class="dropdown-item" href="london-trip.html">London</a>
@@ -62,13 +61,15 @@
                                     </div>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="featured-trips.html">Featured Trips</a>
-                                </li>
-                                <li class="nav-item">
                                     <a class="nav-link" href="about.html">About Us</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="contact.html">Contact Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <div class="nav-link">
+                                        Sign Out
+                                    </div>
                                 </li>
                             </ul>
                         </div>
@@ -299,7 +300,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     <div class="footer-single-widget">
                         <ul class="footer-menu d-flex justify-content-between">
                             <li><a href="index.html">Home</a></li>
-                            <li><a href="featured-trips.html">Featured Trips</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
                             <li><a href="about.html">About Us</a></li>
                         </ul>
@@ -353,5 +353,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="cities.js"></script>
     <script src="countries.js"></script>
     <script src="form.js"></script>
+    <script src="https://apis.google.com/js/platform.js?onload=initClient" async defer></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    </head>
 </body>
 </html>

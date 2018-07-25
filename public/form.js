@@ -13,11 +13,9 @@ var displayCalendar = () => {
     var firstCalendarOpen = false, secondCalendarOpen = false;
     const firstCalendar = document.getElementById('dycalendar-month-with-skin-shadow'), secondCalendar = document.getElementById('secondCalendar');
     $('#firstCalendarIcon').on("click", function () {
-        console.log("1st Calendar Icon clicked");
         firstCalendarOpen = controlCalendarDisplay(firstCalendar, firstCalendarOpen);
     });
     $('#secondCalendarIcon').on("click", function () {
-        console.log("2nd Calendar Icon clicked");
         secondCalendarOpen = controlCalendarDisplay(secondCalendar, secondCalendarOpen);
     });
 };
@@ -53,7 +51,6 @@ var handleClickCalendar = () => {
     $("td").on("click", function () {
         let header = getHeader(this);
         let dateFormat = getDateFormat(JSON.parse(header.getAttribute('data-option')), this);
-        console.log(dateFormat);
         if (isDeparture(this)) {
             departureInput.value = dateFormat;
         }
@@ -166,6 +163,7 @@ var addWarning = (type, message) => {
     const label = document.querySelector(`.form-label#${type}-label`);
     label.innerHTML+= `<span class="warning">${message}</span>`;
 };
+
 
 displayCalendar();
 handleClickCalendar();
