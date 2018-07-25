@@ -4,6 +4,7 @@
 // init project
 const express = require('express');
 const  app = express();
+const path = require('path');
 
 //from the php-express docs: https://www.npmjs.com/package/php-express
 var phpExpress = require('php-express')({
@@ -24,22 +25,22 @@ app.all(/.+\.php$/, phpExpress.router);
 // but feel free to use whatever libs or frameworks you'd like through `package.json`.
 
 // http://expressjs.com/en/starter/static-files.html
-app.use(express.static(__dirname+'/public'));
+app.use(express.static(path.join(__dirname, 'public')));
 
 // http://expressjs.com/en/starter/basic-routing.html
 app.get('/', function(request, response) {
-  response.sendFile(__dirname + '/views/index.html');
+    response.sendFile(path.join(__dirname, 'views/index.html'));
 });
 
 // listen for requests :)
+// eslint-disable-next-line no-process-env
  var listener = app.listen(process.env.PORT || 3000, function () {
   console.log('PHPExpress app is listening on port ' + listener.address().port);
 }); 
 
 /*
- * function to create a https server on Node 
- */
-var createHTTPSServer = function() {
+ //function to create a https server on Node
+var createHTTPSServer = () => {
   var https = require('https');
   var fs = require('fs');
 
@@ -51,7 +52,8 @@ var createHTTPSServer = function() {
   };
 
   https.createServer(options, app).listen(3000);
-};
+}; */
+
 
 
 

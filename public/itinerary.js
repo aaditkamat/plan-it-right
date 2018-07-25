@@ -25,16 +25,17 @@ secondXhr.addEventListener("load", function() {
     img_json = secondXhr.response;
 });
 
-var addContent = function() {
+var addContent;
+addContent = function () {
     document.title = dev_json.name.split(" in ")[1] + " Trip Itinerary";
     for (curr_day = 1; curr_day <= dev_json.daysCount; curr_day += 1) {
         const plan = document.createElement("div");
-        plan.className= "plan";
+        plan.className = "plan";
         const planContents = document.createElement("div");
         planContents.className = "plan_contents";
-        itinerary_area.append(plan); 
+        itinerary_area.append(plan);
         if (curr_day === 1) {
-          plan.style = "margin-top:120px;";
+            plan.style = "margin-top:120px;";
         }
         itinerary_area.append(document.createElement("br"));
         const dayText = document.createElement("h2");
@@ -47,17 +48,9 @@ var addContent = function() {
     getPrice.className = "get-price";
     getPrice.value = "Get estimate price for the whole trip";
     getPrice.addEventListener("click", () => {
-        var budgetWindow = window.open('budget.html');
-        $.postMessage(
-            'hello world',
-            'http://benalman.com/test.html',
-            parent
-          );
-        console.log(budgetWindow.location.href);
-        window.addEventListener("message", function(event) {
-            console.log(event);
-        });
-    })
+        localStorage.setItem('data', JSON.stringify(dev_json));
+        window.open('budget.html');
+    });
     document.querySelector(".justify-content-center").append(getPrice);
 };
 
@@ -260,14 +253,13 @@ var createPlan = (planContents, curr_day) => {
         const imageTag = document.createElement("img");
 
         if (planItems[i].day === curr_day) {
-            const name = planItems[i].entity.name;
-            entityName.innerText = name;
+            entityName.innerText = planItems[i].entity.name;
             const time = planItems[i].startTime;
             const hour = parseInt(time.split(":")[0]); 
             const minutes = time.split(":")[1];
             if (hour >= 0 && hour <= 11)
                 entityTime.innerText = time + " am";
-            else if (hour == 12)
+            else if (hour === 12)
                 entityTime.innerText = time + " pm";
             else 
                 entityTime.innerText = (hour - 12) + ":" + minutes + " pm";
@@ -310,7 +302,7 @@ var handleDomObjects = (domObjects) => {
     horizontalSection.append(entityTime);
     horizontalSection.append(entityName);
     entityDetails.append(horizontalSection);
-    if (entityName.innerText != "Lunch" && entityName.innerText != "Dinner") {
+    if (entityName.innerText !== "Lunch" && entityName.innerText !== "Dinner") {
         entityDetails.append(starSection);
         entityDetails.append(image_tag);
     }
@@ -321,7 +313,6 @@ var handleDomObjects = (domObjects) => {
             popUp.style.display="block";
             console.log(this.childNodes[2].id + " clicked and popup is: " + popUp);
             if (popUp !== undefined) {
-                let popUpContent = popUp.childNodes[0];
                 $(".close-button").on("click", function() {
                     console.log("Close button clicked");
                     popUp.style.display = "none";
