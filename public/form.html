@@ -21,7 +21,7 @@
 
     <link rel="stylesheet" href="form.css">
 
-    <script src="loginStatus.js"></script>
+    <!-- <script src="loginStatus.js"></script> -->
 
 <body>
     <!-- Preloader Start -->
@@ -117,7 +117,7 @@
                                     <input name="departure" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
                                 </div>
                                 <img class="calendarIcon" id="firstCalendarIcon" src="images/icons/calendar-icon.png">
-                                <div class="calendar" id="dycalendar-month-with-skin-shadow"></div>
+                                <div class="calendar" id="firstCalendar"></div>
                             </div>
                             <br>
                             <div>
@@ -142,27 +142,12 @@
                                 <label class="form-label">Pace (Optional)</label>
                                 <dt></dt>
                                 <div>
-                                    <div data-role="choice" data-size="third" style="float:left; margin-right: 45px;">
-                                        <label data-role="choice" id="radio-000000100">
-                                            <input type="radio" id="00000010_0" name="c_00000010" value="Slow &amp; Relaxed" data-index="0" data-role="i123-input">
-                                            <label data-role="radio" for="00000010_0" aria-labelledby="radio-000000100" role="radio"></label>
-                                            <span data-role="option-text" data-i18n-text="control_label_42193614_choice_0" data-skip-markdown="true">Slow &amp; Relaxed</span>
-                                        </label>
-                                    </div>
-                                    <div data-role="choice" data-size="third" style="float:left; margin-right: 45px;">
-                                        <label data-role="choice" id="radio-000000100">
-                                            <input type="radio" id="00000010_0" name="c_00000010" value="Slow &amp; Relaxed" data-index="0" data-role="i123-input">
-                                            <label data-role="radio" for="00000010_0" aria-labelledby="radio-000000100" role="radio"></label>
-                                            <span data-role="option-text" data-i18n-text="control_label_42193614_choice_0" data-skip-markdown="true">Medium &amp; Chilled</span>
-                                        </label>
-                                    </div>
-                                    <div data-role="choice" data-size="third">
-                                        <label data-role="choice" id="radio-000000100">
-                                            <input type="radio" id="00000010_0" name="c_00000010" value="Slow &amp; Relaxed" data-index="0" data-role="i123-input">
-                                            <label data-role="radio" for="00000010_0" aria-labelledby="radio-000000100" role="radio"></label>
-                                            <span data-role="option-text" data-i18n-text="control_label_42193614_choice_0" data-skip-markdown="true">Fast &amp; Energetic</span>
-                                        </label>
-                                    </div>
+                                    <input type="radio" name="colors" id="slow-relaxed" value="Slow & Relaxed">&ensp;&ensp;Slow
+                                    &amp; Relaxed&ensp;&ensp;&ensp;&ensp;
+                                    <input type="radio" name="colors" id="medium-chilled" value="Medium & Chilled">&ensp;&ensp;Medium
+                                    &amp; Chilled&ensp;&ensp;&ensp;&ensp;
+                                    <input type="radio" name="colors" value="Fast & Energetic">&ensp;&ensp;Fast &amp;
+                                    Energetic&ensp;&ensp;&ensp;&ensp;
                                 </div>
                             </div>
                             <br>
@@ -337,7 +322,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
     <script>
         dycalendar.draw({
-            target: '#dycalendar-month-with-skin-shadow',
+            target: '#firstCalendar',
             type: 'month',
             monthformat: "full",
             prevnextbutton: 'show',
@@ -355,6 +340,5 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="form.js"></script>
     <script src="https://apis.google.com/js/platform.js?onload=initClient" async defer></script>
     <script src='https://www.google.com/recaptcha/api.js'></script>
-    </head>
 </body>
 </html>

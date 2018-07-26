@@ -1,5 +1,4 @@
-var data = JSON.parse(localStorage.data);
-//console.log(data);
+var data = JSON.parse(sessionStorage.data);
 var priceJSON = get_prices();
 
 function get_prices() {
@@ -34,5 +33,4 @@ createPriceItems = () => {
     document.querySelector('#total ul h3').innerText += ` $${sumPrices.toFixed(2)}`;
 };
 
-console.log(priceJSON);
 createPriceItems();

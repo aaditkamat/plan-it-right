@@ -11,7 +11,8 @@ var controlCalendarDisplay = (calendar, calendarOpen) => {
  */
 var displayCalendar = () => {
     var firstCalendarOpen = false, secondCalendarOpen = false;
-    const firstCalendar = document.getElementById('dycalendar-month-with-skin-shadow'), secondCalendar = document.getElementById('secondCalendar');
+    const firstCalendar = document.querySelector('#firstCalendar'),
+        secondCalendar = document.querySelector('#secondCalendar');
     $('#firstCalendarIcon').on("click", function () {
         firstCalendarOpen = controlCalendarDisplay(firstCalendar, firstCalendarOpen);
     });
@@ -53,9 +54,11 @@ var handleClickCalendar = () => {
         let dateFormat = getDateFormat(JSON.parse(header.getAttribute('data-option')), this);
         if (isDeparture(this)) {
             departureInput.value = dateFormat;
+            controlCalendarDisplay(document.querySelector('#firstCalendar'), true);
         }
         else {
             returnInput.value = dateFormat;
+            controlCalendarDisplay(document.querySelector('#secondCalendar'), true);
         }
     });
 };
@@ -64,12 +67,8 @@ var handleClickCalendar = () => {
  * This function validates the form input.
  */
 var validateFormInput = () => {
-    const submitButton = document.querySelector(`input[value="Submit Booking Form"]`);
     const cityInput = document.querySelector('input[name=city]'), countryInput = document.getElementById('country_options');
-    submitButton.addEventListener("click", function() {
-    if (checkLocation(cityInput, countryInput) && checkDeparture() && checkReturn() && checkGuests())
-        window.open(cityInput.value.toLowerCase() + "-trip.html");
-    });
+    return checkLocation(cityInput, countryInput) && checkDeparture() && checkReturn() && checkGuests();
 };
 
 
@@ -164,7 +163,35 @@ var addWarning = (type, message) => {
     label.innerHTML+= `<span class="warning">${message}</span>`;
 };
 
+var sendData = () => {
+    $(`[value='Submit Booking Form']`).on('click', function () {
+        var formOptions = {
+            city: '',
+            country: '',
+            departure: '',
+            return: '',
+            guests: '',
+            pace: '',
+            additionalDetails: []
+        };
+        formOptions.city = document.querySelector(`[name=city]`).value;
+        formOptions.country = document.querySelector(`#country_options`).value;
+        formOptions.departure = document.querySelector(`[name=departure]`).value;
+        formOptions.return = document.querySelector(`[name=return]`).value;
+        formOptions.guests = document.querySelector(`[name=guests]`).value;
+        formOptions.pace = Array.from(document.querySelectorAll('input[type=radio]')).find((ele) => ele.checked === true).value;
+        let checkBoxes = document.querySelectorAll('input[type=checkbox]');
+        for (let i = 0; i < checkBoxes.length; i++) {
+            if (checkBoxes[i].checked)
+                formOptions.additionalDetails.push(checkBoxes[i].getAttribute("data-value"));
+        }
+        sessionStorage.clear();
+        sessionStorage.setItem('formOptions', JSON.stringify(formOptions));
+        if (validateFormInput())
+            window.open(formOptions.city.toLowerCase() + "-trip.html");
+    });
+};
 
 displayCalendar();
 handleClickCalendar();
-validateFormInput();
+sendData();

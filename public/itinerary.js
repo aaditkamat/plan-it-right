@@ -48,7 +48,8 @@ addContent = function () {
     getPrice.className = "get-price";
     getPrice.value = "Get estimate price for the whole trip";
     getPrice.addEventListener("click", () => {
-        localStorage.setItem('data', JSON.stringify(dev_json));
+        sessionStorage.clear();
+        sessionStorage.setItem('data', JSON.stringify(dev_json));
         window.open('budget.html');
     });
     document.querySelector(".justify-content-center").append(getPrice);

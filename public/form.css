@@ -7,6 +7,9 @@ div.nav-link {
     font-size: 14px;
 }
 
+input[type=radio] {
+
+}
 div.nav-link:hover {
     cursor: pointer;
 }
