@@ -1,8 +1,3 @@
-/* var json_url = "https://api.myjson.com/bins/rwjfy";
-const request = new XMLHttpRequest();
-request.open('GET', json_url);
-request.response = 'json';
-request.send(); */
 const data = [ { city: "Singapore",country: "Singapore"}, {city: "Macau", country: "China"}, {city: "London", country: "England"}, {city: "Mexico City", country: "Mexico"}];
 var array = [];
 var dropdown = document.getElementById("country_options");

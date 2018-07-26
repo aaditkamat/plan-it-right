@@ -11,5 +11,7 @@
     <orderEntry type="library" name="api:client" level="application" />
     <orderEntry type="library" name="api" level="application" />
     <orderEntry type="library" name="jquery-ui" level="application" />
+    <orderEntry type="library" name="jquery-ui" level="application" />
+    <orderEntry type="library" name="api:client" level="application" />
   </component>
 </module>
