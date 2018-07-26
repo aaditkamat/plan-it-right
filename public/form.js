@@ -132,9 +132,9 @@ var checkGuests = () => {
 var checkLocation = (cityInput, countryInput) => {
     let cityOptionSelected = false, cityOptionSelectedCorrectly = false;
     for (let i = 0; i < data.length; i++) {
-        if (cityInput.value === data[i].city) {
+        if (cityInput.value.toLowerCase() === data[i].city.toLowerCase()) {
             cityOptionSelected = true;
-            if (countryInput.value === data[i].country)
+            if (countryInput.value.toLowerCase() === data[i].country.toLowerCase())
                 cityOptionSelectedCorrectly = true;
         }
     }
