@@ -25,8 +25,22 @@ secondXhr.addEventListener("load", function() {
     img_json = secondXhr.response;
 });
 
-var addContent;
-addContent = function () {
+var addButton = (className, value, json, redirect_url) => {
+    var button = document.createElement("input");
+    button.className = className;
+    button.value = value;
+    button.addEventListener("click", () => {
+        sessionStorage.clear();
+        sessionStorage.setItem('data', JSON.stringify(json));
+        window.open(redirect_url);
+    });
+    document.querySelector(".justify-content-center").append(button);
+};
+
+var addContent = function () {
+    let combineJSON = (firstJSON, secondJSON) => {
+        return {first: firstJSON, second: secondJSON};
+    };
     document.title = dev_json.name.split(" in ")[1] + " Trip Itinerary";
     for (curr_day = 1; curr_day <= dev_json.daysCount; curr_day += 1) {
         const plan = document.createElement("div");
@@ -44,15 +58,8 @@ addContent = function () {
         plan.append(planContents);
         createPlan(planContents, curr_day);
     }
-    var getPrice = document.createElement("input");
-    getPrice.className = "get-price";
-    getPrice.value = "Get estimate price for the whole trip";
-    getPrice.addEventListener("click", () => {
-        sessionStorage.clear();
-        sessionStorage.setItem('data', JSON.stringify(dev_json));
-        window.open('budget.html');
-    });
-    document.querySelector(".justify-content-center").append(getPrice);
+    addButton("get-price", "Get estimate price for the whole trip", dev_json, "budget.html");
+    addButton("get-calendar", "Get calendar for the trip", combineJSON(dev_json, JSON.parse(sessionStorage.getItem('formOptions'))), "calendar.html");
 };
 
 var getAttribute = (placeName, attribute) => {
