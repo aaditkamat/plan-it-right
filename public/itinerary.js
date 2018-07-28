@@ -13,7 +13,7 @@ firstXhr.open("GET", dev_json_url);
 firstXhr.responseType = "json";
 firstXhr.send();
 firstXhr.addEventListener("load", function() {
-    dev_json = firstXhr.response;
+    dev_json = this.response;
     addContent();
 });
 
@@ -22,7 +22,7 @@ secondXhr.open("GET", image_json_url);
 secondXhr.responseType = "json";
 secondXhr.send();
 secondXhr.addEventListener("load", function() {
-    img_json = secondXhr.response;
+    img_json = this.response;
 });
 
 var addButton = (className, value, json, redirect_url) => {

@@ -1,4 +1,14 @@
-const data = [ { city: "Singapore",country: "Singapore"}, {city: "Macau", country: "China"}, {city: "London", country: "England"}, {city: "Mexico City", country: "Mexico"}];
+const data = [{city: "Singapore", country: "Singapore"},
+    {city: "Naypyidaw", country: "Myanmar"},
+    {city: "Ho Chi Minh", country: "Vietnam"},
+    {city: "Kuala Lampur", country: "Malaysia"},
+    {city: "Phnom Penh", country: "Cambodia"},
+    {city: "Bangkok", country: "Thailand"},
+    {city: "Vientiane", country: "Laos"},
+    {city: "Manila", country: "Philippines"},
+    {city: "Jakarta", country: "Indonesia"},
+    {city: "Bandar Seri Bagwan", country: "Brunei"},
+];
 var array = [];
 var dropdown = document.getElementById("country_options");
 for (var i = 0; i < data.length; i++)

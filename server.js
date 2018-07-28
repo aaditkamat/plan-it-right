@@ -3,7 +3,7 @@
 
 // init project
 const express = require('express');
-const  app = express();
+const app = express();
 const path = require('path');
 
 //from the php-express docs: https://www.npmjs.com/package/php-express
@@ -36,24 +36,7 @@ app.get('/', function(request, response) {
 // eslint-disable-next-line no-process-env
  var listener = app.listen(process.env.PORT || 3000, function () {
   console.log('PHPExpress app is listening on port ' + listener.address().port);
-}); 
-
-/*
- //function to create a https server on Node
-var createHTTPSServer = () => {
-  var https = require('https');
-  var fs = require('fs');
-
-  //This line is from the Node.js HTTPS documentation.
-  var options = {
-    key: fs.readFileSync('public/key.pem'),
-    cert: fs.readFileSync('public/cert.pem'),
-    passphrase:'BearGryllsAndFedererFTW12@'
-  };
-
-  https.createServer(options, app).listen(3000);
-}; */
-
+ });
 
 
 

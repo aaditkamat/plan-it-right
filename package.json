@@ -25,7 +25,8 @@
     "nightmare": "^3.0.1",
     "openssl": "^1.1.0",
     "php-express": "0.0.3",
-    "shuffle-array": "^1.0.1"
+    "shuffle-array": "^1.0.1",
+    "xmlhttprequest": "^1.8.0"
   },
   "engines": {
     "node": "8.x"
