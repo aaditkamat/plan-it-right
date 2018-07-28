@@ -188,7 +188,7 @@ var sendData = () => {
         sessionStorage.clear();
         sessionStorage.setItem('formOptions', JSON.stringify(formOptions));
         if (validateFormInput())
-            window.open(formOptions.city.toLowerCase() + "-trip.html");
+            window.open('result.html');
     });
 };
 

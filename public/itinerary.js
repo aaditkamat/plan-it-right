@@ -1,6 +1,7 @@
 /*jslint for:true*/
 var dev_json = null;
 var img_json = null;
+var test_json = null;
 const itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
 
 const map = new google.maps.Map(document.getElementById("map"), {
@@ -8,14 +9,14 @@ const map = new google.maps.Map(document.getElementById("map"), {
     zoom: 15
     });
 
-const firstXhr = new XMLHttpRequest();
+/*const firstXhr = new XMLHttpRequest();
 firstXhr.open("GET", dev_json_url);
 firstXhr.responseType = "json";
 firstXhr.send();
 firstXhr.addEventListener("load", function() {
     dev_json = this.response;
     addContent();
-});
+});*/
 
 secondXhr = new XMLHttpRequest();
 secondXhr.open("GET", image_json_url);
@@ -23,7 +24,12 @@ secondXhr.responseType = "json";
 secondXhr.send();
 secondXhr.addEventListener("load", function() {
     img_json = this.response;
+    $.getJSON('demo.json', (data) => {
+        test_json = data;
+        addContent();
+    });
 });
+
 
 var addButton = (className, value, json, redirect_url) => {
     var button = document.createElement("input");
@@ -37,12 +43,44 @@ var addButton = (className, value, json, redirect_url) => {
     document.querySelector(".justify-content-center").append(button);
 };
 
+var createPlan = (planContents, curr_day, placeName) => {
+    const planItems = test_json;
+    let ctr = 1;
+    for (let i = 0; i < planItems.length; i++) {
+        const entityDetails = document.createElement("div");
+        entityDetails.className = "entity_details";
+        const horizontalSection = document.createElement("div");
+        horizontalSection.className = "horizontal_section";
+        const entityName = document.createElement("h3");
+        entityName.className = "entity_name";
+        const entityTime = document.createElement("h4");
+        entityTime.className = "entity_time";
+        const starSection = document.createElement("div");
+        starSection.className = "star_section";
+        const circle = document.createElement("div");
+        circle.className = "timeline_circle";
+        circle.style = `margin-left: -115px; margin-top: -70px; position: absolute;`;
+        const imageTag = document.createElement("img");
+        if (planItems[i].day === curr_day && planItems[i].city === placeName) {
+            entityName.innerText = planItems[i].name;
+            entityTime.innerText = planItems[i].time;
+            circle.innerHTML = `<svg height="100" width="100">
+            <circle cx="50" cy="50" r="10" stroke="black" stroke-width="3" fill="black" />
+            <text fill="#ffffff" font-size="10" font-family="Verdana" x="48" y="54">${ctr++}</text>
+            </svg>`;
+            var domObjects = [horizontalSection, entityDetails, entityTime, starSection, imageTag, circle, entityName, planContents];
+            getDestinationAttributes(domObjects);
+            handleDomObjects(domObjects);
+        }
+    }
+};
+
 var addContent = function () {
     let combineJSON = (firstJSON, secondJSON) => {
         return {first: firstJSON, second: secondJSON};
     };
-    document.title = dev_json.name.split(" in ")[1] + " Trip Itinerary";
-    for (curr_day = 1; curr_day <= dev_json.daysCount; curr_day += 1) {
+    document.title = JSON.parse(sessionStorage.getItem("formOptions")).city + " Trip Itinerary";
+    for (curr_day = 1; curr_day <= 5; curr_day += 1) {
         const plan = document.createElement("div");
         plan.className = "plan";
         const planContents = document.createElement("div");
@@ -56,17 +94,17 @@ var addContent = function () {
         dayText.innerText = "Day " + curr_day;
         plan.append(dayText);
         plan.append(planContents);
-        createPlan(planContents, curr_day);
+        createPlan(planContents, curr_day, document.title.split(" Trip ")[0]);
     }
     addButton("get-price", "Get estimate price for the whole trip", dev_json, "budget.html");
-    addButton("get-calendar", "Get calendar for the trip", combineJSON(dev_json, JSON.parse(sessionStorage.getItem('formOptions'))), "calendar.html");
+    addButton("get-calendar", "Get calendar for the trip", combineJSON(test_json, JSON.parse(sessionStorage.getItem('formOptions'))), "calendar.html");
 };
 
 var getAttribute = (placeName, attribute) => {
-    const planItems = dev_json.planItems;
+    const planItems = test_json;
     for (i = 0; i < planItems.length; i++) {
-        if (placeName === planItems[i].entity.name) {
-            return planItems[i].entity[`${attribute}`];
+        if (placeName === planItems[i].name) {
+            return planItems[i][`${attribute}`];
         }
     } 
 };
@@ -241,46 +279,7 @@ var getDestinationAttributes = function(domObjects) {
     geocoder.geocode(request, first_callback);
 };
 
-var createPlan = (planContents, curr_day) => {
-    const planItems = dev_json.planItems;
-    let ctr = 1;
-    for (let i = 0; i < planItems.length; i++) {
-        const entityDetails = document.createElement("div");
-        entityDetails.className = "entity_details";
-        const horizontalSection = document.createElement("div");
-        horizontalSection.className = "horizontal_section";
-        const entityName = document.createElement("h3");
-        entityName.className = "entity_name";
-        const entityTime = document.createElement("h4");
-        entityTime.className= "entity_time"; 
-        const starSection = document.createElement("div");
-        starSection.className = "star_section";
-        const circle = document.createElement("div");
-        circle.className="timeline_circle";
-        circle.style = `margin-left: -115px; margin-top: -70px; position: absolute;`;
-        const imageTag = document.createElement("img");
 
-        if (planItems[i].day === curr_day) {
-            entityName.innerText = planItems[i].entity.name;
-            const time = planItems[i].startTime;
-            const hour = parseInt(time.split(":")[0]); 
-            const minutes = time.split(":")[1];
-            if (hour >= 0 && hour <= 11)
-                entityTime.innerText = time + " am";
-            else if (hour === 12)
-                entityTime.innerText = time + " pm";
-            else 
-                entityTime.innerText = (hour - 12) + ":" + minutes + " pm";
-            circle.innerHTML = `<svg height="100" width="100">
-            <circle cx="50" cy="50" r="10" stroke="black" stroke-width="3" fill="black" />
-            <text fill="#ffffff" font-size="10" font-family="Verdana" x="48" y="54">${ctr++}</text>
-            </svg>`;
-            var domObjects = [horizontalSection, entityDetails, entityTime, starSection, imageTag, circle, entityName, planContents];
-            getDestinationAttributes(domObjects);
-            handleDomObjects(domObjects);
-        }
-    }
-};
 
 var handleDomObjects = (domObjects) => {
     /**

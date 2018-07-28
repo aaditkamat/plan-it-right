@@ -1,7 +1,7 @@
 const data = [{city: "Singapore", country: "Singapore"},
     {city: "Naypyidaw", country: "Myanmar"},
     {city: "Ho Chi Minh", country: "Vietnam"},
-    {city: "Kuala Lampur", country: "Malaysia"},
+    {city: "Kuala Lumpur", country: "Malaysia"},
     {city: "Phnom Penh", country: "Cambodia"},
     {city: "Bangkok", country: "Thailand"},
     {city: "Vientiane", country: "Laos"},
