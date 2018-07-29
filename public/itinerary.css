@@ -166,13 +166,16 @@ h4 {
 }
 
 .get-calendar,
-.get-price {
+.get-trip {
     margin-top: 50px;
     height: 46px;
     width: 320.2px;
     background-color: #4c4c4c;
     color: #FFFFFF;
     text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 15px;
+    line-height: 3;
 }
 
 .get-calendar {

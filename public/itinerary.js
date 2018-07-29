@@ -1,32 +1,22 @@
 /*jslint for:true*/
-var dev_json = null;
-var img_json = null;
 var test_json = null;
-const itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
+itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
 
-
-
-secondXhr = new XMLHttpRequest();
-secondXhr.open("GET", image_json_url);
-secondXhr.responseType = "json";
-secondXhr.send();
-secondXhr.addEventListener("load", function() {
-    img_json = this.response;
-    $.getJSON('demo.json', (data) => {
-        test_json = data;
-        addContent();
-    });
+$.getJSON('demo.json', (data) => {
+    test_json = data;
+    addContent();
 });
 
-
 var addButton = (className, value, json, redirect_url) => {
-    var button = document.createElement("input");
+    var button = document.createElement("a");
     button.className = className;
-    button.value = value;
+    button.innerText = value;
+    button.style = "color: white";
     button.addEventListener("click", () => {
         sessionStorage.clear();
-        sessionStorage.setItem('data', JSON.stringify(json));
-        window.open(redirect_url);
+        if (typeof json === 'object')
+            sessionStorage.setItem('data', JSON.stringify(json));
+        button.href = redirect_url;
     });
     document.querySelector(".justify-content-center").append(button);
 };
@@ -67,7 +57,8 @@ var addContent = function () {
     let combineJSON = (firstJSON, secondJSON) => {
         return {first: firstJSON, second: secondJSON};
     };
-    document.title = JSON.parse(sessionStorage.getItem("formOptions")).city + " Trip Itinerary";
+    let city = JSON.parse(sessionStorage.getItem("formOptions")).city;
+    document.title = city + " Trip Itinerary";
     for (curr_day = 1; curr_day <= 5; curr_day += 1) {
         const plan = document.createElement("div");
         plan.className = "plan";
@@ -84,7 +75,7 @@ var addContent = function () {
         plan.append(planContents);
         createPlan(planContents, curr_day, document.title.split(" Trip ")[0]);
     }
-    addButton("get-price", "Get estimate price for the whole trip", dev_json, "budget.html");
+    addButton("get-trip", "Get a downloadable copy of the trip", city, `country_data/${city.toLowerCase()}.html`);
     addButton("get-calendar", "Get calendar for the trip", combineJSON(test_json, JSON.parse(sessionStorage.getItem('formOptions'))), "calendar.html");
 };
 
@@ -103,18 +94,6 @@ var getRating = (placeName) => {
 
 var getReviews = (placeName) => {
     return getAttribute(placeName, 'reviewsCount');
-};
-
-var getImageURL = (placeName) => {
-    for (let i = 0; i < img_json.length; i++) {
-        if (placeName.includes(img_json[i].Name)) {
-            console.log(`Image URL retrieved for: ${img_json[i].Name}`);
-            return img_json[i].URL;
-        }
-        else {
-            console.log(`Image URL is not for: ${img_json[i].Name}`);
-        }
-    }
 };
 
 var getDestinationAttributes = function(domObjects) {
@@ -150,11 +129,7 @@ var getDestinationAttributes = function(domObjects) {
     };
 
     let action = (starSection, status) => {
-        let item = img_json.find(function(item) {
-            return item.Name.includes(request.address);
-        });
-        if (item !== undefined)
-            imageTag.src = item.URL;
+        imageTag.src = '';
         let rating = Math.round(getRating(request.address));
         let reviews = getReviews(request.address);
         addRating(reviews, rating, starSection);
@@ -190,8 +165,6 @@ var getDestinationAttributes = function(domObjects) {
             } 
             if ('photos' in place && place.photos.length > 2) 
                 image.src = place.photos[2].getUrl({maxWidth: 600, maxHeight: 400});
-            else
-                image.src = getImageURL(`${place.name}`);
         }
         else {
             placeName.innerText = `${place}`;
@@ -236,8 +209,6 @@ var getDestinationAttributes = function(domObjects) {
         if (status === google.maps.places.PlacesServiceStatus.OK) {
             if (place.photos !== undefined)
                 imageTag.src = place.photos[0].getUrl({maxHeight: 300, maxWidth: 400});
-            else
-                imageTag.src = getImageURL(place.name);
             let rating = Math.round(place.rating);
             if (isNaN(rating)) 
                 rating = Math.round(getRating(imageTag.id));

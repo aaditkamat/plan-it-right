@@ -25,6 +25,7 @@
     "nightmare": "^3.0.1",
     "openssl": "^1.1.0",
     "php-express": "0.0.3",
+    "print-js": "^1.0.47",
     "shuffle-array": "^1.0.1",
     "xmlhttprequest": "^1.8.0"
   },

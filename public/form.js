@@ -179,7 +179,9 @@ var sendData = () => {
         formOptions.departure = document.querySelector(`[name=departure]`).value;
         formOptions.return = document.querySelector(`[name=return]`).value;
         formOptions.guests = document.querySelector(`[name=guests]`).value;
-        formOptions.pace = Array.from(document.querySelectorAll('input[type=radio]')).find((ele) => ele.checked === true).value;
+        const foundElement = Array.from(document.querySelectorAll('input[type=radio]')).find((ele) => ele.checked === true);
+        if (foundElement !== undefined)
+            formOptions.pace = foundElement.value;
         let checkBoxes = document.querySelectorAll('input[type=checkbox]');
         for (let i = 0; i < checkBoxes.length; i++) {
             if (checkBoxes[i].checked)
