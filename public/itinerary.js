@@ -4,19 +4,7 @@ var img_json = null;
 var test_json = null;
 const itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
 
-const map = new google.maps.Map(document.getElementById("map"), {
-    center: new google.maps.LatLng(-33.8617374,151.2021291),
-    zoom: 15
-    });
 
-/*const firstXhr = new XMLHttpRequest();
-firstXhr.open("GET", dev_json_url);
-firstXhr.responseType = "json";
-firstXhr.send();
-firstXhr.addEventListener("load", function() {
-    dev_json = this.response;
-    addContent();
-});*/
 
 secondXhr = new XMLHttpRequest();
 secondXhr.open("GET", image_json_url);
@@ -87,7 +75,7 @@ var addContent = function () {
         planContents.className = "plan_contents";
         itinerary_area.append(plan);
         if (curr_day === 1) {
-            plan.style = "margin-top:120px;";
+            plan.style = "margin-top: 76px;";
         }
         itinerary_area.append(document.createElement("br"));
         const dayText = document.createElement("h2");
@@ -297,6 +285,7 @@ var handleDomObjects = (domObjects) => {
         let popUps = document.querySelectorAll('.popup');
         for (var i = 0; i < popUps.length; i++) {
             if (popUps[i].childNodes[0].childNodes.length > 1) {
+                console.log(entityName.innerText + " " + popUps[i].childNodes[0].childNodes[5].innerText);
                 if (entityName.innerText.includes(popUps[i].childNodes[0].childNodes[5].innerText))
                     return popUps[i];
             }
