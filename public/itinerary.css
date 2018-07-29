@@ -1,14 +1,9 @@
-.page-heading {
-    position: absolute;
-    width: fit-content;
-    height: fit-content;
-}
 html {
     height: fit-content;
 }
 
 h1 {
-    color: black;   
+    color: black;
     text-align: center;
     font-size: 40px;
 }

@@ -7,7 +7,7 @@ const data = [{city: "Singapore", country: "Singapore"},
     {city: "Vientiane", country: "Laos"},
     {city: "Manila", country: "Philippines"},
     {city: "Jakarta", country: "Indonesia"},
-    {city: "Bandar Seri Bagwan", country: "Brunei"},
+    {city: "Bandar Seri Begawan", country: "Brunei"},
 ];
 var array = [];
 var dropdown = document.getElementById("country_options");
