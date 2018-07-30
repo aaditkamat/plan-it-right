@@ -1,6 +1,6 @@
 Welcome to [PlanItRight](https://planitright.herokuapp.com/)
 =================
-
+(click on link above for redirecting to our application)
 
 Project Summary 
 =================
