@@ -141,8 +141,12 @@ var checkLocation = (cityInput, countryInput) => {
     removeRedundantWarning('location');
     if (!cityOptionSelected || !cityOptionSelectedCorrectly) {
         setRedBorder(cityInput);
-        if (!cityOptionSelected) 
-            addWarning('location', 'City Option must be filled');
+        if (!cityOptionSelected) {
+            if (cityInput.value === '')
+                addWarning('location', 'City Option must be filled');
+            else
+                addWarning('location', 'The name of the city entered does not exist in our database');
+        }
         else
             addWarning('location', 'Selected city and country do not match');
     }
