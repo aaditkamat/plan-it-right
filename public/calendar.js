@@ -2,16 +2,23 @@ scheduler.init("scheduler_here", new Date(), "month");
 var data = JSON.parse(sessionStorage.getItem('data')), planItems = data.first, events = [];
 document.title = data.second.city + " Trip Calendar";
 var getLengthOfTrip = (data) => {
-    return moment.duration(moment(data.return).diff(data.departure)).days() + 1;
+    if (data.return !== '' && data.departure !== '')
+        return moment.duration(moment(data.return).diff(data.departure)).days() + 1;
+    else
+        return 5;
 };
 for (let i = 0; i < planItems.length; i++) {
     if (planItems[i].city === data.second.city && planItems[i].day <= getLengthOfTrip(data.second)) {
-        var event = {id: 0, text: "", start_date: "", end_date: ""};
+        var event = {id: 0, text: "", start_date: "", end_date: ""}, startDate;
         event.id = i + 1;
         event.text = planItems[i].name;
-        if (data.second !== null)
-            var startDate = data.second.departure, year = startDate.split("/")[0], month = startDate.split("/")[1],
-                day = startDate.split("/")[2];
+        if (data.second !== null) {
+            if (data.second.departure !== '')
+                startDate = data.second.departure;
+            else
+                startDate = moment().format('YYYY/MM/DD');
+            var year = startDate.split("/")[0], month = startDate.split("/")[1], day = startDate.split("/")[2];
+        }
         else
             startDate = data.first.startDate, year = startDate.split("-")[0], month = startDate.split("-")[1],
                 day = startDate.split("-")[2];
