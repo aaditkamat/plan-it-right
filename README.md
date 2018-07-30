@@ -20,7 +20,6 @@ On the back-end,
 - safely store app secrets in `.env` (nobody can see this but you and people you invite)
 
 
-Made by [Fog Creek](https://fogcreek.com/)
+Made by [Aadit Kamat](https://github.com/aaditkamat) and [Rahul Baid](https://github.com/rahulb99) 
 -------------------
-
-\ ゜o゜)ノ
+We created this project as a part of the team 'SnapFinish' for Orbital 2018.
