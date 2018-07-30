@@ -1,0 +1,550 @@
+/**/_xdc_._rwsdxh && _xdc_._rwsdxh( {
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6V9XLiJRCTERR69ROyijbyk",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiTNL6DxRCTERJNyUlmp4KbM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgcitREhRCTER4yn3weXqIcQ",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJoW47EUFRCTERtA6ya2BDOzE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 11.5703699,
+               "lng" : 104.9294927
+            },
+            "southwest" : {
+               "lat" : 11.5494876,
+               "lng" : 104.9178799
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1159
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 335
+               },
+               "end_address" : "95 Preah Sihanouk Blvd (274), Phnom Penh, Cambodia",
+               "end_location" : {
+                  "lat" : 11.5559062,
+                  "lng" : 104.9198869
+               },
+               "start_address" : "St 113, Phnom Penh, Cambodia",
+               "start_location" : {
+                  "lat" : 11.5494876,
+                  "lng" : 104.9179203
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 11.5508322,
+                        "lng" : 104.9178799
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eSt 113\u003c/b\u003e toward \u003cb\u003eSt 330\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iwneA_xj_Sk@@mB?qBD"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5494876,
+                        "lng" : 104.9179203
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 371
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 105
+                     },
+                     "end_location" : {
+                        "lat" : 11.5510237,
+                        "lng" : 104.9212778
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSt 310\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u_oeAwwj_SI}G?KGoFSmC"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5508322,
+                        "lng" : 104.9178799
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 549
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 138
+                     },
+                     "end_location" : {
+                        "lat" : 11.5558473,
+                        "lng" : 104.920634
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 3rd cross street onto \u003cb\u003ePreah Monivong Blvd (93)\u003c/b\u003e/\u003cb\u003eAH1\u003c/b\u003e/\u003cb\u003eNR1\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{`oeA_mk_SCMuBP{BPyBP_CRE?yBRqAHi@DyE`@"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5510237,
+                        "lng" : 104.9212778
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 11.5559062,
+                        "lng" : 104.9198869
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePreah Sihanouk Blvd (274)\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a_peA}hk_SO@?PB~B"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5558473,
+                        "lng" : 104.920634
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 km",
+                  "value" : 2750
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 729
+               },
+               "end_address" : "Preah Ang Eng St. (13), Phnom Penh, Cambodia",
+               "end_location" : {
+                  "lat" : 11.5670503,
+                  "lng" : 104.9291302
+               },
+               "start_address" : "95 Preah Sihanouk Blvd (274), Phnom Penh, Cambodia",
+               "start_location" : {
+                  "lat" : 11.5559062,
+                  "lng" : 104.9198869
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 11.5558818,
+                        "lng" : 104.9191872
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003ePreah Sihanouk Blvd (274)\u003c/b\u003e toward \u003cb\u003eOknha Nou Kan Street (St. 105)\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m_peAidk_SDjC"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5559062,
+                        "lng" : 104.9198869
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 958
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 306
+                     },
+                     "end_location" : {
+                        "lat" : 11.5560873,
+                        "lng" : 104.9278901
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eOknha Nou Kan Street (St. 105)\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "g_peA}_k_SN?GmGAQIgNCgCA}@CiBAq@IcGCi@Gw@C{F"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5558818,
+                        "lng" : 104.9191872
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 511
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 11.5595441,
+                        "lng" : 104.9273171
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003ePreah Norodom Blvd (41)\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "q`peAivl_S@ABCBEBG@GBIBMAWAEAGAEAEACCKCC?AAAA?EGGCECICICGAEAE?G?E?G?G@EBI@IDEBGDKJEFEFCFAHAF?H@Hg@^cBXmBb@C?yAXm@LkCb@"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5560873,
+                        "lng" : 104.9278901
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 258
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : {
+                        "lat" : 11.5604646,
+                        "lng" : 104.9294927
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOknha Chhun St (240)\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cvpeAwrl_SK_@IY_@gAy@eCQi@u@_C"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5595441,
+                        "lng" : 104.9273171
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 613
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 129
+                     },
+                     "end_location" : {
+                        "lat" : 11.5655303,
+                        "lng" : 104.9272917
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePreah Ang Yukanthor Street (19)\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{{peAi`m_SkEtAkDhAuBp@sFhB{CdAiAZ]LOJ"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5604646,
+                        "lng" : 104.9294927
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 243
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 11.5662752,
+                        "lng" : 104.9293874
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003ePreah Ang Eng St (13)\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "q{qeAqrl_SuCcL"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5655303,
+                        "lng" : 104.9272917
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "91 m",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 11.5670503,
+                        "lng" : 104.9291302
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003ePreah Ang Eng St (13)\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g`reAu_m_SeCl@SD"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5662752,
+                        "lng" : 104.9293874
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1467
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 459
+               },
+               "end_address" : "28 Kampuchea Krom Blvd (128), Phnom Penh, Cambodia",
+               "end_location" : {
+                  "lat" : 11.5694732,
+                  "lng" : 104.9202354
+               },
+               "start_address" : "Preah Ang Eng St. (13), Phnom Penh, Cambodia",
+               "start_location" : {
+                  "lat" : 11.5670503,
+                  "lng" : 104.9291302
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 11.5685264,
+                        "lng" : 104.9286154
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003ePreah Ang Eng St (13)\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aereAa~l_Ss@P}A^uCr@"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5670503,
+                        "lng" : 104.9291302
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 405
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 129
+                     },
+                     "end_location" : {
+                        "lat" : 11.5677037,
+                        "lng" : 104.9249936
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003ePreah Norodom Blvd (41)\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "inreA{zl_Sj@`ETxADVb@~CXpB^nC"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5685264,
+                        "lng" : 104.9286154
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 300
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 11.5702944,
+                        "lng" : 104.9242366
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePreah Norodom Blvd (41)\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cireAedl_SuAV{B`@a@H{Bd@uCj@"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5677037,
+                        "lng" : 104.9249936
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 264
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : 11.5697946,
+                        "lng" : 104.9219555
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKhemarak Phoumin Ave (130)\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iyreAo_l_SE@G@A@FXb@|B\\lBb@fDDR"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5702944,
+                        "lng" : 104.9242366
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "63 m",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 11.570353,
+                        "lng" : 104.9218662
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCalmette St (53)\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "evreAgqk_SoBP"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5697946,
+                        "lng" : 104.9219555
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 11.5701364,
+                        "lng" : 104.9201693
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePrey Nokor St (126)\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uyreAupk_SABAB?D?F@TRpCJvADj@@FBH"
+                     },
+                     "start_location" : {
+                        "lat" : 11.570353,
+                        "lng" : 104.9218662
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 11.5694732,
+                        "lng" : 104.9202354
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSamdach Sang Neayok Srey St (67)\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kxreAafk_SF@D@D?pBQ"
+                     },
+                     "start_location" : {
+                        "lat" : 11.5701364,
+                        "lng" : 104.9201693
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iwneA_xj_SyC@qBDI}GG{FW{CkNhA{Fb@iFb@BpCDjCN?I_HSwWKuHKaBA}FFILg@Gk@KYIKa@O[C[Da@PQRINAd@g@^cBXqBb@gCf@kCb@K_@i@aBkAoDu@_CkEtAaHzBoKnDgBh@OJuCcLyCr@qCp@uCr@j@`EZpB|@pG^nCuAV}Cj@_HtADZ`AjFh@zDoBPABAH@\\f@|GBHF@J@pBQ"
+         },
+         "summary" : "St 310 and AH1/NR1",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1 ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

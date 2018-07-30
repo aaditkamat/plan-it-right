@@ -1,0 +1,1264 @@
+/**/_xdc_._585m5w && _xdc_._585m5w( {
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJb1BfcwH2aS4RI46oqOTHh8s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJS6U8xtT1aS4RcookyP1UlQ4",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFzVNlW7xaS4RUU-FvoOCXEQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJffUqtSH0aS4RBNnwMMXpGx8",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -6.1330884,
+               "lng" : 106.8235674
+            },
+            "southwest" : {
+               "lat" : -6.245919,
+               "lng" : 106.7980514
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "7.4 km",
+                  "value" : 7379
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1315
+               },
+               "end_address" : "Gedung Gajah, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",
+               "end_location" : {
+                  "lat" : -6.176448799999999,
+                  "lng" : 106.822349
+               },
+               "start_address" : "Jl. Asemka No.30, RT.3/RW.6, Kota Tua, Pinangsia, Tamansari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia",
+               "start_location" : {
+                  "lat" : -6.1386124,
+                  "lng" : 106.8132553
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "58 m",
+                        "value" : 58
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : -6.138484699999999,
+                        "lng" : 106.8137487
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eJl. Asemka\u003c/b\u003e toward \u003cb\u003ePasar Pagi Flyover\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "h}md@{}|jSCO?M?OI_@?CAA?CAAAAAACC"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1386124,
+                        "lng" : 106.8132553
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 382
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : -6.136838099999999,
+                        "lng" : 106.8118419
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Pintu Besar Utara\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Museum Bank Indonesia (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "n|md@}`}jSI?E@E?C@E?E@G@C?C@C?K?wA^_@Ji@LOBiAR{@LA@A?A@A@A@?@p@vDNbAAL"
+                     },
+                     "start_location" : {
+                        "lat" : -6.138484699999999,
+                        "lng" : 106.8137487
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 336
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -6.1341651,
+                        "lng" : 106.8110225
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eJl. Kali Besar Barat\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by RM Salero Minang - Masakan Padang (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "frmd@_u|jS@?@??@@?@??@@??@@??@?@@??@?@@??@?@?@?@A@?@A??@A??@A??@A?A??@A?A?A?A@?AA?A?A?MHM?Q?Q?QBeALq@J]FiGhAYF"
+                     },
+                     "start_location" : {
+                        "lat" : -6.136838099999999,
+                        "lng" : 106.8118419
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 409
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : -6.1330884,
+                        "lng" : 106.8145532
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJl. Kali Besar Timur 3\u003c/b\u003e/\u003cb\u003eJl. Kunir\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Jl. Kunir\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Pos Indonesia (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pamd@{o|jSG[YwAg@kCG[UkACM_@}AUe@[_BQ{@Gk@"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1341651,
+                        "lng" : 106.8110225
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : -6.134623599999999,
+                        "lng" : 106.8149468
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJl. Kemukus\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "xzld@}e}jSVANCrCi@`AQNCb@I"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1330884,
+                        "lng" : 106.8145532
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 115
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : -6.134989,
+                        "lng" : 106.8139801
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJl. Ketumbar\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "jdmd@mh}jS|@rDBFFD"
+                     },
+                     "start_location" : {
+                        "lat" : -6.134623599999999,
+                        "lng" : 106.8149468
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 308
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : -6.1376002,
+                        "lng" : 106.814089
+                     },
+                     "html_instructions" : "\u003cb\u003eJl. Ketumbar\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eJalan Lada\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by BNI (on the left)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "tfmd@kb}jSLBL?jAS^GrCe@zAWTLNLDHHFLFLDD@x@@"
+                     },
+                     "start_location" : {
+                        "lat" : -6.134989,
+                        "lng" : 106.8139801
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -6.138035299999999,
+                        "lng" : 106.8142126
+                     },
+                     "html_instructions" : "\u003cb\u003eJalan Lada\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eJalan Stasiun Kota\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~vmd@ac}jSvAW"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1376002,
+                        "lng" : 106.814089
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "78 m",
+                        "value" : 78
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : -6.1386429,
+                        "lng" : 106.8138859
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eJalan Stasiun Kota\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "vymd@yc}jSB?B?B?B@B?D?B@B@B?B@RLHDD@LHZV"
+                     },
+                     "start_location" : {
+                        "lat" : -6.138035299999999,
+                        "lng" : 106.8142126
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 467
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : -6.1426813,
+                        "lng" : 106.8150413
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Pintu Besar Selatan\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "n}md@ya}jS^CdBa@zCo@xCm@lIwA\\I"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1386429,
+                        "lng" : 106.8138859
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.8 km",
+                        "value" : 2791
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 488
+                     },
+                     "end_location" : {
+                        "lat" : -6.1670738,
+                        "lng" : 106.8208552
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eJl. Hayam Wuruk\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Alfamart (on the left in 1.0&nbsp;km)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "vvnd@_i}jSJCdAWhAUdCi@f@K~@S^ILCvBa@bAU\\GzA[NChBYPCVCXC|@Of@G|@OtAWz@KNCXCJC\\ELAb@G`AORE`Cc@PCz@M`@GHAjAQNEdC]PC`@IFCHAf@I`BQ^GTAVEdBQJElG}@LChAI|AQf@GfAMhAYl@MtCc@tEk@PEt@KPCNCj@K|@KVERC`AQd@I`Eg@~BQrB[XEb@ILCJCPCTGJCDAFADAHCLCb@G`AKVEh@EhAMd@GrC]fAK"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1426813,
+                        "lng" : 106.8150413
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 554
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : -6.1712051,
+                        "lng" : 106.8229209
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eJl. Majapahit\u003c/b\u003e (signs for \u003cb\u003eJend. Sudirman\u003c/b\u003e/\u003cb\u003eThamrin\u003c/b\u003e)",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "dosd@km~jSz@Q|@]v@K|IeAd@GD?NAFAF?PAHAFADApAy@FEDEBCDEBEDEBGBGDGBIDIBIFSHYDO@C@G@G@C@E?E@G@I"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1670738,
+                        "lng" : 106.8208552
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1044
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 149
+                     },
+                     "end_location" : {
+                        "lat" : -6.180483700000001,
+                        "lng" : 106.8230944
+                     },
+                     "html_instructions" : "\u003cb\u003eJl. Majapahit\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eJl. Medan Merdeka Barat\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "`itd@gz~jSVKFK?A@A@A@A@A@A@ADA@?FCFAJCDAFAD?D@b@?b@@nMRnAB|EDt@@`RJ\\@J?L@@?P?H?F?D?@?B?NAzB]"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1712051,
+                        "lng" : 106.8229209
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 553
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : -6.176675299999999,
+                        "lng" : 106.8227167
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit and stay on \u003cb\u003eJl. Medan Merdeka Barat\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Gedung Sapta Pesona (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "~bvd@i{~jSDADAF?DAD@F?D@D@@?@@@?@@@@@?@@?@@??@@??@@@?@DH@F@F?FAFAFAFCDA@?@?@A??@A@A@EBEBE@EBG?E@G?GAA?AAC?AACAA?AACAK?G@E?o@?]AS?[?i@C_AEqGGwEE"
+                     },
+                     "start_location" : {
+                        "lat" : -6.180483700000001,
+                        "lng" : 106.8230944
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "57 m",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -6.176448799999999,
+                        "lng" : 106.822349
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "fkud@_y~jSAd@?B?BABAB?@CBCBCBA?A@A@A?A?C@C?E?C?"
+                     },
+                     "start_location" : {
+                        "lat" : -6.176675299999999,
+                        "lng" : 106.8227167
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 km",
+                  "value" : 10249
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1657
+               },
+               "end_address" : "Jl. Melawai IV No.19-23, RT.4/RW.2, Melawai, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160, Indonesia",
+               "end_location" : {
+                  "lat" : -6.2449001,
+                  "lng" : 106.8014079
+               },
+               "start_address" : "Gedung Gajah, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",
+               "start_location" : {
+                  "lat" : -6.176448799999999,
+                  "lng" : 106.822349
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "53 m",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : -6.17626,
+                        "lng" : 106.8227211
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eJl. Medan Merdeka Barat\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "xiud@uv~jSC?C?A?A?CACAA??ACCAAAAAA?CAA?AAA?C?CAC?C?C?E?U"
+                     },
+                     "start_location" : {
+                        "lat" : -6.176448799999999,
+                        "lng" : 106.822349
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 206
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : -6.1744102,
+                        "lng" : 106.8227809
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Medan Merdeka Barat\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the park (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "rhud@_y~jScAAoA?}EI"
+                     },
+                     "start_location" : {
+                        "lat" : -6.17626,
+                        "lng" : 106.8227211
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 709
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : -6.180483700000001,
+                        "lng" : 106.8230944
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eJl. Medan Merdeka Barat\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "`}td@ky~jS@y@nAB|EDt@@`RJ\\@J?L@@?P?H?F?D?@?B?NAzB]"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1744102,
+                        "lng" : 106.8227809
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1556
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 262
+                     },
+                     "end_location" : {
+                        "lat" : -6.194356099999999,
+                        "lng" : 106.8232477
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eJl. M.H. Thamrin\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Wisma Mandiri (on the left in 400&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "~bvd@i{~jSDADAF?DAD@F?D@D@@?@@@?@@@@@?@@?@@??@@??@@@?@F@@@B?B?B@B?@?@?@?@?N?vCGlBG`DIXAjBE`@AhBEbBED?`@?RAV?n@?P?V@`@?N?@?~ADt@@\\@nBDR@H?J?H@B?P?P@jA@bDBtAApBAb@Fl@J`@Dd@D`@?`@CNIZOXE`CElDAfCCB?B?B?J?FAB?@?B?BA@?BAB?BABAHE"
+                     },
+                     "start_location" : {
+                        "lat" : -6.180483700000001,
+                        "lng" : 106.8230944
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : -6.1945784,
+                        "lng" : 106.8233715
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eJl. M.H. Thamrin\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "vyxd@i|~jSj@W"
+                     },
+                     "start_location" : {
+                        "lat" : -6.194356099999999,
+                        "lng" : 106.8232477
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.9 km",
+                        "value" : 3944
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 447
+                     },
+                     "end_location" : {
+                        "lat" : -6.2233584,
+                        "lng" : 106.8073402
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eJl. Jend. Sudirman\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Mandarin Oriental, Jakarta (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "b{xd@a}~jSJMLINGPENAP?NBF@D@DBD@DBBBDBBBBBBB@BBD@BBB@B@F`@JD@F?X@lDIbECtAAb@?V?n@?DAf@?hCCZ?TAjA@v@@bABt@Fv@Dv@Jx@Lf@FRDb@FvAXTBPD@?NB@?H@LBvC^vBLP@D@zBJd@BZBdGZfAFt@Fj@Dt@Fp@JfARnBh@`Bl@nAf@ND`Bp@bA`@bE~AbA`@bCpADBB@z@f@z@n@p@f@PNh@b@d@`@`@d@FF@BJLLL~JtMPT?@|AzBjAzAFJBDHN`@d@lD|Ev@bALRBBVZVZJL?@TZp@`Ar@bA`CfDX^^d@HJj@v@`@h@LRnHrKRZZr@"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1945784,
+                        "lng" : 106.8233715
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1121
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 173
+                     },
+                     "end_location" : {
+                        "lat" : -6.2296027,
+                        "lng" : 106.7995359
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eJl. Jend. Sudirman\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Halte Busway Gelora Bung Karno (on the right)\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "~n~d@{x{jSnAxBhGfKhD~EbB`CPTX\\v@bAlCdEHLVb@RVfBbCZ`@^`@NJJJD@RFVHH?B?VBVLLL@@@BB@@B@@@B@B@@"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2233584,
+                        "lng" : 106.8073402
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1174
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 249
+                     },
+                     "end_location" : {
+                        "lat" : -6.239803999999999,
+                        "lng" : 106.7984964
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eJl. Sisingamangaraja\u003c/b\u003e, follow signs for \u003cb\u003eB\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by National Land Agency of the Republic of Indonesia (on the left in 950&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "~u_e@chzjS@@@@@@@B@DBHBJFHBBLPVPRLb@RhBp@JB`@J^FbAJz@F|AA|@CxA@~CAdFAhD?zDAvC?H?jE?V?~D@Z?"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2296027,
+                        "lng" : 106.7995359
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 689
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 161
+                     },
+                     "end_location" : {
+                        "lat" : -6.245919,
+                        "lng" : 106.7980514
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eJl. Panglima Polim Raya\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vuae@sazjS\\@l@?nGB~A?L?p@@dADNDF@d@THBHBB?HBH@\\BH?B?Z?H?J?NAB?~BA|C@pAFR@B@D@B@B@BB@@B@B@D@"
+                     },
+                     "start_location" : {
+                        "lat" : -6.239803999999999,
+                        "lng" : 106.7984964
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 209
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -6.2458861,
+                        "lng" : 106.7999381
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Melawai\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by MM JUICE Melawai (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "~{be@y~yjSCw@AO?AAY?i@?K@_F"
+                     },
+                     "start_location" : {
+                        "lat" : -6.245919,
+                        "lng" : 106.7980514
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2 m",
+                        "value" : 2
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : -6.2458714,
+                        "lng" : 106.7999307
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eJl. Melawai\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "x{be@sjzjSC@"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2458861,
+                        "lng" : 106.7999381
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 306
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : -6.245882,
+                        "lng" : 106.8026968
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eJl. Melawai\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "t{be@qjzjS@aH?G?mC?qB"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2458714,
+                        "lng" : 106.7999307
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -6.245247699999999,
+                        "lng" : 106.8027089
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Melawai 2\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "v{be@{{zjSM?oBA"
+                     },
+                     "start_location" : {
+                        "lat" : -6.245882,
+                        "lng" : 106.8026968
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : -6.2452326,
+                        "lng" : 106.8014086
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Melawai 9\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "xwbe@}{zjSAfCAzB"
+                     },
+                     "start_location" : {
+                        "lat" : -6.245247699999999,
+                        "lng" : 106.8027089
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -6.2449001,
+                        "lng" : 106.8014079
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJl. Melawai IV\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "twbe@yszjSaA?"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2452326,
+                        "lng" : 106.8014086
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 km",
+                  "value" : 7992
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1354
+               },
+               "end_address" : "Central Jakarta City, Jakarta, Indonesia",
+               "end_location" : {
+                  "lat" : -6.1946486,
+                  "lng" : 106.8197863
+               },
+               "start_address" : "Jl. Melawai IV No.19-23, RT.4/RW.2, Melawai, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160, Indonesia",
+               "start_location" : {
+                  "lat" : -6.2449001,
+                  "lng" : 106.8014079
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -6.2452326,
+                        "lng" : 106.8014086
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eJl. Melawai IV\u003c/b\u003e toward \u003cb\u003eJl. Melawai 9\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "rube@yszjS`A?"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2449001,
+                        "lng" : 106.8014079
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : -6.245247699999999,
+                        "lng" : 106.8027089
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eJl. Melawai 9\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "twbe@yszjS@{B@gC"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2452326,
+                        "lng" : 106.8014086
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : -6.245882,
+                        "lng" : 106.8026968
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJl. Melawai 2\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "xwbe@}{zjSnB@L?"
+                     },
+                     "start_location" : {
+                        "lat" : -6.245247699999999,
+                        "lng" : 106.8027089
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 191
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : -6.2453628,
+                        "lng" : 106.8043244
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Melawai\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "v{be@{{zjSCw@?]AGGYEQEQKWAGGOSo@IWKYMU"
+                     },
+                     "start_location" : {
+                        "lat" : -6.245882,
+                        "lng" : 106.8026968
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 260
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : -6.2434889,
+                        "lng" : 106.8029221
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Iskandarsyah Raya\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "nxbe@_f{jSmBdAeAv@YTaAp@oA|@UR"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2453628,
+                        "lng" : 106.8043244
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 195
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : -6.2419189,
+                        "lng" : 106.8023012
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eJl. Sultan Hasanudin\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "xlbe@g}zjSa@\\q@l@MFOHSDWDWBiAFO@O@Y@"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2434889,
+                        "lng" : 106.8029221
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 409
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : -6.2382749,
+                        "lng" : 106.8022691
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJl. Underpass Pattimura\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "~bbe@kyzjS[OOEaHAI?sCD{CJw@FYB"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2419189,
+                        "lng" : 106.8023012
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 618
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : -6.233019700000001,
+                        "lng" : 106.800576
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eJl. Pattimura\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDrive along Ministry of Public Works (on the left for 350&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "dlae@eyzjSI@mAZSDqAXoDr@OBc@Hs@L}Cn@SFiAV_A`@gAp@{@TcCH"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2382749,
+                        "lng" : 106.8022691
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : -6.232558,
+                        "lng" : 106.8005208
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue toward \u003cb\u003eJl. Jend. Sudirman\u003c/b\u003e/\u003cb\u003eJl. Sisingamangaraja\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "jk`e@snzjS?D}@?]D"
+                     },
+                     "start_location" : {
+                        "lat" : -6.233019700000001,
+                        "lng" : 106.800576
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -6.2318292,
+                        "lng" : 106.800542
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at \u003cb\u003eJl. Mataram\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "nh`e@gnzjSqCC"
+                     },
+                     "start_location" : {
+                        "lat" : -6.232558,
+                        "lng" : 106.8005208
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : -6.2303538,
+                        "lng" : 106.8005491
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue toward \u003cb\u003eJl. Jend. Sudirman\u003c/b\u003e/\u003cb\u003eJl. Sisingamangaraja\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "|c`e@knzjSkA?{EA"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2318292,
+                        "lng" : 106.800542
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 155
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : -6.2295055,
+                        "lng" : 106.7996633
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue toward \u003cb\u003eJl. Jend. Sudirman\u003c/b\u003e/\u003cb\u003eJl. Sisingamangaraja\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Darwis Triadi School Of Photography (on the left)\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "tz_e@mnzjSY?K@I?G@OBKBIDIDEBGFGHEJINCHCLANAJ?FENCLCL"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2303538,
+                        "lng" : 106.8005491
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "18 m",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : -6.2296027,
+                        "lng" : 106.7995359
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Jend. Sudirman\u003c/b\u003e/\u003cb\u003eJl. Sisingamangaraja\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "lu_e@{hzjS@@@BB@@B@@@B@B@@"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2295055,
+                        "lng" : 106.7996633
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.0 km",
+                        "value" : 5017
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 631
+                     },
+                     "end_location" : {
+                        "lat" : -6.1954094,
+                        "lng" : 106.822726
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eJl. Jend. Sudirman\u003c/b\u003e/\u003cb\u003eJl. Sisingamangaraja\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Jl. Jend. Sudirman\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Halte Busway Gelora Bung Karno (on the right in 1.0&nbsp;km)\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "~u_e@chzjSDJ@D@D?DAF?DADCDCBCDCBEBE@C@E?E?C@E?CAE?E?AAC?CAC?CAC?AACAGCECGCEEECEEEECEAAAA?AAAAA?AACAA?GAKEIGMMSCEsCcEm@y@sDeFoC_EuAqBIMaC}CKOQU_HaLq@uAy@sA]q@o@eAg@{@Wa@OSg@u@CE[e@Y_@MQCEwAkB]g@MMy@eAaByB_AuAKQMMKOSWCC?AGGCC?AW[KMCE_@i@mCgE]i@OU]i@MUMMIKGGUWMMMOaBgBk@o@yAwBkB_C]_@kAeBcByBMOOOIKKKUWo@i@_@[QMQO_@Ws@e@YQ[SGC]Qa@Uq@[g@Ua@Qo@Ys@_@c@Sw@WoAe@_Bs@{@e@q@Ua@Oa@ICAaAW_AQm@Kq@Iu@Ge@E_BIcDSiDMaAEu@Co@Ee@Eg@Ei@GeC]o@KEAA?GAA?UCgBW_AOg@GeAO}@K_AIs@GWA[?Y?u@AcAByBDiA?I@{@?s@Am@@Q?y@@q@?iA?sBFeABW@K?I@E@A?GBEBGBGBEBSP"
+                     },
+                     "start_location" : {
+                        "lat" : -6.2296027,
+                        "lng" : 106.7995359
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 272
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : -6.1943573,
+                        "lng" : 106.8209231
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eJl. Kebon Kacang Raya\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "h`yd@ay~jSGHGFIDKDIBK@K@K@E?E?E?CAG?cAf@Gt@IdAARCl@Aj@?FAh@"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1954094,
+                        "lng" : 106.822726
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 127
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : -6.1954161,
+                        "lng" : 106.8207575
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJl. Teluk Betung\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "vyxd@wm~jSTXdABF?B?VA`@G`@LNA"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1943573,
+                        "lng" : 106.8209231
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 141
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : -6.1946014,
+                        "lng" : 106.8201108
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "j`yd@wl~jSBh@A?C@E?[FUDA?C?C?g@?E@C@E@C@E@C@CBEDABCDCDAD?DABAP"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1954161,
+                        "lng" : 106.8207575
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : -6.1946486,
+                        "lng" : 106.8197863
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "f{xd@uh~jS?B@B?@?B@@@D@@?@@BA@@^"
+                     },
+                     "start_location" : {
+                        "lat" : -6.1946014,
+                        "lng" : 106.8201108
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "h}md@{}|jSC]?OI_@AEAECCMCUBUDO?wBj@y@PeC`@C@EF`AzFAL@?B@@@DD@HIJI@C?A?MH_@?c@BwBXgHpAYFG[aAcF]gBc@kBUe@[_BYgBf@EhGiA`AzDTHL?jASrDm@zAWTLTVVNRFx@@vAWF?P@NDp@^ZV^C`GqAxCm@lIwAh@M|HcBdFcAlE}@zB]p@GdBWrCg@pBWpC_@tCi@lAQj@IzAWvCa@h@Mp@K`CYl@GpBWzGaAfD[nBUvBg@jJoAfAQjC_@rCe@`Eg@~BQlCa@nAUn@O`AQxAQrBSxDe@fAKz@Q|@]v@KbKmAd@Ch@GbBiARYRc@ZgALu@VKFK@CFGPG`@IrAB~OVrGFxSNd@?ZAnCa@X@JBJH@BHZE^EJWN[DOCIE]?}BAiBIiNMAl@GLKHIBY?IEGGESAQ?UcAAmHI@y@nABrGFxSN`AAnCa@X@RHDFXF~LYpLWpB@rCDzFLrGFfECpARfAJbACj@YXE`CEtHEF?ZAZGt@]XW`@M`@Ab@JTLLNJP@F`@JL@fEGxGEpBAbFEbCBxBJnBP`BTdDj@d@HVDvC^vBLVB`DN~Kn@`BLxB^pEvA~Al@lLtEhE~BhDjCfAfAHJjLfO|A|BrAfBLTnEbG`BvBb@h@zBbDzCfEh@p@zAtBbInLZr@nAxBhGfKhD~EtBvCpA`BvCrEj@z@bCdD`Az@j@PL?VBVLNNHJFJFLRb@d@b@v@`@tBt@`AR~BRzCEhSAhPApGBjLBvBFVF|@\\z@Ht@?RA|G?hBJPHNFGcB?u@@_FC@@iH?_G}BACbGaA?`A?BcG|B@CuAUeAi@_BUq@MUmBdA_BlAqCnBwBfBc@No@HcCLk@UkHAsCD{CJqAJ}D|@wGnAqDv@iAV_A`@gAp@{@TcCH?D}@?]D}ECkG?m@NOHOPOZGVIr@GZBDHJJV?XMTSJg@Aa@KYQQSEGCOGUUa@wCiEaF_HeFqHkCkD]e@_HaLq@uAwAeCwAaCsAqBgA}A}DgFaDoEY_@c@k@s@_A{EqHcAyAy@}@mCwCyAwBkB_C]_@kAeBqBiC{@_AsBcBiCcByBgAiAg@cBy@{Ak@oDyA{@e@q@UcAYeAYmB]gBQeCOmIa@wBIuAKqAM}Dk@_@EuG_A}BUkAIu@?yB@iGFaB?kA@{B?yDJs@DWJMF[ZQLUHi@DWAcAf@Gt@KxAGjCTXdABJ?VA`@G`@LNABh@E@y@Lu@@SFONIVA\\BLBh@"
+         },
+         "summary" : "Jl. Hayam Wuruk",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1 ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

@@ -1,0 +1,886 @@
+/**/_xdc_._uln6jd && _xdc_._uln6jd( {
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJScaiCTC6yDARvJ3gg8N-jtM",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6ZKupBK5yDARXi7ClrTKBT8",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJhwj1EWrIyDARMuuLSi1-Erg",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2-HyEfa-yDARjktxbITzlSk",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 19.8686926,
+               "lng" : 96.2655633
+            },
+            "southwest" : {
+               "lat" : 19.7341102,
+               "lng" : 96.1113424
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7110
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 952
+               },
+               "end_address" : "Unnamed Road, Myanmar (Burma)",
+               "end_location" : {
+                  "lat" : 19.7726453,
+                  "lng" : 96.18300939999999
+               },
+               "start_address" : "Garikhanar St, Pyinmana, Myanmar (Burma)",
+               "start_location" : {
+                  "lat" : 19.7342022,
+                  "lng" : 96.20554079999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "200 ft",
+                        "value" : 61
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 19.734107,
+                        "lng" : 96.2049638
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eGarikhanar St\u003c/b\u003e toward \u003cb\u003eU Razak St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wimwBscejQJfADd@?D"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7342022,
+                        "lng" : 96.20554079999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 19.7357317,
+                        "lng" : 96.20522749999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eU Razak St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eimwB_`ejQw@MeBQmAGwAM"
+                     },
+                     "start_location" : {
+                        "lat" : 19.734107,
+                        "lng" : 96.2049638
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "351 ft",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 19.7362415,
+                        "lng" : 96.2044001
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePagoda St\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ismwBuaejQM?GNQ^i@nAMXEJ"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7357317,
+                        "lng" : 96.20522749999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "105 ft",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 19.7365306,
+                        "lng" : 96.204392
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003ePagoda St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ovmwBo|djQQ?g@@"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7362415,
+                        "lng" : 96.2044001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "217 ft",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 19.7365659,
+                        "lng" : 96.20376300000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eLewe Lane Haung Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ixmwBm|djQEz@Az@?D"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7365306,
+                        "lng" : 96.204392
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 19.7367768,
+                        "lng" : 96.2036222
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eLewe Lane Haung Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qxmwBoxdjQGLIDWF"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7365659,
+                        "lng" : 96.20376300000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "125 ft",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 19.7371187,
+                        "lng" : 96.20364259999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLewe Lane Haung Rd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "{ymwBswdjQcAC"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7367768,
+                        "lng" : 96.2036222
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 315
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 19.7366241,
+                        "lng" : 96.2007581
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_|mwBwwdjQHHHPF\\@rC@vCHbBPx@f@z@"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7371187,
+                        "lng" : 96.20364259999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 270
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 19.7385263,
+                        "lng" : 96.199269
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eYangon - Mandalay Hwy\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{xmwBwedjQE@i@RUN_@VWXO^Sb@YZWV[R_@R_@RWLu@N"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7366241,
+                        "lng" : 96.2007581
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1124
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 19.7482568,
+                        "lng" : 96.20080919999999
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eYangon - Mandalay Hwy\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ydnwBm|cjQgAFoAJw@Bc@Cg@G_@Ki@M{Ae@k@M_@EG@W?cATw@N]?WA[Ou@g@gAw@QCAAS?_@@}AFm@BE?y@B_@EUGaA[c@QYK_@ImAQOAwAMo@GqCWmAISAaAEYG"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7385263,
+                        "lng" : 96.199269
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 mi",
+                        "value" : 1976
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 264
+                     },
+                     "end_location" : {
+                        "lat" : 19.7648155,
+                        "lng" : 96.1970884
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePankhinn Rd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "sapwBafdjQC@kBh@sAz@QPiBfB_@b@w@hB_@x@A@]T]NwBt@e@LyA`@A@_APOBcDb@i@Hk@H{@?kA@q@@Q?_@Bk@Bc@HK@}@RSD_@J_AVODYHm@Pq@Ps@BQ?w@CC?qAIcCQqB@sAH}BN_@BoAHs@FU?k@?a@?{D_@y@G{Fg@[AuAHi@F"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7482568,
+                        "lng" : 96.20080919999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1505
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 104
+                     },
+                     "end_location" : {
+                        "lat" : 19.7629282,
+                        "lng" : 96.18300619999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eYaza Htarni Road\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ciswByncjQ?N?z@?NGjE@rB?VDpB@THvAHbARtC|@bFrDdTlBbKDX@Z?r@?nAI|@K`AAhI"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7648155,
+                        "lng" : 96.1970884
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 695
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : 19.7691747,
+                        "lng" : 96.18299599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i}rwByv`jQuI@mG?}A?qA?cA?w@?_B?k@?o@?eB?m@?"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7629282,
+                        "lng" : 96.18300619999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 266
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 19.7702424,
+                        "lng" : 96.18112389999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "idtwBwv`jQAzD?DKj@Un@e@d@k@\\q@Nm@D"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7691747,
+                        "lng" : 96.18299599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 443
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 19.7726453,
+                        "lng" : 96.18300939999999
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "_ktwB_k`jQ{CAaGCSESKMSIWAO?KAyG"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7702424,
+                        "lng" : 96.18112389999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "12.1 mi",
+                  "value" : 19397
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1522
+               },
+               "end_address" : "Unnamed Road, Myanmar (Burma)",
+               "end_location" : {
+                  "lat" : 19.8686926,
+                  "lng" : 96.2589589
+               },
+               "start_address" : "Unnamed Road, Myanmar (Burma)",
+               "start_location" : {
+                  "lat" : 19.7726453,
+                  "lng" : 96.18300939999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 19.7725196,
+                        "lng" : 96.1847202
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aztwByv`jQ?aHBSJUHI"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7726453,
+                        "lng" : 96.18300939999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "98 ft",
+                        "value" : 30
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 19.7727693,
+                        "lng" : 96.18482760000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gytwBoaajQCAm@S"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7725196,
+                        "lng" : 96.1847202
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 968
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 153
+                     },
+                     "end_location" : {
+                        "lat" : 19.7727651,
+                        "lng" : 96.1938349
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yztwBebajQ?Ar@uDNmABg@A[C_@CSmCwQEi@@g@F_@~@_DLk@Bo@?eA@qBC_DAsAAW"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7727693,
+                        "lng" : 96.18482760000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1571
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 166
+                     },
+                     "end_location" : {
+                        "lat" : 19.7868252,
+                        "lng" : 96.19282539999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMilitary Base Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yztwBmzbjQu@Lo@Jq@FgEBu]I_CHwFX}If@{StAsAH"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7727651,
+                        "lng" : 96.1938349
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.7 mi",
+                        "value" : 7596
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 458
+                     },
+                     "end_location" : {
+                        "lat" : 19.7974345,
+                        "lng" : 96.26175110000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "urwwBetbjQC?kAMc@Q[WQc@GOEMCM?I?MDy@@cAEyBIY@Se@oRkAcf@{@e\\{@e_@w@mZOaAe@u@AYCQKOqIcMgAaBcA_DCIO{@UyDA{@H}@p@iDVq@rCuEHO\\k@tA}BdBwCV}@Fy@?CSq@uK}T{@wBM[Sy@OyABcAoFmf@kCgVaRgdBSuA"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7868252,
+                        "lng" : 96.19282539999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.1 mi",
+                        "value" : 8171
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 497
+                     },
+                     "end_location" : {
+                        "lat" : 19.8660505,
+                        "lng" : 96.2524854
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eYangon - Mandalay Hwy\u003c/b\u003e/\u003cb\u003eRoute 1\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}tywB}bpjQc@Bi@D}ET_FTo@ByCLuDNqEPcEPsERkEPuEPqEPmELm@@Y?a@Ci@O[K[QWOKKKKOOIMy@iAw@kA[g@[g@IMU_@aAcBi@}@{@}Aq@oAo@mAW]SWCEOM[Uk@[_@QUGa@IA?OCWA[Ao@@YDm@HuATyEv@yEx@cC`@eDh@oDj@gJzAeDf@wDl@gC`@mFx@eBVqARuQnC{@Le@HeR`DsCd@eAP{B^_@F}B\\qARiC\\a@FoBXaBR{@FG@_@@c@?C?c@?q@Ey@EeBKSCYAgAGsIi@iBKQCi@Eq@EkCOQAaG_@c@CyIi@SA[CcCO{DSyAC}BBu@Bs@Dc@Da@D[DsATA?yAZgAXQHC?kA`@cAb@_@PWLMFu@b@aAp@_CzA[RQL{A~@_Ad@i@T_Ab@m@TYJOF}Ab@yCx@OD]H{A`@qA`@]L_@LWLgAd@yAt@gBjAKF[VaBhA{G~DSJA@iB`A_ChAOHiAh@[NKFgBx@gCjAWL"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7974345,
+                        "lng" : 96.26175110000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 383
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 19.8676585,
+                        "lng" : 96.2555244
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yagxBainjQWi@c@_BIMIOCAWW}@m@SQKUUiAKYoA}BOWEI?K@MLe@?A"
+                     },
+                     "start_location" : {
+                        "lat" : 19.8660505,
+                        "lng" : 96.2524854
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 495
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 19.8686926,
+                        "lng" : 96.2589589
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{kgxB_|njQSCSOK[EaAEu@@SRyCDYNOtA}@JYGW][o@YcAWc@Sw@y@e@c@"
+                     },
+                     "start_location" : {
+                        "lat" : 19.8676585,
+                        "lng" : 96.2555244
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "18.0 mi",
+                  "value" : 28950
+               },
+               "duration" : {
+                  "text" : "33 mins",
+                  "value" : 1974
+               },
+               "end_address" : "Unnamed Road, Myanmar (Burma)",
+               "end_location" : {
+                  "lat" : 19.7807195,
+                  "lng" : 96.1113424
+               },
+               "start_address" : "Unnamed Road, Myanmar (Burma)",
+               "start_location" : {
+                  "lat" : 19.8686926,
+                  "lng" : 96.2589589
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 495
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 19.8676585,
+                        "lng" : 96.2555244
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "irgxBoqojQd@b@v@x@b@RbAVn@X\\ZFVKXuA|@ONEXSxCARDt@D`AJZRNRB"
+                     },
+                     "start_location" : {
+                        "lat" : 19.8686926,
+                        "lng" : 96.2589589
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 383
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 19.8660505,
+                        "lng" : 96.2524854
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eYangon - Mandalay Hwy\u003c/b\u003e/\u003cb\u003eRoute 1\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{kgxB_|njQ?@Md@AL?JDHNVnA|BJXThAJTRP|@l@VVB@HNHLb@~AVh@"
+                     },
+                     "start_location" : {
+                        "lat" : 19.8676585,
+                        "lng" : 96.2555244
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.1 mi",
+                        "value" : 8152
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 564
+                     },
+                     "end_location" : {
+                        "lat" : 19.7976052,
+                        "lng" : 96.26172940000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eYangon - Mandalay Hwy\u003c/b\u003e/\u003cb\u003eRoute 1\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yagxBainjQVMfCkAfBy@JGZOhAi@NI~BiAhBaA@ARKzG_E`BiAZWJGfBkAxAu@fAe@VM^M\\MpAa@zAa@\\INExCy@|Ac@NGXKl@U~@c@h@U~@e@zA_APMZS~B{A`Aq@t@c@LGVM^QbAc@jAa@B?PIfAYxA[@?rAUZE`@Eb@Er@Et@C|BCxABzDRbCNZBR@xIh@b@B`G^P@jCNp@Dh@DPBhBJrIh@fAFX@RBdBJx@Dp@Db@?B?b@?^AFAz@G`BSnBY`@GhC]pAS|B]^GzB_@dAQrCe@dRaDd@Iz@MtQoCpASdBWlFy@fCa@vDm@dDg@fJ{AnDk@dDi@bCa@xEy@xEw@tAUl@IXEn@AZ@V@NB@?`@HTF^Pj@ZZTNLBDRVV\\n@lAp@nAz@|Ah@|@`AbBT^HLZf@Zf@v@jAx@hAHLNNJJJJVNZPZJh@N`@BX?l@AlEMpEQtEQjEQrESbEQpEQtDOxCMn@C~EU|EUh@E"
+                     },
+                     "start_location" : {
+                        "lat" : 19.8660505,
+                        "lng" : 96.2524854
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.7 mi",
+                        "value" : 7485
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 424
+                     },
+                     "end_location" : {
+                        "lat" : 19.7879884,
+                        "lng" : 96.19426129999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "avywBybpjQZ`CdBfPbNrqA`C|TjBbQvBzRLjA^lAVhCBt@CLG^GNK\\_HxK}BrDwDjGU\\Yt@Gn@Bn@Hb@BLXj@jTz[d@p@fAxAfA`BpIbMJNBP@XEx@?~@d@zRzAdn@~A|n@j@fU`@jN"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7976052,
+                        "lng" : 96.26172940000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 168
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 19.7879165,
+                        "lng" : 96.19266669999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eMilitary Base Rd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "}ywwBc}bjQJXCxB?FD`D"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7879884,
+                        "lng" : 96.19426129999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 mi",
+                        "value" : 2638
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 173
+                     },
+                     "end_location" : {
+                        "lat" : 19.7650996,
+                        "lng" : 96.1969441
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eMilitary Base Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oywwBesbjQ@b@XGxBSpCSrU{AzNw@hDKxDDtOB|KBdAK`AO~@UrMcDzCg@jAU`A[rAu@hCwAzGoDfAa@NCb@I~@Kp@ITC"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7879165,
+                        "lng" : 96.19266669999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.7 mi",
+                        "value" : 5921
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 342
+                     },
+                     "end_location" : {
+                        "lat" : 19.7680161,
+                        "lng" : 96.14169
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eYaza Htarni Road\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{jswB{mcjQX?NLL^?NGjE@rB?VDpB@THvAHbARtC|@bFrDdTlBbKDX@Z?r@?nAI|@K`AAhIG`YBrGA`BGtDBd@FZBXEjBCdAQnHKjDCx@IlDUrJ_@|PIhCInAIbBS`DaAfNo@fJg@vGCh@oAzPiAvOmAfPmAhPgA|NEd@YxCSv@a@`AYf@o@p@aDjD"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7650996,
+                        "lng" : 96.1969441
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1278
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 19.7759026,
+                        "lng" : 96.13331079999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eYaza Htarni Road\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "c}swBqtxiQKEMCO?MBKDKHGHIPCR@VoGbG_@Xc@\\w@t@eKvJgKvJoCdC_@^[^OTQVKVK\\I`@Gj@Q~A"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7680161,
+                        "lng" : 96.14169
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 mi",
+                        "value" : 2430
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 146
+                     },
+                     "end_location" : {
+                        "lat" : 19.7807195,
+                        "lng" : 96.1113424
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "knuwBe`wiQOJIHELCN?J@JBHBFHJHFUtBc@|D{AbNO~Au@zGCh@}AzY}@~LK|Bg@|H[rESdDcArMOp@]x@_@d@sCjCQPeDbD"
+                     },
+                     "start_location" : {
+                        "lat" : 19.7759026,
+                        "lng" : 96.13331079999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wimwBscejQPlBw@GyGg@qAxCEJQ?g@@Ez@A`AQRWFcACRZHpDJzFPx@f@z@o@Tu@f@g@x@m@~@s@j@_Af@mA\\wCR{A?gASeCs@kAS_@@{Bd@u@AkDsBsCFs@ByAAuCaAmB[gBOcHk@{AMoBj@eBlAiCjCwAbD_@VuCdA_Cn@uFz@uARgC@oCHkGxA_Bb@eABqG_@eEJ}CReEP}E_@uHo@qBFi@F?N?jAE~HPvF\\xEpFh[rB|K@nAIlCK`AAhIcR@oD?gG?cE?A`Ea@zAqAbA_BT}KEg@QWk@A[A{PNi@DKm@UbAcG@cAGs@sCaSHgAlAkEBuBAqGCkBeBXyFJu]I_CHuQ`AoV~AoAM_Ai@c@oAFuCEyBIYc@cS{F}~BOaAe@u@Ek@}IsMgAaBcA_DSeAWuFz@gFVq@rCuEf@{@zDuGV}@Fy@Su@uK}T{@wBa@uAOyABcA{Ju}@uR}fBmAHgS|@ar@jCgA@kASw@]c@[_BsByBiD}D_HaB}Ck@u@{AeAu@Yc@Ig@EkA?wJ|Aao@dK{^tF{Y~EmUjDeE^}BEeVyAm[mB_DSuGWsDFwAJsC`@wD~@gEdBeGxDiEfCqDzAaOfEyEvBqFtD{KnGuFlCsGzC{@iCS]mByAa@_B{AwCUa@@YLg@SCSOK[EaACiAXsDdBmAJYGWmAu@gBk@}A}A|A|AfBj@lAt@FVKXeBlAYrDBhAD`AJZRNRBMf@AXT`@zAvC`@~AlBxAR\\z@hCrG{CtFmCzKoGpFuDxEwB`OgEpD{AhEgCdGyDfEeBvD_ArCa@vAKrDGtGV~CRrSnAxF\\dVxA|BDdE_@lUkDzY_Fz^uF`o@eKvJ}AjA?f@Db@Ht@XzAdAj@t@`B|C|D~GxBhD~ArBb@Zv@\\jARfAA`YcA~WgAfS}@h@EZ`ChQzbBrJh}@^lAVhC?bAOn@kHvLuH~Lo@rAC~ALp@dUf]lBjCxKdPN`@CrAd@zThGvcCJXCxBDhD@b@XGjGg@ne@sChDKxDDr\\FfC[rOyDfF}@`A[rAu@dLgGvAe@bBUfAMX?NLLn@E~HPvF\\xEpFh[rB|K@nAIlCK`AAhICta@IvGJ`AAdCe@zQiAhf@iB|XkDdf@mHfbA_@~Du@xBiAxAaDjDKE]CYHSRMd@@VoGbGcAv@u]j\\}AlBWt@QlAQ~AOJOVCZDTLRHFUtB_C`TeAzJaBd[iA|P{Cjc@m@jBsDpDwDtD"
+         },
+         "summary" : "Pankhinn Rd",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1 ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
