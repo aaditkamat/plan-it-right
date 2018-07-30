@@ -48,17 +48,17 @@
                                 <li class="nav-item active">
                                     <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                                 </li>
-                                <li class="nav-item dropdown">
+                                <!-- Not using Featured Trips section at the moment
+                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Featured
                                         Trips</a>
-                                    <!-- @TODO use jquery below for saved trips -->
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                         <a class="dropdown-item" href="london-trip.html">London</a>
                                         <a class="dropdown-item" href="mexico city-trip.html">Mexico City</a>
                                         <a class="dropdown-item" href="singapore-trip.html">Singapore</a>
                                         <a class="dropdown-item" href="macau-trip.html">Macau</a>
-                                    </div>
+                                    </div> -->
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="about.html">About Us</a>
@@ -110,26 +110,26 @@
                                 </div>  
                             </div>
                             <br>
-                            <div>
-                                <label class="form-label" id="departure-label">Departure Date </label>
-                                <dt></dt>
-                                <div>
-                                    <input name="departure" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
-                                </div>
-                                <img class="calendarIcon" id="firstCalendarIcon" src="images/icons/calendar-icon.png">
-                                <div class="calendar" id="firstCalendar"></div>
-                            </div>
-                            <br>
-                            <div>
-                                <label class="form-label" id="return-label">Return Date</label>
-                                <dt></dt>
-                                <div>
-                                    <input name="return" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
-                                </div>
-                                <img class="calendarIcon" id="secondCalendarIcon" src="images/icons/calendar-icon.png">
-                                <div class="calendar" id="secondCalendar"></div>
-                            </div>
-                            <br>
+                            <!-- <div>
+                                 <label class="form-label" id="departure-label">Departure Date </label>
+                                 <dt></dt>
+                                 <div>
+                                     <input name="departure" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
+                                 </div>
+                                 <img class="calendarIcon" id="firstCalendarIcon" src="images/icons/calendar-icon.png">
+                                 <div class="calendar" id="firstCalendar"></div>
+                             </div>
+                             <br>
+                             <div>
+                                 <label class="form-label" id="return-label">Return Date</label>
+                                 <dt></dt>
+                                 <div>
+                                     <input name="return" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
+                                 </div>
+                                 <img class="calendarIcon" id="secondCalendarIcon" src="images/icons/calendar-icon.png">
+                                 <div class="calendar" id="secondCalendar"></div>
+                             </div>
+                             <br> -->
                             <div>
                                 <label class="form-label" id="guests-label">Number of guests/passengers</label>
                                 <dt></dt>
@@ -320,22 +320,24 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <!-- Moment.js-->
     <script src="vendor/daterangepicker/moment.min.js"></script>
 
-    <script>
-        dycalendar.draw({
-            target: '#firstCalendar',
-            type: 'month',
-            monthformat: "full",
-            prevnextbutton: 'show',
-            highlighttoday: true
-        });
-        dycalendar.draw({
-            target: '#secondCalendar',
-            type: 'month',
-            prevnextbutton: 'show',
-            highlighttoday: true
-        });
+    <!-- <script>
+       dycalendar.draw({
+           target: '#firstCalendar',
+           type: 'month',
+           monthformat: "full",
+           prevnextbutton: 'show',
+           highlighttoday: true
+       });
+       dycalendar.draw({
+           target: '#secondCalendar',
+           type: 'month',
+           prevnextbutton: 'show',
+           highlighttoday: true
+       }); -->
     </script>
-    <script src="cities.js"></script>
+    <
+    script;
+    src = "cities.js" ></script>
     <script src="countries.js"></script>
     <script src="form.js"></script>
     <script src="https://apis.google.com/js/platform.js?onload=initClient" async defer></script>

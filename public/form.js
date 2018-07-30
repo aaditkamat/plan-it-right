@@ -68,7 +68,7 @@ var handleClickCalendar = () => {
  */
 var validateFormInput = () => {
     const cityInput = document.querySelector('input[name=city]'), countryInput = document.getElementById('country_options');
-    return checkLocation(cityInput, countryInput) && checkDeparture() && checkReturn() && checkGuests();
+    return checkLocation(cityInput, countryInput) && checkGuests();
 };
 
 
@@ -141,8 +141,12 @@ var checkLocation = (cityInput, countryInput) => {
     removeRedundantWarning('location');
     if (!cityOptionSelected || !cityOptionSelectedCorrectly) {
         setRedBorder(cityInput);
-        if (!cityOptionSelected) 
-            addWarning('location', 'City Option must be filled');
+        if (!cityOptionSelected) {
+            if (cityInput.value === '')
+                addWarning('location', 'City Option must be filled');
+            else
+                addWarning('location', 'The name of the city entered does not exist in our database');
+        }
         else
             addWarning('location', 'Selected city and country do not match');
     }
@@ -176,8 +180,8 @@ var sendData = () => {
         };
         formOptions.city = document.querySelector(`[name=city]`).value;
         formOptions.country = document.querySelector(`#country_options`).value;
-        formOptions.departure = document.querySelector(`[name=departure]`).value;
-        formOptions.return = document.querySelector(`[name=return]`).value;
+        //formOptions.departure = document.querySelector(`[name=departure]`).value;
+        //formOptions.return = document.querySelector(`[name=return]`).value;
         formOptions.guests = document.querySelector(`[name=guests]`).value;
         const foundElement = Array.from(document.querySelectorAll('input[type=radio]')).find((ele) => ele.checked === true);
         if (foundElement !== undefined)
@@ -194,6 +198,6 @@ var sendData = () => {
     });
 };
 
-displayCalendar();
-handleClickCalendar();
+/* displayCalendar();
+handleClickCalendar(); */
 sendData();

@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ebc68e3-519c-40ca-8ead-a77560074d3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcrypt/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcrypt/appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/needle/examples/parsed-stream2.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/needle/examples/parsed-stream2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/needle/test/compression_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcrypt/node_modules/needle/test/compression_spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/json-ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/json-ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/json-ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/address" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/address" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/calendar" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/calendar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/card" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/card" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/geo" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/geo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/interfaces" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/interfaces" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/json-ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-03.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-03.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/lib/links.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/links.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/lib/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/test/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/test/tests.js" afterDir="false" />
+    </list>
+    <list id="0fba737f-c0e5-4fbc-9890-85b6c8c1faab" name="Add photos for background and map for each place" comment="" />
+    <list id="2d45d2be-2c73-48ee-ad29-d3da574c9bb3" name="Revert &quot;Add scraped data to result html page&quot;" comment="Revert &quot;Add scraped data to result html page&quot;&#10;&#10;This reverts commit f3b786a" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-186277674">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="13" />
+          <entry key="csv" value="1" />
+          <entry key="gitignore" value="3" />
+          <entry key="glitch-assets" value="1" />
+          <entry key="html" value="23" />
+          <entry key="js" value="49" />
+          <entry key="jshintrc" value="2" />
+          <entry key="json" value="7" />
+          <entry key="md" value="2" />
+          <entry key="ts" value="1" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="13" />
+          <entry key="HTML" value="23" />
+          <entry key="JSHint" value="2" />
+          <entry key="JSON" value="7" />
+          <entry key="JavaScript" value="49" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="222" />
+          <entry key="html" value="1908" />
+          <entry key="js" value="7029" />
+          <entry key="json" value="153" />
+          <entry key="txt" value="844" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="222" />
+          <entry key="HTML" value="1908" />
+          <entry key="JSON" value="153" />
+          <entry key="JavaScript" value="7029" />
+          <entry key="PLAIN_TEXT" value="844" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="8" />
+          <entry key="TypeScriptServerServiceImpl" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.delete.remote" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/result.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="335" column="14" selection-start-line="335" selection-start-column="14" selection-end-line="335" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="64" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/calendar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/calendar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/itinerary.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3015">
+              <caret line="201" column="1" selection-start-line="201" selection-start-column="1" selection-end-line="201" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/form.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-605">
+              <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>key=</find>
+      <find>key</find>
+      <find>Indep</find>
+      <find>findPop</find>
+      <find>hero-area height-400 bg-img background-overlay</find>
+      <find>120</find>
+      <find>justify</find>
+      <find>map</find>
+      <find>button</find>
+      <find>places</find>
+      <find>img_json</find>
+      <find>getIm</find>
+      <find>addButto</find>
+      <find>get</find>
+      <find>Jakarta</find>
+      <find>printJS</find>
+      <find>pri</find>
+      <find>body</find>
+      <find>addButton</find>
+      <find>5</find>
+      <find>option</find>
+      <find>print</find>
+      <find>City Optio</find>
+      <find>pirnt</find>
+      <find>must</find>
+      <find>moment</find>
+      <find>h1</find>
+      <find>getLe</find>
+      <find>departure</find>
+      <find>if</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>formOptions.city =</replace>
+      <replace>.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+        <option value="aa" />
+        <option value="Aadit &lt;aadit.k12@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/css/main.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/budget.js" />
+        <option value="$PROJECT_DIR$/public/form.css" />
+        <option value="$PROJECT_DIR$/public/highlights.js" />
+        <option value="$PROJECT_DIR$/public/kualalumpur.html" />
+        <option value="$PROJECT_DIR$/public/singapore.html" />
+        <option value="$PROJECT_DIR$/public/singapore-trip.html" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/country_data/scraper.js" />
+        <option value="$PROJECT_DIR$/public/contact.html" />
+        <option value="$PROJECT_DIR$/public/cities.js" />
+        <option value="$PROJECT_DIR$/public/countries.js" />
+        <option value="$PROJECT_DIR$/public/demo.json" />
+        <option value="$PROJECT_DIR$/public/print.js" />
+        <option value="$PROJECT_DIR$/public/country_data/kualalumpur.html" />
+        <option value="$PROJECT_DIR$/public/country_data/singapore.html" />
+        <option value="$PROJECT_DIR$/public/itinerary.css" />
+        <option value="$PROJECT_DIR$/public/result.html" />
+        <option value="$PROJECT_DIR$/public/itinerary.js" />
+        <option value="$PROJECT_DIR$/public/calendar.html" />
+        <option value="$PROJECT_DIR$/public/calendar.js" />
+        <option value="$PROJECT_DIR$/public/form.html" />
+        <option value="$PROJECT_DIR$/public/form.js" />
+        <option value="$PROJECT_DIR$/public/result.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="847" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="planitright" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planitright" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planitright" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planitright" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="printJS&#9;FILE&#9;file:///Users/aadit/WebstormProjects/planitright/public/country_data/hochiminh_files/print.js&#10;result.html&#9;FILE&#9;file:///Users/aadit/WebstormProjects/planitright/public/result.html&#10;itinerary.js&#9;FILE&#9;file:///Users/aadit/WebstormProjects/planitright/public/itinerary.js&#10;autocomplete()&#9;null&#9;null&#10;main.css&#9;FILE&#9;file:///Users/aadit/WebstormProjects/planitright/public/css/main.css" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/county_data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/county_data" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="highlights.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" application-parameters="'2018-07-01' '2018-07-08' 'las vegas' 'usa' ['sight_landmark', 'nightlife']" nameIsGenerated="true" path-to-js-file="highlights.js" working-dir="$PROJECT_DIR$/public">
+      <method v="2" />
+    </configuration>
+    <configuration name="scraper.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/public/country_data/scraper.js" working-dir="$PROJECT_DIR$/public/country_data">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.server.js" />
+      <item itemvalue="Node.js.highlights.js" />
+      <item itemvalue="Node.js.scraper.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.scraper.js" />
+        <item itemvalue="Node.js.highlights.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ebc68e3-519c-40ca-8ead-a77560074d3b" name="Default Changelist" comment="" />
+      <changelist id="0fba737f-c0e5-4fbc-9890-85b6c8c1faab" name="Add photos for background and map for each place" comment="" />
+      <created>1532591531963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532591531963</updated>
+      <workItem from="1532591535111" duration="11037000" />
+      <workItem from="1532658811473" duration="8452000" />
+      <workItem from="1532740329749" duration="9047000" />
+      <workItem from="1532836491989" duration="15893000" />
+      <workItem from="1532871068457" duration="4005000" />
+      <workItem from="1532930889449" duration="4375000" />
+      <workItem from="1532940887435" duration="56000" />
+      <workItem from="1532940970658" duration="1748000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add destination to page header and remove facebook login">
+      <created>1532593552928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532593552928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modified calendar icon click behaviour and set up code to pass data from one page to another">
+      <created>1532621676532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532621676532</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Allow different capitalisations of user input">
+      <created>1532622871512</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532622871512</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add calendar page">
+      <created>1532671666597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1532671666597</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add calendar page&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;">
+      <created>1532673233055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1532673233055</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Change protocol from http to https for loading calendar">
+      <created>1532674818495</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532674818495</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add new cities and countries to the trip form">
+      <created>1532787938192</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532787938192</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add photos for background and map for each place">
+      <created>1532848994541</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1532848994541</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add photos for background and map for each place&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;">
+      <created>1532849375887</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1532849375887</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Modified demo.json to render correct data&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;">
+      <created>1532850293218</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1532850293218</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Modified the links to calendar and trip downloading page. Installed&#10;print.js.&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;">
+      <created>1532874866954</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1532874866955</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Modified the names of the html files in the country data folder and&#10;added sign out button to result.html&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;">
+      <created>1532937437142</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1532937437142</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added a .gitignore and moved folders there&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;">
+      <created>1532942589638</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1532942589638</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54613000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="847" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Repositories" order="3" visible="true" weight="0.32980973" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49964765" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49330515" weight="0.3602649" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49682876" weight="0.32847682" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4792107" visible="true" weight="0.32847682" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.52078927" side_tool="true" visible="true" weight="0.32847682" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.54756874" weight="0.3271523" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49753347" weight="0.2821192" />
+      <window_info anchor="bottom" id="TypeScript" order="12" sideWeight="0.4989429" weight="0.32847682" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Repositories" order="3" visible="true" weight="0.32980973" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49753347" visible="true" weight="0.3602649" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49753347" weight="0.32847682" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5024665" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.6638478" weight="0.3271523" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49964765" weight="0.2821192" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Add destination to page header and remove facebook login" />
+    <MESSAGE value="Modified calendar icon click behaviour and set up code to pass data from one page to another" />
+    <MESSAGE value="Allow different capitalisations of user input" />
+    <MESSAGE value="Add calendar page" />
+    <MESSAGE value="Add calendar page&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <MESSAGE value="Change protocol from http to https for loading calendar" />
+    <MESSAGE value="Add new cities and countries to the trip form" />
+    <MESSAGE value="Add photos for background and map for each place" />
+    <MESSAGE value="Add photos for background and map for each place&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <MESSAGE value="Modified demo.json to render correct data&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <MESSAGE value="Modified the links to calendar and trip downloading page. Installed&#10;print.js.&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <MESSAGE value="Modified the names of the html files in the coutnry data folder&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <MESSAGE value="Modified the names of the html files in the country data folder and&#10;added sign out button to result.html&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <MESSAGE value="Added a .gitignore and moved folders there&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a .gitignore and moved folders there&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4175" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="5791" column="7" lean-forward="true" selection-start-line="5791" selection-start-column="7" selection-end-line="5791" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/budget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/budget.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.glitch-assets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.google.com_recaptcha_api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69" selection-start-column="69" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.dhtmlx.com_scheduler_edge_dhtmlxscheduler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/highlights.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2055">
+          <caret line="137" column="109" selection-start-line="137" selection-start-column="101" selection-end-line="137" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/highlights.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="30" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/kualalumpur.html" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/singapore.html" />
+    <entry file="file://$PROJECT_DIR$/public/countries.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/singapore-trip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="142" column="24" selection-start-line="142" selection-start-column="24" selection-end-line="142" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/country_data/kualalumpur_files/print.js" />
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/countries.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/signIn.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/map-active.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cities.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="176" column="61" selection-start-line="176" selection-start-column="61" selection-end-line="176" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/countries.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/demo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="986" column="20" selection-start-line="986" selection-start-column="13" selection-end-line="986" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/print.js" />
+    <entry file="file://$PROJECT_DIR$/public/print.min.css" />
+    <entry file="file://$PROJECT_DIR$/public/country_data/scraper.js" />
+    <entry file="file://$PROJECT_DIR$/public/country_data/kualalumpur.html" />
+    <entry file="file://$PROJECT_DIR$/public/country_data/singapore.html" />
+    <entry file="file://$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33180">
+          <caret line="2216" column="62" selection-start-line="2216" selection-start-column="62" selection-end-line="2216" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/loginStatus.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/country_data/hochiminh_files/print.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/country_data/bangkok_files/print.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/country_data/bandarseri_files/print.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-837">
+          <caret line="98" column="54" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/country_data/bandar seri begawan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="1991" column="35" lean-forward="true" selection-start-line="1991" selection-start-column="35" selection-end-line="1991" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/itinerary.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3015">
+          <caret line="201" column="1" selection-start-line="201" selection-start-column="1" selection-end-line="201" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/itinerary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3008">
+          <caret line="211" column="37" selection-start-line="211" selection-start-column="37" selection-end-line="211" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="335" column="14" selection-start-line="335" selection-start-column="14" selection-end-line="335" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-605">
+          <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/result.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

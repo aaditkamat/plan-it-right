@@ -9,6 +9,7 @@ $.getJSON('demo.json', (data) => {
 
 var addButton = (className, value, json, redirect_url) => {
     var button = document.createElement("a");
+    button.setAttribute('target', '_blank');
     button.className = className;
     button.innerText = value;
     button.style = "color: white";
@@ -57,9 +58,10 @@ var addContent = function () {
     let combineJSON = (firstJSON, secondJSON) => {
         return {first: firstJSON, second: secondJSON};
     };
-    let city = JSON.parse(sessionStorage.getItem("formOptions")).city;
+    let data = JSON.parse(sessionStorage.getItem("formOptions")), city = data.city;
+    let numOfDays = getLengthOfTrip(data);
     document.title = city + " Trip Itinerary";
-    for (curr_day = 1; curr_day <= 5; curr_day += 1) {
+    for (curr_day = 1; curr_day <= numOfDays; curr_day += 1) {
         const plan = document.createElement("div");
         plan.className = "plan";
         const planContents = document.createElement("div");

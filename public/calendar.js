@@ -1,8 +1,11 @@
 scheduler.init("scheduler_here", new Date(), "month");
 var data = JSON.parse(sessionStorage.getItem('data')), planItems = data.first, events = [];
 document.title = data.second.city + " Trip Calendar";
+var getLengthOfTrip = (data) => {
+    return moment.duration(moment(data.return).diff(data.departure)).days() + 1;
+};
 for (let i = 0; i < planItems.length; i++) {
-    if (planItems[i].city === data.second.city) {
+    if (planItems[i].city === data.second.city && planItems[i].day <= getLengthOfTrip(data.second)) {
         var event = {id: 0, text: "", start_date: "", end_date: ""};
         event.id = i + 1;
         event.text = planItems[i].name;
@@ -13,7 +16,6 @@ for (let i = 0; i < planItems.length; i++) {
             startDate = data.first.startDate, year = startDate.split("-")[0], month = startDate.split("-")[1],
                 day = startDate.split("-")[2];
         event.start_date = month + "/" + (parseInt(day) + planItems[i].day - 1) + "/" + year + " " + planItems[i].time;
-        console.log(event.start_date);
         if (i < planItems.length - 1)
             event.end_date = month + "/" + (parseInt(day) + planItems[i].day - 1) + "/" + year + " " + planItems[i + 1].time;
         else
