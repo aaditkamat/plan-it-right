@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="highlights.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" application-parameters="'2018-07-01' '2018-07-08' 'las vegas' 'usa' ['sight_landmark', 'nightlife']" nameIsGenerated="true" path-to-js-file="highlights.js" working-dir="$PROJECT_DIR$/public">
+      <method v="2" />
+    </configuration>
+    <configuration name="scraper.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/public/country_data/scraper.js" working-dir="$PROJECT_DIR$/public/country_data">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.server.js" />
+      <item itemvalue="Node.js.highlights.js" />
+      <item itemvalue="Node.js.scraper.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.scraper.js" />
+        <item itemvalue="Node.js.highlights.js" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
