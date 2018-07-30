@@ -3,16 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8ebc68e3-519c-40ca-8ead-a77560074d3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/bandar seri begawan.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/bandar seri begawan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/bangkok.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/bangkok.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/ho chi minh.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/ho chi minh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/jakarta.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/jakarta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/kuala lumpur.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/kuala lumpur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/manila.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/manila.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/naypyidaw.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/naypyidaw.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/phnom penh.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/phnom penh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/singapore.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/singapore.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/country_data/vientiane.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/vientiane.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destinations.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/destinations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destinations.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/destinations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/map-active.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/map-active.js" afterDir="false" />
     </list>
     <list id="0fba737f-c0e5-4fbc-9890-85b6c8c1faab" name="Add photos for background and map for each place" comment="" />
     <list id="2d45d2be-2c73-48ee-ad29-d3da574c9bb3" name="Revert &quot;Add scraped data to result html page&quot;" comment="Revert &quot;Add scraped data to result html page&quot;&#10;&#10;This reverts commit f3b786a" />
@@ -47,10 +42,10 @@
           <entry key="csv" value="1" />
           <entry key="gitignore" value="4" />
           <entry key="glitch-assets" value="1" />
-          <entry key="html" value="33" />
-          <entry key="js" value="50" />
+          <entry key="html" value="36" />
+          <entry key="js" value="51" />
           <entry key="jshintrc" value="2" />
-          <entry key="json" value="7" />
+          <entry key="json" value="10" />
           <entry key="md" value="2" />
           <entry key="ts" value="1" />
           <entry key="txt" value="2" />
@@ -59,10 +54,10 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="13" />
-          <entry key="HTML" value="33" />
+          <entry key="HTML" value="36" />
           <entry key="JSHint" value="2" />
-          <entry key="JSON" value="7" />
-          <entry key="JavaScript" value="50" />
+          <entry key="JSON" value="10" />
+          <entry key="JavaScript" value="51" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="TypeScript" value="1" />
         </counts>
@@ -70,19 +65,19 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="222" />
-          <entry key="html" value="1910" />
-          <entry key="js" value="7449" />
+          <entry key="html" value="2246" />
+          <entry key="js" value="7482" />
           <entry key="json" value="153" />
-          <entry key="txt" value="864" />
+          <entry key="txt" value="922" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="222" />
-          <entry key="HTML" value="1910" />
+          <entry key="HTML" value="2246" />
           <entry key="JSON" value="153" />
-          <entry key="JavaScript" value="7449" />
-          <entry key="PLAIN_TEXT" value="864" />
+          <entry key="JavaScript" value="7482" />
+          <entry key="PLAIN_TEXT" value="922" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -101,91 +96,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/bandar seri begawan.html">
+        <entry file="file://$PROJECT_DIR$/public/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="1865" column="66" selection-start-line="1865" selection-start-column="66" selection-end-line="1865" selection-end-column="66" />
+            <state relative-caret-position="138">
+              <caret line="49" column="78" selection-start-line="49" selection-start-column="78" selection-end-line="49" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/bangkok.html">
+        <entry file="file://$PROJECT_DIR$/public/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="371" column="73" selection-start-line="371" selection-start-column="73" selection-end-line="371" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/ho chi minh.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="2000" column="65" selection-start-line="2000" selection-start-column="65" selection-end-line="2000" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/jakarta.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="316" column="73" selection-start-line="316" selection-start-column="73" selection-end-line="316" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/kuala lumpur.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="2016" column="65" selection-start-line="2016" selection-start-column="65" selection-end-line="2016" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/manila.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="354" column="73" selection-start-line="354" selection-start-column="73" selection-end-line="354" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/naypyidaw.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="287" column="73" selection-start-line="287" selection-start-column="73" selection-end-line="287" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/phnom penh.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="2046" column="65" selection-start-line="2046" selection-start-column="65" selection-end-line="2046" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/singapore.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="430" column="73" selection-start-line="430" selection-start-column="73" selection-end-line="430" selection-end-column="73" />
+            <state relative-caret-position="153">
+              <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/country_data/vientiane.html">
+        <entry file="file://$PROJECT_DIR$/public/destinations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="483" column="30" selection-start-line="483" selection-start-column="27" selection-end-line="483" selection-end-column="30" />
+            <state relative-caret-position="285">
+              <caret line="106" column="28" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/destinations.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -201,8 +142,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>findPop</find>
-      <find>hero-area height-400 bg-img background-overlay</find>
       <find>120</find>
       <find>justify</find>
       <find>map</find>
@@ -231,6 +170,8 @@
       <find>if</find>
       <find>key</find>
       <find>key</find>
+      <find>Feat</find>
+      <find>Feature</find>
     </findStrings>
     <replaceStrings>
       <replace>formOptions.city =</replace>
@@ -263,7 +204,6 @@
         <option value="$PROJECT_DIR$/public/singapore-trip.html" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/country_data/scraper.js" />
-        <option value="$PROJECT_DIR$/public/contact.html" />
         <option value="$PROJECT_DIR$/public/cities.js" />
         <option value="$PROJECT_DIR$/public/countries.js" />
         <option value="$PROJECT_DIR$/public/demo.json" />
@@ -287,6 +227,10 @@
         <option value="$PROJECT_DIR$/public/country_data/phnom penh.html" />
         <option value="$PROJECT_DIR$/public/country_data/singapore.html" />
         <option value="$PROJECT_DIR$/public/country_data/vientiane.html" />
+        <option value="$PROJECT_DIR$/public/js/map-active.js" />
+        <option value="$PROJECT_DIR$/public/contact.html" />
+        <option value="$PROJECT_DIR$/public/about.html" />
+        <option value="$PROJECT_DIR$/public/destinations.html" />
       </list>
     </option>
   </component>
@@ -327,12 +271,6 @@
               <item name="planitright" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="planitright" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planitright" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="country_data" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -349,14 +287,14 @@
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/county_data" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public/county_data" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/county_data" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -512,11 +450,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532945560160</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Changed Google Maps API key&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;">
+      <created>1532946345294</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1532946345294</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56083000" />
+    <option name="totallyTimeSpent" value="58616000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -544,9 +489,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49682876" weight="0.32847682" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.47780126" weight="0.32847682" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.453136" side_tool="true" visible="true" weight="0.3271523" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.546864" visible="true" weight="0.3271523" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.47709656" visible="true" weight="0.32847682" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.52290344" side_tool="true" visible="true" weight="0.32847682" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.546864" weight="0.3271523" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49753347" weight="0.2821192" />
       <window_info anchor="bottom" id="TypeScript" order="12" sideWeight="0.4982382" weight="0.32847682" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -626,29 +571,13 @@
     <MESSAGE value="Modified the names of the html files in the country data folder and&#10;added sign out button to result.html&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
     <MESSAGE value="Added a .gitignore and moved folders there&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
     <MESSAGE value="Amended calendar&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amended calendar&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <MESSAGE value="Changed Google Maps API key&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Google Maps API key&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.google.com_recaptcha_api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="69" selection-start-column="69" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.dhtmlx.com_scheduler_edge_dhtmlxscheduler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/highlights.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -667,13 +596,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/kualalumpur.html" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/singapore.html" />
     <entry file="file://$PROJECT_DIR$/public/countries.csv">
       <provider selected="true" editor-type-id="text-editor" />
@@ -699,18 +621,8 @@
     <entry file="file://$PROJECT_DIR$/public/signIn.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/map-active.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/cities.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="176" column="61" selection-start-line="176" selection-start-column="61" selection-end-line="176" selection-end-column="61" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.jshintrc">
       <provider selected="true" editor-type-id="text-editor" />
@@ -719,13 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/demo.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
-          <caret line="986" column="20" selection-start-line="986" selection-start-column="13" selection-end-line="986" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -891,17 +796,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/country_data/singapore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="430" column="73" selection-start-line="430" selection-start-column="73" selection-end-line="430" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/country_data/vientiane.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="483" column="30" selection-start-line="483" selection-start-column="27" selection-end-line="483" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/country_data/singapore.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/map-active.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="49" column="78" selection-start-line="49" selection-start-column="78" selection-end-line="49" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/demo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="986" column="20" selection-start-line="986" selection-start-column="13" selection-end-line="986" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/destinations.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/destinations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="106" column="28" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="28" />
         </state>
       </provider>
     </entry>

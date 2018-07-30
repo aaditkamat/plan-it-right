@@ -1,5 +1,5 @@
 var map;
-var latlng = new google.maps.LatLng(56.9496, 24.1052);
+var latlng = new google.maps.LatLng(1.2951906, 103.7775961);
 var stylez = [{
     featureType: "all",
     elementType: "all",
@@ -19,7 +19,7 @@ var mapOptions = {
 };
 map = new google.maps.Map(document.getElementById("googleMap"), mapOptions);
 var geocoder_map = new google.maps.Geocoder();
-var address = 'Riga';
+var address = 'National University of Singapore';
 geocoder_map.geocode({
     'address': address
 }, function (results, status) {
