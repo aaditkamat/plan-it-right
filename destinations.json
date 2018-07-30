@@ -1,0 +1,43 @@
+{
+  "destination": [
+  {
+    "City": "Singapore",
+    "Country": "Singapore"
+  },
+  {
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia"
+  },
+  {
+    "City": "Jakarta",
+    "Country": "Indonesia"
+  },
+  {
+    "City": "Manila",
+    "Country": "Philippines"
+  },
+  {
+    "City": "Bangkok",
+    "Country": "Thailand"
+  },
+  {
+    "City": "Ho chi Minh",
+    "Country": "Vietnam"
+  },
+  {
+    "City": "Vientiane",
+    "Country": "Laos"
+  },
+  {
+    "City": "Phnom Penh",
+    "Country": "Cambodia"
+  },
+  {
+    "City": "Naypyidaw",
+    "Country": "Myanmar"
+  },
+  {
+    "City": "Bander Seri Begawan",
+    "Country": "Brunei"
+  },
+  ]}
