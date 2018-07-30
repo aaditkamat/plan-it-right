@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    var title = JSON.parse(sessionStorage.getItem('formOptions')).city.toLowerCase();
+    var data = JSON.parse(sessionStorage.getItem('formOptions')), title = data.city.toLowerCase();
     var heading = document.createElement('h5');
     heading.style = "color: white; width:100%; text-align:center; padding-top: 30px;";
     heading.innerText = 'PLANITRIGHT TRIP PLANNER';
@@ -8,11 +8,18 @@ $(document).ready(function () {
     title = toTitleCase(title);
     var planTitle = document.createElement('h1');
     planTitle.style = 'color: white; padding-top: 175px;';
-    planTitle.innerText = `5 days in ${title}`;
+    planTitle.innerText = `${getLengthOfTrip(data)} days in ${title}`;
     imageDiv.append(planTitle);
     imageDiv.append(heading);
     changeCoordinates(title);
 });
+
+var getLengthOfTrip = (data) => {
+    if (data.return !== '' && data.departure !== '')
+        return moment.duration(moment(data.return).diff(data.departure)).days() + 1;
+    else
+        return 5;
+};
 
 var parse = (title) => {
     let split = title.split(" "), newTitle = split[0];
