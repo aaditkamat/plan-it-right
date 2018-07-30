@@ -1,0 +1,453 @@
+/**/_xdc_._ueeb11 && _xdc_._ueeb11( {
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJtQkfuEcvdTERLDOUkravEeY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EkUzMSBMw6ogVGjDoW5oIFTDtG4sIELhur9uIE5naMOpLCBRdeG6rW4gMSwgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0iGhIYChQKEgnDtbCISC91MRG_4mc8T5JOYxAf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJeV2tgUwvdTER8_JbCcstzFs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiVatYkcvdTERVQ2yGdI3JdM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 10.7872503,
+               "lng" : 106.7079091
+            },
+            "southwest" : {
+               "lat" : 10.7750684,
+               "lng" : 106.6999151
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 846
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 306
+               },
+               "end_address" : "31 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+               "end_location" : {
+                  "lat" : 10.778708,
+                  "lng" : 106.703038
+               },
+               "start_address" : "185 Đồng Khởi, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+               "start_location" : {
+                  "lat" : 10.776858,
+                  "lng" : 106.7022686
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 10.7760963,
+                        "lng" : 106.7030977
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eĐồng Khởi\u003c/b\u003e toward \u003cb\u003eCông Trường Lam Sơn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Galerie Nguyen Store (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "kzw`AehgjSz@eAZ_@~@_A"
+                     },
+                     "start_location" : {
+                        "lat" : 10.776858,
+                        "lng" : 106.7022686
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 186
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 10.7773719,
+                        "lng" : 106.7041295
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Imex Pan Pacific Group - IPPG onto \u003cb\u003eCông Trường Lam Sơn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Saigon Saigon Rooftop Bar (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "suw`AkmgjSS[aA{@MIGACAK?C?G?CAC?GAECQOmAoA"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7760963,
+                        "lng" : 106.7030977
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 10.7786485,
+                        "lng" : 106.7052704
+                     },
+                     "html_instructions" : "At Dongabank - Atm, continue onto \u003cb\u003eNguyễn Siêu\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by El Sol Cafe (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "q}w`AysgjSq@o@_ByAmByA"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7773719,
+                        "lng" : 106.7041295
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 84
+                     },
+                     "end_location" : {
+                        "lat" : 10.7797818,
+                        "lng" : 106.7039815
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Công Ty Tnhh Hợp Tác Giáo Dục Quốc Tế toward \u003cb\u003eLê Thánh Tôn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Hãng Phim Truyện Việt Nam - Cn Tp. Hcm (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qex`A}zgjSo@p@GD}@hAaAjAi@r@"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7786485,
+                        "lng" : 106.7052704
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 10.778708,
+                        "lng" : 106.703038
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Little Tokyo onto \u003cb\u003eLê Thánh Tôn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by His Salon - Gentlemens Barber Shop (on the left)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "slx`A{rgjS`BrAZXvAlA"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7797818,
+                        "lng" : 106.7039815
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1519
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 326
+               },
+               "end_address" : "9 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+               "end_location" : {
+                  "lat" : 10.7862619,
+                  "lng" : 106.7060114
+               },
+               "start_address" : "31 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+               "start_location" : {
+                  "lat" : 10.778708,
+                  "lng" : 106.703038
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "27 m",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 10.7785261,
+                        "lng" : 106.7028748
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eLê Thánh Tôn\u003c/b\u003e toward \u003cb\u003eHai Bà Trưng\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}ex`A_mgjSb@`@"
+                     },
+                     "start_location" : {
+                        "lat" : 10.778708,
+                        "lng" : 106.703038
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 10.7792048,
+                        "lng" : 106.7022142
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Công Ty Tnhh Tư Vấn Quản Lý Doanh Nghiệp Thành Phố Hồ Chí Minh onto \u003cb\u003eHai Bà Trưng\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Hair Beauty Tri (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ydx`A}kgjSeCbC"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7785261,
+                        "lng" : 106.7028748
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 539
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 134
+                     },
+                     "end_location" : {
+                        "lat" : 10.7828429,
+                        "lng" : 106.7054747
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at INTERNATIONAL TRADING COMPANY LIMITED HAI KHANG - HAKA INTERNATIONAL CO., LTD onto \u003cb\u003eLý Tự Trọng\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Công Ty Cp Xây Dựng Thương Mại Tài Phát (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_ix`AyggjSqFyE}GaGaCqBs@o@QM"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7792048,
+                        "lng" : 106.7022142
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 383
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 10.7852005,
+                        "lng" : 106.7030824
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Công Ty Tnhh Mtv Thương Mại Xuất Nhập Khẩu Tân Bảo Duy onto \u003cb\u003eĐường Tôn Đức Thắng\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Saigon Trade Center (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w_y`Ae|gjSOQ{AbBWZ}@`As@x@YXe@h@y@|@gBpB"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7828429,
+                        "lng" : 106.7054747
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 308
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 10.7872503,
+                        "lng" : 106.7049726
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Công Ty Tnhh Gas Petrolimex (Sài Gòn) onto \u003cb\u003eLê Duẩn\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ony`AgmgjSWUaKcJ"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7852005,
+                        "lng" : 106.7030824
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 10.7862619,
+                        "lng" : 106.7060114
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e after Ocean Palace (on the left)\u003cdiv style=\"font-size:0.9em\"\u003ePass by Saigon Zoo And Botanical Garden (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i{y`AaygjSb@e@`AcAHItA{A"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7872503,
+                        "lng" : 106.7049726
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1663
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 437
+               },
+               "end_address" : "117C Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+               "end_location" : {
+                  "lat" : 10.7750684,
+                  "lng" : 106.6999151
+               },
+               "start_address" : "9 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+               "start_location" : {
+                  "lat" : 10.7862619,
+                  "lng" : 106.7060114
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 285
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 10.7845062,
+                        "lng" : 106.7079091
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eNguyễn Bỉnh Khiêm\u003c/b\u003e toward \u003cb\u003eNguyễn Hữu Cảnh\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Trường mầm non Sa Pa (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "cuy`Aq_hjSbI_JX["
+                     },
+                     "start_location" : {
+                        "lat" : 10.7862619,
+                        "lng" : 106.7060114
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 289
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 10.7825189,
+                        "lng" : 106.7062073
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Hoa Lu Kindergarten onto \u003cb\u003eNguyễn Hữu Cảnh\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by PYRA - Ba Lan restaurant (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ejy`AmkhjSlKrI"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7845062,
+                        "lng" : 106.7079091
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1089
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 323
+                     },
+                     "end_location" : {
+                        "lat" : 10.7750684,
+                        "lng" : 106.6999151
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eLê Thánh Tôn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by His Salon - Gentlemens Barber Shop (on the left in 450&nbsp;m)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "w}x`Ay`hjSLJJLLQJJ`BjA\\V^ZXVJFRP^ZZT^X~@x@jAdAj@h@@@`BrAZXzBnB~AdAHFp@j@VTRPv@r@`CpB|@t@vBhBzBdB"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7825189,
+                        "lng" : 106.7062073
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kzw`AehgjSvAeB~@_AS[oAeAKC[AKAWS_C_C_ByAmByAw@v@_CtCi@r@`BrArBfBb@`@eCbCoO{MwEaEeFzFaFrFyKyJdBiB|LaNzK~IJLLQlBvA|@r@xAlAz@n@jC~BjDxCzBnB~AdAz@r@dFlEtD~CzBdB"
+         },
+         "summary" : "Nguyễn Siêu",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1 ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

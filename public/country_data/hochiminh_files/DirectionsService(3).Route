@@ -1,0 +1,755 @@
+/**/_xdc_._q6uoul && _xdc_._q6uoul( {
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJce81ookudTERc6GBG7Bj6iE",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJN03hgofudDERqjn5XK9ERbo",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 11.1131702,
+               "lng" : 107.0529129
+            },
+            "southwest" : {
+               "lat" : 10.7442127,
+               "lng" : 106.6450744
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "71.0 km",
+                  "value" : 71027
+               },
+               "duration" : {
+                  "text" : "1 hour 59 mins",
+                  "value" : 7156
+               },
+               "end_address" : "ĐT767, Vĩnh Cửu, Đồng Nai, Vietnam",
+               "end_location" : {
+                  "lat" : 11.1106882,
+                  "lng" : 107.0529129
+               },
+               "start_address" : "Hẻm 199 Lê Quang Sung, phường 6, Quận 6, Hồ Chí Minh, Vietnam",
+               "start_location" : {
+                  "lat" : 10.750749,
+                  "lng" : 106.6451262
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "21 m",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 10.7505673,
+                        "lng" : 106.6450744
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eHẻm 199 Lê Quang Sung\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ewr`Aac|iSb@J"
+                     },
+                     "start_location" : {
+                        "lat" : 10.750749,
+                        "lng" : 106.6451262
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 10.7507627,
+                        "lng" : 106.6463445
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHẻm 219 Mai Xuân Thưởng\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "avr`Aub|iS@UAY?g@?YAW?CBa@?O?I@IDG?GAGAECAQEUC"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7505673,
+                        "lng" : 106.6450744
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 142
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 10.7505527,
+                        "lng" : 106.6475808
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHẻm 219 Mai Xuân Thưởng\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gwr`Asj|iS@G@WBGd@u@CyC"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7507627,
+                        "lng" : 106.6463445
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 105
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 10.7496192,
+                        "lng" : 106.647466
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Tiệm Hớt Tóc Ngọc Hùng onto \u003cb\u003eMai Xuân Thưởng\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Quán Ăn Tân Cảng (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}ur`Akr|iSf@BpCP"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7505527,
+                        "lng" : 106.6475808
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 10.7496895,
+                        "lng" : 106.6487197
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Công Ty Tnhh Pgmc Việt Nam onto \u003cb\u003eHậu Giang\u003c/b\u003e/\u003cb\u003eĐường Hậu Giang\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Hotel Luxury (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cpr`Auq|iSMyF"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7496192,
+                        "lng" : 106.647466
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 352
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : 10.7466842,
+                        "lng" : 106.6495971
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e after Cửa Hàng Ống Nhựa Ngọc Thủy 2 (on the right)\u003cdiv style=\"font-size:0.9em\"\u003ePass by Công Ty Tnhh Khải Hồng Phát (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qpr`Aoy|iShCUxCa@f@E\\EbAMNCNGr@[~@a@LIHI"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7496895,
+                        "lng" : 106.6487197
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 284
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 10.7444377,
+                        "lng" : 106.6508313
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at Công Ty Tnhh Đầu Tư &amp; Phát Triển Phan Long to stay on \u003cb\u003eCao Văn Lầu\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Cửa Hàng Sữa Th True Mart (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "w}q`A__}iSd@OxDoB@AdAe@ZODCtBy@"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7466842,
+                        "lng" : 106.6495971
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 973
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 10.7482928,
+                        "lng" : 106.6585269
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Sacombank Ngân hàng TMCP Sài Gòn Thương Tín - CN Quận 5 - PGD Cao Văn Lầu onto \u003cb\u003eĐường Võ Văn Kiệt\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Chu Văn An (on the right in 350&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "woq`Auf}iSVMTKmDeH[q@aAoBe@aAs@}AaC}E{@eB}@mBqAwCg@}AO_@_@uAEQQk@Ke@"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7444377,
+                        "lng" : 106.6508313
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 549
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 10.7499379,
+                        "lng" : 106.6632551
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eĐường Võ Văn Kiệt\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ygr`Ayv~iSA[Kc@iAsEU{@]sAe@kBQy@_@yAYkAEUk@yBK]EIGI"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7482928,
+                        "lng" : 106.6585269
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1556
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 198
+                     },
+                     "end_location" : {
+                        "lat" : 10.7507786,
+                        "lng" : 106.6763134
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eĐường Võ Văn Kiệt\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Hải Thượng Lãn Ông (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "crr`Akt_jSUeAGWq@oCUmAIk@CMGo@?KCq@Cy@B}@Ds@F_ABYDm@d@wGP}BBW@c@PcCDg@JkALq@`@aBb@aBn@cCPy@Hi@Fc@?KFk@B[B{@?[?]AKC_@C[Ig@AEK_@Wq@a@k@a@e@e@_@_@Ua@OECu@Qs@MC?"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7499379,
+                        "lng" : 106.6632551
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 166
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 10.7518731,
+                        "lng" : 106.6773084
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at Adsun Tphcm to stay on \u003cb\u003eĐường Võ Văn Kiệt\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "kwr`A}ebjSKKi@UUOOIWQg@c@YUOUIQIW"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7507786,
+                        "lng" : 106.6763134
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 727
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 10.7516543,
+                        "lng" : 106.6837297
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eĐường Võ Văn Kiệt\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "e~r`AelbjSKBOk@Ig@Ec@Ac@Ac@?_@@QEqAKiAEs@UmCIwA?AA[?]@_@B[Da@Hc@lAwFf@iCF_@"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7518731,
+                        "lng" : 106.6773084
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 441
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 10.753354,
+                        "lng" : 106.6867246
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eĐường Võ Văn Kiệt\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "y|r`AitcjSJ@H_@Fc@Ba@Ba@?m@Co@Ie@Ka@Wm@GQSc@]c@i@a@[QWM}@_@m@U]IKGKGKMAA"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7516543,
+                        "lng" : 106.6837297
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1700
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 174
+                     },
+                     "end_location" : {
+                        "lat" : 10.7636902,
+                        "lng" : 106.6979089
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eĐường Võ Văn Kiệt\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Chợ Nga (on the left in 1.4&nbsp;km)\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "mgs`A_gdjSYYk@m@c@_@aA_AuEmE{AyAo@s@]]{@aA_AmAgDkESYg@w@{A{Bo@aAu@mA{BoEcAwBU]Q[Wg@a@i@m@s@y@w@i@c@{BcB_@Wg@_@e@[QKUO}@k@kAw@eBoAA?C@C@ED"
+                     },
+                     "start_location" : {
+                        "lat" : 10.753354,
+                        "lng" : 106.6867246
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 668
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 106
+                     },
+                     "end_location" : {
+                        "lat" : 10.7677209,
+                        "lng" : 106.7022592
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eĐường Võ Văn Kiệt\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Công Ty Cp Dịch Vụ Ngân Long (on the right in 450&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ahu`A}lfjS]g@Q[IKe@c@KMKKKSUg@a@{@sBoEi@{@e@k@WUEGECOOi@_@{@e@o@Y_Ac@sAq@SMUQ]_@"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7636902,
+                        "lng" : 106.6979089
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1414
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : 10.7707736,
+                        "lng" : 106.7146777
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eHầm Thủ Thiêm\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gav`AchgjS_AcAQUQWQ[MUCIYo@Si@Uu@]{AWeBOcBsA}MuA{MAMmBePWcDO}AM_B"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7677209,
+                        "lng" : 106.7022592
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 929
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 108
+                     },
+                     "end_location" : {
+                        "lat" : 10.7731448,
+                        "lng" : 106.7227879
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eĐường Mai Chí Thọ\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "itv`AwuijSi@gIQ}AEYkA_HQeA_@cBe@iBy@}CcAoDuBsG"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7707736,
+                        "lng" : 106.7146777
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 600
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 10.7754761,
+                        "lng" : 106.7276003
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eĐường Mai Chí Thọ\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Dạy Piano tại nhà (on the right)\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "ccw`AmhkjSRIK[e@eAc@cAMYm@mAgBsEcCcGiBqE"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7731448,
+                        "lng" : 106.7227879
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1520
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 10.7818351,
+                        "lng" : 106.7399162
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eĐường Mai Chí Thọ\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Trạm chờ phương trang (on the right)\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "wqw`AofljScCyFiBkEqFsMKWkGkOmEkKkAuC}BqFgBmE"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7754761,
+                        "lng" : 106.7276003
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1431
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 149
+                     },
+                     "end_location" : {
+                        "lat" : 10.7885356,
+                        "lng" : 106.7508047
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eĐường Mai Chí Thọ\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by SMC Thu Thiem (on the right)\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "oyx`AosnjSSJQ_@wBmFcC}FsAeDmBsEwCeHsBcFyBkFy@qBCEw@{Ao@_Ak@q@WWYUWUqB{Aq@_@QI"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7818351,
+                        "lng" : 106.7399162
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 481
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 84
+                     },
+                     "end_location" : {
+                        "lat" : 10.7924399,
+                        "lng" : 106.7520178
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eĐường Mai Chí Thọ\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Chim Công Trắng (on the left)\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "kcz`AowpjSTMoAm@yAi@cBa@}AWkBQuAMUEy@KcDa@"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7885356,
+                        "lng" : 106.7508047
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1657
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 142
+                     },
+                     "end_location" : {
+                        "lat" : 10.8068447,
+                        "lng" : 106.7549589
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eĐường Mai Chí Thọ\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Công Ty Đất Xanh Miền Nam (on the left)\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "w{z`Ac_qjSOA@Zy@KmAMqAOq@GcAKeAKuEg@oLmAgHw@kCWcI}@mD[UCc@OqBWmDe@uAQ}Ck@aCc@q@WmBo@"
+                     },
+                     "start_location" : {
+                        "lat" : 10.7924399,
+                        "lng" : 106.7520178
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15.1 km",
+                        "value" : 15072
+                     },
+                     "duration" : {
+                        "text" : "23 mins",
+                        "value" : 1359
+                     },
+                     "end_location" : {
+                        "lat" : 10.9028369,
+                        "lng" : 106.843195
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eXa lộ Hà Nội\u003c/b\u003e/\u003cb\u003eQL52\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Xa lộ Hà Nội\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Cơ Sở Hòn Non Bộ Hoàng Thiện (on the right in 4.7&nbsp;km)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "wu}`AoqqjSa@Oa@DCAIEGGkCuAuBy@e@SmCy@[IUGSE{Bc@KC}AYoAMiCWy@K{@KaGk@}LkAkBWC?WCYCs@OkC_@kD_@i@GSCuFq@gD]c@EeAO{Ck@{A_@_AY{CoAs@WOI]O{C}AmFaCs@]gAg@oCmAwEsBiAk@sE_CuBaAKEQIw@_@{Aq@eAc@]QoDaB{L}FiD_ByBeAaDyAeIyDgCkAuDgBICKIgEqB_Bu@qDeBg@U}BiAiBy@k@Wi@Uu@_@yA_A_@Me@SaBy@cB}@mAk@g@YYOYQMGeAq@u@k@IGo@i@YYkAiAq@y@_AgAEIGIIMQWIKKMGIOSAAW]U]a@m@Ya@e@{@s@mAo@oAm@kA{@iBm@oA_AiBeAqBq@sAsAwC}@gBoGaMkB{DaBaDYk@y@}AKQ[o@IQ_BeDUk@Ue@q@oAmAaCcBcDkBqD_@s@iBuDw@{AQ_@IOgFiKYo@KSiCcFo@uAe@{@EKgAuB_@s@kA_CEGAGACi@gAg@_AsAmCiAgCO[c@w@k@eAQ_@M]Yg@iAyBuAcCe@w@GIiBaCa@i@GIOQUWgBoBqBoBeAaA_@]eAy@eA{@eBoAkCkBWSoBsAeAm@i@]w@g@qBqAuBsAgCgBk@_@uA}@cHuEi@]w@i@sFsDk@_@SO}EaDgCcBsBsAeFgDiEsCwBuAoDgC}@k@OKk@_@sCiBg@]uA{@eDsBsGoEUOcAq@kH_FsDaCeAq@iBoAeCcBWQSMe@[k@c@i@a@q@k@o@m@AAsA{AeAoAOUUYYe@MUS]e@}@MS_@u@?Ag@iAe@kAa@mAe@{A]qAkAmEy@yCm@wB[iAyBeIu@qCa@yAmBoHe@gBa@_BQq@Qo@aFeRMc@Ke@aBwGQo@Ok@CI"
+                     },
+                     "start_location" : {
+                        "lat" : 10.8068447,
+                        "lng" : 106.7549589
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 222
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 10.9035143,
+                        "lng" : 106.844988
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Đại Lý Gạo Ngọc Anh toward \u003cb\u003eXa lộ Hà Nội\u003c/b\u003e/\u003cb\u003eQL1A\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wmpaA_ybkSFMBM?OAUAGCUGYMc@IWm@{AGSQg@CGEECCEAEAGA"
+                     },
+                     "start_location" : {
+                        "lat" : 10.9028369,
+                        "lng" : 106.843195
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.7 km",
+                        "value" : 4711
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 397
+                     },
+                     "end_location" : {
+                        "lat" : 10.9363804,
+                        "lng" : 106.8683937
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eXa lộ Hà Nội\u003c/b\u003e/\u003cb\u003eQL1A\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Garage Ô Tô Đồng Lạc (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}qpaAedckSoBqFa@}@eAoBmB{CuAoBeBwBMMi@m@wD{Dg@e@CEW]sAwAYYwBoB}NkOwNwNs^a_@s@s@iBmBiDiDeHgHUO_BoAoAaAi@_@k@_@oAu@eAi@}@a@oAi@}@]y@WgCq@sCm@}Ba@WCOCaCQ_AE_AC_BAmC@w@Ao@?cAA}IEkHGm@?mEEa@?gACs@?"
+                     },
+                     "start_location" : {
+                        "lat" : 10.9035143,
+                        "lng" : 106.844988
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11.1 km",
+                        "value" : 11125
+                     },
+                     "duration" : {
+                        "text" : "19 mins",
+                        "value" : 1161
+                     },
+                     "end_location" : {
+                        "lat" : 10.9607097,
+                        "lng" : 106.9479005
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e at Vận chuyển vontainer xnk to stay on \u003cb\u003eXa lộ Hà Nội\u003c/b\u003e/\u003cb\u003eQL1A\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow QL1A\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by CÔNG TY TNHH XÂY DỰNG VÀ ĐIỀU HOÀ KHÔNG KHÍ ĐĂNG HƯNG (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "k_waAmvgkSEBA?A?M@eAC{KEeAAkB?kBAuFEW@uAAgAA_AA{CCgACc@C_@Ca@Ca@Ca@Ea@Cw@Ge@G_@EWEWEg@Io@M_@IqAYkA[SGSI[MYOQOIC{@e@KAKAIEICi@YMGc@UkAq@mImFSMSOqFcDmAu@i@a@KKWW_Au@KIm@c@w@s@aA{@m@e@q@i@o@o@u@s@cAaAw@w@i@g@c@e@]]s@u@][aA_Ak@i@u@s@iAeAi@i@cA_AYYa@a@i@i@aAy@k@o@}@{@eAaAk@k@oAmAi@c@c@_@a@_@[[y@w@[[IGwAuACAiBgBuAsAcB}AKKcAcAu@w@e@i@k@{@a@m@u@gA}@sAgA_Bm@{@g@u@cA}Ak@y@Y_@?A}@sAYc@GKmBqCy@cAy@oAwAwBEECAA?E?C?IMYa@[c@Wc@Qc@Ui@[u@Ki@Mg@Gc@Ea@GaACg@?]@]Dw@Ls@BK@G\\eAHYDIBOPo@H]DQNk@DMR{@BGLg@DMLc@FSZcAT}@`C}Hn@cC^wADUJYpAiE\\}ADS@c@DaA?u@?i@MsAYgCs@cFEYSwAMoACo@?k@@q@Hy@JaAN{AHu@JiADg@NeB@GNgB@A?CB]B]BWDc@@EHaABSFi@Fo@L{AL{AFe@Dm@B]Fi@JcAN}ANqAR{B@Ib@wEHcARoBJoATaC?ELiATmCDe@PgBFw@De@HcADa@B[Dm@LqABUFw@HE?A@ABUHeABOFq@f@kFLaBDu@@[?[?a@AWCe@Ag@McBKwBIuAEw@Eq@a@cHEu@UiEG_ACu@?U?[?]Bc@Bc@Fy@h@}EToBFq@Lw@Hm@TgAFQTy@DK`AaDPm@`BgF|@qCZeALe@T{@R{@|FyYLo@d@_Cx@mE`DaP"
+                     },
+                     "start_location" : {
+                        "lat" : 10.9363804,
+                        "lng" : 106.8683937
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "17.9 km",
+                        "value" : 17852
+                     },
+                     "duration" : {
+                        "text" : "28 mins",
+                        "value" : 1701
+                     },
+                     "end_location" : {
+                        "lat" : 11.0890046,
+                        "lng" : 107.0341091
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Dntn Bắc Sơn 2 onto \u003cb\u003eĐT767\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Shop Trúc Anh (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mw{aAkgwkSME]E}BYm@I{AOa@EYEUCWEOEME_@Qa@Qq@]mAq@}Ay@a@SoAq@kCsAw@a@kAm@mBcAWMOIc@UsAu@sAw@i@a@A?{C_CMIqAeA}AgA]WgBuAm@e@q@e@QOcIcGo@g@cDcCs@e@}@k@}A_AKEeG}CIEGCiAk@m@[mAo@cAi@cB_A}@i@q@a@OKuBqAoBwAmBqAOKSM[WUQSOMKUQYUc@_@a@]YYOOeAaAYWe@e@oBiBWUyAoAoAgA]Y_Au@KIo@c@a@Yg@[w@e@AACCQI}@q@c@[]Um@a@iAs@eBcAWM{@e@SKa@USIKEOG]Oc@So@UAAk@O]McCg@WMg@SUOOIMKMM_@c@c@i@]q@Uo@Oi@Kk@Go@EaA@}@?O@qB?i@DuA@mA@{@@GAG?Q?K?]?G@u@Am@Qc@CEEUEOCMEMM_@Uo@[w@O]mC}Fa@}@IQKYk@qAQc@IQSe@w@eB]u@GKk@oAS[[k@e@cAYo@Ui@oBeFq@aB]w@WWw@s@c@g@MQY[?Am@k@kBqBq@q@a@e@S_@M_@IUCKMk@Uy@c@cBOk@MWOWYUa@U[Ma@MyDs@SGgAYo@QqE_Aq@KeB[iAQcAOyB[w@Oe@G{@MqB[cB]aBc@mAc@m@_@m@[e@]]Wc@c@YY]_@o@g@o@m@}AaBA?iDuC_@]EEe@a@aFmEYWuBmB}A{AcAcA_@[qC{BIIkDaDSOiG{FiBcBMKWW_@]iC_Ck@i@SSYYuEoEGGoAkAsCmC_@]cGwFGGIIeC_C{@y@mAgAyAuAqAoAuAqAyCqC{AuAoAmAi@i@g@e@YYc@_@y@w@qCiCSUoAmAuBqBuAqAoAiAi@g@cB_B{BwB{@}@sBqBoBeBIIg@a@]YkDiD[[}ByBg@i@k@c@EE_@Yq@c@m@]w@e@w@e@m@Yc@SsCaAeBg@o@SgF{A_@KsBg@oBm@s@UGAcA[gCu@kA[gAYaAWqF_B{DgAgBg@eHoB_@KcHkBo@QGAyBo@w@UME{@_@gB_@cBa@}@WcA]YG]Io@S{GkBYImFyAc@MuGmB]KeBg@wEsAwBm@aBa@g@KoI_BaGiAcB[qCc@}@O_C_@a@KuCe@UE{Ds@k@K}AWcAQcCc@aAQs@KeAQu@Mo@M{B_@oB[aAOuAWqAUsB]y@QwCg@a@IQEIAiCc@kASo@IKCs@MYIcAQ{@Wk@UUKg@WaBaAgAw@c@[c@[CCkA{@YSk@c@u@i@{BaBaBkAeA{@{@g@k@[WKm@Qq@Qg@Mi@Gk@Ig@EsAIeCEm@?KAsBCsAEiAEuACoAE[?w@Eq@I_@EMCYEEAuAWyCo@g@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 10.9607097,
+                        "lng" : 106.9479005
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.9 km",
+                        "value" : 5938
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 526
+                     },
+                     "end_location" : {
+                        "lat" : 11.1098522,
+                        "lng" : 107.0527258
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Vòng xoay Đập tràn onto \u003cb\u003eQuang Trung\u003c/b\u003e/\u003cb\u003eĐT767\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow ĐT767\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by CANDY BILLIARDS CLUB (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gytbAebhlS_BlEs@tBuA~Dq@hBs@bBgAzAa@`@_A|@wAdAc@XIFyJbGaGlDg@Xw@\\s@XaBt@eB|@gAj@w@d@IDUJQBKBK@qCRuDTmG\\}AHwAFy@B[?WCSCSGSEOIICQKYUMOSWWi@Ys@Qk@_@qAYaASw@Qm@[_AKWKQKKKKWWQKIEMEOEYEY@Y@[D]HaFbAuBb@sAX}@Ly@?g@Ie@S_@Ya@a@y@gAw@aAo@u@c@i@S_@O_@Iq@Gq@Iw@Yu@OWo@k@UEi@Go@EmBCaCCa@AEAA?CAQKECGIIIACCICGAE?A?C@Mp@oGlBaQVkBPwANyAH}@@y@@y@?w@FgEDcCDgBHsEPqM@aAFwBFs@Fc@Jc@ViAPm@Lm@No@Nq@L}@NcA@GXgCNmAHk@VkBD]VmBJmAXyBZgC@A`@sCJ{@BQ"
+                     },
+                     "start_location" : {
+                        "lat" : 11.0890046,
+                        "lng" : 107.0341091
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 11.1106882,
+                        "lng" : 107.0529129
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q{xbAqvklSs@Gm@G}@QGA"
+                     },
+                     "start_location" : {
+                        "lat" : 11.1098522,
+                        "lng" : 107.0527258
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ewr`Aac|iSb@J@UAaA@wAFk@GWg@IB_@h@}@CyCf@BpCPMyFbHw@xC]|J{E|EsBl@YiEwI}GmNsFiMgAsDcByHwEkRo@wByAaHO{BLkF~AeUX}BdAcErAkGNoCEeB[iBy@}AgAeA}B{@mBo@eBoA}@uA[g@OkAAyBy@qNTaCtBaKR]XgCC}AUgAqAgC{CaBcBo@sAwAwKgKiEaF_IyKeHwMaBkCgBkBeDgC_C_BeGcEOH_BsBy@uAuCkGoAgBs@q@uEcC{CqBuBmC_AyBs@qCg@iEyGmn@_BiTuB}McE{OuBsGRIq@aBgE_Ksd@_hAiEgKgBmESJiCmGwEcLsNi]eDsGuBuBcD{BQITMiDwAaEy@qGq@sDc@@Zy@K_D]uBSs^yDsSuByK_B_HoA_DgAcAIMGoHkDsEqAuHoAga@cEaZoDaJaB_HkCu]cP_RyIulAck@qNgHiDgBsCmBgEgEwAiBoBmCuCyEgEuIgXoi@uXcj@mWeh@wHuOmE_IcDgEuHyHqGcFcTmNubA{p@mu@{f@oCoBwDwDeCeDuAeCmBmEqDiMiNeh@uLyd@Su@J[GcAqB{FWIqCoHsDkGsFcH{FeGmjAikAoMqMuB_BuFwDqGsCaEiAqGoAiF_@eJEcb@YsRE_ZOkIe@_IuAoC{@qBiAsEwBgRoL{C{BcKsIgWuV_V_UoHeHkEaFcLsP{IkMcB_Cm@o@{AuC}@kDQiDXuCtAaFvAkFfJu[j@wE?_Bg@{E{AeLFgExA{O`B}QhFmj@x@uJd@mDbAuL?qBwAmWg@uJBsBjAkLt@_FrHgVdQw{@eKoAuAc@_G{CwOeIuFeD}FoEiU}PsJuGcHmD}MmHyLkIwS}QcGeEgKuGcFcC{Bu@{Cu@}@c@kAgAaA{Ae@yAS{AC_CFaGB}E?cBUi@UaAuGmOeFeLuAkCqEaLu@oAw@s@kAwAmFuFo@aBwAuF]o@{@k@kGwA{JwByR{CeEaA{BcAqBqAeMkL_RyPoVsTgd@sb@qc@_b@cg@se@cCgBkEcCmIqCkN}DoUwG_a@{Kuk@ePsMuD{UwE}X{Ewf@oIgN_CmEaAkE{B{IqG_JqGcDkAeDe@sGQgJSuEUmAQoFgAg@Q_BlEiCtHeBlEiDzD_OjJuK~FgIdE}@XaRhAkGTsAUeAo@sAeC_BwFeAwCaA{@aAWmBRiNnCaBIeAm@cEaFw@iAYqAQiBi@mAeAq@yAMwGK]Q]u@xDk]l@iHr@mg@b@sFfAuEzBiPnCmTBQs@GkBYGA"
+         },
+         "summary" : "ĐT767",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
+ )

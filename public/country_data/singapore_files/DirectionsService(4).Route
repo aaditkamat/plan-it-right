@@ -1,0 +1,572 @@
+/**/_xdc_._4aoapt && _xdc_._4aoapt( {
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV0SkKbAe2jERZIICfeee51o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJrTNAgaoe2jERIj1sMWoFqig",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXU8gu1cZ2jERKxHoFCfSIq0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2V2e0XIZ2jERXc1MlEygQmQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 1.2865526,
+               "lng" : 103.8471717
+            },
+            "southwest" : {
+               "lat" : 1.2420532,
+               "lng" : 103.822724
+            }
+         },
+         "copyrights" : "Map data ©2018 Google, Urban Redevelopment Authority",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 km",
+                  "value" : 1089
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 345
+               },
+               "end_address" : "85A Palawan Beach Walk, Singapore 098521",
+               "end_location" : {
+                  "lat" : 1.2486106,
+                  "lng" : 103.822724
+               },
+               "start_address" : "27 Bukit Manis Rd, Singapore 099892",
+               "start_location" : {
+                  "lat" : 1.2420532,
+                  "lng" : 103.8296957
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 421
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 163
+                     },
+                     "end_location" : {
+                        "lat" : 1.2445984,
+                        "lng" : 103.8269195
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e toward \u003cb\u003eTanjong Beach Walk\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial restricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "yqqFsfvxRaAhAq@`AcAhAKFIDMFe@Xi@h@KNIJQTQRIJ_AfAmA`B"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2420532,
+                        "lng" : 103.8296957
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 365
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 1.247169,
+                        "lng" : 103.8249418
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTanjong Beach Walk\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "warFguuxRMLWTYRe@Za@VGDSJWNYV[XWVURURMHMJOHQHOFODYFKFSJ_@VIJIR"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2445984,
+                        "lng" : 103.8269195
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 303
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 1.2486106,
+                        "lng" : 103.822724
+                     },
+                     "html_instructions" : "At the roundabout, continue straight onto \u003cb\u003ePalawan Beach Walk\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "yqrF{huxR@B?B?B?BABA@ABC@A@C@C?C?A@ADABGLCFGHU`@MNMLWVOPOTWv@Od@ERITINONKHIHILOZCH"
+                     },
+                     "start_location" : {
+                        "lat" : 1.247169,
+                        "lng" : 103.8249418
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 km",
+                  "value" : 2454
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 401
+               },
+               "end_address" : "46 Sentosa Gateway, Singapore",
+               "end_location" : {
+                  "lat" : 1.2618158,
+                  "lng" : 103.8236988
+               },
+               "start_address" : "85A Palawan Beach Walk, Singapore 098521",
+               "start_location" : {
+                  "lat" : 1.2486106,
+                  "lng" : 103.822724
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 276
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : 1.247285,
+                        "lng" : 103.8247848
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003ePalawan Beach Walk\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "yzrF_{txRBIN[HMHIJINOHOHUDSNe@Vw@NUNQVWLMLOTa@FIBGFM@C@E@A"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2486106,
+                        "lng" : 103.822724
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 355
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 1.2482768,
+                        "lng" : 103.8276167
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eAllanbrooke Rd\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "orrF{guxRCACACAACAAAC?C?E?C@CBAa@_@a@i@OSIKIQOc@Qe@M[GWCOAC@QBQF[DUDMCU?I?G?EAE?CAGAGOa@Kc@IS"
+                     },
+                     "start_location" : {
+                        "lat" : 1.247285,
+                        "lng" : 103.8247848
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 106
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 1.2491055,
+                        "lng" : 103.8273386
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eArtillery Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wxrFsyuxRE@GBIFGHGFGFIFMFMFG?I?EAGAQG]B"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2482768,
+                        "lng" : 103.8276167
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 390
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 1.2513762,
+                        "lng" : 103.8246755
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit and stay on \u003cb\u003eArtillery Ave\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "}}rF{wuxR?@A@A@?@A??@A@k@v@q@~@aApAsAxAeAhAy@~@QPKJGHGFEFEHGJGJ"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2491055,
+                        "lng" : 103.8273386
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 620
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 1.2556693,
+                        "lng" : 103.8242985
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eGateway Ave\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "clsFgguxR?B?BA@?@ABA@?@A@A@A@C@A@A?C@A?A@C?A?C?A?CAC?AAA?CAAAAAAAAAAA?CAAAA?C?AAA?A?A?A?A@A?A?AOOGEMISOIGo@q@}@aASSKMKKGGECGEGCGCIAKAIAQ?E@I@G@G@C@KFGBMHQLa@XUNuA~@iDzBIFKHYR]V"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2513762,
+                        "lng" : 103.8246755
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 707
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 1.2618158,
+                        "lng" : 103.8236988
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eSentosa Gateway\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "}ftF{duxRm@f@YTMJGDCBGDGBGDG@EBC?C@C?C?A?E@G?G?s@AC@C?CB{@AyDCqBCqAAY?MAiAA_CC[?M?G@G?g@Je@HI@C@E?E@E?YAW?iAAM?"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2556693,
+                        "lng" : 103.8242985
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 km",
+                  "value" : 5125
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 683
+               },
+               "end_address" : "288 South Bridge Rd, Singapore 058840",
+               "end_location" : {
+                  "lat" : 1.2812457,
+                  "lng" : 103.8446855
+               },
+               "start_address" : "46 Sentosa Gateway, Singapore",
+               "start_location" : {
+                  "lat" : 1.2618158,
+                  "lng" : 103.8236988
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 186
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 1.2634859,
+                        "lng" : 103.8237498
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eSentosa Gateway\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kmuFcauxRiBA{@AeAAe@AQA[?E?G?"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2618158,
+                        "lng" : 103.8236988
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 457
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 1.2667292,
+                        "lng" : 103.8256647
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ywuFmauxRSKWE[A}@A{@Am@CWE]IQKUSUYKUGUGa@CSEOGUIOMOOOOIYKYIiAc@_A["
+                     },
+                     "start_location" : {
+                        "lat" : 1.2634859,
+                        "lng" : 103.8237498
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 473
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 1.269458,
+                        "lng" : 103.8288953
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eW Coast Hwy\u003c/b\u003e/\u003cb\u003eKeppel Rd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "alvFkmuxRs@{@gAgAq@o@u@}@q@w@cAkAy@aAa@g@s@cAm@{@CICQAK"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2667292,
+                        "lng" : 103.8256647
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 288
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 1.2712365,
+                        "lng" : 103.8307811
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eW Coast Hwy\u003c/b\u003e/\u003cb\u003eKeppel Rd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "c}vFsavxRaBeBmAqAi@k@g@m@aBeB"
+                     },
+                     "start_location" : {
+                        "lat" : 1.269458,
+                        "lng" : 103.8288953
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1037
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 1.2726681,
+                        "lng" : 103.8395748
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eKeppel Rd\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "ghwFkmvxROMo@o@g@c@y@aAo@w@KMIKGIAAKOGQEKCKESAIAM?k@?a@DcCNyD?K?uCAe@?gCGaHIiF?{@Ac@?KCa@"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2712365,
+                        "lng" : 103.8307811
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 215
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 1.2738658,
+                        "lng" : 103.841004
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCantonment Link\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eqwFidxxRa@iA[CMCECGCGEGGEEeAeB_@k@Y]"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2726681,
+                        "lng" : 103.8395748
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 669
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 108
+                     },
+                     "end_location" : {
+                        "lat" : 1.2795543,
+                        "lng" : 103.83965
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eCantonment Rd\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "uxwFgmxxRMMECCCKEMCCAGAE?WEuB^u@NsANSDWBeANa@DU@I@O@gBLQBo@Dc@HmAXgD~Ac@PUHqAX"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2738658,
+                        "lng" : 103.841004
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1008
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 192
+                     },
+                     "end_location" : {
+                        "lat" : 1.2865526,
+                        "lng" : 103.8452194
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEu Tong Sen St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e|xFydxxRm@PUSqA_AOMYUSOe@]{AmAmA}@g@a@gAw@uAgAgA{@s@k@WQkAaAiAcAWUm@a@WU_@Yg@c@yDuCUSg@e@eA{@"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2795543,
+                        "lng" : 103.83965
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 1.2854533,
+                        "lng" : 103.8471717
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eUpper Pickering St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}gzFsgyxRR]`@y@Ra@HSN]f@kAh@iAd@cA"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2865526,
+                        "lng" : 103.8452194
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 543
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 108
+                     },
+                     "end_location" : {
+                        "lat" : 1.2812457,
+                        "lng" : 103.8446855
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSouth Bridge Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aazFysyxRh@Vh@XxAt@bAf@\\N\\Pz@d@VLNHb@THD~@f@b@RxAr@pAp@TJz@`@LDVL"
+                     },
+                     "start_location" : {
+                        "lat" : 1.2854533,
+                        "lng" : 103.8471717
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yqqFsfvxRsBjCoApAWLe@Xi@h@UZc@h@iArA{AnBq@h@gAr@[Pq@f@_BxA}@h@eA\\s@b@S^@NIJMBMXo@bAe@d@_@f@w@fCY^URYh@CHBIXi@TSX_@Ni@f@}A^g@d@e@b@q@Tc@BGGCIK@QBAa@_@q@}@S]a@iAUs@ESDc@Lq@DMCU?QCWg@aBMDQPg@^UFOAYI]DCDo@z@sBpCyCbD_BfB[d@ITMPUDUIIS?Oy@o@kCoCe@e@a@OUCW@]FkJhGmA|@}AnA[RUFO@gA?GBuFEkFGsFE}AVYDaCCyFEyAC[Ks@GyBCm@CWEo@Uk@m@Sk@Ku@Me@W_@_@Ys@UiC_As@{@yBwBgBuB}BmCuAkBq@eAE]aGqGqBsBwAsA_CsC]m@Qu@Ay@DeDNeEA{DGiLIeHAo@Ca@a@iAi@GMGOMkAkBy@iASQa@OMAWEuB^iC^k@HgCXyDXqBb@kEpBgBb@m@PUSaBmAm@e@wFkEyGgFcBsAaByAmCuBoEiDmBaBrAmCfCwFpFnClGbDfIzD"
+         },
+         "summary" : "Tanjong Beach Walk and Palawan Beach Walk",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1 ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

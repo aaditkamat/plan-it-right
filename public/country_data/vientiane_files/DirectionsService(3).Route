@@ -1,0 +1,677 @@
+/**/_xdc_._x3uyjx && _xdc_._x3uyjx( {
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJrVv3I4hoJDERI7DAzapbKEw",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBxeZwIZoJDERVmopDjpVCWo",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJffk7SIZoJDERLkzsknE0TSo",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJq28Kz35oJDERXr-YEMB4N7E",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1VoDdtBnJDER24fuWvw3Hlk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1VoDdtBnJDER24fuWvw3Hlk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 17.977112,
+               "lng" : 102.6364031
+            },
+            "southwest" : {
+               "lat" : 17.9605953,
+               "lng" : 102.6075882
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 1034
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 209
+               },
+               "end_address" : "Rue De La Mission, Vientiane, Laos",
+               "end_location" : {
+                  "lat" : 17.9612239,
+                  "lng" : 102.6144281
+               },
+               "start_address" : "Rue Pangkham, Vientiane, Laos",
+               "start_location" : {
+                  "lat" : 17.9652357,
+                  "lng" : 102.6083116
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 470
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 105
+                     },
+                     "end_location" : {
+                        "lat" : 17.9629213,
+                        "lng" : 102.610469
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eຖະໜົນປາງຄຳ\u003c/b\u003e toward \u003cb\u003eYonnet Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wyslB}tgqRz@`A|A|@XNRg@x@cCh@qAJSj@yAr@eBv@mB"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9652357,
+                        "lng" : 102.6083116
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 396
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 17.9605953,
+                        "lng" : 102.6132975
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "gkslBmbhqRDIFK~AsBjDoEhAqAjBiC"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9629213,
+                        "lng" : 102.610469
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 135
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 17.9614437,
+                        "lng" : 102.6142156
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eRue De La Mission\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w|rlBcthqRgDwD"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9605953,
+                        "lng" : 102.6132975
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "33 m",
+                        "value" : 33
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 17.9612239,
+                        "lng" : 102.6144281
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eRue De La Mission\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_bslB{yhqRj@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9614437,
+                        "lng" : 102.6142156
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 889
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 224
+               },
+               "end_address" : "Rue Setthathilath, Vientiane, Laos",
+               "end_location" : {
+                  "lat" : 17.962084,
+                  "lng" : 102.6114991
+               },
+               "start_address" : "Rue De La Mission, Vientiane, Laos",
+               "start_location" : {
+                  "lat" : 17.9612239,
+                  "lng" : 102.6144281
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "33 m",
+                        "value" : 33
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 17.9614437,
+                        "lng" : 102.6142156
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eRue De La Mission\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s`slBe{hqRk@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9612239,
+                        "lng" : 102.6144281
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 17.9619818,
+                        "lng" : 102.6148428
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eຖະໜົນສາມແສນໄທ\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_bslB{yhqRkB{B"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9614437,
+                        "lng" : 102.6142156
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 391
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 17.9642641,
+                        "lng" : 102.6120291
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eຖະໜົນສາມແສນໄທ\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "keslBw}hqRyD`FoBhCuBhCg@z@"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9619818,
+                        "lng" : 102.6148428
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 233
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 17.9629213,
+                        "lng" : 102.610469
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAve Lane Xang\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ssslBelhqRMR`EfEvAzA"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9642641,
+                        "lng" : 102.6120291
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 17.962084,
+                        "lng" : 102.6114991
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gkslBmbhqRDIFK~AsBx@cA"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9629213,
+                        "lng" : 102.610469
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 km",
+                  "value" : 2250
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 466
+               },
+               "end_address" : "Ave Lane Xang, Vientiane, Laos",
+               "end_location" : {
+                  "lat" : 17.9709387,
+                  "lng" : 102.6183957
+               },
+               "start_address" : "Rue Setthathilath, Vientiane, Laos",
+               "start_location" : {
+                  "lat" : 17.962084,
+                  "lng" : 102.6114991
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 98
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 17.9615101,
+                        "lng" : 102.6121995
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e toward \u003cb\u003eMahosot Road\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_fslB{hhqRpBkC"
+                     },
+                     "start_location" : {
+                        "lat" : 17.962084,
+                        "lng" : 102.6114991
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 224
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 17.9629142,
+                        "lng" : 102.6137143
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eMahosot Road\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mbslBgmhqRyAaBc@i@WYa@c@_BcB"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9615101,
+                        "lng" : 102.6121995
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 194
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 84
+                     },
+                     "end_location" : {
+                        "lat" : 17.9640586,
+                        "lng" : 102.6123272
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eຖະໜົນສາມແສນໄທ\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ekslBuvhqRoBhCuBhC"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9629142,
+                        "lng" : 102.6137143
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 931
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 196
+                     },
+                     "end_location" : {
+                        "lat" : 17.9698928,
+                        "lng" : 102.6182833
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAve Lane Xang\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "krslBanhqREBIFEBE@A@A?C@C?G?E?C?GCKCyCeDMMiEgE{HmIqBcCoE{Ea@a@i@eACC?C?Y"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9640586,
+                        "lng" : 102.6123272
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 803
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 17.9709387,
+                        "lng" : 102.6183957
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "yvtlBgsiqRCSGSQ[W[[a@e@e@gAmAsCyCWWOYKYK[MOKMKEMEK?Y@SF]VUTMLCNERANBNBJDNPNRJNHTPXVv@v@ZZ|CfDVV"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9698928,
+                        "lng" : 102.6182833
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "2.6 km",
+                  "value" : 2609
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 488
+               },
+               "end_address" : "Ban Nongbone, Vientiane, Laos",
+               "end_location" : {
+                  "lat" : 17.977112,
+                  "lng" : 102.6364031
+               },
+               "start_address" : "Ave Lane Xang, Vientiane, Laos",
+               "start_location" : {
+                  "lat" : 17.9709387,
+                  "lng" : 102.6183957
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "86 m",
+                        "value" : 86
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 17.9703266,
+                        "lng" : 102.6179105
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "k}tlB_tiqRr@v@ZRTJRH"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9709387,
+                        "lng" : 102.6183957
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 421
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 17.9719084,
+                        "lng" : 102.6208019
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "qytlB}piqRT?LCHCPONUF[CSGSQ[W[[a@e@e@gAmAsCyCWWOYKYK["
+                     },
+                     "start_location" : {
+                        "lat" : 17.9703266,
+                        "lng" : 102.6179105
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 17.9720693,
+                        "lng" : 102.6212819
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to continue toward \u003cb\u003e23 Singha Rd\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "mculB_cjqRCSESEQK]CG"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9719084,
+                        "lng" : 102.6208019
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1438
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 236
+                     },
+                     "end_location" : {
+                        "lat" : 17.9743113,
+                        "lng" : 102.6334064
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e23 Singha Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mdulB_fjqRi@}Bo@eDc@_CEMKc@m@{CI]G_@EOYuAk@eCAMe@cC[aB?ASoA_@cB]wAOs@EU_@cB]aBAA]gBMo@Ga@ESeB{IG]AIAI@G@G@EBEFEHGDALC^G\\GZEPETEZKNGHCJC"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9720693,
+                        "lng" : 102.6212819
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 240
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 17.9747993,
+                        "lng" : 102.6356171
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mrulByqlqRI_@EOEUOu@Io@EUCYEa@WiCIq@"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9743113,
+                        "lng" : 102.6334064
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 370
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 17.977112,
+                        "lng" : 102.6364031
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ouulBs_mqR[De@Dk@HoAP_@D_Df@C@C@I@C?A?A@A?AAA?AEACACOuAGs@OyAAE"
+                     },
+                     "start_location" : {
+                        "lat" : 17.9747993,
+                        "lng" : 102.6356171
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 185
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 44
+               },
+               "end_address" : "Ban Nongbone, Vientiane, Laos",
+               "end_location" : {
+                  "lat" : 17.9764274,
+                  "lng" : 102.6352583
+               },
+               "start_address" : "Ban Nongbone, Vientiane, Laos",
+               "start_location" : {
+                  "lat" : 17.977112,
+                  "lng" : 102.6364031
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 185
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 17.9764274,
+                        "lng" : 102.6352583
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}cvlBodmqR@DNxAFr@NtA@B@B@D@?@@@?@A@?B?HABABAv@M"
+                     },
+                     "start_location" : {
+                        "lat" : 17.977112,
+                        "lng" : 102.6364031
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wyslB}tgqRz@`A|A|@XNRg@x@cCh@qAv@mBxBiFjGcIhAqAjBiCgDwDj@i@k@h@kB{BiHjJuBhCg@z@MR`EfEvAzADIfB_CjDoEwDiE_BcBoBhC{BlCWNQ@]GgDsDiEgE{HmIqBcCoE{Ea@a@i@eACGCm@Yo@s@}@yGeH[s@K[MOKMKEYEY@SFs@l@MLCNGb@FZDNPNb@Tn@h@hGrGr@v@ZRh@Tb@CZSNUF[Kg@i@w@aAgA{EgFg@q@Wu@Ig@_AuDeBwIeAiFeA{Eg@qC[cBSoA_@cBm@kCe@yBkA{F{BoLCSBODKPMpAUl@Kp@QXKJCI_@Ke@YeBg@{EIq@[DqANsG`AYBCECGWiCQ_BP~AVhCBFBDF?lAS"
+         },
+         "summary" : "ຖະໜົນປາງຄຳ",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1, 2, 3 ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
