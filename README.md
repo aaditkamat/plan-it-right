@@ -28,10 +28,10 @@ User Guide
 2.  Click on the Google Login Button, enter the username, password and the 6-digit verification code that you recieve on your phone
 
 3.  Fill in the following fields on the form: 
-      i. Location
-      ii. Number of Guests/Passengers
-      iii. Pace 
-      iv. Additional Options
+     i. Location
+     ii. Number of Guests/Passengers
+     iii. Pace 
+     iv. Additional Options
 
 An error message will be displayed in red beside the field entered incorrectly. Also the Google reCaptcha has to be selected for verification Purposes. Click the ‘Submit Booking Form’ to get the trip itinerary.
 
@@ -59,9 +59,9 @@ User Stories
 
 Tools & Technologies used
 ================
-Framework:      NodeJS with ExpressJS
-Frontend:       HTML,CSS, Bootstrap
-Web scraping:   NightmareJS
+Framework: NodeJS with ExpressJS
+Frontend: HTML,CSS, Bootstrap
+Web scraping: NightmareJS
 
 
 Issues 
