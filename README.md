@@ -82,4 +82,4 @@ Upcoming Features
 
 Made by [Aadit Kamat](https://github.com/aaditkamat) and [Rahul Baid](https://github.com/rahulb99) 
 -------------------
-We created this project as a part of the team 'SnapFinish' for Orbital 2018.
+We created this project as a part of the team 'SnapFinish' for Orbital 2018 (https://orbital.comp.nus.edu.sg/).
