@@ -1,6 +1,5 @@
-Welcome to [PlanItRight](https://planitright.herokuapp.com/)
+Welcome to PlanItRight
 =================
-(click on link above for redirecting to our application)
 
 Project Summary 
 =================
@@ -59,8 +58,8 @@ User Stories
 
 Tools & Technologies used
 ================
-Framework: NodeJS with ExpressJS
-Frontend: HTML,CSS, Bootstrap
+Framework: NodeJS with ExpressJS <br/>
+Frontend: HTML,CSS, Bootstrap <br/>
 Web scraping: NightmareJS
 
 
@@ -76,10 +75,10 @@ Issues
 
 Upcoming Features
 ============
-                Will be updated soon.
+     Will be updated soon.
    
 
 
 Made by [Aadit Kamat](https://github.com/aaditkamat) and [Rahul Baid](https://github.com/rahulb99) 
 -------------------
-We created this project as a part of the team 'SnapFinish' for Orbital 2018 (https://orbital.comp.nus.edu.sg/).
+We created this project as a part of the team 'SnapFinish' for [Orbital 2018](https://orbital.comp.nus.edu.sg/).
