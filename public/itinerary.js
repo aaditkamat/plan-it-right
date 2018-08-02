@@ -4,6 +4,7 @@ itinerary_area = document.getElementsByClassName("row justify-content-center")[0
 
 $.getJSON('demo.json', (data) => {
     test_json = data;
+    console.log(test_json);
     addContent();
 });
 
@@ -40,7 +41,7 @@ var createPlan = (planContents, curr_day, placeName) => {
         circle.className = "timeline_circle";
         circle.style = `margin-left: -115px; margin-top: -70px; position: absolute;`;
         const imageTag = document.createElement("img");
-        if (planItems[i].day === curr_day && planItems[i].city === placeName) {
+        if (planItems[i].day === curr_day && planItems[i].city.toLowerCase() === placeName.toLowerCase()) {
             entityName.innerText = planItems[i].name;
             entityTime.innerText = planItems[i].time;
             circle.innerHTML = `<svg height="100" width="100">
@@ -291,6 +292,7 @@ var handleDomObjects = (domObjects) => {
     //adding line break between each plan item
     entityDetails.append(document.createElement("br"));
     planContents.append(entityDetails);
+    console.log(entityDetails);
 };
 
 
