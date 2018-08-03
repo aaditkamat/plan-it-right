@@ -32,25 +32,16 @@
     <link rel="stylesheet" type="text/css" href="css/util.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="index.css">
-    <!--
-    <script src="//connect.facebook.net/en_US/sdk.js"></script>
-    <script>
-        FB.init({
-            appId      : '203280410335018',
-            status     : true,
-            xfbml      : true,
-            version    : 'v2.6'
-        });
-    </script> -->
-    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase.js"></script>
+    <!--===============================================================================================-->
+    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-database.js"></script>
     <script>
         var config = {
             apiKey: "AIzaSyBGzIEz5VJFXnxiX7fQHXZtf_78kMavm14",
             authDomain: "plan-it-right.firebaseapp.com",
             databaseURL: "https://plan-it-right.firebaseio.com",
-            projectId: "plan-it-right",
-            storageBucket: "plan-it-right.appspot.com",
-            messagingSenderId: "416014816367",
+            projectId: "plan-it-right"
         };
         firebase.initializeApp(config);
     </script>
@@ -288,8 +279,7 @@
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
-    <script src="googleSignIn.js"></script>
-    <script src="facebookSignIn.js"></script>
+    <script src="signIn.js"></script>
 
 
 </body>

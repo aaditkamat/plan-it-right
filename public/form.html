@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="">
@@ -21,326 +20,387 @@
 
     <link rel="stylesheet" href="form.css">
 
-    <!-- <script src="loginStatus.js"></script> -->
+    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-database.js"></script>
 
+    <script>
+        var config = {
+            apiKey: "AIzaSyBGzIEz5VJFXnxiX7fQHXZtf_78kMavm14",
+            authDomain: "plan-it-right.firebaseapp.com",
+            databaseURL: "https://plan-it-right.firebaseio.com",
+            projectId: "plan-it-right"
+        };
+        firebase.initializeApp(config);
+    </script>
+</head>
 <body>
-    <!-- Preloader Start -->
-    <div id="preloader">
-        <div class="preload-content">
-            <div id="world-load"></div>
-        </div>
+<!-- Preloader Start -->
+<div id="preloader">
+    <div class="preload-content">
+        <div id="world-load"></div>
     </div>
-    <!-- Preloader End -->
+</div>
+<!-- Preloader End -->
 
-    <!-- ***** Header Area Start ***** -->
-    <header class="header-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <nav class="navbar navbar-expand-lg">
-                        <!-- Logo -->
-                        <a class="navbar-brand" href="index.html"><img src="img/core-img/logo.png" alt="Logo"></a>
-                        <!-- Navbar Toggler -->
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#worldNav" aria-controls="worldNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-                        <!-- Navbar -->
-                        <div class="collapse navbar-collapse" id="worldNav">
-                            <ul class="navbar-nav ml-auto">
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                                </li>
-                                <!-- Not using Featured Trips section at the moment
-                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Featured
-                                        Trips</a>
-                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="london-trip.html">London</a>
-                                        <a class="dropdown-item" href="mexico city-trip.html">Mexico City</a>
-                                        <a class="dropdown-item" href="singapore-trip.html">Singapore</a>
-                                        <a class="dropdown-item" href="macau-trip.html">Macau</a>
-                                    </div> -->
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="about.html">About Us</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="contact.html">Contact Us</a>
-                                </li>
-                                <li class="nav-item">
-                                    <div class="nav-link">
-                                        Sign Out
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- ***** Header Area End ***** -->
-
-    <!-- ********** Hero Area Start ********** -->
-    <div class="hero-area height-400 bg-img background-overlay" style="background-image: url(img/blog-img/bg4.jpg);"></div>
-    <!-- ********** Hero Area End ********** -->
-
-    <div class="regular-page-wrap section-padding-100">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-10 col-lg-8">
-                        <div class="page-content form-box">
-                            <h1>Trip Details</h1>
-                            <br>
-                            <br>
-                            <span style="font-size: small;">
-                                Just fill in the form below and we will create your personalized day-by-day itinerary.&nbsp;
-                            </span>
-                            <hr>
-                            <div>
-                                <label class="form-label" id="location-label">Location</label>
-                                <dt></dt>
-                                <div>
-                                    <input autocomplete="on" name="city" type="text" placeholder="City"
-                                           style="float:left; margin-right: 15px; width: 284px; height: 34.8px;">
-                                    <div>
-                                        <select id="country_options" style="width:284px; height: 34.8px;"
-                                                title="country_options"></select>
-                                        <button id="dropdown-button"></button>
-                                    </div>
-                                </div>  
-                            </div>
-                            <br>
-                            <!-- <div>
-                                 <label class="form-label" id="departure-label">Departure Date </label>
-                                 <dt></dt>
-                                 <div>
-                                     <input name="departure" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
-                                 </div>
-                                 <img class="calendarIcon" id="firstCalendarIcon" src="images/icons/calendar-icon.png">
-                                 <div class="calendar" id="firstCalendar"></div>
-                             </div>
-                             <br>
-                             <div>
-                                 <label class="form-label" id="return-label">Return Date</label>
-                                 <dt></dt>
-                                 <div>
-                                     <input name="return" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
-                                 </div>
-                                 <img class="calendarIcon" id="secondCalendarIcon" src="images/icons/calendar-icon.png">
-                                 <div class="calendar" id="secondCalendar"></div>
-                             </div>
-                             <br> -->
-                            <div>
-                                <label class="form-label" id="guests-label">Number of guests/passengers</label>
-                                <dt></dt>
-                                <div>
-                                    <input name="guests" type="text" placeholder="*Please Select*" style="width: 584px;height: 34.8px;">
+<!-- ***** Header Area Start ***** -->
+<header class="header-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="navbar navbar-expand-lg">
+                    <!-- Logo -->
+                    <a class="navbar-brand" href="index.html"><img src="img/core-img/logo.png" alt="Logo"></a>
+                    <!-- Navbar Toggler -->
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#worldNav"
+                            aria-controls="worldNav" aria-expanded="false" aria-label="Toggle navigation"><span
+                            class="navbar-toggler-icon"></span></button>
+                    <!-- Navbar -->
+                    <div class="collapse navbar-collapse" id="worldNav">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                            </li>
+                            <!-- Not using Featured Trips section at the moment
+                             <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Featured
+                                    Trips</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="london-trip.html">London</a>
+                                    <a class="dropdown-item" href="mexico city-trip.html">Mexico City</a>
+                                    <a class="dropdown-item" href="singapore-trip.html">Singapore</a>
+                                    <a class="dropdown-item" href="macau-trip.html">Macau</a>
+                                </div> -->
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="about.html">About Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="contact.html">Contact Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <div class="nav-link">
                                 </div>
-                            </div>
-                            <br>
-                            <div>
-                                <label class="form-label">Pace (Optional)</label>
-                                <dt></dt>
-                                <div>
-                                    <input type="radio" name="colors" id="slow-relaxed" value="Slow & Relaxed">&ensp;&ensp;Slow
-                                    &amp; Relaxed&ensp;&ensp;&ensp;&ensp;
-                                    <input type="radio" name="colors" id="medium-chilled" value="Medium & Chilled">&ensp;&ensp;Medium
-                                    &amp; Chilled&ensp;&ensp;&ensp;&ensp;
-                                    <input type="radio" name="colors" value="Fast & Energetic">&ensp;&ensp;Fast &amp;
-                                    Energetic&ensp;&ensp;&ensp;&ensp;
-                                </div>
-                            </div>
-                            <br>
-                            <div data-role="container" data-type="virtual-form-table-row" data-hash="00000011" data-type-id="0" data-colspan="20" data-num-children="1">
-                                <div data-role="control" data-type="check-box" data-hash="00000012" data-type-id="2" data-colspan="20" aria-labelledby="checkbox-00000012-acc checkbox-00000012-error-acc checkbox-00000012-instr-acc" data-instructions-on-click="1" data-renderer-type="tln" data-id="42212190" data-is-active="1">
-                                    <label class="form-label" data-role="label" id="checkbox-00000012-acc" data-i18n-text="control_label_42212190">Additional Details (Optional)</label>
-                                    <dt data-role="instructions" id="checkbox-00000012-instr-acc" data-is-empty="1" data-i18n-text="control_instructions_42212190"></dt>
-                                    <div data-role="input-row" data-is-first-row="1" data-fill-colspan="0">
-                                        <div data-role="choice" data-index="0" data-size="half" class="left-choice">
-                                            <label data-role="choice" id="checkbox-00000012-0">
-                                                <input type="checkbox" id="00000012_0" data-role="i123-input" data-index="0" data-value="Family &amp; kids">
-                                                <label data-role="checkbox" for="00000012_0" aria-labelledby="checkbox-00000012-0" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_0" data-skip-markdown="true">Family &amp; kids</span>
-                                            </label>
-                                        </div>
-                                        <div data-role="choice" data-index="6" data-size="half">
-                                            <label data-role="choice" id="checkbox-00000012-6">
-                                                <input type="checkbox" id="00000012_6" data-role="i123-input" data-index="6" data-value="Couple &amp; Romantic">
-                                                <label data-role="checkbox" for="00000012_6" aria-labelledby="checkbox-00000012-6" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_6" data-skip-markdown="true">Couple &amp; Romantic</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                    <div data-role="input-row" data-fill-colspan="0">
-                                        <div data-role="choice" data-index="1" data-size="half" class="left-choice">
-                                            <label data-role="choice" id="checkbox-00000012-1">
-                                                <input type="checkbox" id="00000012_1" data-role="i123-input" data-index="1" data-value="Food &amp; drink">
-                                                <label data-role="checkbox" for="00000012_1" aria-labelledby="checkbox-00000012-1" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_1" data-skip-markdown="true">Food &amp; drink</span>
-                                            </label>
-                                        </div>
-                                        <div data-role="choice" data-index="7" data-size="half">
-                                            <label data-role="choice" id="checkbox-00000012-7">
-                                                <input type="checkbox" id="00000012_7" data-role="i123-input" data-index="7" data-value="Outdoor">
-                                                <label data-role="checkbox" for="00000012_7" aria-labelledby="checkbox-00000012-7" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_7" data-skip-markdown="true">Outdoor</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                    <div data-role="input-row" data-fill-colspan="0">
-                                        <div data-role="choice" data-index="2" data-size="half" class="left-choice">
-                                            <label data-role="choice" id="checkbox-00000012-2">
-                                                <input type="checkbox" id="00000012_2" data-role="i123-input" data-index="2" data-value="Sight &amp; Landmarks">
-                                                <label data-role="checkbox" for="00000012_2" aria-labelledby="checkbox-00000012-2" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_2" data-skip-markdown="true">Sight &amp; Landmarks</span>
-                                            </label>
-                                        </div>
-                                        <div data-role="choice" data-index="8" data-size="half">
-                                            <label data-role="choice" id="checkbox-00000012-8">
-                                                <input type="checkbox" id="00000012_8" data-role="i123-input" data-index="8" data-value="History &amp; Culture">
-                                                <label data-role="checkbox" for="00000012_8" aria-labelledby="checkbox-00000012-8" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_8" data-skip-markdown="true">History &amp; Culture</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                    <div data-role="input-row" data-fill-colspan="0">
-                                        <div data-role="choice" data-index="3" data-size="half" class="left-choice">
-                                            <label data-role="choice" id="checkbox-00000012-3">
-                                                <input type="checkbox" id="00000012_3" data-role="i123-input" data-index="3" data-value="Parks &amp; Nature">
-                                                <label data-role="checkbox" for="00000012_3" aria-labelledby="checkbox-00000012-3" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_3" data-skip-markdown="true">Parks &amp; Nature</span>
-                                            </label>
-                                        </div>
-                                        <div data-role="choice" data-index="9" data-size="half">
-                                            <label data-role="choice" id="checkbox-00000012-9">
-                                                <input type="checkbox" id="00000012_9" data-role="i123-input" data-index="9" data-value="Beaches">
-                                                <label data-role="checkbox" for="00000012_9" aria-labelledby="checkbox-00000012-9" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_9" data-skip-markdown="true">Beaches</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                    <div data-role="input-row" data-fill-colspan="0">
-                                        <div data-role="choice" data-index="4" data-size="half" class="left-choice">
-                                            <label data-role="choice" id="checkbox-00000012-4">
-                                                <input type="checkbox" id="00000012_4" data-role="i123-input" data-index="4" data-value="Museums">
-                                                <label data-role="checkbox" for="00000012_4" aria-labelledby="checkbox-00000012-4" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_4" data-skip-markdown="true">Museums</span>
-                                            </label>
-                                        </div>
-                                        <div data-role="choice" data-index="10" data-size="half">
-                                            <label data-role="choice" id="checkbox-00000012-10">
-                                                <input type="checkbox" id="00000012_10" data-role="i123-input" data-index="10" data-value="Nightlife">
-                                                <label data-role="checkbox" for="00000012_10" aria-labelledby="checkbox-00000012-10" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_10" data-skip-markdown="true">Nightlife</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                    <div data-role="input-row" data-is-last-row="1" data-fill-colspan="0">
-                                        <div data-role="choice" data-index="5" data-size="half" class="left-choice">
-                                            <label data-role="choice" id="checkbox-00000012-5">
-                                                <input type="checkbox" id="00000012_5" data-role="i123-input" data-index="5" data-value="Shopping">
-                                                <label data-role="checkbox" for="00000012_5" aria-labelledby="checkbox-00000012-5" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_5" data-skip-markdown="true">Shopping</span>
-                                            </label>
-                                        </div>
-                                        <div data-role="choice" data-index="11" data-size="half">
-                                            <label data-role="choice" id="checkbox-00000012-11">
-                                                <input type="checkbox" id="00000012_11" data-role="i123-input" data-index="11" data-value="Shows &amp; Concerts">
-                                                <label data-role="checkbox" for="00000012_11" aria-labelledby="checkbox-00000012-11" role="checkbox"></label>
-                                                <span data-role="option-text" data-i18n-text="control_label_42212190_choice_11" data-skip-markdown="true">Shows &amp; Concerts</span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                    <label data-role="error" id="checkbox-00000012-error-acc" data-is-empty="1"></label>
-                                </div>
-                            </div>  
-                            <div>
-                                <label class="form-label">Verification</label>
-                                <dt></dt>
-                                <div class="g-recaptcha" data-sitekey="6Lf-jWQUAAAAAHboA9Ad47JkiRYWrmIOSVI5dKQt"></div>
-                            </div>   
-                            <br>
-                            <input style="margin-left:150px; height:46px;width:223.2px;background-color:#4c4c4c; color:#FFFFFF;" type="submit" value="Submit Booking Form" >
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- ***** Footer Area Start ***** -->
-    <footer class="footer-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-4">
-                    <div class="footer-single-widget">
-                        <a href="#"><img src="img/core-img/logo.png" alt=""></a>
-                        <div class="copywrite-text mt-30">
-                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                        </div>
-                    </div>
-                </div>
-                 <div class="col-12 col-md-4">
-                    <div class="footer-single-widget">
-                        <ul class="footer-menu d-flex justify-content-between">
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
-                            <li><a href="about.html">About Us</a></li>
+                            </li>
                         </ul>
                     </div>
-                </div>
-                <div class="col-12 col-md-4">
-                    <div class="footer-single-widget">
-                        <h5>Subscribe</h5>
-                        <form action="#" method="post">
-                            <input type="email" name="email" id="email" placeholder="Enter your mail">
-                            <button type="button"><i class="fa fa-arrow-right"></i></button>
-                        </form>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- ***** Header Area End ***** -->
+
+<!-- ********** Hero Area Start ********** -->
+<div class="hero-area height-400 bg-img background-overlay" style="background-image: url(img/blog-img/bg4.jpg);"></div>
+<!-- ********** Hero Area End ********** -->
+
+<div class="dropdown-content"></div>
+
+<div class="regular-page-wrap section-padding-100">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10 col-lg-8">
+                <div class="page-content form-box">
+                    <h1>Trip Details</h1>
+                    <br>
+                    <br>
+                    <span style="font-size: small;">
+                                    Just fill in the form below and we will create your personalized day-by-day itinerary.&nbsp;
+                                </span>
+                    <hr>
+                    <div>
+                        <label class="form-label" id="location-label">Location</label>
+                        <dt></dt>
+                        <div>
+                            <input autocomplete="on" name="city" type="text" placeholder="City"
+                                   style="float:left; margin-right: 15px; width: 284px; height: 34.8px;">
+                            <div>
+                                <select id="country_options" style="width:284px; height: 34.8px;"
+                                        title="country_options"></select>
+                                <button id="dropdown-button"></button>
+                            </div>
+                        </div>
                     </div>
+                    <br>
+                    <!-- <div>
+                         <label class="form-label" id="departure-label">Departure Date </label>
+                         <dt></dt>
+                         <div>
+                             <input name="departure" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
+                         </div>
+                         <img class="calendarIcon" id="firstCalendarIcon" src="images/icons/calendar-icon.png">
+                         <div class="calendar" id="firstCalendar"></div>
+                     </div>
+                     <br>
+                     <div>
+                         <label class="form-label" id="return-label">Return Date</label>
+                         <dt></dt>
+                         <div>
+                             <input name="return" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
+                         </div>
+                         <img class="calendarIcon" id="secondCalendarIcon" src="images/icons/calendar-icon.png">
+                         <div class="calendar" id="secondCalendar"></div>
+                     </div>
+                     <br> -->
+                    <div>
+                        <label class="form-label" id="guests-label">Number of guests/passengers</label>
+                        <dt></dt>
+                        <div>
+                            <input name="guests" type="text" placeholder="*Please Select*"
+                                   style="width: 584px;height: 34.8px;">
+                        </div>
+                    </div>
+                    <br>
+                    <div>
+                        <label class="form-label">Pace (Optional)</label>
+                        <dt></dt>
+                        <div>
+                            <input type="radio" name="colors" id="slow-relaxed" value="Slow & Relaxed">&ensp;&ensp;Slow
+                            &amp; Relaxed&ensp;&ensp;&ensp;&ensp;
+                            <input type="radio" name="colors" id="medium-chilled" value="Medium & Chilled">&ensp;&ensp;Medium
+                            &amp; Chilled&ensp;&ensp;&ensp;&ensp;
+                            <input type="radio" name="colors" value="Fast & Energetic">&ensp;&ensp;Fast &amp;
+                            Energetic&ensp;&ensp;&ensp;&ensp;
+                        </div>
+                    </div>
+                    <br>
+                    <div data-role="container" data-type="virtual-form-table-row" data-hash="00000011" data-type-id="0"
+                         data-colspan="20" data-num-children="1">
+                        <div data-role="control" data-type="check-box" data-hash="00000012" data-type-id="2"
+                             data-colspan="20"
+                             aria-labelledby="checkbox-00000012-acc checkbox-00000012-error-acc checkbox-00000012-instr-acc"
+                             data-instructions-on-click="1" data-renderer-type="tln" data-id="42212190"
+                             data-is-active="1">
+                            <label class="form-label" data-role="label" id="checkbox-00000012-acc"
+                                   data-i18n-text="control_label_42212190">Additional Details (Optional)</label>
+                            <dt data-role="instructions" id="checkbox-00000012-instr-acc" data-is-empty="1"
+                                data-i18n-text="control_instructions_42212190"></dt>
+                            <div data-role="input-row" data-is-first-row="1" data-fill-colspan="0">
+                                <div data-role="choice" data-index="0" data-size="half" class="left-choice">
+                                    <label data-role="choice" id="checkbox-00000012-0">
+                                        <input type="checkbox" id="00000012_0" data-role="i123-input" data-index="0"
+                                               data-value="Family &amp; kids">
+                                        <label data-role="checkbox" for="00000012_0"
+                                               aria-labelledby="checkbox-00000012-0" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_0"
+                                              data-skip-markdown="true">Family &amp; kids</span>
+                                    </label>
+                                </div>
+                                <div data-role="choice" data-index="6" data-size="half">
+                                    <label data-role="choice" id="checkbox-00000012-6">
+                                        <input type="checkbox" id="00000012_6" data-role="i123-input" data-index="6"
+                                               data-value="Couple &amp; Romantic">
+                                        <label data-role="checkbox" for="00000012_6"
+                                               aria-labelledby="checkbox-00000012-6" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_6"
+                                              data-skip-markdown="true">Couple &amp; Romantic</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div data-role="input-row" data-fill-colspan="0">
+                                <div data-role="choice" data-index="1" data-size="half" class="left-choice">
+                                    <label data-role="choice" id="checkbox-00000012-1">
+                                        <input type="checkbox" id="00000012_1" data-role="i123-input" data-index="1"
+                                               data-value="Food &amp; drink">
+                                        <label data-role="checkbox" for="00000012_1"
+                                               aria-labelledby="checkbox-00000012-1" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_1"
+                                              data-skip-markdown="true">Food &amp; drink</span>
+                                    </label>
+                                </div>
+                                <div data-role="choice" data-index="7" data-size="half">
+                                    <label data-role="choice" id="checkbox-00000012-7">
+                                        <input type="checkbox" id="00000012_7" data-role="i123-input" data-index="7"
+                                               data-value="Outdoor">
+                                        <label data-role="checkbox" for="00000012_7"
+                                               aria-labelledby="checkbox-00000012-7" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_7"
+                                              data-skip-markdown="true">Outdoor</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div data-role="input-row" data-fill-colspan="0">
+                                <div data-role="choice" data-index="2" data-size="half" class="left-choice">
+                                    <label data-role="choice" id="checkbox-00000012-2">
+                                        <input type="checkbox" id="00000012_2" data-role="i123-input" data-index="2"
+                                               data-value="Sight &amp; Landmarks">
+                                        <label data-role="checkbox" for="00000012_2"
+                                               aria-labelledby="checkbox-00000012-2" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_2"
+                                              data-skip-markdown="true">Sight &amp; Landmarks</span>
+                                    </label>
+                                </div>
+                                <div data-role="choice" data-index="8" data-size="half">
+                                    <label data-role="choice" id="checkbox-00000012-8">
+                                        <input type="checkbox" id="00000012_8" data-role="i123-input" data-index="8"
+                                               data-value="History &amp; Culture">
+                                        <label data-role="checkbox" for="00000012_8"
+                                               aria-labelledby="checkbox-00000012-8" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_8"
+                                              data-skip-markdown="true">History &amp; Culture</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div data-role="input-row" data-fill-colspan="0">
+                                <div data-role="choice" data-index="3" data-size="half" class="left-choice">
+                                    <label data-role="choice" id="checkbox-00000012-3">
+                                        <input type="checkbox" id="00000012_3" data-role="i123-input" data-index="3"
+                                               data-value="Parks &amp; Nature">
+                                        <label data-role="checkbox" for="00000012_3"
+                                               aria-labelledby="checkbox-00000012-3" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_3"
+                                              data-skip-markdown="true">Parks &amp; Nature</span>
+                                    </label>
+                                </div>
+                                <div data-role="choice" data-index="9" data-size="half">
+                                    <label data-role="choice" id="checkbox-00000012-9">
+                                        <input type="checkbox" id="00000012_9" data-role="i123-input" data-index="9"
+                                               data-value="Beaches">
+                                        <label data-role="checkbox" for="00000012_9"
+                                               aria-labelledby="checkbox-00000012-9" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_9"
+                                              data-skip-markdown="true">Beaches</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div data-role="input-row" data-fill-colspan="0">
+                                <div data-role="choice" data-index="4" data-size="half" class="left-choice">
+                                    <label data-role="choice" id="checkbox-00000012-4">
+                                        <input type="checkbox" id="00000012_4" data-role="i123-input" data-index="4"
+                                               data-value="Museums">
+                                        <label data-role="checkbox" for="00000012_4"
+                                               aria-labelledby="checkbox-00000012-4" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_4"
+                                              data-skip-markdown="true">Museums</span>
+                                    </label>
+                                </div>
+                                <div data-role="choice" data-index="10" data-size="half">
+                                    <label data-role="choice" id="checkbox-00000012-10">
+                                        <input type="checkbox" id="00000012_10" data-role="i123-input" data-index="10"
+                                               data-value="Nightlife">
+                                        <label data-role="checkbox" for="00000012_10"
+                                               aria-labelledby="checkbox-00000012-10" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_10"
+                                              data-skip-markdown="true">Nightlife</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div data-role="input-row" data-is-last-row="1" data-fill-colspan="0">
+                                <div data-role="choice" data-index="5" data-size="half" class="left-choice">
+                                    <label data-role="choice" id="checkbox-00000012-5">
+                                        <input type="checkbox" id="00000012_5" data-role="i123-input" data-index="5"
+                                               data-value="Shopping">
+                                        <label data-role="checkbox" for="00000012_5"
+                                               aria-labelledby="checkbox-00000012-5" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_5"
+                                              data-skip-markdown="true">Shopping</span>
+                                    </label>
+                                </div>
+                                <div data-role="choice" data-index="11" data-size="half">
+                                    <label data-role="choice" id="checkbox-00000012-11">
+                                        <input type="checkbox" id="00000012_11" data-role="i123-input" data-index="11"
+                                               data-value="Shows &amp; Concerts">
+                                        <label data-role="checkbox" for="00000012_11"
+                                               aria-labelledby="checkbox-00000012-11" role="checkbox"></label>
+                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_11"
+                                              data-skip-markdown="true">Shows &amp; Concerts</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <label data-role="error" id="checkbox-00000012-error-acc" data-is-empty="1"></label>
+                        </div>
+                    </div>
+                    <div>
+                        <label class="form-label">Verification</label>
+                        <dt></dt>
+                        <div class="g-recaptcha" data-sitekey="6Lf-jWQUAAAAAHboA9Ad47JkiRYWrmIOSVI5dKQt"></div>
+                    </div>
+                    <br>
+                    <input style="margin-left:150px; height:46px;width:223.2px;background-color:#4c4c4c; color:#FFFFFF;"
+                           type="submit" value="Submit Booking Form">
                 </div>
             </div>
         </div>
-    </footer>
-    <!-- ***** Footer Area End ***** -->
+    </div>
+</div>
 
-    <!-- jQuery (Necessary for All JavaScript Plugins) -->
-    <script src="js/jquery/jquery-2.2.4.min.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <!-- Popper js -->
-    <script src="js/popper.min.js"></script>
-    <!-- Bootstrap js -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- Plugins js -->
-    <script src="js/plugins.js"></script>
-    <!-- Active js -->
-    <script src="js/active.js"></script>
-    <!-- DyCalendar js-->
-    <script src="dycalendar.min.js"></script>
-    <!-- Moment.js-->
-    <script src="vendor/daterangepicker/moment.min.js"></script>
+<!-- ***** Footer Area Start ***** -->
+<footer class="footer-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="footer-single-widget">
+                    <a href="#"><img src="img/core-img/logo.png" alt=""></a>
+                    <div class="copywrite-text mt-30">
+                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+                            All rights reserved | This template is made with <i class="fa fa-heart-o"
+                                                                                aria-hidden="true"></i> by <a
+                                    href="https://colorlib.com" target="_blank">Colorlib</a>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="footer-single-widget">
+                    <ul class="footer-menu d-flex justify-content-between">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="footer-single-widget">
+                    <h5>Subscribe</h5>
+                    <form action="#" method="post">
+                        <input type="email" name="email" id="email" placeholder="Enter your mail">
+                        <button type="button"><i class="fa fa-arrow-right"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- ***** Footer Area End ***** -->
 
-    <!-- <script>
-       dycalendar.draw({
-           target: '#firstCalendar',
-           type: 'month',
-           monthformat: "full",
-           prevnextbutton: 'show',
-           highlighttoday: true
-       });
-       dycalendar.draw({
-           target: '#secondCalendar',
-           type: 'month',
-           prevnextbutton: 'show',
-           highlighttoday: true
-       }); -->
-    </script>
-    <
-    script;
-    src = "cities.js" ></script>
-    <script src="countries.js"></script>
-    <script src="form.js"></script>
-    <script src="https://apis.google.com/js/platform.js?onload=initClient" async defer></script>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
+<!-- jQuery (Necessary for All JavaScript Plugins) -->
+<script src="js/jquery/jquery-2.2.4.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<!-- Popper js -->
+<script src="js/popper.min.js"></script>
+<!-- Bootstrap js -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Plugins js -->
+<script src="js/plugins.js"></script>
+<!-- Active js -->
+<script src="js/active.js"></script>
+<!-- DyCalendar js-->
+<script src="dycalendar.min.js"></script>
+<!-- Moment.js-->
+<script src="vendor/daterangepicker/moment.min.js"></script>
+
+<!-- <script>
+   dycalendar.draw({
+       target: '#firstCalendar',
+       type: 'month',
+       monthformat: "full",
+       prevnextbutton: 'show',
+       highlighttoday: true
+   });
+   dycalendar.draw({
+       target: '#secondCalendar',
+       type: 'month',
+       prevnextbutton: 'show',
+       highlighttoday: true
+   });
+</script> -->
+<script src="cities.js"></script>
+<script src="countries.js"></script>
+<script src="form.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<script src="loginStatus.js"></script>
 </body>
 </html>
