@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ebc68e3-519c-40ca-8ead-a77560074d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/signIn.js" afterDir="false" />
+    <list default="true" id="8ebc68e3-519c-40ca-8ead-a77560074d3b" name="Default Changelist" comment="Added regular sign in workflow to the web app&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;">
+      <change afterPath="$PROJECT_DIR$/public/signUp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/facebookSignIn.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/form.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/googleSignIn.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/loginStatus.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/loginStatus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/signIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/signIn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/signup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
     </list>
     <list id="0fba737f-c0e5-4fbc-9890-85b6c8c1faab" name="Add photos for background and map for each place" comment="" />
@@ -100,48 +96,49 @@
     <session id="577593243">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="7" />
-          <entry key="HTML" value="9" />
+          <entry key="CSS" value="9" />
+          <entry key="HTML" value="13" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="9" />
+          <entry key="JavaScript" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="1" />
+          <entry key="ESLintLanguageService" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="280" />
-          <entry key="HTML" value="187" />
-          <entry key="JavaScript" value="4271" />
-          <entry key="PLAIN_TEXT" value="179" />
+          <entry key="CSS" value="324" />
+          <entry key="HTML" value="423" />
+          <entry key="JavaScript" value="6061" />
+          <entry key="PLAIN_TEXT" value="275" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="280" />
-          <entry key="html" value="187" />
-          <entry key="js" value="4271" />
-          <entry key="txt" value="179" />
+          <entry key="css" value="324" />
+          <entry key="html" value="423" />
+          <entry key="js" value="6061" />
+          <entry key="txt" value="275" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="7" />
+          <entry key="css" value="9" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="9" />
-          <entry key="js" value="9" />
+          <entry key="html" value="13" />
+          <entry key="js" value="16" />
           <entry key="json" value="1" />
         </counts>
       </usages-collector>
@@ -149,11 +146,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="1311" column="20" selection-start-line="1311" selection-start-column="20" selection-end-line="1311" selection-end-column="20" />
+            <state relative-caret-position="411">
+              <caret line="1316" column="22" selection-start-line="1316" selection-start-column="22" selection-end-line="1316" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -161,22 +158,76 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="653">
-              <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
+            <state relative-caret-position="215">
+              <caret line="116" column="35" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="35" />
               <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/loginStatus.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/form.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/signup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="109" column="69" lean-forward="true" selection-start-line="109" selection-start-column="69" selection-end-line="109" selection-end-column="117" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="139" column="85" selection-start-line="139" selection-start-column="85" selection-end-line="139" selection-end-column="85" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/signIn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/signUp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="20" column="82" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/form.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-215">
+              <caret line="164" column="16" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -192,21 +243,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>addButto</find>
-      <find>get</find>
-      <find>Jakarta</find>
-      <find>printJS</find>
-      <find>pri</find>
-      <find>body</find>
-      <find>addButton</find>
-      <find>5</find>
-      <find>option</find>
-      <find>print</find>
-      <find>City Optio</find>
-      <find>pirnt</find>
-      <find>must</find>
-      <find>moment</find>
-      <find>h1</find>
       <find>getLe</find>
       <find>departure</find>
       <find>session</find>
@@ -222,6 +258,21 @@
       <find>handleSi</find>
       <find>drop</find>
       <find>dropdown</find>
+      <find>firebase.auth</find>
+      <find>addWar</find>
+      <find>addWarning</find>
+      <find>addWarning(</find>
+      <find>Usern</find>
+      <find>&quot;Password</find>
+      <find>Subscr</find>
+      <find>.wrap-input100</find>
+      <find>Username</find>
+      <find>addWarning =</find>
+      <find>form</find>
+      <find>&lt;form</find>
+      <find>container</find>
+      <find>input</find>
+      <find>wrap-logi</find>
     </findStrings>
     <replaceStrings>
       <replace>formOptions.city =</replace>
@@ -278,14 +329,17 @@
         <option value="$PROJECT_DIR$/public/css/main.css" />
         <option value="$PROJECT_DIR$/public/facebookSignIn.js" />
         <option value="$PROJECT_DIR$/public/googleSignIn.js" />
-        <option value="$PROJECT_DIR$/public/signIn.js" />
         <option value="$PROJECT_DIR$/public/form.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/result.html" />
+        <option value="$PROJECT_DIR$/public/loginStatus.js" />
+        <option value="$PROJECT_DIR$/public/email-password.html" />
         <option value="$PROJECT_DIR$/public/form.css" />
         <option value="$PROJECT_DIR$/public/form.html" />
+        <option value="$PROJECT_DIR$/public/signup.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/signIn.js" />
+        <option value="$PROJECT_DIR$/public/signUp.js" />
         <option value="$PROJECT_DIR$/public/style.css" />
-        <option value="$PROJECT_DIR$/public/loginStatus.js" />
       </list>
     </option>
   </component>
@@ -305,7 +359,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="716" />
     <option name="height" value="900" />
   </component>
@@ -329,6 +383,18 @@
               <item name="orbital-web-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="orbital-web-app" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="orbital-web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orbital-web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="orbital-web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orbital-web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -412,7 +478,8 @@
       <workItem from="1532940970658" duration="1748000" />
       <workItem from="1533119152440" duration="780000" />
       <workItem from="1533135662621" duration="7000" />
-      <workItem from="1533177101234" duration="16610000" />
+      <workItem from="1533177101234" duration="16781000" />
+      <workItem from="1533296329644" duration="8275000" />
     </task>
     <task id="LOCAL-00001" summary="Add destination to page header and remove facebook login">
       <created>1532593552928</created>
@@ -533,11 +600,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533279862395</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add Facebook sign in and sign out workflow&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;">
+      <created>1533292837986</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1533292837986</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76013000" />
+    <option name="totallyTimeSpent" value="84459000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -549,10 +623,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Repositories" order="3" visible="true" weight="0.32980973" />
@@ -568,7 +642,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.47568712" weight="0.32771084" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50739956" side_tool="true" weight="0.3602649" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.54615927" weight="0.32650602" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49753347" weight="0.2821192" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.49753347" visible="true" weight="0.2819277" />
       <window_info anchor="bottom" id="TypeScript" order="12" sideWeight="0.4982382" weight="0.32847682" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -650,33 +724,14 @@
     <MESSAGE value="Changed Google Maps API key&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
     <MESSAGE value="Allow different capitalizations for city input&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
     <MESSAGE value="Add back the UI elements for Facebook Sign In and regular web app &#10;sign in.&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add back the UI elements for Facebook Sign In and regular web app &#10;sign in.&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <MESSAGE value="Add Facebook sign in and sign out workflow&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <MESSAGE value="Added regular sign in workflow to the web app&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added regular sign in workflow to the web app&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/countries.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/singapore-trip.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="142" column="24" selection-start-line="142" selection-start-column="24" selection-end-line="142" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/country_data/kualalumpur_files/print.js" />
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/countries.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/cities.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -867,61 +922,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/facebookSignIn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/signup.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/facebookSignIn.js" />
     <entry file="file://$PROJECT_DIR$/public/result.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-356">
-          <caret line="34" column="106" selection-start-line="34" selection-start-column="106" selection-end-line="34" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="277" column="25" selection-start-line="277" selection-start-column="25" selection-end-line="277" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/signIn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="82" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/form.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="200" selection-start-line="200" selection-end-line="200" />
         </state>
       </provider>
     </entry>
@@ -932,29 +937,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/style.css">
+    <entry file="file://$PROJECT_DIR$/public/email-password.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="1311" column="20" selection-start-line="1311" selection-start-column="20" selection-end-line="1311" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
+        <state relative-caret-position="-788">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="29" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#9628#9633#0" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10051#10057#0" expanded="true" />
+            <element signature="e#10057#10063#0" expanded="true" />
+            <element signature="e#10063#10069#0" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10427#10433#0" expanded="true" />
+            <element signature="e#10433#10439#0" expanded="true" />
+            <element signature="e#10439#10445#0" expanded="true" />
+            <element signature="e#10601#10607#0" expanded="true" />
+            <element signature="e#10607#10613#0" expanded="true" />
+            <element signature="e#10613#10619#0" expanded="true" />
+            <element signature="e#10811#10817#0" expanded="true" />
+            <element signature="e#10817#10823#0" expanded="true" />
+            <element signature="e#10823#10829#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/loginStatus.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="302" column="14" selection-start-line="302" selection-end-line="302" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="164" column="16" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/active.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="81" column="40" lean-forward="true" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="109" column="69" lean-forward="true" selection-start-line="109" selection-start-column="69" selection-end-line="109" selection-end-column="117" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="116" column="35" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="35" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="139" column="85" selection-start-line="139" selection-start-column="85" selection-end-line="139" selection-end-column="85" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/signIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/signUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="82" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="1316" column="22" selection-start-line="1316" selection-start-column="22" selection-end-line="1316" selection-end-column="22" />
         </state>
       </provider>
     </entry>

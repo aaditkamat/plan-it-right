@@ -42,7 +42,33 @@ var handleSignIn = (accountType, provider, customParams, selector) => {
     }, signInProcess);
 };
 
+var handleRegularSignIn = (selector) => {
+    let callback = () => {
+        console.log('Sign In button clicked');
+        let inputs = document.querySelectorAll('input.input100'),
+            labels = document.querySelectorAll('div.p-t-13.p-b-9');
+        let email = inputs[0].value, password = inputs[1].value;
+        let passwordLabel = labels[0];
+        removeRedundantWarning(passwordLabel);
+        firebase.auth().signInWithEmailAndPassword(email, password).then((value) => {
+            window.open('form.html', '_self');
+        }).catch(function (error) {
+            addWarning(passwordLabel, error.message);
+        });
+    };
+    $(selector).on('click', callback);
+    let removeRedundantWarning = (label) => {
+        if (label.childNodes[4] !== undefined)
+            label.removeChild(label.childNodes[4]);
+    };
+
+    let addWarning = (label, message) => {
+        label.innerHTML += `<span class="warning">${message}</span>`;
+    };
+};
+
 // handle sign in event when Google sign in button is clicked
 handleSignIn('Google', googleProvider, {'login_hint': 'user@gmail.com'}, 'a.btn-google.m-b-20');
 // handle sign in event when Facebook sign in button is clicked
 handleSignIn('Facebook', facebookProvider, {'display': 'popup'}, 'a.btn-face.m-b-20');
+handleRegularSignIn('div.container-login100-form-btn.m-t-17');

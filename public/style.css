@@ -1311,3 +1311,10 @@ div.nav-link:hover {
 .dropdown-options:hover {
     cursor: pointer;
 }
+
+.warning {
+    font-size: 12px;
+    font-weight: bold;
+    color: red;
+    margin-left: 30px;
+}

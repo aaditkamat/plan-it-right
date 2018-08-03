@@ -22,12 +22,6 @@
     width: 50%;
 }
 
-.warning {
-    font-size: 12px;
-    color: red;
-    margin-left: 80px;
-}
-
 .td:hover {
     cursor: pointer;
 }
