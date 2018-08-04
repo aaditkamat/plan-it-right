@@ -32,7 +32,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title  -->
-    <title>Plan It Right</title>
+    <title>Sign up</title>
 
     <!-- Favicon  -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -118,8 +118,10 @@
                         </span>
                     </div>
                 <div class="wrap-input100 validate-input">
+                    <label>
                         <input class="input100" type="text" name="username" >
-                        <span class="focus-input100"></span>
+                    </label>
+                    <span class="focus-input100"></span>
                     </div>
                     
                     <div class="p-t-13 p-b-9">
@@ -128,8 +130,10 @@
                         </span>
                     </div>
                 <div class="wrap-input100 validate-input">
+                    <label>
                         <input class="input100" type="password" name="pass" >
-                        <span class="focus-input100"></span>
+                    </label>
+                    <span class="focus-input100"></span>
                     </div>
                     <div class="p-t-20 p-b-9">
                         <span class="txt1">
@@ -137,8 +141,10 @@
                         </span>
                     </div>
                 <div class="wrap-input100 validate-input">
+                    <label>
                         <input class="input100" type="password" name="retype_pass" >
-                        <span class="focus-input100"></span>
+                    </label>
+                    <span class="focus-input100"></span>
                     </div>
                     <div class="container-login100-form-btn m-t-17">
                         <button class="login100-form-btn">
@@ -202,7 +208,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     </div>
                 </div>
             </div>
-        </div>
     </footer>
     <!-- ***** Footer Area End ***** -->
 
@@ -235,12 +240,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <!-- Firebase SDK -->
     <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-auth.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-database.js"></script>
     <script>
         var config = {
             apiKey: "AIzaSyBGzIEz5VJFXnxiX7fQHXZtf_78kMavm14",
             authDomain: "plan-it-right.firebaseapp.com",
-            databaseURL: "https://plan-it-right.firebaseio.com",
             projectId: "plan-it-right"
         };
         firebase.initializeApp(config);

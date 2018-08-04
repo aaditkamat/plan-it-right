@@ -901,7 +901,6 @@ img {
   .post-a-comment-area h5 {
     font-size: 18px;
     color: #000000;
-    margin-bottom: 0;
     font-family: "Ubuntu", sans-serif;
     font-weight: 700;
     margin-bottom: 30px; }
@@ -1298,7 +1297,7 @@ div.nav-link:hover {
     height: 100px;
     min-width: 148px;
     overflow: auto;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     z-index: 1;
 }
 
@@ -1317,4 +1316,5 @@ div.nav-link:hover {
     font-weight: bold;
     color: red;
     margin-left: 30px;
+    width: 300%;
 }

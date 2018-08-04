@@ -45,25 +45,39 @@ var handleSignIn = (accountType, provider, customParams, selector) => {
 var handleRegularSignIn = (selector) => {
     let callback = () => {
         console.log('Sign In button clicked');
-        let inputs = document.querySelectorAll('input.input100'),
-            labels = document.querySelectorAll('div.p-t-13.p-b-9');
+        let inputs = document.querySelectorAll('input.input100');
         let email = inputs[0].value, password = inputs[1].value;
-        let passwordLabel = labels[0];
-        removeRedundantWarning(passwordLabel);
+        removeRedundantWarning('email');
+        removeRedundantWarning('password');
+        // eslint-disable-next-line no-unused-vars
         firebase.auth().signInWithEmailAndPassword(email, password).then((value) => {
             window.open('form.html', '_self');
+            console.log(value);
         }).catch(function (error) {
-            addWarning(passwordLabel, error.message);
+            switch (error.message) {
+                case 'The email address is badly formatted.':
+                    addWarning('email', error.message);
+                    break;
+                case 'There is no user record corresponding to this identifier. The user may have been deleted.':
+                    addWarning('email', 'Email address not in the database');
+                    break;
+                case 'The password is invalid or the user does not have a password.':
+                    addWarning('password', 'Invalid username/password');
+            }
         });
     };
     $(selector).on('click', callback);
-    let removeRedundantWarning = (label) => {
-        if (label.childNodes[4] !== undefined)
-            label.removeChild(label.childNodes[4]);
+    let removeRedundantWarning = (type) => {
+        let warning = document.getElementById(`${type}-warning`);
+        if (warning.style.display === 'block')
+            warning.style.display = 'none';
+
     };
 
-    let addWarning = (label, message) => {
-        label.innerHTML += `<span class="warning">${message}</span>`;
+    let addWarning = (type, message) => {
+        let warning = document.getElementById(`${type}-warning`);
+        warning.innerText = message;
+        warning.style.display = 'block';
     };
 };
 

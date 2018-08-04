@@ -10,7 +10,6 @@ var checkIllegalAccess = () => {
 };
 
 var createProfile = () => {
-    let user = firebase.auth().currentUser;
     let profile = document.querySelector('div.nav-link');
     let image = document.createElement('img');
     let options = document.querySelector('.dropdown-content');
@@ -40,13 +39,16 @@ var createProfile = () => {
     };
     firebase.auth().onAuthStateChanged(function (user) {
         if (user) {
-            console.log(user.displayName + ' is signed in.');
             image.style = "border-radius: 50%; height:30px;";
             image.src = user.photoURL;
             let name = document.createElement('span');
-            name.innerText = user.displayName;
+            if (user.displayName !== null)
+                name.innerText = user.displayName;
+            else
+                name.innerText = user.email;
             name.style = "float: right; margin-left: 10px;";
-            profile.append(image);
+            if (image.src !== 'http://localhost:3000/null')
+                profile.append(image);
             profile.append(name);
             profile.onclick = openOptions;
             $('#sign-out').on('click', signOut);
