@@ -16,10 +16,60 @@
 
     <link rel="stylesheet" type="text/css" href="itinerary.css">
 
-    <script src="loginStatus.js"></script>
+    <style>
+        @media print {
+            .gm-style .gmnoprint, .gmnoprint {
+                display: none
+            }
+        }
+
+        .gm-style .gm-style-cc span, .gm-style .gm-style-cc a, .gm-style .gm-style-mtc div {
+            font-size: 10px
+        }
+
+        .gm-style-pbc {
+            transition: opacity ease-in-out;
+            background-color: rgba(0, 0, 0, 0.45);
+            text-align: center
+        }
+
+        .gm-style-pbt {
+            font-size: 22px;
+            color: white;
+            font-family: Roboto, Arial, sans-serif;
+            position: relative;
+            margin: 0;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%)
+        }
+
+        .gm-style {
+            font: 400 11px Roboto, Arial, sans-serif;
+            text-decoration: none;
+        }
+
+        .gm-style img {
+            max-width: none;
+        }
+    </style>
 
     <script src="vendor/daterangepicker/moment.min.js"></script>
 
+    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-database.js"></script>
+
+    <script>
+        var config = {
+            apiKey: "AIzaSyBGzIEz5VJFXnxiX7fQHXZtf_78kMavm14",
+            authDomain: "plan-it-right.firebaseapp.com",
+            databaseURL: "https://plan-it-right.firebaseio.com",
+            projectId: "plan-it-right"
+        };
+        firebase.initializeApp(config);
+    </script>
 </head>
 
 <body>
@@ -49,18 +99,6 @@
                             <li class="nav-item active">
                                 <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                             </li>
-                            <!-- Not using Featured Trips section at the moment
-                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Featured
-                                        Trips</a>
-                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="london-trip.html">London</a>
-                                        <a class="dropdown-item" href="mexico city-trip.html">Mexico City</a>
-                                        <a class="dropdown-item" href="singapore-trip.html">Singapore</a>
-                                        <a class="dropdown-item" href="macau-trip.html">Macau</a>
-                                    </div> -->
-                            </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="about.html">About Us</a>
                             </li>
@@ -69,7 +107,6 @@
                             </li>
                             <li class="nav-item">
                                 <div class="nav-link">
-                                    Sign Out
                                 </div>
                             </li>
                         </ul>
@@ -85,6 +122,8 @@
 <div class="hero-area height-400 bg-img background-overlay"></div>
 <!-- ********** Hero Area End ********** -->
 
+<div class="dropdown-content"></div>
+
 <section class="contact-area section-padding-100">
     <div class="container">
         <div class="row justify-content-center">
@@ -92,7 +131,7 @@
             <div class="page-heading">
                 <h1> Suggestions </h1>
                 <br>
-                <div id="map" class="googleMap" style="height: 383px; width: 560px;"></div>
+                <div id="map" class="googleMap gm-style" style="height: 383px; width: 560px;"></div>
             </div>
             <br>
         </div>
@@ -149,8 +188,12 @@
 <script src="js/plugins.js"></script>
 <!-- Active js -->
 <script src="js/active.js"></script>
+<script src="canvas-toBlob.js"></script>
+<script src="FileSaver.js"></script>
+<script src="html2canvas.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3q2jxEqqMAXtHTs5K0p6DyL2FumTkDes&libraries=places"></script>
 <script src="result.js"></script>
 <script src="itinerary.js"></script>
+<script src="loginStatus.js"></script>
 </body>
 </html>

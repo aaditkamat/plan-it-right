@@ -19,6 +19,7 @@
     "express-session": "^1.15.6",
     "express-validator": "^5.2.0",
     "fs": "^0.0.2",
+    "html2canvas": "^1.0.0-alpha.12",
     "jshint": "^2.9.5",
     "moment": "^2.22.2",
     "mongoose": "^5.2.3",

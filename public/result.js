@@ -43,14 +43,16 @@ var changeCoordinates = (title) => {
     xhr.send();
     xhr.addEventListener('load', () => {
         const place = JSON.parse(xhr.response).results[0];
-        map = new google.maps.Map(document.getElementById("map"), {
-            center: new google.maps.LatLng(place.geometry.location.lat, place.geometry.location.lng),
-            zoom: 10
-        });
-        marker = new google.maps.Marker({
-            position: map.center,
-            map: map,
-            title: 'Added new marker'
-        });
+        if (place !== undefined) {
+            map = new google.maps.Map(document.getElementById("map"), {
+                center: new google.maps.LatLng(place.geometry.location.lat, place.geometry.location.lng),
+                zoom: 10
+            });
+            marker = new google.maps.Marker({
+                position: map.center,
+                map: map,
+                title: 'Added new marker'
+            });
+        }
     });
 };

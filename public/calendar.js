@@ -31,3 +31,4 @@ for (let i = 0; i < planItems.length; i++) {
     }
 }
 scheduler.parse(events, "json");
+scheduler.exportToPDF();

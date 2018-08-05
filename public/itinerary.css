@@ -165,8 +165,7 @@ h4 {
     position: absolute;
 }
 
-.get-calendar,
-.get-trip {
+.download-buttons {
     margin-top: 50px;
     height: 46px;
     width: 320.2px;
@@ -178,7 +177,11 @@ h4 {
     line-height: 3;
 }
 
-.get-calendar {
+.download-buttons:hover {
+    cursor: pointer;
+}
+
+#get-calendar {
     margin-left: 50px;
 }
 .get-price:hover {

@@ -1,24 +1,33 @@
 /*jslint for:true*/
 var test_json = null;
-itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
+const itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
 
 $.getJSON('demo.json', (data) => {
     test_json = data;
-    console.log(test_json);
     addContent();
 });
 
-var addButton = (className, value, json, redirect_url) => {
+var addButton = (id, value, json, redirect_url) => {
     var button = document.createElement("a");
     button.setAttribute('target', '_blank');
-    button.className = className;
+    button.id = id;
+    button.className = 'download-buttons';
     button.innerText = value;
     button.style = "color: white";
     button.addEventListener("click", () => {
         sessionStorage.clear();
         if (typeof json === 'object')
             sessionStorage.setItem('data', JSON.stringify(json));
-        button.href = redirect_url;
+        if (redirect_url !== '#')
+            button.href = redirect_url;
+        else {
+            html2canvas(document.body).then((canvas) => {
+                canvas.toBlob(function (blob) {
+                    console.log(blob);
+                    saveAs(blob, `${json} Trip Itinerary.png`);
+                });
+            });
+        }
     });
     document.querySelector(".justify-content-center").append(button);
 };
@@ -62,7 +71,7 @@ var addContent = function () {
     let data = JSON.parse(sessionStorage.getItem("formOptions")), city = data.city;
     let numOfDays = getLengthOfTrip(data);
     document.title = city + " Trip Itinerary";
-    for (curr_day = 1; curr_day <= numOfDays; curr_day += 1) {
+    for (let curr_day = 1; curr_day <= numOfDays; curr_day += 1) {
         const plan = document.createElement("div");
         plan.className = "plan";
         const planContents = document.createElement("div");
@@ -78,13 +87,13 @@ var addContent = function () {
         plan.append(planContents);
         createPlan(planContents, curr_day, document.title.split(" Trip ")[0]);
     }
-    addButton("get-trip", "Get a downloadable copy of the trip", city, `country_data/${city.toLowerCase()}.html`);
+    addButton("get-trip", "Get a downloadable copy of the trip", city, `#`);
     addButton("get-calendar", "Get calendar for the trip", combineJSON(test_json, JSON.parse(sessionStorage.getItem('formOptions'))), "calendar.html");
 };
 
 var getAttribute = (placeName, attribute) => {
     const planItems = test_json;
-    for (i = 0; i < planItems.length; i++) {
+    for (let i = 0; i < planItems.length; i++) {
         if (placeName === planItems[i].name) {
             return planItems[i][`${attribute}`];
         }
@@ -292,7 +301,6 @@ var handleDomObjects = (domObjects) => {
     //adding line break between each plan item
     entityDetails.append(document.createElement("br"));
     planContents.append(entityDetails);
-    console.log(entityDetails);
 };
 
 
