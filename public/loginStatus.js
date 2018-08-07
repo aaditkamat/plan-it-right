@@ -21,8 +21,10 @@ var createProfile = () => {
     signOutSection.className = "dropdown-options";
     signOutSection.id = "sign-out";
     signOutSection.innerText = 'Sign Out';
-    options.append(savedTripsSection);
-    options.append(signOutSection);
+    if (options !== null) {
+        options.append(savedTripsSection);
+        options.append(signOutSection);
+    }
     let signOut = () => {
         firebase.auth().signOut().then(function () {
             console.log("Sign-out successful");

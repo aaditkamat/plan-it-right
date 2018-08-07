@@ -22,13 +22,11 @@
 
     <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-auth.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-database.js"></script>
 
     <script>
         var config = {
             apiKey: "AIzaSyBGzIEz5VJFXnxiX7fQHXZtf_78kMavm14",
             authDomain: "plan-it-right.firebaseapp.com",
-            databaseURL: "https://plan-it-right.firebaseio.com",
             projectId: "plan-it-right"
         };
         firebase.initializeApp(config);
@@ -119,12 +117,11 @@
                             <div>
                                 <select id="country_options" style="width:284px; height: 34.8px;"
                                         title="country_options"></select>
-                                <button id="dropdown-button"></button>
                             </div>
                         </div>
                     </div>
                     <br>
-                    <!-- <div>
+                    <div>
                          <label class="form-label" id="departure-label">Departure Date </label>
                          <dt></dt>
                          <div>
@@ -135,15 +132,13 @@
                      </div>
                      <br>
                      <div>
-                         <label class="form-label" id="return-label">Return Date</label>
+                         <label class="form-label" id="return-label">Length of Trip</label>
                          <dt></dt>
                          <div>
-                             <input name="return" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
+                             <select id="length-options"></select>
                          </div>
-                         <img class="calendarIcon" id="secondCalendarIcon" src="images/icons/calendar-icon.png">
-                         <div class="calendar" id="secondCalendar"></div>
                      </div>
-                     <br> -->
+                     <br>
                     <div>
                         <label class="form-label" id="guests-label">Number of guests/passengers</label>
                         <dt></dt>
@@ -382,7 +377,7 @@
 <!-- Moment.js-->
 <script src="vendor/daterangepicker/moment.min.js"></script>
 
-<!-- <script>
+<script>
    dycalendar.draw({
        target: '#firstCalendar',
        type: 'month',
@@ -390,13 +385,7 @@
        prevnextbutton: 'show',
        highlighttoday: true
    });
-   dycalendar.draw({
-       target: '#secondCalendar',
-       type: 'month',
-       prevnextbutton: 'show',
-       highlighttoday: true
-   });
-</script> -->
+</script>
 <script src="cities.js"></script>
 <script src="countries.js"></script>
 <script src="form.js"></script>

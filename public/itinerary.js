@@ -3,8 +3,7 @@ var test_json = null;
 itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
 
 $.getJSON('demo.json', (data) => {
-    test_json = data;
-    console.log(test_json);
+    test_json = data;;
     addContent();
 });
 
@@ -292,7 +291,6 @@ var handleDomObjects = (domObjects) => {
     //adding line break between each plan item
     entityDetails.append(document.createElement("br"));
     planContents.append(entityDetails);
-    console.log(entityDetails);
 };
 
 

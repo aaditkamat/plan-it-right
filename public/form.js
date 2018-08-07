@@ -68,7 +68,7 @@ var handleClickCalendar = () => {
  */
 var validateFormInput = () => {
     const cityInput = document.querySelector('input[name=city]'), countryInput = document.getElementById('country_options');
-    return checkLocation(cityInput, countryInput) && checkGuests();
+    return checkLocation(cityInput, countryInput) && checkGuests() && checkDeparture();
 };
 
 
@@ -198,6 +198,23 @@ var sendData = () => {
     });
 };
 
-/* displayCalendar();
-handleClickCalendar(); */
+var addLengthOptions = () => {
+    let lengthOptions = document.querySelector('select#length-options');
+    for (let i = 1; i<= 11; i++) {
+        let option = document.createElement('option');
+        if (i === 1)
+            option.value = `1 day`;
+        else if (i >= 2 && i <= 10)
+            option.value = `${i} days`;
+        else
+            option.value = `More`;
+        option.innerText = option.value;
+        lengthOptions.append(option);
+    }
+
+};
+
+displayCalendar();
+handleClickCalendar();
 sendData();
+addLengthOptions();
