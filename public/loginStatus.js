@@ -41,16 +41,17 @@ var createProfile = () => {
     };
     firebase.auth().onAuthStateChanged(function (user) {
         if (user) {
-            image.style = "border-radius: 50%; height:30px;";
-            image.src = user.photoURL;
+            if (user.photoURL !== null) {
+                image.style = "border-radius: 50%; height:30px;";
+                image.src = user.photoURL;
+                profile.append(image);
+            }
             let name = document.createElement('span');
             if (user.displayName !== null)
                 name.innerText = user.displayName;
             else
                 name.innerText = user.email;
             name.style = "float: right; margin-left: 10px;";
-            if (image.src !== 'http://localhost:3000/null')
-                profile.append(image);
             profile.append(name);
             profile.onclick = openOptions;
             $('#sign-out').on('click', signOut);

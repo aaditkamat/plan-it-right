@@ -30,3 +30,9 @@
 .td:hover {
     cursor: pointer;
 }
+#verification {
+    padding-top: 112px;
+}
+.details-text{
+    padding-left: 15px;
+}

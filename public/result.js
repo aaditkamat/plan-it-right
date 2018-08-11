@@ -4,24 +4,22 @@ $(document).ready(function () {
     heading.style = "color: white; width:100%; text-align:center; padding-top: 30px;";
     heading.innerText = 'PLANITRIGHT TRIP PLANNER';
     var imageDiv = $('div.hero-area.height-400.bg-img.background-overlay');
-    imageDiv.attr(`style`, `background-image: url(images/destinations/${parse(title)}.jpg)`);
+    imageDiv.attr(`style`, `background-image: url(images/destinations/${getImageLabel(title)}.jpg)`);
     title = toTitleCase(title);
     var planTitle = document.createElement('h1');
     planTitle.style = 'color: white; padding-top: 175px;';
     planTitle.innerText = `${getLengthOfTrip(data)} days in ${title}`;
     imageDiv.append(planTitle);
     imageDiv.append(heading);
-    changeCoordinates(title);
+    addMap(title);
+    getDestinations(title);
 });
 
 var getLengthOfTrip = (data) => {
-    if (data.return !== '' && data.departure !== '')
-        return moment.duration(moment(data.return).diff(data.departure)).days() + 1;
-    else
-        return 5;
+    return data.lengthOfTrip;
 };
 
-var parse = (title) => {
+var getImageLabel = (title) => {
     let split = title.split(" "), newTitle = split[0];
     if (split.length > 1) {
         for (let i = 1; i < title.split(" ").length; i++) {
@@ -35,22 +33,28 @@ var toTitleCase = (title) => {
     return title.charAt(0).toUpperCase() + title.substr(1);
 };
 
-var changeCoordinates = (title) => {
+var addMap = (title) => {
     const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${title}&key=AIzaSyCrNXjZyEsYwUBxtiSiqfqs9pJcRMf1LwQ`;
-    var xhr = new XMLHttpRequest();
+    const xhr = new XMLHttpRequest();
     xhr.open('GET', url);
     xhr.type = "json";
     xhr.send();
     xhr.addEventListener('load', () => {
         const place = JSON.parse(xhr.response).results[0];
-        map = new google.maps.Map(document.getElementById("map"), {
-            center: new google.maps.LatLng(place.geometry.location.lat, place.geometry.location.lng),
-            zoom: 10
-        });
-        marker = new google.maps.Marker({
-            position: map.center,
-            map: map,
-            title: 'Added new marker'
-        });
+        if (place !== undefined) {
+            map = new google.maps.Map(document.getElementById("map"), {
+                center: new google.maps.LatLng(place.geometry.location.lat, place.geometry.location.lng),
+                zoom: 10
+            });
+            marker = new google.maps.Marker({
+                position: map.center,
+                map: map,
+                title: 'Added new marker'
+            });
+        }
     });
 };
+
+var getDestinations = (title) => {
+    $.post(`https://maps.googleapis.com/maps/api/place/textsearch/json?input=${title}&key=AIzaSyD4un_NkfBiUU0ijI86MkFLc5j1xpdf-xE`, (data) => console.log(data), 'json');
+}

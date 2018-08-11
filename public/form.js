@@ -173,16 +173,16 @@ var sendData = () => {
             city: '',
             country: '',
             departure: '',
-            return: '',
-            guests: '',
+            lengthOfTrip: 1,
+            guests: 0,
             pace: '',
             additionalDetails: []
         };
         formOptions.city = document.querySelector(`[name=city]`).value;
         formOptions.country = document.querySelector(`#country_options`).value;
-        //formOptions.departure = document.querySelector(`[name=departure]`).value;
-        //formOptions.return = document.querySelector(`[name=return]`).value;
-        formOptions.guests = document.querySelector(`[name=guests]`).value;
+        formOptions.departure = document.querySelector(`[name=departure]`).value;
+        formOptions.lengthOfTrip = parseInt(document.querySelector(`#length-options`).value.split(' ')[0]);
+        formOptions.guests = parseInt(document.querySelector(`[name=guests]`).value);
         const foundElement = Array.from(document.querySelectorAll('input[type=radio]')).find((ele) => ele.checked === true);
         if (foundElement !== undefined)
             formOptions.pace = foundElement.value;

@@ -24,7 +24,7 @@
     <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-auth.js"></script>
 
     <script>
-        var config = {
+        const config = {
             apiKey: "AIzaSyBGzIEz5VJFXnxiX7fQHXZtf_78kMavm14",
             authDomain: "plan-it-right.firebaseapp.com",
             projectId: "plan-it-right"
@@ -58,18 +58,6 @@
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item active">
                                 <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                            </li>
-                            <!-- Not using Featured Trips section at the moment
-                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Featured
-                                    Trips</a>
-                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="london-trip.html">London</a>
-                                    <a class="dropdown-item" href="mexico city-trip.html">Mexico City</a>
-                                    <a class="dropdown-item" href="singapore-trip.html">Singapore</a>
-                                    <a class="dropdown-item" href="macau-trip.html">Macau</a>
-                                </div> -->
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="about.html">About Us</a>
@@ -122,23 +110,24 @@
                     </div>
                     <br>
                     <div>
-                         <label class="form-label" id="departure-label">Departure Date </label>
-                         <dt></dt>
-                         <div>
-                             <input name="departure" type="text" placeholder="YYYY/MM/DD" style="width: 584px;height: 34.8px;">
-                         </div>
-                         <img class="calendarIcon" id="firstCalendarIcon" src="images/icons/calendar-icon.png">
-                         <div class="calendar" id="firstCalendar"></div>
-                     </div>
-                     <br>
-                     <div>
-                         <label class="form-label" id="return-label">Length of Trip</label>
-                         <dt></dt>
-                         <div>
-                             <select id="length-options"></select>
-                         </div>
-                     </div>
-                     <br>
+                        <label class="form-label" id="departure-label">Departure Date </label>
+                        <dt></dt>
+                        <div>
+                            <input name="departure" type="text" placeholder="YYYY/MM/DD"
+                                   style="width: 584px;height: 34.8px;">
+                        </div>
+                        <img class="calendarIcon" id="firstCalendarIcon" src="images/icons/calendar-icon.png">
+                        <div class="calendar" id="firstCalendar"></div>
+                    </div>
+                    <div>
+                        <label class="form-label" id="return-label">Length of Trip</label>
+                        <dt></dt>
+                        <div>
+                            <label for="length-options"></label>
+                            <select id="length-options" style="margin-left: -5px;"></select>
+                        </div>
+                    </div>
+                    <br>
                     <div>
                         <label class="form-label" id="guests-label">Number of guests/passengers</label>
                         <dt></dt>
@@ -148,7 +137,7 @@
                         </div>
                     </div>
                     <br>
-                    <div>
+                    <!-- <div>
                         <label class="form-label">Pace (Optional)</label>
                         <dt></dt>
                         <div>
@@ -159,155 +148,68 @@
                             <input type="radio" name="colors" value="Fast & Energetic">&ensp;&ensp;Fast &amp;
                             Energetic&ensp;&ensp;&ensp;&ensp;
                         </div>
-                    </div>
-                    <br>
-                    <div data-role="container" data-type="virtual-form-table-row" data-hash="00000011" data-type-id="0"
-                         data-colspan="20" data-num-children="1">
-                        <div data-role="control" data-type="check-box" data-hash="00000012" data-type-id="2"
-                             data-colspan="20"
-                             aria-labelledby="checkbox-00000012-acc checkbox-00000012-error-acc checkbox-00000012-instr-acc"
-                             data-instructions-on-click="1" data-renderer-type="tln" data-id="42212190"
-                             data-is-active="1">
-                            <label class="form-label" data-role="label" id="checkbox-00000012-acc"
-                                   data-i18n-text="control_label_42212190">Additional Details (Optional)</label>
-                            <dt data-role="instructions" id="checkbox-00000012-instr-acc" data-is-empty="1"
-                                data-i18n-text="control_instructions_42212190"></dt>
-                            <div data-role="input-row" data-is-first-row="1" data-fill-colspan="0">
-                                <div data-role="choice" data-index="0" data-size="half" class="left-choice">
-                                    <label data-role="choice" id="checkbox-00000012-0">
-                                        <input type="checkbox" id="00000012_0" data-role="i123-input" data-index="0"
-                                               data-value="Family &amp; kids">
-                                        <label data-role="checkbox" for="00000012_0"
-                                               aria-labelledby="checkbox-00000012-0" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_0"
-                                              data-skip-markdown="true">Family &amp; kids</span>
-                                    </label>
-                                </div>
-                                <div data-role="choice" data-index="6" data-size="half">
-                                    <label data-role="choice" id="checkbox-00000012-6">
-                                        <input type="checkbox" id="00000012_6" data-role="i123-input" data-index="6"
-                                               data-value="Couple &amp; Romantic">
-                                        <label data-role="checkbox" for="00000012_6"
-                                               aria-labelledby="checkbox-00000012-6" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_6"
-                                              data-skip-markdown="true">Couple &amp; Romantic</span>
-                                    </label>
-                                </div>
+                    </div> -->
+                    <div>
+                        <label class="form-label">Additional Details (Optional)</label>
+                        <div>
+                            <div class="left-choice">
+                                <label class="details">
+                                    <input type="checkbox">
+                                    <span class="details-text">Night Clubs</span>
+                                </label>
                             </div>
-                            <div data-role="input-row" data-fill-colspan="0">
-                                <div data-role="choice" data-index="1" data-size="half" class="left-choice">
-                                    <label data-role="choice" id="checkbox-00000012-1">
-                                        <input type="checkbox" id="00000012_1" data-role="i123-input" data-index="1"
-                                               data-value="Food &amp; drink">
-                                        <label data-role="checkbox" for="00000012_1"
-                                               aria-labelledby="checkbox-00000012-1" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_1"
-                                              data-skip-markdown="true">Food &amp; drink</span>
-                                    </label>
-                                </div>
-                                <div data-role="choice" data-index="7" data-size="half">
-                                    <label data-role="choice" id="checkbox-00000012-7">
-                                        <input type="checkbox" id="00000012_7" data-role="i123-input" data-index="7"
-                                               data-value="Outdoor">
-                                        <label data-role="checkbox" for="00000012_7"
-                                               aria-labelledby="checkbox-00000012-7" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_7"
-                                              data-skip-markdown="true">Outdoor</span>
-                                    </label>
-                                </div>
+                            <div class="left-choice">
+                                <label class="details">
+                                    <input type="checkbox">
+                                    <span class="details-text">Amusement Parks</span>
+                                </label>
                             </div>
-                            <div data-role="input-row" data-fill-colspan="0">
-                                <div data-role="choice" data-index="2" data-size="half" class="left-choice">
-                                    <label data-role="choice" id="checkbox-00000012-2">
-                                        <input type="checkbox" id="00000012_2" data-role="i123-input" data-index="2"
-                                               data-value="Sight &amp; Landmarks">
-                                        <label data-role="checkbox" for="00000012_2"
-                                               aria-labelledby="checkbox-00000012-2" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_2"
-                                              data-skip-markdown="true">Sight &amp; Landmarks</span>
-                                    </label>
-                                </div>
-                                <div data-role="choice" data-index="8" data-size="half">
-                                    <label data-role="choice" id="checkbox-00000012-8">
-                                        <input type="checkbox" id="00000012_8" data-role="i123-input" data-index="8"
-                                               data-value="History &amp; Culture">
-                                        <label data-role="checkbox" for="00000012_8"
-                                               aria-labelledby="checkbox-00000012-8" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_8"
-                                              data-skip-markdown="true">History &amp; Culture</span>
-                                    </label>
-                                </div>
+                        </div>
+                        <div>
+                            <div class="left-choice">
+                                <label class="details">
+                                    <input type="checkbox">
+                                    <span class="details-text">Movie Theaters</span>
+                                </label>
                             </div>
-                            <div data-role="input-row" data-fill-colspan="0">
-                                <div data-role="choice" data-index="3" data-size="half" class="left-choice">
-                                    <label data-role="choice" id="checkbox-00000012-3">
-                                        <input type="checkbox" id="00000012_3" data-role="i123-input" data-index="3"
-                                               data-value="Parks &amp; Nature">
-                                        <label data-role="checkbox" for="00000012_3"
-                                               aria-labelledby="checkbox-00000012-3" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_3"
-                                              data-skip-markdown="true">Parks &amp; Nature</span>
-                                    </label>
-                                </div>
-                                <div data-role="choice" data-index="9" data-size="half">
-                                    <label data-role="choice" id="checkbox-00000012-9">
-                                        <input type="checkbox" id="00000012_9" data-role="i123-input" data-index="9"
-                                               data-value="Beaches">
-                                        <label data-role="checkbox" for="00000012_9"
-                                               aria-labelledby="checkbox-00000012-9" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_9"
-                                              data-skip-markdown="true">Beaches</span>
-                                    </label>
-                                </div>
+                            <div class="left-choice">
+                                <label class="details">
+                                    <input type="checkbox">
+                                    <span class="details-text">Shopping Malls</span>
+                                </label>
                             </div>
-                            <div data-role="input-row" data-fill-colspan="0">
-                                <div data-role="choice" data-index="4" data-size="half" class="left-choice">
-                                    <label data-role="choice" id="checkbox-00000012-4">
-                                        <input type="checkbox" id="00000012_4" data-role="i123-input" data-index="4"
-                                               data-value="Museums">
-                                        <label data-role="checkbox" for="00000012_4"
-                                               aria-labelledby="checkbox-00000012-4" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_4"
-                                              data-skip-markdown="true">Museums</span>
-                                    </label>
-                                </div>
-                                <div data-role="choice" data-index="10" data-size="half">
-                                    <label data-role="choice" id="checkbox-00000012-10">
-                                        <input type="checkbox" id="00000012_10" data-role="i123-input" data-index="10"
-                                               data-value="Nightlife">
-                                        <label data-role="checkbox" for="00000012_10"
-                                               aria-labelledby="checkbox-00000012-10" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_10"
-                                              data-skip-markdown="true">Nightlife</span>
-                                    </label>
-                                </div>
+                        </div>
+                        <div>
+                            <div class="left-choice">
+                                <label class="details">
+                                    <input type="checkbox">
+                                    <span class="details-text">Parks</span>
+                                </label>
                             </div>
-                            <div data-role="input-row" data-is-last-row="1" data-fill-colspan="0">
-                                <div data-role="choice" data-index="5" data-size="half" class="left-choice">
-                                    <label data-role="choice" id="checkbox-00000012-5">
-                                        <input type="checkbox" id="00000012_5" data-role="i123-input" data-index="5"
-                                               data-value="Shopping">
-                                        <label data-role="checkbox" for="00000012_5"
-                                               aria-labelledby="checkbox-00000012-5" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_5"
-                                              data-skip-markdown="true">Shopping</span>
-                                    </label>
-                                </div>
-                                <div data-role="choice" data-index="11" data-size="half">
-                                    <label data-role="choice" id="checkbox-00000012-11">
-                                        <input type="checkbox" id="00000012_11" data-role="i123-input" data-index="11"
-                                               data-value="Shows &amp; Concerts">
-                                        <label data-role="checkbox" for="00000012_11"
-                                               aria-labelledby="checkbox-00000012-11" role="checkbox"></label>
-                                        <span data-role="option-text" data-i18n-text="control_label_42212190_choice_11"
-                                              data-skip-markdown="true">Shows &amp; Concerts</span>
-                                    </label>
-                                </div>
+                            <div class="left-choice">
+                                <label class="details">
+                                    <input type="checkbox">
+                                    <span class="details-text">Museums</span>
+                                </label>
                             </div>
-                            <label data-role="error" id="checkbox-00000012-error-acc" data-is-empty="1"></label>
+                        </div>
+                        <div>
+                            <div class="left-choice">
+                                <label class="details">
+                                    <input type="checkbox">
+                                    <span class="details-text">Restaurants</span>
+                                </label>
+                            </div>
+                            <div class="left-choice">
+                                <label class="details">
+                                    <input type="checkbox">
+                                    <span class="details-text">Zoo &amp; Aquarium</span>
+                                </label>
+                            </div>
                         </div>
                     </div>
-                    <div>
+                    <br>
+                    <div id="verification">
                         <label class="form-label">Verification</label>
                         <dt></dt>
                         <div class="g-recaptcha" data-sitekey="6Lf-jWQUAAAAAHboA9Ad47JkiRYWrmIOSVI5dKQt"></div>
@@ -378,13 +280,13 @@
 <script src="vendor/daterangepicker/moment.min.js"></script>
 
 <script>
-   dycalendar.draw({
-       target: '#firstCalendar',
-       type: 'month',
-       monthformat: "full",
-       prevnextbutton: 'show',
-       highlighttoday: true
-   });
+    dycalendar.draw({
+        target: '#firstCalendar',
+        type: 'month',
+        monthformat: "full",
+        prevnextbutton: 'show',
+        highlighttoday: true
+    });
 </script>
 <script src="cities.js"></script>
 <script src="countries.js"></script>

@@ -9,7 +9,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "@google/maps": "^0.5.5",
     "bcrypt": "^3.0.0",
     "body-parser": "^1.18.3",
     "connect-mongo": "^2.0.1",
@@ -19,7 +18,8 @@
     "express-session": "^1.15.6",
     "express-validator": "^5.2.0",
     "fs": "^0.0.2",
-    "jshint": "^2.9.5",
+    "html2canvas": "^1.0.0-alpha.12",
+    "jshint": "^2.9.6",
     "moment": "^2.22.2",
     "mongoose": "^5.2.3",
     "nightmare": "^3.0.1",
