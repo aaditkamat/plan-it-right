@@ -1,0 +1,853 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCCgEAAL6kJjZ1IceTfodCS4cYTHk3Sa-F86BboF9VoQi3UiFDIgDQNFAKvGxZPwmX8MHaHirK0wqdFVvVQLstQcpP07dPkkNO1M8mR5gOJ6dFCMf8cSQU9ql8gYYCSCJx3KVs5uueJUs7wIk5w60smB4JvZ6Q5dvPkINT-Pg_p9LrGvuR3otIk9GconIRQoGQZhdlacvnBfNz_gB4Vhv6RWgzs4I66eBhhofzkyn0bGgcCWhbLrDSenT71VMp1roLsSLmWH6SidO-kYrrxmcqLOsibuGYMTuduOYYsCRyKfxdCRLXRGEkuWFvktvyhxw2F8tRuBLDFptFyKwQm4YIrLcxa-7JQRSei7P793upQpUEM_WiEhCczfwjfCjzQZmwXSr4LVKoGhRUUOIP4kL8FaWaa0JVqAOZM9WaFQ",
+  "results": [
+    {
+      "formatted_address": "SM City Manila, 4F, San Marcelino St, Ermita, Manila, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5898751,
+          "lng": 120.9827509
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.59130692989272,
+            "lng": 120.98530125
+          },
+          "southwest": {
+            "lat": 14.58860727010728,
+            "lng": 120.98100065
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "c949e1635b6e844f87dbb0a077e21db71d9e58fc",
+      "name": "SM Cinema Manila",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102492303194823204000/photos\">Mario Ferdinand Padua</a>"
+          ],
+          "photo_reference": "CmRaAAAA6lYyu9900q_m-NjnFQhSAGsRncw4C2vUCSxitdd1NCGGigsbeoXsCUKQ4aqt3LE1UxH9q8fUdnwZxCUk1p1KN_ddXV9kENP24Ze93LvNdSPK5lL_-fxW2Mb59SngrSnNEhAJ34g7qJh9hxb2EskwE2iyGhS7aLS24rFnZjm7GD0W44D_oQJG1g",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJydNHZiHKlzMRWas7DKkKeRc",
+      "plus_code": {
+        "compound_code": "HXQM+X4 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXQM+X4"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAATlbszkbnFip2AkvEb029UoP7MrRX7cfIZcbxv5EqkDsmJDa6iPnU5wV1KY-jT_12YpXT0VFm6aPSotsohcHbN_YnnFSDDuKlM0lKiBmPoZfJLv3sKdkZlKm-Y2bHwOXxEhAYNOjQNHkVvqc51pLnCn0lGhTlD4QbTWRgsdd6439DfpMAT3-CJg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "4/F, SM Sta. Mesa, Ramon Magsaysay Cor. Araneta Ave., Quezon City, 1113 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.604271,
+          "lng": 121.018807
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60562082989273,
+            "lng": 121.0201568298927
+          },
+          "southwest": {
+            "lat": 14.60292117010728,
+            "lng": 121.0174571701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "4da5bab6e5cc0edbf37f9f0cb6dd861b6c647719",
+      "name": "Cinema",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100027885829071107488/photos\">Alhabzar Liwanag</a>"
+          ],
+          "photo_reference": "CmRaAAAAvCXN4CmlCSgCFllf4pQcb1HWRhEJu475oXot5lhYLAZaa1qc5um5lMonypHc3oc3QcgvLgjJwcZtXqLVrsR9HuFTcPT02ao-6hvHP-4ng5bPHvTz196ZXhlX74UO-dfsEhAmvAk-S7WNBLDpWOA0VRqHGhQGVUjt6AM6o_sqJxhmAkGOKd-68Q",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJ3fvMjtjJlzMR9mkHdfemfTw",
+      "plus_code": {
+        "compound_code": "J239+PG Quezon City, Metro Manila, Philippines",
+        "global_code": "7Q63J239+PG"
+      },
+      "rating": 3,
+      "reference": "CmRbAAAAagWRqsfACk-pi0GVhGVZkySoDwXRiEGCahLrvOiVBzxo7ZOhMFxleM-0ZKkAgObE5MoSvYsM2dHkUdrL-gGXZ3bq2xIBnKlAqw9YPnCcRJjjOocq48Mp8NyOFEjdlYbXEhBUYYCj7mVvuj51NpLnvVhdGhSvTHuF0PWyFp0XYT0fynVJ1NVt3A",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "667 Teodoro M Kalaw St, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5801447,
+          "lng": 120.978339
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58149452989272,
+            "lng": 120.9796888298928
+          },
+          "southwest": {
+            "lat": 14.57879487010728,
+            "lng": 120.9769891701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "8f21dcad85c8c8ec33c287f1bacdc135507fb2ad",
+      "name": "Luneta Theatre",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113097154837518315978/photos\">jayson vargas</a>"
+          ],
+          "photo_reference": "CmRaAAAAiiB03Q6J_-kk8rQJ4H_CJMInnkGoFzVsZnofw7nr95SEZZ3E3ddjxNqFOAMPupQHA913Pw51EoA5oZlbHcZaFI4hqBAOEJQYPePPu1j3zc7dRciqBzfx-AbQADkVmX-SEhCUz9RVdQKPQsvz2p_FBpjWGhSGIn38Tt1nXQVkoAIHoCt2OwQ2FA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJq4wufSXKlzMRGvXMABmfiWQ",
+      "plus_code": {
+        "compound_code": "HXJH+38 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXJH+38"
+      },
+      "rating": 3.5,
+      "reference": "CmRbAAAAyZEcxLgNTzNIPuOO0SfVkbADlOis7dW8jsLz52cVFM4BCfkZlMW9aEWHX9QP9vxzSZKNLUMSHUewULJyrJuet0t7qJUa62XIjb4VC3ihcgFBr-CGnKv9PM21CkGCG7iLEhByzn2yMBySRl6H3TQ04ln-GhQhkwhekrqDbcvZSYeGvsnD6KPfjw",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Century City Mall, Kalayaan Ave, Makati, 1210 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.56546,
+          "lng": 121.027661
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56673502989272,
+            "lng": 121.0289840798927
+          },
+          "southwest": {
+            "lat": 14.56403537010728,
+            "lng": 121.0262844201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "24d4289e99c95092f11ea5c5ffb0b602a96677c6",
+      "name": "Century City Cinemas",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112754322830409910173/photos\">Ultra Rare</a>"
+          ],
+          "photo_reference": "CmRaAAAASo6RNwZZ1TvGl70gIO2Lhhcl3a9Sa5JHFbHVBVxaCbk9pAtnQtvil1dHcsyK7THJZmiRdTrXQxiq2_fyn1BOxhmu-_5s3F8qQOQNb-8C7hM7Gz_BFeT0KMRBIeD9xUimEhBiV6vBK5Wq5DX2gUV81ZFvGhRQp1O7v8heFNEJ9uVa3KCpVBaXCA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ7-S7fanJlzMRV_2C7lKlj2c",
+      "plus_code": {
+        "compound_code": "H28H+53 Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H28H+53"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAUTfjkB7Gnh_gvjvDXVqRs1L3hR41cQAl_QVo7Hk6y2K1RMMthr1SSrvZq1-XB2d44Vnn0kWOS8LGXi_wWC3YXnbTJX2taMCWE4wY6ZIX41y9V-oXuL4t5jOPsgg0P_ryEhCV-8ZO2zQRc3ZwlzrBeJBcGhSO3T--tg1QZTCQ-GGxRapYdQmaJg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "855 Kalaw Ave, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.584406,
+          "lng": 120.9851275
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58561782989272,
+            "lng": 120.9865953298927
+          },
+          "southwest": {
+            "lat": 14.58291817010728,
+            "lng": 120.9838956701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "e764ca5404775565f3153fc317f5fda3d68e4041",
+      "name": "Cinematheque Centre Manila",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103513441572759173465/photos\">Orchid Torreliza</a>"
+          ],
+          "photo_reference": "CmRaAAAANoAH0pQftQksjipTfkmlAjYI18EPeXoMVPznTRDaBMAdMDZPsbB3BPsYM21_1QJ94MPz2AgF7LAisZF01hMr8WVuaUlvQghlF1FEprAZY7YVFqgkOXUW4G7Hk_aUefqoEhDVAIcwKw-_Nw9bTctu4FNnGhTnkImNwauGbKSifQTCXHf370PUxw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJBd-MKifKlzMRmDemAuthwcI",
+      "plus_code": {
+        "compound_code": "HXMP+Q3 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXMP+Q3"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA78I-hBX_vrMYYZa02X4dCEQ0fv8R__lbJliIQRGLTYtrb_2ZuQmCxT05YuXfs9_ZDfGGSBftdQFAd-qx83sEZcenbu6i59KAG7nI_GdQTzjX54sDZNaa2OPZacQo22mqEhB4ZOSCPCfVJlIY64LriYkFGhRHsrwFx9eKhjdlaIVp9oE7dcX--g",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "SM City San Lazaro, Felix Huertas Rd, Santa Cruz, Manila, 1014 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.618689,
+          "lng": 120.985137
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.62008762989273,
+            "lng": 120.9871843
+          },
+          "southwest": {
+            "lat": 14.61738797010728,
+            "lng": 120.9842291
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "cf08a400d80b2d2f0c31e66c5d412c2e1c83a4fe",
+      "name": "Cinema",
+      "place_id": "ChIJC-6IG_21lzMR2prSJAlR58A",
+      "plus_code": {
+        "compound_code": "JX9P+F3 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX9P+F3"
+      },
+      "rating": 3.3,
+      "reference": "CmRbAAAAQqBjLAFSs7Pz4XDFgWvrZXXMCNSUXxdqo4t82w0bfxtZkCdMvPaeUSx8r9X9TU2DiR80619KfFeisowD6L69ntZmZloxNw3SQJNNWuKiUconBRHUHBFFxxqISGwCNNVTEhDbJ09FVYKzLV66KqB8LPYwGhTdgkFOCFIvrcAD_tpMjztuRY2-sQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "4th Floor, SM City Sta. Mesa, Ramon Magsaysay Boulevard, corner G. Araneta Avenue, Sta. Mesa, Quezon City, 1100 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.604671,
+          "lng": 121.018555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60602082989273,
+            "lng": 121.0199048298928
+          },
+          "southwest": {
+            "lat": 14.60332117010728,
+            "lng": 121.0172051701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "6830f1ff7eb14ed7da041ab95e7e744b69ded02d",
+      "name": "SM Cinema - Sta. Mesa",
+      "photos": [
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109849922238673664917/photos\">So Mxx</a>"
+          ],
+          "photo_reference": "CmRaAAAAEJvpCOwK1di7mo2ZRMmRZKHSNZBNApFt50pEICYmjrXtIbwmzAdE2gXgCAQUSMWbuV6WVvvDMLGPQYAN0nYPoqe1SfOm8koe44fcQg-NQbcd1aVEWmD8tsBW9FumSRxXEhDHjfJor0EoiJHzZaU6lfKjGhR4y1qg-U5kRbbnmj23l1t6YMmGxg",
+          "width": 4208
+        }
+      ],
+      "place_id": "ChIJBQ4fhdjJlzMRt_qCk6ZtAaA",
+      "plus_code": {
+        "compound_code": "J239+VC Quezon City, Metro Manila, Philippines",
+        "global_code": "7Q63J239+VC"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAn93YqM27tm_QNMIm78L6ONG0aeprb9gAH8XGJkejJscP7x6a_FXfThq7qDXiJLRg97s3plm8n6FQxVKTXzMfEgbwB56BqMzMo4_r24aiERsy2u1Od_i2XeG9BfM8gwxiEhDn7PaaZkcq1XO2eEKSrVmvGhQ9uXyKatsKL0I9xSCWu6JFN6qKZA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Pedro Gil St, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5752848,
+          "lng": 120.9848365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.579441,
+            "lng": 120.9865323
+          },
+          "southwest": {
+            "lat": 14.5729398,
+            "lng": 120.9817803
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "50cb18de538ff4855f7eeab790064657a8353fe3",
+      "name": "Robinsons Place Ermita Cinema 1",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100606169424624226321/photos\">TARIQ- M</a>"
+          ],
+          "photo_reference": "CmRaAAAA-2pCS-9V2TgblszjTG-9mm9eJL55xez8l7yLvhLPx0-pf8kDDBLTa2_c-fuGpe28Wq5gFlqOBZwxRM4y7qBkReTbWcCp4LgUWL1TOMtifN-7Ud5tX725WhqrR0timsfWEhBKriVVimK8yVaE7kO0Kx_VGhQ04Ia7iERWaKR0LZtotdOzyb5IdA",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJvfA8oCnKlzMRn1EEgaZLtQI",
+      "plus_code": {
+        "compound_code": "HXGM+4W Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXGM+4W"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAziD2-TOIH3zbiAlcVUJuTfeFzre6RWQ8ew8I-GZJWerez-VbyaLdj5SJucCeXj82cd_Btnt139E8uGNkkL6uibqbNVHJi-hz02cvFBbLNU1RQgKbhQP-b2uW9PoQOUkREhAXPZUe3Dx-CbEycXMd6d4cGhR2D1fgbQxkb5qJYstLul2UzcG_HA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "4/L, SM Manila, Concepcion Cor. Arroceros & San Marcelino, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5898199,
+          "lng": 120.9835268
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.59116972989272,
+            "lng": 120.9848766298927
+          },
+          "southwest": {
+            "lat": 14.58847007010728,
+            "lng": 120.9821769701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "71b723fcebeec08e0a14edd5dc50f24c462bf40d",
+      "name": "Cinema",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105647250932972342140/photos\">다모이다</a>"
+          ],
+          "photo_reference": "CmRaAAAAh-q9BVihPuYkoRDCm5wAauL4N9fw0EUWkU5EQbXymUjieAYQCy8bhGCCT5rkHyOLoy04EfZ-P8PY-ihNijuSXhObqD1QwZLUEvhwWayzdp-pa6qP6Aemd5jjKi2bRh_BEhCC15pYjR5WFgH5iGuJ4fa6GhQaIuUtGz9M3zVi7X7UcP6yQKeVeQ",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJoWP9WR_KlzMRbtd9i3wUUrA",
+      "plus_code": {
+        "compound_code": "HXQM+WC Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXQM+WC"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAA99CZrEuNfqJJcIJErS4a7CB8ny23MODDrvXxRwOIIKlAHH3u06QPFXnXKxA0Zp-2dYSOxoziSccEvr2ClipT-Fpga8X3CLdDmmowvNGtkby63mKvNkfEAzcoLW9ZnP81EhDVFI8SC3HNbsxK0HHo_1wGGhRE13xsUeSGsXx-Gcm-ku2eAzMivg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No. 1015, Rizal Avenue, Tondo, Metro Manila, Manila, 1012, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6148344,
+          "lng": 120.9828831
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.61618422989272,
+            "lng": 120.9842329298927
+          },
+          "southwest": {
+            "lat": 14.61348457010728,
+            "lng": 120.9815332701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "394569ca623d605c654d692542f3cd4aa4d1010a",
+      "name": "Forum Cinema Theater",
+      "photos": [
+        {
+          "height": 1359,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115338279981022433314/photos\">David Montasco</a>"
+          ],
+          "photo_reference": "CmRaAAAAPshZxU91QHyBOH1X8u3RkDgEBDALCef205LQ5PdGOSGxfdaFrtzMt1ZFG5_wNxrXlSXqdv_rInsMGr6JUoPz1yd318G1_NjSS7M_LBweSCXpwKN46E2eL28Rq4V0pTGpEhBe5K2yuLdIieXFOFQhmoY1GhTXEq0fK3piPbpULrbGSzJGx4PvfQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJxzNru_61lzMRCYcpd7-5vGA",
+      "plus_code": {
+        "compound_code": "JX7M+W5 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX7M+W5"
+      },
+      "rating": 2,
+      "reference": "CmRbAAAAc3-WekMBl1dMisoRNE2jUJdsaA_0JliNejpaLXFsQ5Rl3tXdn0bfbjBq8tYjkr9uMzGlDLOk5tG2CebPZndLh5dp8VMhZP3W2DY-E3oqvXYfwjZ1QVuAPh4b-oJKHWZJEhCjw82r2AXjW7Lyt3t5S1F_GhRlJl0xcmYkzbjtYXVYbLuGNeTKlg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "6th Floor Ever Gotesco Corporate Center, 1962 Claro M Recto Avenue, Quiapo, Metro Manila, Manila, 1001, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.603954,
+          "lng": 120.979643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60530382989272,
+            "lng": 120.9809928298927
+          },
+          "southwest": {
+            "lat": 14.60260417010728,
+            "lng": 120.9782931701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "1fbc2bc81cad49a844d773f90d0f72752251f9a2",
+      "name": "Cinema 2000 Incorporated",
+      "place_id": "ChIJg6ENTwTKlzMRkn5Klel7Gdg",
+      "plus_code": {
+        "compound_code": "JX3H+HV Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX3H+HV"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAp1lvGePbWzCHtj3qxje8Cs0PeRh3DxBY8s9sERU6uK8u_99BnxziEfmr-LOtQ0T2stFJvdfjhVD7c59BM0U6AT82AuSA0HsQyLcrkLZlK9xkzd07PESHgozojviUNkTtEhAbgdaLvqFJMr6L8pYvXUlIGhT1QbEfwWfcw2GqEJDd216LkJ2sxg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Robinsons Place Manila, Pedro Gil Street, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.575191,
+          "lng": 120.984832
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57654082989272,
+            "lng": 120.9861818298927
+          },
+          "southwest": {
+            "lat": 14.57384117010728,
+            "lng": 120.9834821701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "d2e24afe6adcce9affd8156134cc31b6139b755e",
+      "name": "Pedro Gil Cinema 7",
+      "place_id": "ChIJtX8eoCnKlzMRrImG_MrMI3g",
+      "plus_code": {
+        "compound_code": "HXGM+3W Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXGM+3W"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAHFKaGp9Ql6Ork98bTg29en51TsrNvCZ8d9U4679aNuwfb9d_iEEsj2-eMKnhKm2e6AVmgm6U6erftcFoOszQXXagcIiuQ48v_kY0YcZpTObBTNXTKl7ZSKr14qiRpEQwEhBYGb6Ubc9ZhMS7IeOXc0x5GhSktvj0IuSLP4fvhg7Pb1Tu6MB2vQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5764309,
+          "lng": 120.9835365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57778072989272,
+            "lng": 120.9848863298927
+          },
+          "southwest": {
+            "lat": 14.57508107010728,
+            "lng": 120.9821866701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "3c00a05d3900f615d83b12b0f89c4e15d055089a",
+      "name": "Robinsons Movieworld",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102668213653782572694/photos\">via franco</a>"
+          ],
+          "photo_reference": "CmRaAAAAAlAwmV7yHdHYBtXvr2rclPAEE4yxLQDxRNLinYElre69ubiueXkjUTrFsTaQ-bDt6Df7UYCBc9eYRJsuz1vPU6r6NKUcRd9N1_4DRq5S09Mp1Scc7BNRAY45AD3fm_tsEhD7dvZZBGBIo0y2dWyT4XotGhTSvVW1AIpPGqsdocvoFKbIz__ijg",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ92c38SrKlzMRJWrNY6rlUS0",
+      "plus_code": {
+        "compound_code": "HXGM+HC Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXGM+HC"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAPfkR8b-nJENK-yHliGvIsBZOdxxmb3ZclIJtg59IAPr06Z60TFNKXcTf41Ph9Tn4KpYEFBWhpSlTaAGubv87VXtLslVhQsYfOKqFxWp0oQIX7QPT6y2GYWas9wMERlWfEhBSGveA4E_6yH3fIMjJWlo4GhQjviHYFHJHrLcj8IfLdXX8ZEefaA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Recto Ave, Quiapo, Manila, 1001 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6031828,
+          "lng": 120.9844337
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60436007989272,
+            "lng": 120.9855836298927
+          },
+          "southwest": {
+            "lat": 14.60166042010728,
+            "lng": 120.9828839701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "219bf1100d0e09b8388a2b676466f4db832e33f4",
+      "name": "Isetann Cinerama Complex",
+      "photos": [
+        {
+          "height": 1527,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115338279981022433314/photos\">David Montasco</a>"
+          ],
+          "photo_reference": "CmRaAAAAa8YuUjgAd6w-ylMMXzoot7i07V4eRnaFH1ajO_AGrpgUMHizAcxobZ8BTXuDjV-clMMEG3JVvGHQVxG_ZYpxYfmCrOrt3CBiG2tWmNoTbScnA7QxiaxiGvJYR8-jRcWdEhAHIcotMht31YwcoSzB8QE4GhQiDyO40-Ee0RTGH4FPfj1HxJhLTQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJm_qxrgPKlzMR8jLZ3Ie6jqM",
+      "plus_code": {
+        "compound_code": "JX3M+7Q Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX3M+7Q"
+      },
+      "rating": 3.5,
+      "reference": "CmRbAAAAQFns-FzjLQ-Wcdm3zEGUU4JZnniStOs_AW8MC3Zw4Px6jSEpwygrML7n3Vjcgd5lQqWpakzECd-xtTPKL9wMZ9SF-aNtCNrmjqsYmn6sSR0QbJIeDlhDr8G4iPgw0BSGEhABhnfNuVKkm0-bC7A0GaYzGhToL4A-BiiwEK6d4KI1i4QM4e-tuQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Delos Reyes St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6079073,
+          "lng": 120.9881213
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60916127989272,
+            "lng": 120.9895673298927
+          },
+          "southwest": {
+            "lat": 14.60646162010728,
+            "lng": 120.9868676701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "2d807f69650b0bea6d12ebe6ceddb7caf129da82",
+      "name": "Quartos Mini Movie House",
+      "place_id": "ChIJaTzujv_JlzMRDKo-D0VcjyU",
+      "plus_code": {
+        "compound_code": "JX5Q+56 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX5Q+56"
+      },
+      "rating": 3.5,
+      "reference": "CmRbAAAAiI9fXldAdKSBysK64f8gdIYEHOgUm0QTPu2w18RQsY2egRgzm7zECZZ1Mfz9DXvHmnN3_GXwUFZfuguyPJqyFjxGJXmmAJkJ-YKJjwTq8OC7b_xx2h95YzICA938AI2vEhC3EkC2QW_OC_iiAngI-E8YGhSNoB-ad7uvKwxYkBSEffwiBnAudA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Rockwell Drive Estrella Street, Makati, 1210 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5653922,
+          "lng": 121.0367621
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56674202989273,
+            "lng": 121.0381119298927
+          },
+          "southwest": {
+            "lat": 14.56404237010728,
+            "lng": 121.0354122701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "a03f99d7c1274b5ff4724203b57b60ec97109e6e",
+      "name": "Power Plant Cinema",
+      "photos": [
+        {
+          "height": 2347,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113635223375053226215/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAwkkyAVfleGkjAbxF0ZAKCHBJYUYr5LvJY-1SBdC2xpNUdtoRAiarKWuMshuNCk9AkA4CsB8W1dBPkDvAgMORgtkNKFiGJYTudXAuZL8-qsniGYVogAD7teihYuMcYamREhDKUA1dTTHCO2w95nYnCYf0GhTAlWJURXllrgefK1vI6FX19_7Rlw",
+          "width": 3940
+        }
+      ],
+      "place_id": "ChIJ_3PA_gTJlzMReJKa3t5_HO0",
+      "plus_code": {
+        "compound_code": "H28P+5P Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H28P+5P"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAlE8fUE14se9h2TYt3VZgKx9QX6Xo-zoiB3tMa9O-XxfCCklgfSLgBk245JkUvyCqL5gK4W9YbPfSltVXQWzL41G3-Bt6KOWB4Qp3vWzRkaKQEkZI1SLnVA5P0EC3tsZNEhDDL-yi4IE1ybiU0KmI_22TGhTcpEuwphnO3YzlJNBSDxB5eqnXFw",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Greenbelt Dr, Makati, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5516944,
+          "lng": 121.0217965
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.55309562989272,
+            "lng": 121.0227397298927
+          },
+          "southwest": {
+            "lat": 14.55039597010728,
+            "lng": 121.0200400701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "2670599fce88b14ef6a12d7e73485baabda9e096",
+      "name": "Greenbelt 3 Cinemas",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107571117159335978222/photos\">DY David</a>"
+          ],
+          "photo_reference": "CmRaAAAAmPzBdpeL6BnEYKrfbleKuLUuCXparILZAuNQpS0IlQAk6qAMEurVpWBf-0T7-yXGhoQn6IEsPZ24xroTvqtM_nYCayuk00eF5ULinLxO42GOzmymiySBXgSKFG0Fdq20EhDqgp_HDWS6JGXk89L7wufcGhRB5jwCOxoQdqku2CdhZry4XHqbYQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJV5nrdBDJlzMRVcOrKhIvw8Y",
+      "plus_code": {
+        "compound_code": "H22C+MP Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H22C+MP"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAmyfdKBzkPJT6g8bd_NX70yYj0x7B91ubRfrXoCZ3FXlpWYhTNrOvYSshRhrOTGv15Dk7P8QFdu7jAIxQmd5p1gxQOk55bKnSHNfcj-8LVhM9DeEPUWD4Cq7dNHYq18hvEhDWrZJI31Vlow9PB7xF85Y9GhTchVBqUNPAQmfMigDa7shYaMNLSA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "779 San Rafael St, Mandaluyong, 1550 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.580263,
+          "lng": 121.033704
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58159072989272,
+            "lng": 121.0350290798927
+          },
+          "southwest": {
+            "lat": 14.57889107010728,
+            "lng": 121.0323294201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "df86cbe140a29ee1712ec9baaa9ef655ec3ffea3",
+      "name": "Black Maria Cinema",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103071674697920434553/photos\">Robert Wong</a>"
+          ],
+          "photo_reference": "CmRaAAAAB_FpebgEMwhOXPC61aO6Rf7PVWW6xMxKHugE7kKABWFy3ppANyD8kNEKdR7tvb7hCFdsSkrl6DyrQWrqE0AIA42ZhmAqXGulNy_nxRYW1v-9J1U_RyTfT240uhagQy9WEhDSjN1Ly99SZAoSUQWYoHKxGhRTrGhSOwDRld3qUiNyHGyIaAAm1A",
+          "width": 1836
+        }
+      ],
+      "place_id": "ChIJAQlj0krIlzMR-eCdPyTNdXk",
+      "plus_code": {
+        "compound_code": "H2JM+4F Mandaluyong, Metro Manila, Philippines",
+        "global_code": "7Q63H2JM+4F"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAFaqw0hSbpVm9JkQ48z7YF4n5UByoMyMtjpvglwhw-UTD9BQ_nRYOqh3N7rGnAcDLg4gsCr-lktK_lWX9P0oDBST3X8iJTBdPBdkfcoJao5-fB_exa_927L5BiYaV8pzWEhCYA0kaP15Hf7Q8tBZHyelMGhTR32Cz2n8TftD5YkQOGGN-Eb3iqA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Ground Floor North Wing, SM Mall of Asia, EDSA Extension, Pasay City, 1308, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.534756,
+          "lng": 120.982614
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.53610582989272,
+            "lng": 120.9839638298927
+          },
+          "southwest": {
+            "lat": 14.53340617010728,
+            "lng": 120.9812641701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "fdb5c1682c69dd740398654e9ed262a35fe7b686",
+      "name": "IMAX Theatre",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113266696314334513596/photos\">John KIM</a>"
+          ],
+          "photo_reference": "CmRaAAAA_SEUbGyNckc6RmjytCo9eg-nBBaFj8hf2apX8wDQknGV0VRk4G1TfVI6v3ltGfVPPICH14HaTpPGmAerJ1zCBdoq57Zmo_yOLMxTdQ4llBTCbLAr8ogq6Mp-dBdkitSzEhAP9CgfQ0eON9GDsOrmklg5GhShJQuGYFF4Ok9VvGm5yvmZ9piC_w",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ097_b_zLlzMR1-xO8fJ-gX4",
+      "plus_code": {
+        "compound_code": "GXMM+W2 Pasay, Metro Manila, Philippines",
+        "global_code": "7Q62GXMM+W2"
+      },
+      "rating": 3.5,
+      "reference": "CmRbAAAAyF7_VKVHMbg3SyfC6vPA3TTrsXgqG8T28BAtMPkKpvWsb1mPCyzF_jPNwPMagbEB_ny7vN9EJjv8oLfuvqkEWh_CvICIrI19KxM41pcaRFo1h5CYnWyPpsn9Yu8KOhPJEhBkp_2jCGAyq7smL6ZqRucBGhTrt65Mkvq5qONNuf8OuLAVbM1ntw",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1 J.W. Diokno Blvd, Pasay, 1300 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.536302,
+          "lng": 120.980321
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.53765182989272,
+            "lng": 120.9816708298927
+          },
+          "southwest": {
+            "lat": 14.53495217010728,
+            "lng": 120.9789711701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "e2a38476ffe8109ee6b90e3ac989dc79fc06de09",
+      "name": "Imax Theatre",
+      "photos": [
+        {
+          "height": 2109,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112754322830409910173/photos\">Ultra Rare</a>"
+          ],
+          "photo_reference": "CmRaAAAA5-M4HolEX3_tYgpCFiHIoivs59H6SSvqVsaIfUs9SV01NuUUY_cXJi9iaUL-v6D0YqCjPIxlBjXmGrwhFGLzzls-I3SDC_c7ejri2dKY_JMVg5f5nAR__-7yHHyhdmBMEhA-M3SpM2rDzgHYTtVAkeciGhS4Wbh32a1Tghd-5LQmUvvNdyteOg",
+          "width": 2812
+        }
+      ],
+      "place_id": "ChIJ46k7-BXIlzMRzVZRt-vytAE",
+      "plus_code": {
+        "compound_code": "GXPJ+G4 Pasay, Metro Manila, Philippines",
+        "global_code": "7Q62GXPJ+G4"
+      },
+      "rating": 3.5,
+      "reference": "CmRbAAAAl4WDQxrBR8sLxDP9zO2Dk92uFw4t7fvLhnSUC878twGvhXQlMJUOQc4cqTyQYutLpxl8NSQR_gfDa5ahi-fvnPZaaflZZ__5_xUl8rdKA10gu1VzT9U6G7vznh5_GBKaEhAQmPjd4aP6LzK_hid1fztdGhR0GnbWJV6G5aoMiftDnc2zLoBcbA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

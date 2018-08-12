@@ -1,0 +1,949 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCDwEAAP5wi3Ew96mGejKYO1F-I-hN9f-8q2CUQUYaTywO8-lSbWVMYpUy9GQBT_PD-CxwY2b_UuqiLvXiZjAQAm9e3zE-bj7DCfDTL7orm_eGVA89NBEUuxrvonqnBtr5qQ7QMGVizsFSmA2_mLDpF-jsX5PiUlUus5HORkptDrYj0vicWOZnxJ79cvCENVn_qgqpWqYhzkX8dLVoiQySIRwNAqxwA8xVoSQpstC_T9npG__UDt7GrnOTOQ4Nwvfx2O01UAkj_9odZ5gvz94WpYC6cF70aJZTx4iW_c4fXNk_pU-UsupWHZLq63u3YHYvI43sjFv47VNfYTVrRRZ2HBXeFDsptgLYgYcV0VramjqVgMtwEhAZpySTZj9p0w5RO2RAGbAuGhT9IuXQaf1hfojhhQEOD2izzEy31g",
+  "results": [
+    {
+      "formatted_address": "65 Lê Lợi, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7732487,
+          "lng": 106.7008542
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77496542989272,
+            "lng": 106.7023999298927
+          },
+          "southwest": {
+            "lat": 10.77226577010728,
+            "lng": 106.6997002701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "e5c9422d335fe7119306c94d422109eafaff8e89",
+      "name": "Saigon Centre Shopping Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103192436541357797633/photos\">Quang Lý Ngọc</a>"
+          ],
+          "photo_reference": "CmRaAAAA7MtzlJ-37vLsYC2XY49CIf26T9NTf7vIAsN2ITlGqXn4pimgdfbhIkBWE3shK8HncO46fmMTtMOWUDm4gN9n6x0WbWbY7BSaTo8eMukxVHxYnKlcTy-c9bmgkvGR-equEhDwkDp4JcTzz32hrhs15frgGhSPStM3RwifvPWLTtvc5uRTLW8hZw",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJPY9kQ0cvdTERNEixjJGVzhY",
+      "plus_code": {
+        "compound_code": "QPF2+78 Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPF2+78"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAcITO5DV9zDD30QjtJmTysV-m2wGHyBkrC6eWbBPDSijcb81VUzx4LZpoPD6O2n4ah_F30hahDSGtk_UqTS6sTzIrtyVH0UUWhshK_G_Cz1vQX1JFfN6ASXfW6w8TwqgFEhAyW_RqSNtNEV1ggSfAyz3QGhSn5f4fSkZLBChU5iVl8cQqwBX2Mg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "72 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7781984,
+          "lng": 106.7018236
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77945747989272,
+            "lng": 106.7032212298927
+          },
+          "southwest": {
+            "lat": 10.77675782010728,
+            "lng": 106.7005215701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "3864793e6182bb15c48e6368776d41a322e1e968",
+      "name": "Vincom center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109896427454009548418/photos\">Truc NHT</a>"
+          ],
+          "photo_reference": "CmRaAAAAEwH6VvW280sukGkGl4_0mN_exmKWQqjK-lxoXeP9GeJC4sH5lLN4a9IQq62dUVD_KH3ZV6oU3u4FaGxaWrjDY9-vpGMUfdRrA-PtpPNo_M5d0IAMGqEFezrw5R-llhjJEhA-bw9q_4B4YKJFleBH-re7GhTdziRfiztdwWuUw5wfCjrLVGzNkw",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJtbvi1kcvdTER2QqFnwtXxDo",
+      "plus_code": {
+        "compound_code": "QPH2+7P Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPH2+7P"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAApuo4RCj7aqiVhj4HAeevQcTur52rnHUw3c5Sjz26wuXliw8YT2w5ZOAo5u2tGHOXDZ49iK5PqmIC6QOL0e_XcE-21A2LU_Hb_vE4AnEIvuKRjphGEU7zHvqF6p5w7qDEhA3Q5iAnBvRpjg9iPfGE425GhQ69857Q5zCkTgd_Ry0RRtpM2e4xQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "101 Tôn Dật Tiên, Tân Phú, Quận 7, Hồ Chí Minh 700000, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7287309,
+          "lng": 106.7186764
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.7304367,
+            "lng": 106.7201335798927
+          },
+          "southwest": {
+            "lat": 10.7269971,
+            "lng": 106.7174339201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "d680c43feabd3c208ddf41dbe6a68a5ec34b5128",
+      "name": "The Crescent Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100291599180740285311/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAWJVnFzev4hmZ4gPprlmgDu9o3-d93hcPNpAib1dpQPFPDf0T1KMda8yGlLuo3dMa9IybhtuzMs_grHZtZpcUJUMFsqgrzOI_kD-7LsEYpFP3jqEbjtDqESx8NTcYlDxHEhADVQR8bs6wiqrf1Ps-fMitGhRlxVhekZA-wfCfGptkGcpbgqBJnA",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJG_kgQ4kvdTERvgrON-WYwLY",
+      "plus_code": {
+        "compound_code": "PPH9+FF Tân Phú, District 7, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28PPH9+FF"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAebsdLYWYlN8Pl-T7GjRViu6swgL0WxrM87LqVjehoChFYIT2bL0qAWtAOExq0xRzqj_HMPFvVXtkZMjg9yErVlA24AjBHxpREqdhiZkDaJz7fcUUxa5Eil1av-i8prcgEhBzliVMKTVyRFc1_AdahgxcGhQtRaGd6zRDtLUlpA5gRyVA95gP0Q",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "38 Nguyễn Huệ, 69 Đồng Khởi, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7741047,
+          "lng": 106.7045036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77564697989272,
+            "lng": 106.7060190798927
+          },
+          "southwest": {
+            "lat": 10.77294732010728,
+            "lng": 106.7033194201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "e51f7ed8b6be0209b7c32b934930e033f849d5b0",
+      "name": "Lucky Plaza Shopping Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113897580751605327032/photos\">joshu komori</a>"
+          ],
+          "photo_reference": "CmRaAAAANU1_iiVcCmm0bC3jKJbyBgQdCgW4tdZfWGwYHVbZ7VmqytmUa8GXO3VW7BnnT4TC2U2w4AErrQMtISBuOZl2jLV4gRfPgbcmi1ZN4mLDOrBRKZFmSUDQv2377KiacDijEhBcyiy9kGskR-fyapVrYDTdGhT9kiNjtQNyucWefVmqvyMPXjbUbQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJY9pqlEYvdTERT3-haS9O7SE",
+      "plus_code": {
+        "compound_code": "QPF3+JR Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPF3+JR"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAqGZCeKn-k5yrtTtwdzMOBECS1cfeDlO6HJsdkWJ95RfBLb6l5CXJ6oVf7ySzd4Za5jz3X84VINWG35zJqOSG3axOUcgBoMzaULU969EfVajyeEqUd8UHwnIReu5ct-3UEhB_648UWvEmUKJ4JbMY4AJ6GhQRFDVAeQIvPuC-XET3Lao9UQ04gg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "92-94 Nam Kỳ Khởi Nghĩa, Bến Nghé, Quận 1, Hồ Chí Minh 700000, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7731248,
+          "lng": 106.7006058
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77452472989272,
+            "lng": 106.7017665298927
+          },
+          "southwest": {
+            "lat": 10.77182507010728,
+            "lng": 106.6990668701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "4ef6ac656007bfc1f2698e79651e26899eaf69fb",
+      "name": "Takashimaya Vietnam",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106389203278589682119/photos\">임형순</a>"
+          ],
+          "photo_reference": "CmRaAAAAAqBbBcfv6B_0cIKXDuQE2MGUsIVcXKeSjvc97M5BZV7tNL12oNQXiZK-sle-ws5dGOb2AOXfJI6dLhMcOdQIAHzVkcha2tUel0qq6fZLZp-IrcmiR-glhJNkD0qsxGDyEhBubg2uSn1zROTt7ng_-df9GhTLvoyqlMSJb5PtXZ34_uNr1lw7Zg",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ8Rh6REcvdTERZJ3tNp2ci3s",
+      "plus_code": {
+        "compound_code": "QPF2+66 Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPF2+66"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAhSK-TuqYYK9fYhQTZmHnYKO0_rMRAUNQ7HViCdshJaO3B5WSqCzQomjtOalzzDaGFJ8rqWyYs9Uty4MPwEiF7ebN_atlMbpUelzFlLk64nWDZY664oR_3XS3kyDSSNsVEhB2yhGcnhJ-9sCPhN1YOBM2GhT_3ADMPRBNG6AU4CTRx_GeBtFicA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "35-45 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.777444,
+          "lng": 106.7023511
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77878127989272,
+            "lng": 106.7035773798927
+          },
+          "southwest": {
+            "lat": 10.77608162010728,
+            "lng": 106.7008777201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "8727a3576f839e609b698ef266548e114106c543",
+      "name": "Parkson Plaza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114949048961638834757/photos\">Shania Shania</a>"
+          ],
+          "photo_reference": "CmRaAAAAI9EYjL-yiGHrzmFXCmiMj90u9kS9FeF1Z2H-oTbUj-W-0fi-GrQobzOvXAfVKrQe_zbuisfyeiDok0RpufPwwzOe1sXhxWRGp-avN95BNvlAfP71Lw3Z95BJjAY0kHg8EhBCgPOJqQ88R26utC0G6KWRGhRPzJg6nPiINDNmHxFJITVzgzNdng",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJia5A0EcvdTERBRMy2DeEtLE",
+      "plus_code": {
+        "compound_code": "QPG2+XW Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPG2+XW"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAJdsC5dwYMIP1SoK5_y4AzTkZS_Hs9PCPQL4JWOev8UpEvollJsB5OyQogunO__eixfjq3OWk6FJMC8tZ40q8H9f4K3BLGsifA_5OSkGLxxtU64jVcbabfShRetlngbFcEhASrNHuuzPFCDFNn59qCQBUGhQ22vgGXcemzU4D0hccOH6btOxHfg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "235 Đường Nguyễn Văn Cừ, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7640877,
+          "lng": 106.6825807
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.76538147989272,
+            "lng": 106.6837826298927
+          },
+          "southwest": {
+            "lat": 10.76268182010728,
+            "lng": 106.6810829701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "2b32bbb18bec95d7c291fd3aa0bd9062c805ad39",
+      "name": "Nowzone Fashion Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103660558583048586741/photos\">Alex Nguyen Thang Long</a>"
+          ],
+          "photo_reference": "CmRaAAAAArf5FU8pMbdV-OUXBmyqLuYbbSDulro02r1LTMRJ66KTCplIbrBuhHu-49B6p370d-nVVMORR_H3GG1BImR3V9qssVkQq75pgVTEqYSCRBOz4KX1E6G3Qcop9W4EuB24EhDMFCLM4E6VlH1kGz6ROipPGhSz56-ccOfbyrTZIG9vP1hrzPTtpA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ5QCuTRkvdTERY_6WvdDFkEs",
+      "plus_code": {
+        "compound_code": "QM7M+J2 Nguyễn Cư Trinh, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QM7M+J2"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAswLyW5CGw_7PCO6KpgTtR125T8a7QjzyVYx0YGMPF8-6fyRwE8NpoNTVCmy_Ox6G0-9vP8ObvEb1KNV2QZ67HRfz19eEeoyrt00VLzVcvu_ePIAMOHEoQakAnUHLwquyEhDe0UmFECUhqj8f3_2OKI2CGhQtCRWBFKobPX7sCT8FZAlMNB2gGg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "30 Bờ Bao Tân Thắng, P, Tân Phú, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.8015448,
+          "lng": 106.6183933
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.80307927989272,
+            "lng": 106.6197746798927
+          },
+          "southwest": {
+            "lat": 10.80037962010728,
+            "lng": 106.6170750201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "04c25c81e35aa2642485f69ede3a6db1a95c7d31",
+      "name": "AEON MALL Tan Phu Celadon",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2197,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100291599180740285311/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAALjNmjKNvUKaUpVL9ajA5qE1ohwAnF4P67BdjycXkr8cA74-68vHlErPKrDe0UzVA15PZLG8fS1qSyg1nkzU_wSObsb8paSHt5HNhieXPuAUpHIsNVuf4MR6cOmT2qOO6EhARxMGk0Ic1hKZwZpMuVYfGGhTcXxYAfF2y54a9COGWh6vE8NGacg",
+          "width": 3913
+        }
+      ],
+      "place_id": "ChIJ97h1XvordTERXrqco_d2EI0",
+      "plus_code": {
+        "compound_code": "RJ29+J9 Sơn Kỳ, Tân Phú, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28RJ29+J9"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAASdYGdlKRk25BFoqg6H80v5VWVvIWmj8lVVHPzl0usLr7RzJwQR8tHNFAEwzX2fper-7TCdVp65w2-2DPG4UdDX4z3LWmaTLDyNYN04lEtvyn-U2crIKKvrqmvWC4mdsqEhADUvjMT5aFghqUdj-AxhDvGhRBd0Hp2U5Jna-KWURs2yKQQtbKSg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "171 Đồng Khởi, Bến Nghé, Quận 1, Bến Nghé Quận 1 Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7762417,
+          "lng": 106.7017626
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77773727989272,
+            "lng": 106.7032564298927
+          },
+          "southwest": {
+            "lat": 10.77503762010728,
+            "lng": 106.7005567701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "41adcb21af8d52a4c52931d6b3be59c86422b0e8",
+      "name": "Union Square",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112824901735878517711/photos\">Kai-Thomas Krause</a>"
+          ],
+          "photo_reference": "CmRaAAAAMoKp49g312H7A3ieXwEjCnzN8ku8rNhqklmPgsU5Sk55EqjgKWepIf_ZHbYkHmWMkleqPuFf72DDB1SHk82wwDnS24mEUWZ9Z-060Po3kInGokE_OYTDdiH9H5pmLgHoEhAOhVDtMIxCXmtZqPrQIi3BGhSYU35DUT8rR0IgaPgpxde8Sc0M0g",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJb36HtEcvdTERE7N1vtALckc",
+      "plus_code": {
+        "compound_code": "QPG2+FP Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPG2+FP"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAPGpZhPlQqv2ME12u-_w8tiCmNSRhwRZnvQdIJgJgwk1QRw1OT1l43zDH4auTTb0bfzfX_LYHEFgwhda86u5SSW1abP07jJH1pAIhH_YPW6zD37J6kWsUofKxTuWCbFRIEhDTiVxM5bFs03ftyWbxvK8BGhSGsThNlWoXATAvitoM8IM2AqtAmg",
+      "types": [
+        "shopping_mall",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "102 Nam Kỳ Khởi Nghĩa, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7744446,
+          "lng": 106.6998783
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77575922989272,
+            "lng": 106.7011364798927
+          },
+          "southwest": {
+            "lat": 10.77305957010728,
+            "lng": 106.6984368201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "1cb2b327c1307a7b7bc115438910e8135a15dc66",
+      "name": "Taka Plaza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105386690745720273596/photos\">Miyuki Shinoda</a>"
+          ],
+          "photo_reference": "CmRaAAAA-vzxz_ds02CLz2DjcZpbUeChJbQ84Mkzjzlz-7kZ7Ewlak4-FVAmcLofVAs8bgoTaxcFZx9OyCZq9ftaTVFhGjMLpnbvHaM5z6wm8AAhISFZGvcvf1ltmN4xovx4uscFEhDSIdH96xtUuFfHhdajxkO-GhQX-yr13vX8yVJHfR8hivtz_DqBHw",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJs-kgnzgvdTERGvCDdUlcjBI",
+      "plus_code": {
+        "compound_code": "QMFX+QX Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QMFX+QX"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAA8dfKJwa9a6nX2bbFsa1FowNpY24ncsI2eQQufUlPDvFF4XLHU1LrvWx98qbBznwyrqlXefMry3MUMGpTSAibFp4dYNpsAQkHdJO8UHjqhkm7JJLa7UBwiP-cSQFECD9QEhB7A4-a3vsCb9LZETkQTo-4GhSE-KILlEXEOGXDHUFeZ8dOV423Vg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "34 Lê Duẩn, Bến Nghé, Quận 1, Hồ Chí Minh 700000, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7806206,
+          "lng": 106.6983943
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.78200887989272,
+            "lng": 106.6999897298927
+          },
+          "southwest": {
+            "lat": 10.77930922010728,
+            "lng": 106.6972900701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "6e2d7a0936087883647e324ed39c4059e51d6b05",
+      "name": "Diamond Plaza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103660558583048586741/photos\">Alex Nguyen Thang Long</a>"
+          ],
+          "photo_reference": "CmRaAAAAcPuT9osSCByX8Gu3692vc9bOXWwNAmJH5YRYsTb9ng1IhoG6JBuV_WH6fDl_NT2DoBXMVYNJ8eWAd8c09MtBIvdmz3SkVN6Px_r-C6BWT2ZyaqSQxWqOmJfEe9-GcxZlEhDFMCr9OePjgGJEY0eo6VywGhSFz6azoIXnLALN56-CbHft7KrChA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ75zeyjcvdTERzMaTAtkcoYk",
+      "plus_code": {
+        "compound_code": "QMJX+69 Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QMJX+69"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAgkjZzeS6SIpZV5FUPVqCGUZcGHNn2l8U7_yKcvn96A-Xigb00xjYLLIdB9TNdKBAFpd_m0skZKaXGtKDYRaud5mq-oSOTChXSqqLC-cc-PYagWs0YttPqOj4nvekBitQEhCxvqTaaYNdT2x1ThDT4iZiGhQS2IL4obQ4ankDmFmn8BDn00ZEww",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "29 Nguyễn Kim, Phường 12, Quận 5, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7557644,
+          "lng": 106.6628171
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.75719927989272,
+            "lng": 106.6643747798927
+          },
+          "southwest": {
+            "lat": 10.75449962010728,
+            "lng": 106.6616751201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "a890e77f80b1449d1534cd42f4d4206855c54036",
+      "name": "Hung Vuong Plaza Shopping Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101439695726312660960/photos\">PHÙNG THỊNH NGUYỄN</a>"
+          ],
+          "photo_reference": "CmRaAAAATglKHRbL4L-sZN6oXYd_xUR5pbkO19_wd7XNxcTXQqWup9oBY84vhchLFmb2jJdGpR8J-4avAK8ofzrOAnkE22Ej-khaLfOHq8D0Xw7W76CUTCuHPoKHWq037e66k3ZBEhCjdl6svLdvf32JVKs1lLEFGhRtXkDGV4uQCX-SLZT34QkQEObPaQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJN9-iYPAudTERngr1_e7E1WI",
+      "plus_code": {
+        "compound_code": "QM47+84 phường 12, District 5, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QM47+84"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAIOXTq1zCPzEjzOHpz9HlRpRFv9MBia9BULXlT3Sz7nhVKq59PSYVV0zILn_tBwCrN9uwxc5dtMBwV1h9gBBUaj4fJA7BXMMli7uCsBEJ-_Pue5FXt55w5FPoBy3_CX2REhBaWotf171lFpIGelynYfKdGhSxdv_KzsUX0k8ie0usW9gSqZS2_A",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "91B2 Pham Van Hai, 91B2 Phạm Văn Hai, Phường 3, Tân Bình, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7934731,
+          "lng": 106.6630725
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.79489512989272,
+            "lng": 106.6642667298927
+          },
+          "southwest": {
+            "lat": 10.79219547010728,
+            "lng": 106.6615670701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "ef4d1a42169b310a457c68e86d0b1b32bf5f1942",
+      "name": "Unique Premium Outlets",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117055907446907423376/photos\">son pham</a>"
+          ],
+          "photo_reference": "CmRaAAAAXl3QFnYS3eQLc0-XRasNfdUu2nvWRDlPF_7eBeWtR4hecKCH5fqkmPL8rDdjvADGYzCUh4tpa1FCdSAlEltgomU-4uXAqEHOz2tQBO_249g8pTSoTxdHfp31VpljOGRZEhDrllmM2xak0BRZL2m8CqeJGhTFwQzeSfwvAZsAfe4dJUP9FraEhA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJy56ijDIpdTERprqBQy1KnWg",
+      "plus_code": {
+        "compound_code": "QMV7+96 phường 3, Tan Binh, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QMV7+96"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAP9W-71OwpIEfLJ685M0j_hcUK1Z4MlW_OvHPrSfg7m9GGezwIbWncRKoR9Dm0yym3ouZ1wk2_6T8RoqyqaKY0HkaJ6G7ErH0RxJRHArvcxPL9NJQ2121vhvAviA9SJm7EhAoJ1RPyP77xgkii34yw84hGhSDfMMMnkBmrd0fhKTmacDzUfoAxA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "81 Nam Kỳ Khởi Nghĩa, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7724438,
+          "lng": 106.7001541
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77392692989272,
+            "lng": 106.7016309298927
+          },
+          "southwest": {
+            "lat": 10.77122727010728,
+            "lng": 106.6989312701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "ff807f9fb1511ff863ea7360f01801bcdafe5ed0",
+      "name": "Saigon Square 1",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116110839725911201519/photos\">soyoung Lee</a>"
+          ],
+          "photo_reference": "CmRaAAAAjNMXyaUp6hVO2AMb7mStXt_kOU56YeGv0jeYzqHzLqVoqARnXxPlJLt-rs6iBqaw3bTWvTnpX0jWiid3eVriuuBSSPsRQMfx5JJZWl5YcUwkWjl5BtrVHTLY2QsiMt18EhAAWdAhuqkctARxLY5Iz92NGhRbSBtofa2CHmA6hYVlg829FahNcQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJTdHOD5YodTERKYV6NXY-j1A",
+      "plus_code": {
+        "compound_code": "QPC2+X3 Bến Thành, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPC2+X3"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAhXzbceTNtdLeVCY5GIJ-I-VQHd8HN6UO1TiUWzAtrfVufc3Eg_X8kHtwDwDUIvg1zAoew2BqdpPz-F_E6BEOiChnezyITxujPxymVHdS7ITReKjyr8u4_UbUllYU88xsEhB-Lalhr9yNegpzddYb_gpzGhQoO18XIy-Q5iUFUOiYI8DlXmZgFg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "18/7 QL1A, Phường Linh Trung, Thủ Đức, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.8712439,
+          "lng": 106.7692167
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.87259372989272,
+            "lng": 106.7705665298927
+          },
+          "southwest": {
+            "lat": 10.86989407010728,
+            "lng": 106.7678668701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "2379955725f9d003842eca117739a8473b83ccda",
+      "name": "Joy Citipoint shopping mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103379580849605623085/photos\">Mai Le</a>"
+          ],
+          "photo_reference": "CmRaAAAACMfMsxuC6az1HzR52uPKvoWMauGpWC1vS5ziB156lO6BhCIF_9vD0oCWu1siBygn5RJRHPgpzSct1rYZ9XXqFPsBP0CGbc-_ldwFZtzF0Cef2jR6g9adrQzk6FKHUhYNEhDgb-GLzXtsrkBT0SQ7PHg8GhTU1BElmxYrSSwxsCTX_0k9PhjAlQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJt_8vFYAndTERk9Xk3Cs-bmg",
+      "plus_code": {
+        "compound_code": "VQC9+FM Linh Trung, Thủ Đức, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28VQC9+FM"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAkXDKyQZRC3cVhQQ9RvXbq1U02wfRENObfvcgGXWBIpQbYRYMrxAkZ7RBOTfuOZqs4NT0y7xgWmEAeBoFDPuEPEa8KN8n0Zb7jsehW1r-VZD6Xc6xX6_L6rAGKBnWR2LAEhBN26V_9frZ5ImXxg4hxEXzGhQuAWmD_AceQQ_JUYbZp-LmdHmb8Q",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Đường số 6, Tân Hưng, Quận 7, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7422695,
+          "lng": 106.7008375
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.74368947989272,
+            "lng": 106.7021995298927
+          },
+          "southwest": {
+            "lat": 10.74098982010728,
+            "lng": 106.6994998701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "71ece2efeb9c6d450af6b1ef74232158d7266eba",
+      "name": "Sunrise City Shopping Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110168514375514272192/photos\">Hong an Truong</a>"
+          ],
+          "photo_reference": "CmRaAAAAN8lDf-WcquoNT0VJpeaCBOuYYngeviewY8oKHeit3sLG7Q34Hh0VlK1taqkef27RwqmYhE78qHJGzk-JlVVRZXABsVYobf-aaNxehpp_HFIcrKGw1QY5xBn0pbVDbubvEhDJZpeAb8HNYPtHroNCmeayGhSJifgeMdI_Riel1ykXP-BrigjPsQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJpfWwcZ8vdTERN_8VXyTj9bY",
+      "plus_code": {
+        "compound_code": "PPR2+W8 Tân Hưng, District 7, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28PPR2+W8"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAXKHjwAu0fDrGatYAH0g7K9xWiWyCNsMt-8GNkJXWwhd7zYB6zh15Ff6ByFrIz64-ArkLmrCYi5WRuE2HKzeNAI4clrZboHmOWoczru6ncufC9XkiKqqbFJWN_nXxZHFmEhBq3RjaAiCwHxocSyEwuD4SGhSfIDYbiUV71xDZtVHlRS8uR_FSYw",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1 Đường số 17A, Bình Trị Đông B, Bình Tân, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7427958,
+          "lng": 106.6119311
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.7449068,
+            "lng": 106.61480015
+          },
+          "southwest": {
+            "lat": 10.7408556,
+            "lng": 106.60872355
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "708d301326a43abcc0c8a12b1d211317db917ba9",
+      "name": "AEON MALL BÌNH TÂN",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110872081084854565258/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAdktaXKMFE5jRV1szY3nVrDXvjSanFUmBU4Mzo5eu3fycvi56zyRk2iaNwBHAu4cJ3dHKQoX7U2oE8GD4XM3OEejeZtC6gZwwBevsBhCpqSDJyDzMnDMoqgjheisg36poEhAK2wCOgaUiWRLkuKcA23fUGhRZCzOKllP5kWFYNeBPldcTSZvlhQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ21B7zs4tdTERMUUTqUN2P_U",
+      "plus_code": {
+        "compound_code": "PJV6+4Q Bình Trị Đông B, Bình Tân, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28PJV6+4Q"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAVbTuWCjtWJWVjMyB5XkE-ieDmL1LO1vWZDjtxqGSvTVfLRTWtQHb6qkYfp0n-I7xgV7yrNf3ZjfqdWdqDYOSVXG3JEIuNX_X7BYLKXcsWx0roeo3xQpajtWzFja9-5WSEhCvPdIXmMKVHBSOZsjxkLfqGhRaXAklkmWRYbm0yJcCe6polsVIHg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "99 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7735049,
+          "lng": 106.7038539
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77489112989272,
+            "lng": 106.7052386298927
+          },
+          "southwest": {
+            "lat": 10.77219147010728,
+            "lng": 106.7025389701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "fe8f86d52ac4155c3cc3ee36e72913328d26eadf",
+      "name": "Saigon Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116412828192422792622/photos\">Thắng Nguyễn</a>"
+          ],
+          "photo_reference": "CmRaAAAANxkv2IPoVhsWbBxh-XTapJMiemmL5RPwHdXwim9IgbYhb5KLFKKRQ5Czc2aOTA_nkQHcciGlzsbUbq_BWrFZQvKNcNVae4ZUt7v5R4OS3ygO6vjPoFcbMf1ziwnAXOpDEhAQw94hRQiMmY3-7PYFYwSCGhT_O2rD5N6enZPoll_iCJYHrry47w",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJSds5xEYvdTERy7QYNb48Jy4",
+      "plus_code": {
+        "compound_code": "QPF3+CG Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPF3+CG"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAciAXkiB38MNtL1HkqpfO_WYecduXuksNEsxC0ca-aBqxvc0Zz9u0p9w9OlwREZFEOol9P6sohD2kDvPqB7t8Lo5qMnp-3Ov6zgOy6tmgQeUuRtfSu4v_8OzQ3qMHIdjaEhAIFIrMvFXRtS0rTbTF_lU5GhRn6ekklekVUtZPPxCBYTMknDNrZg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "C6/, 27 Phạm Hùng, Bình Hưng, Bình Chánh, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7205739,
+          "lng": 106.6828558
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.72194097989272,
+            "lng": 106.6842313798927
+          },
+          "southwest": {
+            "lat": 10.71924132010728,
+            "lng": 106.6815317201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "71e237ede6255627e380851740ede9828c35c390",
+      "name": "Centre Mall",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107605928044077282876/photos\">darky ken</a>"
+          ],
+          "photo_reference": "CmRaAAAAtbFz-ArOtHiUXOqUuxK3uSj-uM50EGVGTFWTqbQQZ1rzW9885YUa6izfWecYXzWTeHoQ7pxfD1K74ePIkXdqy266q9P-o89x7iYRfthDRdenV63mU804pBGGhdKtNZPHEhC1tH1HI1gDaW3zqmUnNpMxGhRp33gQfZKHATmoOaAHCJdEuuEVhA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJf3g8XckvdTEREwh28grKokU",
+      "plus_code": {
+        "compound_code": "PMCM+64 Bình Hưng, Bình Chánh, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28PMCM+64"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAbY05kl91MKrmbafBrq75YhHhMZvslvM80y9K8sgKMB8NJAffv9CzoT-7bXJvSL8qF_6EWoEKRlhMB6Tyb9L3hFRxsf9jgexITOej970mgA2JH5d4123osApctLnnqY3lEhCnXFsxmUns6naPp8q7_MCkGhT6Nme-jgNV_bFJcrndxxEtNffvgw",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Khu Phố 1, 1058 Nguyễn Văn Linh, Tân Phong, Quận 7, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7302691,
+          "lng": 106.7036122
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.7317613,
+            "lng": 106.7049295298927
+          },
+          "southwest": {
+            "lat": 10.7282045,
+            "lng": 106.7022298701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "2ff8870d8789b8716eeb83af4d1c6f43cafd521d",
+      "name": "SC VivoCity",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117533351404231749505/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAmrqBFAmFoxOIIKdPtm4o-CZ_IaqFogvgYW7aIiKAE2Juv0bbPgX15uzRmM7A2oQdI44ypmd7woijDKfyE43MCpEPhUf73_eU7n1i9PSGymbK8cSYsxYZ7s-rlQ0wHe5FEhAnByGHcUt5NHZ9S7-y80SBGhR5y9mUUV81QscHGsYJUI9WbYTFpg",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJl32Uw4AvdTERz-IptsnE-BE",
+      "plus_code": {
+        "compound_code": "PPJ3+4C Tân Phong, District 7, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28PPJ3+4C"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAOs2GNm7LUtC3LUnV5Yw8WvSa53nRT9jD7_NFrmP7jPktoU8aq5glbOZIPuz4Bum2ZHJhn5Cj2mzVJeZgHy6cDWxtgJ7DXsD2jVJv-NzgQiql8oJniqb-FH6OwT-vKvLlEhCUnp6qNC3Wr8VHaTsIH1CuGhS3a15PbE63ADi21lT62Ocssat5WA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,882 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCCwEAAG4KdSp7_9nIiQLL5yW1l4ADC3_lbPHUXtfs63BV8WgbhipU-4_y7081N3z944i7ehR81YeeAHQpEcpQQuqFYfGc8OmvRIDdx6M4FkoP5M3THIjZj_LyRlFuFZA4ozhzSGKYWiMPLCVtdtz-HnsKyCUw5dlHJ-pr9sUm_WP1XQM0CG1cpczokYg5eFumCdawD--xQGAR3871b_yMugxxIFpG_IvtooguB21ThFa52wwmRJf9rZCaSsWv3dpKu2FmLlwY6vY2wjqQu2_2BhXzwnHJQcI4SjiaDjG-EFdDpP0WSNGgqpeDt-cORbA0Y8gCrlTvY0LqyCW0HBiNZIaAJRtmbErTUnhpiERMJ7YKtNWwEhDztzb2X936kYr7MeP3uf-aGhTvyh2IiETB7Lk5EJ6Qh76CZ5cQHQ",
+  "results": [
+    {
+      "formatted_address": "999/9, CentralWorld, 7th Floor, Ratchadamri Road, Pathumwan, Khet Pathumwan, Bangkok, 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7472675,
+          "lng": 100.5391025
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74861732989272,
+            "lng": 100.5404523298927
+          },
+          "southwest": {
+            "lat": 13.74591767010728,
+            "lng": 100.5377526701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "61d51f1db3e723e2a4296b918a81b6f59a69ad46",
+      "name": "SF World Cinema CentralWorld",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108219478203763885337/photos\">JJ. DSRY</a>"
+          ],
+          "photo_reference": "CmRaAAAAEovFY7TTB6VA-bKNrjgimdDcbrSLfEB3RzgdndNUbDBPTS1w0dK9sa58HO7DTpm3JHi0VzqW3Wjrf7HRM8ngkajjIrZ9Nixwtsjk3Lr6vFJ1NdI6kW7Yjb8p9Ajrt-tbEhCbvpgQe2LwJjetW6EIZspIGhQ-Uzq2HC7lIo4i73OGU7FuUqh8Iw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJr2KS5M-e4jAR91UVdGeChpg",
+      "plus_code": {
+        "compound_code": "PGWQ+WJ Bangkok, Thailand",
+        "global_code": "7P52PGWQ+WJ"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAlUR6cnRb3rt2aMlE3oIXB_3fGER5zUlEWUoFRKbC58BfSRQsqYM6MITOSmKrlMTlKnyWmYdnJCJXHtB1EtSaabvE_FeeIJL4Rgf5ljiLqSEHGoIxSnO8yKfU-GFrLogtEhDDmCMekWZ2bTxuJWElDOWtGhTF_VOfRhFzTKXeato5iK9bF4czmQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "622Soi Sukhumvit 24, Sukhumvit Rd.,, Khlong Toei, Klong Toey, Bangkok, 10110, 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7297052,
+          "lng": 100.5690838
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73105502989272,
+            "lng": 100.5704336298927
+          },
+          "southwest": {
+            "lat": 13.72835537010728,
+            "lng": 100.5677339701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "12a593d65021c1b8a2ee9bb8fdc5618b43f2e63a",
+      "name": "SFX Emporium - Sukhumvit",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106145437297060103714/photos\">Raja Sharma</a>"
+          ],
+          "photo_reference": "CmRaAAAAWrojI07pPDWH7Zd6O7sPovsqUF_2puuhnH56b2ZGPgB-d0G3yCnLCXnR_W4yAzKQMbUiKDjOWR9O9YK3mdHu-2MxhS9sQigL4z2hvTi5N9tLupEean1zm35a94xuFdtMEhD5kyhiIYp1JcsK32j9zMt5GhS9Thno6xuTyT5mx2Qenb2FerCGXQ",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJLbRT5AOf4jAR8nKRsnkRfgE",
+      "plus_code": {
+        "compound_code": "PHH9+VJ Bangkok, Thailand",
+        "global_code": "7P52PHH9+VJ"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAexgE8TBQm2HIwLixwlf4fffJGJQ2sGd_SMW1WjKdH5a-F-jR93fO9IYDxR10GSSKnhEhnG7LDlYbtVesP4fi_rnJg3hwwZqWwwcUmnpYeBCNi3FEgttVP4GGsieMUsVDEhAfAvIFkLsQ1P4c_18obEuNGhRF5qHoCImqw16RJNl_SrQPCw-UeA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "7/222 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7783105,
+          "lng": 100.4759092
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.77996882989272,
+            "lng": 100.4776087798927
+          },
+          "southwest": {
+            "lat": 13.77726917010728,
+            "lng": 100.4749091201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "584b0b3417d5bf1b5969335fd6fe72bae948c3a1",
+      "name": "Grand Egv Cinema (Central Pin Klao)",
+      "place_id": "ChIJ5UDDYIaZ4jAR0RS8jC2sl9o",
+      "plus_code": {
+        "compound_code": "QFHG+89 Bangkok, Thailand",
+        "global_code": "7P52QFHG+89"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAACK1yN1brYbSqw77BICZrUk7W60uX7TaMAAUTJy2aVSMoK93dJSVfPvP6OcVgDX44xQp_99MdbcOm5AyrqPTzq7IMOrWc6ipYokpKCC4pl_BeM4rv0nC49CBIaTnUuxRXEhDvqSMeHjcjlAjhq6g8IPrgGhTgRuzhR6tmtV0QFTmhMfO5CVe3bA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "991 Rama 1 Road Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7459418,
+          "lng": 100.5353915
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74729162989272,
+            "lng": 100.5367413298927
+          },
+          "southwest": {
+            "lat": 13.74459197010728,
+            "lng": 100.5340416701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "c97d6996dda3c67d46aee24ff2a6a51b0e5e4d7b",
+      "name": "Krungsri IMAX Theatre",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106873590661418513975/photos\">PARINYA DETPUNYAWAT</a>"
+          ],
+          "photo_reference": "CmRaAAAAvf2DfxrTA1hjU6WDM3E3HWrcX65daeBO2fw4lo9FVzrBpbeFMtGg_fAZp6Ig1UKSMm_dEPzacEyW0jAChSjtbQBkKIjajTPIzRtREcAHDssixwdAkLi-EYVwcv1X_A_zEhDMBWHgBGRoJSNpKIGonmZ8GhSOEspk3GzlQ5_n4-cjq_LGNqHAuQ",
+          "width": 1137
+        }
+      ],
+      "place_id": "ChIJ12cS-s2e4jARkyizvOoP7Ws",
+      "plus_code": {
+        "compound_code": "PGWP+95 Bangkok, Thailand",
+        "global_code": "7P52PGWP+95"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAARkvVGwH9jEXxGT7s6ze0UOUsCDz-uPcOaVc3DwrlqwB4JeiKA6gUl-afesE47siTSDchD5U4FFZBmOH2GAYkYmnyrlzEDi4wOubwqktuwLCHrgKSrIX27ZD3WaycXY1EhByVr9aUwQbAkY9fvB8X4jsGhQIKqKak6Ad0jftKZ7uc1zFoF21Kg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "256 ถนน พระราม 1 Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7456202,
+          "lng": 100.5314567
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74697002989272,
+            "lng": 100.5328065298927
+          },
+          "southwest": {
+            "lat": 13.74427037010728,
+            "lng": 100.5301068701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "059db5bb382cbfe0d3bad7b467c6020b85c043fc",
+      "name": "Scala Theatre",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116965289825625649305/photos\">Duangkamol L.</a>"
+          ],
+          "photo_reference": "CmRZAAAAmhG9AgFbE2lGgzZqv32c2GBXELFT7jjtbVBcRi_Ay82Fqg-t1g5rMMuqgjsDO7dL_kLJR6nuEVksmvOyBVzwPYnG7tL9RdCQ1OfQU15c4odznsdCfDgiuhnr8A9FvracEhAciHBtx_5HZswkkDjitDlTGhRZDuXfug_o29Fcy1E3CTjJ2V-l9Q",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJBwBjnNKe4jAR44ntu1aSa9s",
+      "plus_code": {
+        "compound_code": "PGWJ+6H Bangkok, Thailand",
+        "global_code": "7P52PGWJ+6H"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAs8q382gfVZGqzM4wGOSCf9CXU_1I8Ik9wagOLG_Hb3YGW2Ge4tT7ZT46uCk3o9nmsMW7ZVnHsY6rTz3K1999If0UBqjzzvhApxSTvMp0GQEGxiO4trhVm7iYdN5VKp3hEhCtqP8Wh5878PIVS_2f64DCGhSgIhPxKEOqvnvYWvZPLHs6I8aSRQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "991 Rama I Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7460906,
+          "lng": 100.5348123
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74927595,
+            "lng": 100.5364721
+          },
+          "southwest": {
+            "lat": 13.74432735,
+            "lng": 100.5329417
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "0928f4d62708d8d6c94ed06e48dd2b638b421a18",
+      "name": "Paragon Cineplex",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113840598465602325925/photos\">Joe Soui</a>"
+          ],
+          "photo_reference": "CmRaAAAA3za8X3ylfc3IHir8VLbfVvwxcLx4b81x0-RxT1ltEj-jd0TmWBfd08er2gX5VkKhVs4lfSuENrYME2fqFKsSOutRyzQEJZLUz-zZ6yHQeZKNdBOzerMVFx6shX0AkTLiEhBCmVD62YrCA-o_Jkeat0mFGhSjS3uAzswA6w1ALqUKrU1Rh5ktqg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJb5PM_M2e4jARmnnXUkbNv_8",
+      "plus_code": {
+        "compound_code": "PGWM+CW Bangkok, Thailand",
+        "global_code": "7P52PGWM+CW"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA5rPfJMPu4sOaDTeFWzP27y0Md0XX_r75OkpZbR6UcjurgirppAvsKuz8eU5XPZ6kzFqXuSBmSz_dMcsP0s86MA8Y5kZq212lE-_9VrtFXqy565gYgONDfCSbw_LtuJ2TEhAxl6jVAqyX_W4T3rwTItYaGhRVQFX6aXVSXqFq8IWiQJMaRabRnQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "2549, Imperial World, 6th Floor, Ladprao Road, Wang Thong Lang, Khet Wang Thong Lang, Bangkok, 10230, 10230, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.785403,
+          "lng": 100.612686
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.78675282989272,
+            "lng": 100.6140358298927
+          },
+          "southwest": {
+            "lat": 13.78405317010728,
+            "lng": 100.6113361701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "8821b46e8c8183ec282c77f6f539c6b439554609",
+      "name": "E.G.V. Ladprao",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105638042685917504645/photos\">Joseph Dewey</a>"
+          ],
+          "photo_reference": "CmRaAAAAplej4rBArYshzEuYrwD75K5J79mT69-CS-vAM2dl6tmcmPupLAZZeKo0BPLs3ZOEjKyaiU0dZT8_bNm9zaJIEVgLUK7ZGdBafw1dpnKu61jVJM2vROfK9_Qy7lwiq0tvEhCmJoa7IuB88URIyfNBq1_TGhTNC11OkYWdnKbzJBwuCd-P_WLIEg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ24e0yvud4jARNYXpMPUGJfk",
+      "plus_code": {
+        "compound_code": "QJP7+53 Bangkok, Thailand",
+        "global_code": "7P52QJP7+53"
+      },
+      "rating": 2.8,
+      "reference": "CmRbAAAAVkbtIHhDGuNyvmthHt86_2B1YL1blAPuzUZcdJNXfQs2BiooQw9svQHgipOo8x8AOpF7vRTuo2yAyA5fNApUxKiwVzrXAcPDbqKaRzuPltuT8naUiIoLRzYhU1AfczznEhAOXenPHuwXZIHSEm-zDHBhGhRaMnOnPsxe2o0urOnc7--DrOwZYA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "989, Siam Tower Building, Floor 16, Rama 1 Road, Pathum Wan, Khet Pathum Wan, Bangkok, 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7465655,
+          "lng": 100.5316186
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74791532989272,
+            "lng": 100.5329684298927
+          },
+          "southwest": {
+            "lat": 13.74521567010728,
+            "lng": 100.5302687701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "206b59a9a76f4765a90e92a3e0783afd1f404686",
+      "name": "E.G.V. Entertainment Public Co.,Ltd.",
+      "place_id": "ChIJ17rhZM2e4jARNgbfeg4E-hI",
+      "plus_code": {
+        "compound_code": "PGWJ+JJ Bangkok, Thailand",
+        "global_code": "7P52PGWJ+JJ"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAA1xoQs-D3QKDHcFLIOhzpms-xud3Y4MEkq59SnF768EStWFrVC96_Orx1fpSOsusd98j9O3SWfhu9CaCCs6JcIRW4vQNUHqMUaG483w4BWTWvtpCyI7I590TfOOQk5HeIEhDbDekQKlsOkVvDAQCNh35jGhSHg5rwz-P0iqoCYlCFDBUzUmiJnw",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "88, Rama VI Road, Rong Mueang, Khet Pathum Wan, Bangkok, 10330, 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7510988,
+          "lng": 100.5212942
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75244862989272,
+            "lng": 100.5226440298927
+          },
+          "southwest": {
+            "lat": 13.74974897010728,
+            "lng": 100.5199443701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "a7efc496863f6ab08c9566dc33d5c1ce9113a29c",
+      "name": "J2K Management Group Company Limited",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110762283475470606562/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA-A5_ElapedVRLNaSlq1xpXJWNhG0WzykqmBdtFl79dMF6LYSqwb1fqmDwZiOVEo0pbg_iHzRzPfyh3TtGXIE-Ulp87i5LFnxMEVmLR2BBeY9m3IIVB42FepZlsKD7k_gEhCqPpYDGrODkXs0uYE79h7NGhQR9nhLI7D_AERpdS6iSprrjjeqGw",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJXYnOIDGZ4jARfL7WbmXmxyE",
+      "plus_code": {
+        "compound_code": "QG2C+CG Bangkok, Thailand",
+        "global_code": "7P52QG2C+CG"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAA_RCgBgOhB6Tl6WDbVc8ji-qBal6oKLSW9TRjlw_MahLFFiu9Sxfdgktk5APkkglJydcrKNI4FRL57Pflq2PhHrq69DcLuWbGsz2qqnnCoU14BYnQeNVKDBhZge1W6GMgEhDp-uApBlUAAvMwIev62taJGhTCdYaupkP2BiiOOydd6GLZ7SFCKQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "7, 222 Borommaratchachonnani Rd, Khwaeng Arun Amarin, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7778505,
+          "lng": 100.4760543
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.77920032989272,
+            "lng": 100.4774041298927
+          },
+          "southwest": {
+            "lat": 13.77650067010727,
+            "lng": 100.4747044701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "9a50d6f542c4d2b5867950d9cd9b5dedbf544b6b",
+      "name": "Major Cineplex Central Pinklao",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100757451198102049626/photos\">priew harn</a>"
+          ],
+          "photo_reference": "CmRaAAAAHAmThpYynDhPz849gQEd9d_2EL5_Y7tjykFO1zqlXGvETfbSzksRGpUTxNqP6uZ5ZfU6S5pK4uNhbokR53NSfdBnWXt_r0FAoQTzZ0K3OgTNsp-RtXG_jBgC25v1vEnpEhA1BesL_zlNCvJTNNMqbmMBGhQnukHcQD0d30VLyvCuIVSIpfKiIw",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJQyvyE4SZ4jARkrFackrzpyM",
+      "plus_code": {
+        "compound_code": "QFHG+4C Bangkok, Thailand",
+        "global_code": "7P52QFHG+4C"
+      },
+      "rating": 3.6,
+      "reference": "CmRbAAAAducCU4Yb0XwV3Sh6pUJPXTqiksJQNFgwpNRRh3jemG_omy6bBqFWTSvQYUW5Me5f16eu0QoCja-x0b5HX8Fps1xUsY5HVchHLMZTRCdoO1a28LgEwU6vvr0FIt4aRgTtEhBvSEppNCviQlhg-00WNmZfGhSVsjrfGohSDarT_wzLVgMhXz4z1g",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "เอ็ ม โพ เรียม, 622 Sukhumvit Rd, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7296927,
+          "lng": 100.569083
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73162542989272,
+            "lng": 100.5704036798927
+          },
+          "southwest": {
+            "lat": 13.72892577010728,
+            "lng": 100.5677040201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "66894eb812362f2655abbc52ca28c1a69a1617ae",
+      "name": "Emprive 'Cineclub Emporium",
+      "photos": [
+        {
+          "height": 867,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100790037575662774247/photos\">Buddy T</a>"
+          ],
+          "photo_reference": "CmRaAAAAXygbzAwisuCUjolgwMVAMknwzbDhsnpLhW__sUb116IC9bn7KFnBOxerRFR36_NWC9p8BXfQAOReURUEuAQJyUpL0NnFnvL9kwLZWTJ2xC0nD2N3gVrJlUN_Bcph0oN8EhDGvKiHz6OdPe1ShXobukm2GhSKYx7ejoSY0EqMPL5xKYbKu4WGDA",
+          "width": 1300
+        }
+      ],
+      "place_id": "ChIJ09p2KQKf4jARS_VKgjYHF3o",
+      "plus_code": {
+        "compound_code": "PHH9+VJ Bangkok, Thailand",
+        "global_code": "7P52PHH9+VJ"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA5kzbLDNWtDj61tErEIg5QF7LCNh0lt9CdhUEtLSECLvuePDNk_FpgZIRecEUW4ZNdRP8DD9XVBw1C7jceJxFpPAjPRM5RnxO21XcYtvobiXBy7bq_QTlsybAghZHzKfKEhAnh0It4FkRkI2CxHEIufhSGhQlNJC2qG4dvgGc-L6Us9cjy_zcvg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "15 อาคารเซ็นจูรี่ ถนนพญาไท แขวงถนนพญาไท, Bangkok 10400, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.761645,
+          "lng": 100.537015
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.76299482989272,
+            "lng": 100.5383648298927
+          },
+          "southwest": {
+            "lat": 13.76029517010728,
+            "lng": 100.5356651701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "6842d206e95f2c48a0e53babd1c1b2f378f7e69a",
+      "name": "โรงหนังเซ็นจูรี่ Century Movie Theatre",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114528026578601449605/photos\">อำนาจดี ฉุนเฉียว</a>"
+          ],
+          "photo_reference": "CmRaAAAAYAbbHycIGSlqhIEgIM99s6pHrYKmvdXrllFmCgZ88UFpBvb3mPUBcArPJHHmMZEd0Gm_W5ywxN-xYzqILc5r5qHofMEjRLq0k6iB2_kIigKQZQU0i-4iehxYdDvErqIqEhB8t5Ds3ewwuqzZpzyQYp4_GhRceJsZfkqr80Trpdx4-tM2uSHrww",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ5Zsmwrae4jARv-0LsEFhk5M",
+      "plus_code": {
+        "compound_code": "QG6P+MR Bangkok, Thailand",
+        "global_code": "7P52QG6P+MR"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAzUattKr1lNC5r9e7AWYzm1hGOM9jY5uMOzjGje5ArUbnp7tbO_zPrgxWZgX73RQrPtP3gii3kBCDhH8vxfwD60CoUtYOhFin5oQAQyj95uDUgVRPfwHLbMVXou_fOUHxEhA-ABwR57aZpRDtD7yW3AexGhSZTEiUcebbyeAn92zaA7xGUVZGRw",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "109/9, Fashion Island, 3rd Floor, Ramintra Road, Khanna Yao, Khet Khanna Yao, Bangkok, 10510, 10510, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.825948,
+          "lng": 100.6780925
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.82729782989272,
+            "lng": 100.6794423298927
+          },
+          "southwest": {
+            "lat": 13.82459817010728,
+            "lng": 100.6767426701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "efdc755cbfc80a078c8a99335a7a8ba9d1c16d5a",
+      "name": "Major Cineplex Fashion Island",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102968171437890245988/photos\">nattiya choochokkul</a>"
+          ],
+          "photo_reference": "CmRaAAAAWC8QInkyPtmk9jz8N4XlET95S-OEuaBChJqs8IJ4WqET2pjRwh_7CO_YWPa_hk8yo2W1IxsPvLSVhA9W-erAaTLScARGkBmjwGbAayhpipBj-lNAzB-BByh9RJcc5NA3EhAw61xK5mdOnQhFTtLm05cRGhQcWlfIf4OMzbcpz6U892rMYTrfew",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJuWUB1w5jHTERtr0XHi3_aeY",
+      "plus_code": {
+        "compound_code": "RMGH+96 Bangkok, Thailand",
+        "global_code": "7P52RMGH+96"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAdIDD5kPoYK__2hoVjt528HdBr-ATXWjmfLPHwk_DCIIcSZVxfnaPSfTYj_Vi5t-KBP_hoDTTiIaoBlj25_xdXZFhklugg39o0lAV-aQwI7qNl6WoGg3aXjtHiohpoyybEhD3hdzG0VuGZbi8AiVmdCkJGhRQgWxGUtIvlPKdpndWtEbwQmIoTA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bangkok, จังหวัด กรุงเทพมหานคร 10600, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7249652,
+          "lng": 100.4945591
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.72631502989272,
+            "lng": 100.4959089298927
+          },
+          "southwest": {
+            "lat": 13.72361537010728,
+            "lng": 100.4932092701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "32481e23d17b342ddb0dafe9c070c746f84ed079",
+      "name": "Hawaii Cinema",
+      "photos": [
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107847977701539412411/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAATkIHeVNYgknHub3EA-Z9Aw4khNi7H6vQwW3GeMkunkSjLMZOUgnppMdpWkPDppkebkwZnUC4vfwwdHYGhPz_gp9iJxENaq9LA08Q9j5Abu0KGjo9oD4G0OKZgqIsYgPYEhCQhSLiTT1fIxsxqc5WAv6gGhT6S4f8DuRx_rZ0QXpkcktC1u8TGQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJdao2oPqY4jAR-9KDANo-Zw4",
+      "plus_code": {
+        "compound_code": "PFFV+XR Bangkok, Thailand",
+        "global_code": "7P52PFFV+XR"
+      },
+      "rating": 3.4,
+      "reference": "CmRbAAAAhCCVjOLiWlhrMQSHYEXrGBgNVjrRhaAx23_lxkAnKg6_yBFe79kxJzyDo1CsTm-ZR_7PQnagnRWMKegJn3_2PloH833QOhK4zlDRRB0d-nP42iI9q_PL6mVCNX86T_JoEhCtGOvJoAttP_MyK-c77nXOGhQLi6EeVxj7X85JBnCDyXUdOPxgVg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1691 Phahonyothin Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.8171436,
+          "lng": 100.5614716
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.81831817989272,
+            "lng": 100.5631084298927
+          },
+          "southwest": {
+            "lat": 13.81561852010728,
+            "lng": 100.5604087701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "b19647abef55f449286a2a0ece1b7c371a343f9d",
+      "name": "SFX Cinema Central Plaza Ladprao",
+      "photos": [
+        {
+          "height": 1463,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104402906375731360683/photos\">Son Ma</a>"
+          ],
+          "photo_reference": "CmRaAAAAv4uQLTpUTMpLGy2PcJPa_3eVKNOdTNTtf4Ko7xiP3jyxdKppBhHsb__kaw07f2Oc8yqIAVBPiazME0nZH5XdtfXOmuo4xVeAf1As7EK_rz4rkZI2DwtEn0V7jQrZRCdxEhCHMK8C8tqixGSNqoft8AgxGhQ4CIURCYX9nhlKlowTqSea7pqGfw",
+          "width": 2600
+        }
+      ],
+      "place_id": "ChIJ6Xm5K1ac4jARtLoQ9YRnsxk",
+      "plus_code": {
+        "compound_code": "RH86+VH Bangkok, Thailand",
+        "global_code": "7P52RH86+VH"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAA3G9CJ46cdy-JfRhf013CVMOwzqFMQ2QtNRkMnAFF-ZjEEQb3KYX_LxO08SRJpZSYgWSlws_doZ1ORyzutR_FGBjukXyE7yQVwGQOGWIsB26QlYhMHoGLCxBigkZnCchxEhDCmKjT6ldVbYuuFm0zdQCLGhS05OQGQPKTZTDipBd1V7PgZyRAmQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "เทอร์มินอล 21 อโศก 88 Sukhumvit Rd, Khwaeng Khlong Toei Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7378199,
+          "lng": 100.5603997
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73916972989272,
+            "lng": 100.5617495298927
+          },
+          "southwest": {
+            "lat": 13.73647007010728,
+            "lng": 100.5590498701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "1e64bd9e29e1daa87216a64d5a1a857f815e5391",
+      "name": "SF Cinema Terminal21",
+      "photos": [
+        {
+          "height": 1885,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106145437297060103714/photos\">Raja Sharma</a>"
+          ],
+          "photo_reference": "CmRaAAAAgPzGUFOyWO1vPJxHXVwc8fWD4QweS0RnEMr_VZWW7BuLRGsvoWML1-FlQ2qd4gdXU7c9r3x-czVcw48BvEMFV3oa9acGX_t8edcF4yEgHsZSV5qLPU-1uUMzK1UV1tFMEhCWLcOGJp7TqkoyW6JajVOLGhTfBhQ5MLKz4zGdJzDmLK6C_F2atg",
+          "width": 3325
+        }
+      ],
+      "place_id": "ChIJafBKoOOe4jAR5D8l-MLd9K0",
+      "plus_code": {
+        "compound_code": "PHQ6+45 Bangkok, Thailand",
+        "global_code": "7P52PHQ6+45"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAvcwjEH2UecpHem8WrnQSffsQOs9c5KTVKfhXHj6-5c854YXWnkKm1b-1G_AZ57ayEnfdy521a6IppvIAsmHZeUgm6WnBGBR2O4l4LNbqXG-h9SGa_rkRF2vELvutcOG2EhAE9Yn_R3aLZtgmr0GMGr1kGhQ4M7iLB70bWK4n33dS8A4Ezi9OzA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "ศูนย์การค้าเอ็มควอเทียร์ 8 ถนนสุขุมวิท 35 Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7323301,
+          "lng": 100.5697451
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73367992989272,
+            "lng": 100.5710949298927
+          },
+          "southwest": {
+            "lat": 13.73098027010727,
+            "lng": 100.5683952701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "00ae5ceeed4074b0439a97d7e6aa90f8b28fdc0d",
+      "name": "Quartier CineArt",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114672918289624272583/photos\">Keng Hian Lim</a>"
+          ],
+          "photo_reference": "CmRaAAAAJOXsZsgiLld5T2UHhcfzKWSswKJ4uozE91m96EZpMNRkdtJDP28kZ1l5oyxq8FRpCr-gHt9abArw-nVDDkMvF7uoqS-6LvhbwkslRMbDrt5ZoDxbyF112rcoNSHjTQUnEhDw82J7l7GNhAM3hvN4ZlZOGhSkGmTKy-ijWixwUVjAqxo3LEaJig",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJKRl37gGf4jARX52m-mL2MJA",
+      "plus_code": {
+        "compound_code": "PHJ9+WV Bangkok, Thailand",
+        "global_code": "7P52PHJ9+WV"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAkiADm45dsDjR28uTsizlcbLO8Eq8FnFTeUebbKx6BMAD9OwtzHz8YYerVpWWYPJp8dlFDzZuwVBIQ3S0iT84EqPHWhm4G1nehn8VZMhF6ieP2XgLy0qEW8Awf3bTefI8EhADcKeRjF8RvREbiOVb65R2GhS2dgOmsFc8UciyRs3d70W5YiT6bw",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "904/2, Seacon Square, 4th Floor, Srinakarin Road, Nong Bon, Khet Prawet, Bangkok, 10250, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.6958975,
+          "lng": 100.6484841
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.69724732989272,
+            "lng": 100.6498339298927
+          },
+          "southwest": {
+            "lat": 13.69454767010728,
+            "lng": 100.6471342701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "9291cb5095f744a30e6855d0e279a5aa43d8a840",
+      "name": "E.G.V. Seacon Square",
+      "photos": [
+        {
+          "height": 2546,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112733333808113860805/photos\">Pramual Damrongmahasawat</a>"
+          ],
+          "photo_reference": "CmRaAAAALHFoyypDYym_R63E_x8ig4YqSha4aOTl46fyeuGOT7dV6De3Xhyan8M5n6D__q7vwa37OOFussSoQbPjz8taZfL388PNyd8CRpFzxzjTaGAjCEf2xSbgJ-1mdUterNdBEhAzkv3XVIh6tP0yHvTHYMSdGhSKf1buNe69fdFALKyQ-LaW7C7Sbw",
+          "width": 3414
+        }
+      ],
+      "place_id": "ChIJ9XR9jHFgHTER4JEbIxQk3HE",
+      "plus_code": {
+        "compound_code": "MJWX+99 Bangkok, Thailand",
+        "global_code": "7P52MJWX+99"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAsgSjY6fzGgYGsuMvztFYWtuw96kPLHJPpG8mek7jz869ZqzexAxUy-Z1sI6lNPtFEi2jtVNIkdt5YG2wneNqcE9o3-ffK1Y-3j5D10TQJRj_bpJLM4cAXPgRHSJHgt5cEhBxtGwDVfDvVboxmaliDg9BGhSJFnE0uMuHbtIPbBm8aAmI1oL-Tw",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1221/39 Sukhumvit Rd, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7212299,
+          "lng": 100.5832454
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.72271132989272,
+            "lng": 100.5844900298927
+          },
+          "southwest": {
+            "lat": 13.72001167010728,
+            "lng": 100.5817903701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "6aca0fff6e152ad1d413acffe32970bcb0fffc42",
+      "name": "Major Cineplex Sukhumvit",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112452626783966969954/photos\">Ganesh</a>"
+          ],
+          "photo_reference": "CmRaAAAAYjPoCnbi3mPnHrJbgPwyC9txmIJo9GPnHpTsmBsP7JeLFwORt7b0QkcvH2yfUWGYCyPcKo-5V5MCqRE8-4jPz171mTbBnZGOKVh4L_HdsHdUvteNZTSsU9CY73_MjaG-EhDPFaM5xxNZbGDbw2qRxGGHGhQexp3W90Zdk_HBXLqjEh8rbIbtkw",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJNRokg6-f4jAR82H8EFAlAEA",
+      "plus_code": {
+        "compound_code": "PHCM+F7 Bangkok, Thailand",
+        "global_code": "7P52PHCM+F7"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAA218T2TWKVvovI-HtCn2S4oquWez6TgpdSYAbKHaeTDxRL796arDgA1ubxqmywV8Sgdov7xyKY5xbmibV3wvGLMpTgrm0JV_bapBIWnt7PG6XmeM0Ve-6xj2RZC5PYArkEhDUdivtb6Hf4avoxFJwfgj7GhSP-RsHqhEglGYccUtcElfuKUDBNQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "ชั้น5 99 เดอะมอลล์ท่าพระ Ratchadaphisek Rd, Bukkhalo, Thon Buri, Bangkok 10600, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7136756,
+          "lng": 100.4804595
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.71502542989272,
+            "lng": 100.4818093298927
+          },
+          "southwest": {
+            "lat": 13.71232577010728,
+            "lng": 100.4791096701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "e9be4c3d0e8307ca7c26a0f0434375fd906c9409",
+      "name": "SF Cinema City The Mall Thapra",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101801353882450483244/photos\">Rattana C</a>"
+          ],
+          "photo_reference": "CmRaAAAAm72dUKpZS1_K0jpSQTVdTxZnZ1oPTjZyhtK_EcyKe_CwNTj43rk1yzEubUt7qIcnYmwctSeyvzHEpkyZWldjq_RiRun_wcRG-vfFayNewVi5SXjedxmaif8uWH3LsMByEhCXZ_1iPYMAuTnXNawagYQ7GhSkUcnoxOlbl3xjCobdNK-z3Ew6CQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJpTbM7s-e4jARFRT2njvx04c",
+      "plus_code": {
+        "compound_code": "PF7J+F5 Bangkok, Thailand",
+        "global_code": "7P52PF7J+F5"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAsvkhzK5vGRRuy5execZSpkbzTLOuu1MNmLTxjKLjXXG5ewdtgTJT3Gum1VRu8yAEX30BYC1V5avTi0NTAt3FnIAF-E7TJ2Hzp37MNvCriHHWepdVjNIwQsMywgRjopQcEhDyVKH8y5-n1usSdZWwC-JkGhQwjo1DXVf5Q4omMqgxcyUS3NDITA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

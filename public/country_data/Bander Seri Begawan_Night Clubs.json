@@ -1,0 +1,211 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Simpang 13 Jalan Komersial Jaya Setia, Bandar Seri Begawan BB2713, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9409797,
+          "lng": 114.9393115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.942277529892723,
+            "lng": 114.9404091298927
+          },
+          "southwest": {
+            "lat": 4.939577870107279,
+            "lng": 114.9377094701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "ef6004d745de7707cb027d99fc8c2ac91f4bfe41",
+      "name": "Staff House Wajah GEMBONG",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117025437751817149578/photos\">Dedy Azwar</a>"
+          ],
+          "photo_reference": "CmRaAAAAYo_Tp-BkprW3DuefhN3JjP71vkdiv-mI7b1woyI5G-fstBCkNMdIam6EaEvOXXfCTVa-gK3yRGywxKaEn7_GNZEckm7czx73R6SJXmMBDB4KfoxGPampnHI17doErm-NEhCqe0KHLuCv7cI7vm6U-3TqGhTjyFXFXXqqPJdHs7fE7PkEk_AfYw",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJyeKnU6X1IjIRNEEUbaRftVc",
+      "plus_code": {
+        "compound_code": "WWRQ+9P Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWRQ+9P"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAqqro0zGzeKbewAJTM6HbUytjhNzfhXWuk8eS69668dzOPhL3D3aR1AxHTt6gGNW0LfOM8_y8A5ExUCQF01WnWv0jdP14HW8747TuDQYivq_E7mVJs-VnD0TL6b7ZElQcEhB0dQ9xuyHmfHDFiNmz1GkaGhSZPbkLbpNLIL81U_pr_UrXF9CRag",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BB2713, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9395391,
+          "lng": 114.9401289
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.940888929892721,
+            "lng": 114.9414787298927
+          },
+          "southwest": {
+            "lat": 4.938189270107277,
+            "lng": 114.9387790701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "0f48fcea036620de2acb12bde0f7525487ce8f6c",
+      "name": "Pop Corn & candy Bar",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106564408402965854310/photos\">Musa Manggai</a>"
+          ],
+          "photo_reference": "CmRaAAAAFPSFVKYQnnn9EXDvzsi9BBQZywJGeHYCnIgP5OiZNPw68R8W95trEdyF8G03vYDR2gEPNLKgusayDh2HbGr8LcIzIDEO0BOZklzWyMtbwhiqD08Wkp_Z5_XtjW6BEWX6EhB2PjQlIM8Q-PhelH4WwIHTGhQzjekAzpnXzIx9Uga2i1wkH0Hj-Q",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJh2hHia_1IjIRw2xA5bu3FY8",
+      "plus_code": {
+        "compound_code": "WWQR+R3 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWQR+R3"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAmy50RIctyXAbO-kWz6OMw7dHqbSpiEYlaFyLv8aJbLEUqr3M_Fkbk4Lnv-1TMKTL87sl6Tg-LZHeY8KY6dhhji_Mv2NPMnAC4ZbPqLsUml1NGxNdA5kC0nT4nHgY_q50EhDOP7tSDNYWSPaUyucA2yx3GhRZR2ZRI1aJq7_r7G4ZmCl_OJ5hBg",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Mukim Berakas A, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.945408599999999,
+          "lng": 114.9329678
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.946758429892721,
+            "lng": 114.9343176298927
+          },
+          "southwest": {
+            "lat": 4.944058770107278,
+            "lng": 114.9316179701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "690aad6b523047604da05517344292b1b89b99af",
+      "name": "Royal Brunei Business Class Lounge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117901182826799648368/photos\">渡辺茂</a>"
+          ],
+          "photo_reference": "CmRaAAAAOtfcCYAGgaiQRHu3rI0eXwEZNc-AELzk6y_GPJXqfZm4msQ20825YZWpqyDwXfI-DvpScB9srHXW9R66vQum5Xs4pK8LvHDX9wj-7EA5sVXBr0gPus6jWik28dVY1U3LEhCF2jByxk4IUbPwz-szC8PjGhQYMvXnYQmRHI5p5Z_fpqzfPGMWWQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJjdjoZJD1IjIRvksj7xC_Mwk",
+      "plus_code": {
+        "compound_code": "WWWM+55 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWWM+55"
+      },
+      "rating": 3,
+      "reference": "CmRbAAAA48PpeNU4_A26e2KSpeitj3A-tPzVVNcR8vWHKPMhU12o4UDT6uu4RzUtPiNdDoTshA2u-BxAUj2_MhwJZlB6Y1UZktpioC9w3uXv0y70McZxy1TDji1boupkcaiUXgcIEhBm-ZstouYVxIVqrXLwVurqGhRrMOW-XGS69PhWo2vsFAOniFiX7A",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BA1111, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.903052199999999,
+          "lng": 114.939821
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.904402029892721,
+            "lng": 114.9411708298927
+          },
+          "southwest": {
+            "lat": 4.901702370107277,
+            "lng": 114.9384711701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "ea714ef8663bb9a337724a707c3b9a24974528fc",
+      "name": "Lidia Anak Kedi",
+      "place_id": "ChIJAQAAADD1IjIRAPoC_tJCmdY",
+      "plus_code": {
+        "compound_code": "WW3Q+6W Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW3Q+6W"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAvbDh2GA3y67oOIweFU13WE98fFZTY5YV52bRwJCXRl8zhlZiaPXWkNZ5sxWgpTQUEWglo1MxQEhsh7Gh5sISIeQCCDQDFeNrr86ahB-9bQjtvphROzEZJlmt3laGzcPsEhAENkR0cIG0BZa1dgE1xF7rGhRQ6yIyLP-_eyYMm3RZt17TOsBYrw",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Simpang 236-38, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.901881899999999,
+          "lng": 114.8984821
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.90323172989272,
+            "lng": 114.8998319298927
+          },
+          "southwest": {
+            "lat": 4.900532070107277,
+            "lng": 114.8971322701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "215879129b3439badd0aad140321884bf0c909ab",
+      "name": "Soto Karlijah",
+      "place_id": "ChIJZ4JUfPlfIjIRftone4Nt_f0",
+      "plus_code": {
+        "compound_code": "WV2X+Q9 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWV2X+Q9"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAwGwwvgNb6dx35PmjxVwI4nACKWDEah0FSn3fPA7a4lIKxUQ09Wn9sUl2Ih9zGIjFUFd77LILwbFVgbF-Fj0g6r6TvE-eMIvbyfe73w6DDCOZ1EfATds_OdJH3sOTjnUUEhDi42SCmlC3LdI6aEdVYHObGhSOYSWBgEAQBBpzk-dt7tyY5zx63A",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

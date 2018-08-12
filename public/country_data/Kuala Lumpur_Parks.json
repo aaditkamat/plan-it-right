@@ -1,0 +1,944 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCBwEAAG3wluSg4QzOgVYeB27BTcYfY7wLpfoLFEk8MC-vLlUcIYKcwZmcVfYuaPM9trwplwtpdM1NpozVdTHofjXBTdAZzY9Bjl5QqrxHrBbO74Zj_RiLOBFhKDxdZrW6deG7rYaC6gC2t3YLAGlAzFFrgkv78y-1Zd_TqKw8lLCYlS1I6sfsJrjquMkJKkaABXWQ6b1AXnQHiXUDUBgd6zDzJiRPFd1zZkaDaeGt8E6zUJPox7XjhhIZwrV-LkVjfRkgm82LP4dcV1seIyDBFm65xp0MPy684YD0BbmXXeQxz5pQgmeV6jS8PCteggOMyhUCqmk7jJkJRyd3Lz6YQofjzz-pUxca5wPJViskfk4eh1KjEhAzg2DXiDjT5KtH5ZtKX7bCGhRNd_tMqWD8JvBP9uLVSR7LkE-fqg",
+  "results": [
+    {
+      "formatted_address": "8, Jalan Raja Chulan, Bukit Kewangan, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1500606,
+          "lng": 101.7023678
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.151298829892722,
+            "lng": 101.7037518298927
+          },
+          "southwest": {
+            "lat": 3.148599170107278,
+            "lng": 101.7010521701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "95e3230ed871dd054c1f8a0d6149315b367ad413",
+      "name": "KL Forest Eco Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111714884463551709306/photos\">Ibrahim Mahudhy</a>"
+          ],
+          "photo_reference": "CmRaAAAAklCREh26Hj5c9NaMbtkML6a7o8-IGFBH0vOgmiDBLY2X9rVFQ8tITNCuZ3XS2lFgEkgtwaxycOlh5k-93npTwrcolyjjTLWPOhXH4OKqNjirT147kO4QkM76RU20m5jbEhBaj63UcqoZnID7iHF6WHM6GhRkmm7AOvFuz9RpoQNhhf5ZFVJurg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJt_wYo9RJzDERYT1Vud3Ze9Q",
+      "plus_code": {
+        "compound_code": "5P22+2W Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P22+2W"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAppOYMNC1viMVUkXB4yDyEiaCARoO2TdClwFlAxujfetFOdg2ThDxNFbx008vJVfue-iakTnTlE14-08a3N_M1TOzj97Cz8_7fCd7H4ft5diGVcaCOyRhUlZQcw0UaslPEhBaDn0-bXhkPuSXXIjd83kXGhQ3cqdNnvvQ1oyHKxI6NL2kFwZUZg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Taman Tasik Perdana, Jalan Cendarasari, Kuala Lumpur, 50480, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1457332,
+          "lng": 101.688906
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.147174429892722,
+            "lng": 101.6903665298927
+          },
+          "southwest": {
+            "lat": 3.144474770107277,
+            "lng": 101.6876668701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "42cfb0035ea324424673069862d5dc6789cc1e4c",
+      "name": "KL Butterfly Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111356025921762885035/photos\">Michal Kabát</a>"
+          ],
+          "photo_reference": "CmRaAAAAToV2Yi_wvnl4tAo97bYgO8v2wl3pXKVWyQiWXFYx8gN0sAQBQLJFlcW5ShLSOMWnRZyxbuc-fKojL-8P-7d6rpTnVAq-pAC1I7senKfw7ib8cOS2IA9YbkdKsbI1KY2nEhBOABh576ec4VsgbNhgG76DGhSFSqiFbsaITmmJgfkRG5K3AjDY5g",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJbx6v-shJzDERJOEL7J7NVxg",
+      "plus_code": {
+        "compound_code": "4MWQ+7H Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MWQ+7H"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAA1baOc3VJEI74-Dwa7Qns0n8nDA5XVPeH46bEo-0lDs4vkwyVnBCU7At3bfpISDy0uW_DOp28KJBr9YbcvjcC29CdffMA4Y-5Pxf7DttM1IAgjEJrMpHZlPxO0mr6cYQpEhBJJHddNZymwZ2McXxRlFfUGhRECv_mVLxUlWIvy2wpmIlX72KpPg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Tembusu, Tasik Perdana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1439947,
+          "lng": 101.6877221
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.145344529892722,
+            "lng": 101.6890719298927
+          },
+          "southwest": {
+            "lat": 3.142644870107278,
+            "lng": 101.6863722701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "42d79d2ab4a4f0eef111bf768ce9fb4e578c6805",
+      "name": "Kuala Lumpur Orchid Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111746537844771290555/photos\">Chen Chyong Yap</a>"
+          ],
+          "photo_reference": "CmRaAAAAjIfUmlEZxs-0B8d8gIK6uFM4GKsQtAyL3nXGD9MJrXdQkudVNFw1PmNeXOqU27P24tScswssmL8u5n7wNfU-W_eSaTDKlkXslze8H2xwhOrw9Obj6K_YiY51974tvDj2EhAwbL_Sti9kVrzvlChHMw1gGhSPJFRDmDvJMx6hKvM9_AgQOAwx7A",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJGe4PkMlJzDER_it3eb38iCk",
+      "plus_code": {
+        "compound_code": "4MVQ+H3 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MVQ+H3"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAs4pkghnEYb1N0yo7rrRFYJWOcQTiszrP0JIyxattV-LbpItMirTRd40911IFmw89lNo_hJAnt2bOUz0TFnU5Ty6ZA-NBVaJmtag6bZNK0U0e8H4cUTqIND-T94eTbmWzEhC4rZrkmeZt2H6jPi4jIDpkGhS9GR1ObNmqvuPhBiZEU1GV1hjr5A",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Lingkaran Tengah 2, Kepong Metropolitan Lake-garden, 52100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.2231302,
+          "lng": 101.6401534
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.224564529892722,
+            "lng": 101.6415253298927
+          },
+          "southwest": {
+            "lat": 3.221864870107278,
+            "lng": 101.6388256701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "5367f8e86700a4b6057f7e3dba205e8346b53a5b",
+      "name": "Kepong Metropolitan Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 627,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101191844965239145139/photos\">Yuvan Morogan</a>"
+          ],
+          "photo_reference": "CmRaAAAAPfOJ8KuHtjGTKaQ-HppP-HsP-4XEQUvCOc7BSwCNOETXEn0qI0mcEANraeI4HoWt7N-b-GVRxFII7ZB3Qn-eHVg6ENgsEuho8JnGbsV6ZjbaMTXBKxaUbpAoGnXfpk-LEhD3Xf89TgJd9koggFdhk_rYGhSUg95dMlB5C6BkfaeV2s-aKKVvWw",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJuXfzu15GzDER0lheeap-cFE",
+      "plus_code": {
+        "compound_code": "6JFR+73 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM36JFR+73"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA0YS0r_U48cNQacNsfEjzy7S4AMwbR2J74Hxedv-vQTp9Nyru0pATU2KlGZ27G4TqpJ7TTpuZGPsu9kzvx0jvDyOWzs6EHK_xmIiihO1DWV21qIcVNewXcg8dw_RE67tmEhBUc63czkK6RCqDx8jq_EcHGhTbX0vX1VXtXzfVN8-FETC3ySGOxA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Desa Parkcity, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1869935,
+          "lng": 101.6296434
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.188343329892722,
+            "lng": 101.6309932298927
+          },
+          "southwest": {
+            "lat": 3.185643670107277,
+            "lng": 101.6282935701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "6c34adbfb3f17d40716e05ea4adf99eed6d603c5",
+      "name": "The Central Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109617659305455075297/photos\">Carolyn Choo</a>"
+          ],
+          "photo_reference": "CmRaAAAAS5zwYm2iEjzC0Or9gTKaB74LASXxBZXqcxSza6I6mZDbC9mUeO_9dcDPmGSakW_re-ICbLKsU9GSP8YASezll0GX5p-BgPZOu8yAZvmVTdVa2_F08s9_tsYsvWI2cb-SEhANfS8O3AHvMN21lkgKMBNeGhTzMNM1ExP3U5LLt0xowkG0F_mmSQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJK_vZ2qVIzDERetLWIrl9xGg",
+      "plus_code": {
+        "compound_code": "5JPH+QV Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35JPH+QV"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAXWPTob8EEsE27Va2EzHFLLMIneQ2vi-8T9-mXpmfEaxeZyJjxoqvNODy1k91E5kK3UjwQ8pDk1UOpsnQwsuC2p0WSn7fWzGNkVPbsfJGgRaReJ4gtOuh3TqQ1k9Pfg4OEhBV7RrmXXR15HyOB_bTCCJZGhSLrvPwQstjmH6hFO4sS7I-zAuOpA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Ampang, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1556012,
+          "lng": 101.7146522
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.1587269,
+            "lng": 101.7204724
+          },
+          "southwest": {
+            "lat": 3.152898499999999,
+            "lng": 101.7113184
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "8e5faee15d6432a1e623cd9a8f8bc6660a7cdb26",
+      "name": "KLCC Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110686512724764500260/photos\">karina putri yulissar</a>"
+          ],
+          "photo_reference": "CmRaAAAAd89ssojNZeAtTrbwF9vBGb40UfyOaGdAs6e1dXUB7QMDdJlp3YuW9YClSWxLR-pKelo860SMl4Xmkm4l_76_B7Zmxiqanr3E9eG3nxTa1dIDnCn6qj_2mMtegNCTwjqIEhDcYu0mZZwOiZDxmDVa0AzLGhTtcuv21iAnwr92GnsOWIdU6tA-6Q",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJBWbm2tM3zDERTno0px940s4",
+      "plus_code": {
+        "compound_code": "5P47+6V Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P47+6V"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA2QjvAI9P-E_e3I2Jb7LsQ3DI1lIOL1fSwwcNMHYRfM9JUZQEncME2XiyBqT685mCBIXO9Bs0WeIbVDxf13VpBL-kmN7ucN4NKpu-5nOmpza2igCqf1p1GyhctAh-YVbBEhBaBi6A9047URBbk4fN7z26GhTbCu1ujNUevSKlPQT_m_lvPpyoEQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Kebun Bunga, Tasik Perdana, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.143,
+          "lng": 101.68466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.144306179892722,
+            "lng": 101.6860061298927
+          },
+          "southwest": {
+            "lat": 3.141606520107277,
+            "lng": 101.6833064701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "f4d3840bc091f8b1a87556908d43f3b1093ffc82",
+      "name": "Perdana Botanical Gardens",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113968985451238820885/photos\">Gaizka N</a>"
+          ],
+          "photo_reference": "CmRZAAAAgoRHnw43pQHXo6D3a9CyvoPkNywmRNZxR10RGR3O8XUISqIdo-34Mi1q27St3kO4E-KcSQyZWsW04OjYyutQ1ErYK_7hfMbs2igKXm6yIrpQK2KGiSS3fulDP_qbV9_bEhDcmXJk35ak4Cg73_gT6gtkGhTk6YiVbsBOG11dHk2bwcPRp9QrkA",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJEWkeL7ZJzDER38lq7GVsWyk",
+      "plus_code": {
+        "compound_code": "4MVM+6V Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MVM+6V"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAADeJFXLXS_9yzpqctys6zAk_NQxzKj1t_taL3N7YnxRFros8rCvE556YytuBG4PL9Y5YcM1bIRdEdWoiF_ndUxvi1AR6pWXk-TL37HIQuGsI-mU-wucou5hxaRANONOwDEhAQGINuwWWJXkUYbvbZI68oGhRzlLbpp8GnmBqH-89E3wznTOlKOg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Perdana, Tasik Perdana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.143216,
+          "lng": 101.6867749
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.144311379892723,
+            "lng": 101.6882476798927
+          },
+          "southwest": {
+            "lat": 3.141611720107278,
+            "lng": 101.6855480201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "ced3a3da5b50c8d12dc91bccf5ea3cbea1cf26c2",
+      "name": "Deer Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110981276695668366823/photos\">Russell Ng</a>"
+          ],
+          "photo_reference": "CmRaAAAASOZAwovFM8871JCa7JQxXJoDCK4q0zZk4m_7iIK6ZD-jkBcWNMuGoPqWttRsE1_9UcjVcRhkPPCWb6Ay3GK2ndyvU3xPENqytSzHpVZO9omkRqOK1YVHAXXS615T-1oIEhBIVcuaQrqsly1bYxUK3aXKGhSoVuprO22a9QifOaOX7p95G-9Xgg",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJRWYUW8hJzDERROd9PA8MO6c",
+      "plus_code": {
+        "compound_code": "4MVP+7P Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MVP+7P"
+      },
+      "rating": 3.4,
+      "reference": "CmRbAAAAgPododYlS_VaCw3Z98jnUKPQqJLLHo-Atw28H7BO3nlo9-TYREK3uNtZrRflaDsFTb8luS4j-b_bHC9B-oWuN8zZ9rFSrusfeV1dWeFCS7pbIK0S1MiQqRNitf5aDO2DEhCVtVvjURbTXkaEylKrwsxDGhR3G8Zd5Izv5b4LqpMVppVf3lGGBw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Sentul, 51100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1862882,
+          "lng": 101.6867515
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.187638029892722,
+            "lng": 101.6881013298927
+          },
+          "southwest": {
+            "lat": 3.184938370107278,
+            "lng": 101.6854016701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "7e1e768586fc0d345e6dcdeb14698c54439e9314",
+      "name": "Sentul Park",
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109028556025329417039/photos\">Lee Chee You</a>"
+          ],
+          "photo_reference": "CmRaAAAAMaCcNUXEK2gAS12pLYLpdR0HTR_uikeVFotj_q5GtdTdno_kTTbRJvlOrap518edvV2jwQSMqK-ZrrEsRNDNa0kyE5T_wYCGAYme0GafXvQu7niVabZQjhgmKDktNVLtEhD6IB2ve-dc90tf04_uSGNcGhRYEOJyAK19hyDZsOcmd8_4g-K4Ew",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJ8SQkfwtIzDERJRvGG6E8eWw",
+      "plus_code": {
+        "compound_code": "5MPP+GP Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35MPP+GP"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA8wcweWtZ2YB66vpwLqXRFTRcEn2wV4nrj1FHd6wLWdJB7l0pZDlDwbvfyQrNfOr5FaZCW2IxGim9oskwt3yZl7xgpc3WXW5DuWr81lokgY4ClEj0R71Zv5uKoYN7DEi0EhDNVm58RagKDlQTBT3ogtbXGhRftjPLp_QO5wAl1wq_bcvz0kMuXw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan 13/155c, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.0543005,
+          "lng": 101.6735567
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.05963385,
+            "lng": 101.6832449
+          },
+          "southwest": {
+            "lat": 3.04694685,
+            "lng": 101.6703273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "ed8fd2f4fbe33b79afdf9da62346e3ce6845aa53",
+      "name": "Recreational Park Bukit Jalil",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102505300015809172066/photos\">kadak knight</a>"
+          ],
+          "photo_reference": "CmRaAAAAwfzeKvm1wIYX5dxaJ8uTUM9-Ha8bZY6dEofMJj0mFMrY3fEPJ-uXI2Hu4SNL8qAILRu-bsXjWPjMIu4U7Cjw7VRDNsf6tpKw9w0fwmFxTfQZdcB9a7PFQVFjfNmWvlOtEhAz31XVdVhU3I5hlbJJeqCGGhQQn39dWJiNlwisHQBPVS88XqaUuw",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJX93dYsJKzDERN0oBQxHIIm0",
+      "plus_code": {
+        "compound_code": "3M3F+PC Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM33M3F+PC"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAbkwwpz0h7daS-My0TKL-4E3Erzd04bkVBel_LyJ4eP02MIz2Y4O0vGqi9W9rFAcw7yFFJHmSf3rEKwSBGn1nWgC5V9Ij0Q5Us4xXrztMayeZXTCFExh2ow6Rtzie1D1SEhDBIo9YC7GujG1ZM093qUIhGhTG2hDpgVEpgYvdnumHLUWErQ1i4A",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "6, ⛉ Lorong Titiwangsa, Titiwangsa, 53200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1802193,
+          "lng": 101.7073845
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.1830543,
+            "lng": 101.7150423
+          },
+          "southwest": {
+            "lat": 3.1717143,
+            "lng": 101.6986943
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "3e86c3a0accc1ee536090c4ed99600d331e95068",
+      "name": "Tasik Titiwangsa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105662857635390861655/photos\">Roslyn Nelson</a>"
+          ],
+          "photo_reference": "CmRaAAAAovkbmxdzo9NwbrUFQXdnpwwdUJWtrDlY8ce_VIZO59R37MCPTSRmSb5oqsX89UNWTWP-dO1g8f34jqn4t39mSI3kVNXNy-Ke2N3xO9eKixQA2mgx4jz0ML4udJcFH6D8EhDZrBaiLmzTsaEK9K02BrvqGhRFR9L5rB90f_LdY334ThAV020_RA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJESgheOI3zDER0LaKtRB8-ZY",
+      "plus_code": {
+        "compound_code": "5PJ4+3X Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35PJ4+3X"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAX9ZbNRNMWk-N9uCJ8cgVOLLmtFDAmvPADml-zYxhJDRq26xU7gIkLKE5s-LqPgdQoih6_tT15yFPsyGDmzsQjCXyoXGGrTzf51HqC3XSy2sg327Hrc6RUo8V2XdL44HFEhBIR0Oe-N5h4tg6qLXvvCTBGhRHYxd9hI65Y8boaSRe-pDyWV8zsA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Asean Sculpture Garden, Pesiaran Sultan Salahhudin, Kuala Lumpur, 50480 Taman Tasik Perdana, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1493849,
+          "lng": 101.684835
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.150734729892722,
+            "lng": 101.6861848298927
+          },
+          "southwest": {
+            "lat": 3.148035070107277,
+            "lng": 101.6834851701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "727f295dea0b42eb0157b12ace374559ba7eb7ab",
+      "name": "ASEAN Sculpture Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102809202893228832760/photos\">Ee Shuang</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ99jqZ_M4Hr3EjZtwRgsyrT52GgheORAQuIRYUrA7r-_8-ZekHcnFbh41mDpSM_23mtZ_3mNQ1j1HdSkcve7NI1VhlOMheqk_XZQbHsviXXkmhO-QoP32cJshxYB4KY5EhDgM11jVB40ClyKxhpvfCtgGhTS7QUV8IxDHC9b1EQro5EPLPwsKg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJm4fmX7VJzDERAr6LJ1p2j8Y",
+      "plus_code": {
+        "compound_code": "4MXM+QW Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MXM+QW"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAotpem42V3C0HzNjMTxJUGSwLQnN_oIllR7vopJXUTOSGD4_tyY2AP3Cyx1ov_CBYZtATH1vGwsRvCEvjm_Zo41ZuIcPSxmPuQx1ch_xfaPLYnjLSZyb9BprYldDT7PtzEhD-V_4hqinUN9VbHAWzuyfcGhTDyvsb5WF0GwXvKHnYmaD2M9L8eg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Raja Chulan, Bukit Ceylon, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1499605,
+          "lng": 101.7023781
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.151310329892722,
+            "lng": 101.7037279298927
+          },
+          "southwest": {
+            "lat": 3.148610670107277,
+            "lng": 101.7010282701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "8cadabc92303d149ab333d02575cb31273ff979b",
+      "name": "Entrance to Kuala Lumpur Forest Eco Park (Taman Eko Rimba KL)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117021254988154366638/photos\">Soonlung Bong</a>"
+          ],
+          "photo_reference": "CmRaAAAAqL3mX-E5wWd_-w9hAOWl7vKG9gb7511b2l1y-bkA-GW9I-mkO0PPQrShgx19havCe1uXzBMod3RCVRxhneXDiPND9KVnYivs2KDl6gmBUvfAnUDk_yPd3iZRiryO7O8nEhBtsbiQ-hLHzIS85l-QCWQoGhRaWIdan8qsWKG3bkG8Aj8GTTjo0A",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJyYlYlNRJzDERhi-CcieCEkU",
+      "plus_code": {
+        "compound_code": "4PX2+XX Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PX2+XX"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAzbfT6CZgoLru74QNkX43o7v_ct3q8_a-p8NrU_pkcpwf7BTkd8e4tAk79KnvOUyVV3xpOIbHuKgBRFqQl-I16xteH3IVxhw2sJMqNf4l_y9LxFh_kpFpTBeR9xpElrAMEhAL_RAmcY89KFCRvpenQcvjGhQXfcL5HmhZXYwuFTXn7OlW_yWcwA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1429325,
+          "lng": 101.6839831
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.144282329892722,
+            "lng": 101.6853329298927
+          },
+          "southwest": {
+            "lat": 3.141582670107277,
+            "lng": 101.6826332701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "5351575b882efd22e95bca7a4258ce98797bb32a",
+      "name": "Bamboo Playhouse",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109028556025329417039/photos\">Lee Chee You</a>"
+          ],
+          "photo_reference": "CmRaAAAAuWrdjGmi5G4wgzd0iNpdk_4n_qkcU-oLhN-3ZmiYwePlJ6TbyAraevNu3tl2WoGdWNQl6D7aQpw710reZm_0MoLF0UBQ1_WkV5R50mibynWEmrZm0bhBgleFtDIHlQMBEhBJl6wTNuMIOcy9W4fNLPkwGhQ8u05WCBv7xWoUiKk0jAH2CnpXzQ",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJn4ei1rdJzDEROMpXuMd1K2I",
+      "plus_code": {
+        "compound_code": "4MVM+5H Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MVM+5H"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAWrjUFbMg56Dsczx8mC9raNnfe1LFEP-KMkjDd-5RlE-CSUbbSKxCvASii_XBIvzN_fRxR0oMgs6zWejDdXNnt3bPU7MwRsaKa3FY7ptQ4FjQM63SWQVPH5bPsFoyaA5rEhBu91WE9Jv80H6IvNG1ePjkGhTHwfIxGemm2U1O8RxRYXlOyKzUJQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan E 4/15, Taman Ehsan, 52100 Kuala Lumpur, Selangor, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.2248673,
+          "lng": 101.6233021
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.226217129892722,
+            "lng": 101.6246519298927
+          },
+          "southwest": {
+            "lat": 3.223517470107277,
+            "lng": 101.6219522701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "eac2f22054c7b5aeb93dc4bda89a4bbd021184f2",
+      "name": "Kepong Botanical Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107588652018606098576/photos\">suya yani</a>"
+          ],
+          "photo_reference": "CmRaAAAAfxfVE13wy7dQPqvhTNpdgIBnJY22HytPXnc3nHQZGCo4ifEToT5W8KiDAJfX0rhGDveXoOqVKPGh_QRTAPKL9A0b8OGNbnYy_PJmFq9yzwongKvJBG7M-kHtPx1tPoSdEhBtGhIwTzWva0Y3OCB62YO2GhQm8t5jMkBKzLwv3XSrTUz14cusQw",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJGRwqvHtGzDER7aWcBK5JFqg",
+      "plus_code": {
+        "compound_code": "6JFF+W8 Taman Ehsan, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM36JFF+W8"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAX-NCSIDu5EtknV3Z2APG7-0QJTZigw1jOXA1j48i7NawlQ7KpXTyZgLrh4w1MS3th_0_T0QYLtOkY5HkBV7S0GJAhn-5mCdNwKZMWWlnFh166VAYSLzTrFDViSWKLFueEhAy0_LifaF5OHial-Q0jU9VGhSQXVK2mkxwF5YGbKkCiAAxuM5aFw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Parliament Street, Kuala Lumpur, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1513379,
+          "lng": 101.6886522
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.152687729892723,
+            "lng": 101.6900020298927
+          },
+          "southwest": {
+            "lat": 3.149988070107278,
+            "lng": 101.6873023701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "361440d2c9d928dcdc32800e5a8b70601ab3692b",
+      "name": "Padang Merbok",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106010489442966011287/photos\">Amanda Howe</a>"
+          ],
+          "photo_reference": "CmRaAAAAx9cyU6BaK8QVkFDQeGkM6soHRsYBTMn0V-i8hOaVm2LvEQMHCICnZj1AzYyLu-Dp3BMcx6f3pQF90NUvFVSrw8gXeoh6Q_ES6bwXEP2QxnSvdSVY50Dx0puhBZZ2llTyEhA-Prz0-WzAG0Q6rUJBN_GBGhSEhhGITszruYPrhtNMa3ATu3aW3Q",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ2R09SctJzDER-_N2CyBSF50",
+      "plus_code": {
+        "compound_code": "5M2Q+GF Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35M2Q+GF"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAA8wo3mbNQnWX34hcS2Q8EhGIyrm6URhLyWmwRMJnb1HZ49OOMUOzOkegdq80M0IeDLELDCRQHAmxs3FTcMTSgHYDi27mojCZw1Pkny0A8Z2gMJ8q_tV8rUk8yPMzct20-EhCL-GXXYfXxNlC0q7l2S5uNGhTxYh7mG-GSNovtF_ioUQYSU4I1Mg",
+      "types": [
+        "park",
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Cendearawashi, Tasik Perdana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.14395,
+          "lng": 101.68772
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.145299829892722,
+            "lng": 101.6890698298927
+          },
+          "southwest": {
+            "lat": 3.142600170107277,
+            "lng": 101.6863701701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "80316c180460f3e69d719d02771a964278663597",
+      "name": "Taman Orkid Kuala Lumpur",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106753179706798155762/photos\">Chris Davey</a>"
+          ],
+          "photo_reference": "CmRaAAAAUq0Q1m6N0kqwOIVyvHEjJi8eMxtae01UljW2vNRmJzaH0hdULOA1VR2n-fiaJbYvhT8TXTclt9alV0_cPyEKR8E_xO069Js_unhsEIE7iNduF4ojbGGtHhRCeP-HKGDNEhCCgIF44bnTnC0slZSNTr4eGhSyuutYKtg7bs5JS0GN0pUurD8d_Q",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJd8UU48hJzDER4NV7xurmzw8",
+      "plus_code": {
+        "compound_code": "4MVQ+H3 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MVQ+H3"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAMDEYP7JTXoh-oafd2E18MCcFla58BM358QNOcJ_O2DmI5Qf5LGQB7UvhhNxmubITQLMrTGZOsACcvaefhzZZJUcEbFC3ZUkIG1hJUZfU4FRWvWi42k4w_eOVxD5SeM96EhD47VAzU6U9EWUgEVEnEPmEGhRS3Y3NXw3QdnAVuhmetH0NEj8TxQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "115, Jalan Ampang Hilir, Desa Pahlawan, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.156251,
+          "lng": 101.7450845
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.157600829892722,
+            "lng": 101.7464343298927
+          },
+          "southwest": {
+            "lat": 3.154901170107277,
+            "lng": 101.7437346701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "b6efeea0e14b1d7fe35b23f987e3f293eee35a6a",
+      "name": "Taman Tasik Ampang Hilir",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109028556025329417039/photos\">Lee Chee You</a>"
+          ],
+          "photo_reference": "CmRaAAAAzxOwDAb4EWIcfwSPDyCwF2IgDUKqEAhWTXrMVJCWSLdPqVO1Z80CCJXYEIIyP0Ci0uS6Xz0kmSKsxKPbL4V02pBDkgCB091f5CMKEDezVXLW0iwhSL8A0m0lMXWkL1EGEhBXejtmF1pFDmtkNAnn9lJNGhTZ0L5ova2LJnnw_xjetGOTuP3MsA",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJf7ECma43zDER-8We5B3CUnQ",
+      "plus_code": {
+        "compound_code": "5P4W+G2 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P4W+G2"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAkNIFv1GgaVLcYq26j1SJchV7hGZvoKBq7GCpyE6_fmDcl9XMoXZZwqfjL_Wl0iqUPp2derbaMgSkf3cma7tvQ8SuCgNasdFZSSJKTtxSiysyEO7sIBTf0FXfzWF8mCc0EhA4Rfgm8CK4LiNBVUdJO5dNGhRF4lTdPKheNRbPYFcTSn5bDA-F_A",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "KL Bird Park, 920, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1430959,
+          "lng": 101.688736
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.144419479892723,
+            "lng": 101.6894903798927
+          },
+          "southwest": {
+            "lat": 3.141719820107278,
+            "lng": 101.6867907201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b4b4fe48a59d880fc7bf6eeb5c18485f4f407f41",
+      "name": "KL Bird Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1320,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113615909939496656723/photos\">Rustem Fattakhov</a>"
+          ],
+          "photo_reference": "CmRaAAAADcAEpEdxhScI3j3UmXuwFFtIFR5SK35bsnDw5YIpWJmNSNI-ud9j3VpX25IN1QmPMo_BBl2BK_AmV0Cg15nU6ZbNgnrSniJOknYKZ_CCO2tN8tZKz7y0G3JLlHJhjbQHEhBO9Nh8B9V_M7ONH3kL9s_RGhRMx6qghqRj1zksqMOjq9Nod-P3WA",
+          "width": 1980
+        }
+      ],
+      "place_id": "ChIJu8zWwchJzDERhcsx4AhQ1oo",
+      "plus_code": {
+        "compound_code": "4MVQ+6F Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MVQ+6F"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA_F1pQULvD1gMfk2oxF7SZm8tInT0R7R7wPhQ1KodueXLRMWu_7B6QghTT5-I2N-hK69SrjhY1vAF3vTH3N5ToNlrHebXdKqRPBtD6o71PbRqFDB89Tw9DHXBLajRN3GeEhD6sWTD_6Hg4t2tbxczoR8yGhR-oJ_XlHHYb0hyGBFucyg4OrhxCg",
+      "types": [
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "46, Off Jalan Raja Muda Abdul Aziz, 1, Lorong Haji Hussein, Chow Kit, 50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1665688,
+          "lng": 101.7010616
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.167825829892722,
+            "lng": 101.7023652798927
+          },
+          "southwest": {
+            "lat": 3.165126170107277,
+            "lng": 101.6996656201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "b1ab85432d13dab274e1ea36cbb67852498dfa35",
+      "name": "City Park Hotel Kuala Lumpur",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115848773401386879585/photos\">Shahrul Sharip</a>"
+          ],
+          "photo_reference": "CmRaAAAA1NEJE5GbkMrQTUIePX-lPXLGwNcSHJnHrUvGp1BpURkXYXLh-Ir11ZDd9gob1ifidASqSll8XpEnl5bsmtgb_eVoySHm6i03qt39TJaiufl4dxlZBHfCzZiLoIuO3GGOEhCQ61nBl_6VjWx0cBQAkCShGhRHfKFiQu5fc519UT-yISgdK_8CBw",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJIViT_SNIzDERpxhqqCOEDys",
+      "plus_code": {
+        "compound_code": "5P82+JC Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P82+JC"
+      },
+      "rating": 3.4,
+      "reference": "CmRbAAAAy8FKkJJKch5eBrbxtJeHzph32hLVu7WcHLJ3-jslY3-a3_bACsWZBLf_Q8jBypV3Xq6f1uCepyfNLHt8qVM06AiNyufz2q50bWs-IThd0jm65OsRh1nzA3aDjpOUlDa7EhD-QVDApjtALxRMOgBPRiejGhTid-NJuYfhIN16sHxZ7OCE5lsfjw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

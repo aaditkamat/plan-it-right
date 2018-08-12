@@ -1,0 +1,100 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Taungnyo Road, Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7518975,
+          "lng": 96.10896969999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.7562756,
+            "lng": 96.11956494999998
+          },
+          "southwest": {
+            "lat": 19.7467068,
+            "lng": 96.10264475000001
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "82c84bb72e87efd3cfc73a14aa59d3f9ef692199",
+      "name": "National Herbal Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104865022742094523489/photos\">Ni Lwin Soe</a>"
+          ],
+          "photo_reference": "CmRaAAAAwwcNS4P_Zk0w3p5QSFpz89RIlS5b-iJQ0nOj4aoDDuSIWcR_686FjO23gHN7oaUIKLNEdu9VUfzdsoxtnRz1xYc9nQc5tVNTT-Y8w12Bg4Lakimel493tncwCt6ogNukEhBHiLIkQbrR7CBA9RuMzOZfGhTZ_oQAHmAQGWPgEeiSdg3R6MobmA",
+          "width": 2288
+        }
+      ],
+      "place_id": "ChIJEazEdtW9yDAR0aEobcLg-40",
+      "plus_code": {
+        "compound_code": "Q425+QH Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRQ425+QH"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAlKBl3Lvn55noXn4A6HeAqIyvzkGFfJHdA0VQA7kGY0dTZ4pkPXHxIvWZ8o251gqd5GDRGWquxg7uCeSHf9Mj95-qO8C6ga1RM2UF16TYJZRjug_EPgFpsA7oeRS9cEWpEhBzVHFPF5vEomUY0jVrzr-dGhRzmLNMtwa7mfQIW4yfHLGy-FHmmg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7511227,
+          "lng": 96.12210890000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.75247252989272,
+            "lng": 96.12345872989273
+          },
+          "southwest": {
+            "lat": 19.74977287010728,
+            "lng": 96.12075907010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "ea8bdca6f8c18502da56c433a842ebfc98af69c4",
+      "name": "Naypyitaw Water Fountain Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109530941462255158419/photos\">Felix Zimmermann</a>"
+          ],
+          "photo_reference": "CmRaAAAAFfgmJ5ReI4jElCVOec1S2NRIUIvMC4bCD3tqfBchWzZK6yhKDfnVBP_rf_6QLufRQIARjjQdFSK-Rb_CNdafzLOfuqe3PPJo5jjTPJ1uL-O898oQ9tiLsR_L6yPDwIv3EhCyjVBrT2kNGVOjujWKw108GhRzWesVAsiywLk90ymMbyHgkuIdcQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJPeU5Xii8yDAR9IalZEXIbzU",
+      "plus_code": {
+        "compound_code": "Q42C+CR Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRQ42C+CR"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAibax8rcTOa-XcwZyeI4wsC25wROPZZlZxwHbmEHwrWQi0QymoUfvzG9_qnrbLkp17vZVdBVvDVaJEUck4hUZ_470tT5OXAOmjB2b_1tUDi7grV2FQ3A-V1xfBa0ByaTDEhC0X1MOHlYM2zy4UqrDsSOEGhTLUYMN-8UDvpoKSOn9gluRisPtxA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

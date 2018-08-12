@@ -1,0 +1,905 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCAgEAAHMQA__OcALkbmTgB6sJ3nUvkFAxhc66r-moQinLie1Uekpnkvf01iY10dQ_vOMb321_7WlfEggrzEjQSP2GwSfwc29A5mPshEIUqxg3SzBbcESwuUqX7GTJPmEuh5X-7qsX19-7UcND4HL6YYDjTzkBT1c1qe731Ab5N7rwqCmTdagjCv4Yuri2JSiPUwtbi8LDMS6etIDjR_cW4va1zz0KnxhCrVDEJeamldkQKQPHzPybBfaM0Om-93safflk9_QVpyX0IhgvFC6rcVzHvHy_BhlPbgw06xklhlJopjq3IpAcqqLsoolKGMWptBJOUUdFPSv7FJDr3PJ8Vj64JgyNp__x74U_lKkOOV9cAeTAEhCn18weL_Z-Tvbea04Kpk-JGhR1Sw0jGnkmdhA1xW1ut4JW9Iir4Q",
+  "results": [
+    {
+      "formatted_address": "Jl. Taman Suropati, RT.5/RW.5, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.199392599999999,
+          "lng": 106.8326243
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.197734999999999,
+            "lng": 106.8339836298927
+          },
+          "southwest": {
+            "lat": -6.200772199999999,
+            "lng": 106.8312839701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "7ac74c8f009e547e6f4676a7d7307069cf1b7748",
+      "name": "Taman Suropati",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103433249960143631203/photos\">Gatot Widayanto</a>"
+          ],
+          "photo_reference": "CmRaAAAAMknpDmeQoJq2uJWsFf2X6AFqwVoPEhVgwurBNsNBmINffz1VO2HSuBbr5DDE79hGA3vNpTXshlO2mnKDTXrDgJ5hlRFUPG3L9Og0dKG2Nxi1kUCuMLhJilmN3lYXh8aOEhCybVIa9B2xx-NyhSLTQ-p9GhT8o_m0mJSiulOkORsjKUPdXZl8VQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ-S4F5Bb0aS4RgVq6v81ZM4s",
+      "plus_code": {
+        "compound_code": "RR2M+62 Jakarta, Indonesia",
+        "global_code": "6P58RR2M+62"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAHLfkGRtzcCpaceWmLtsXFJiBxjmYaf3N9Fjh8g5vd4CSE9m35r-HZLMsFU67YiW4zSkFCf11yFFCbPN-_SLIne-d6OlcDJiSKMnd_ooDKD7u2t1rV8PKE0HEQlvEidZWEhAdS3652eTKja3asofLjUe7GhQZE3KWcm3wcxeEDHYskBFWYhifDA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "RT.15/RW.1, Kemanggisan, Palmerah, West Jakarta City, Jakarta 11480, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1817543,
+          "lng": 106.7946458
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.179947220107278,
+            "lng": 106.7970596
+          },
+          "southwest": {
+            "lat": -6.182646879892721,
+            "lng": 106.7938412
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "ed0ebf32b7413c96ec9b7d64500f4c39a2365878",
+      "name": "Taman Cattleya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114056419558407940702/photos\">Yulia Rahmawati</a>"
+          ],
+          "photo_reference": "CmRaAAAARv9aRU_etjLekfPA_wFBfa1MAFoKJCI2-3iiY5MQQ2sNrFJon4vJz3wp29GtxXpBPrYCvgFc9ilBXg6S3i3jG0MMbhzoRdPV7C7h-3lhitgMO0Ie__ni9w8k62roV5bOEhCpzy6a5p0g6HuxVL4iCPbmGhSO9P_WSh1iB-prTxCHh9TKy4hJFw",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJq6qq6pb2aS4R0gNhO4bUjWM",
+      "plus_code": {
+        "compound_code": "RQ9V+7V Jakarta, Indonesia",
+        "global_code": "6P58RQ9V+7V"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAABGKst4GSAwfcrCH-NlqpIdeO_LjzXtCBhngDB2c3iXR4tKPAramt1V9H31ZMece7MwqTIvSxYGR13veZcgojZOM8M8MvL0wHqfjuhyImPGa2ae2oJBQE1m-yXO7f1RjxEhAZ1pQyUZInhuwN974-3FFmGhR-06EvtYGc4USx4g0Uqc1RbiOBRA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Lamandau III, Kebayoran Baru, RT.4/RW.7, Kramat Pela, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12130, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2454377,
+          "lng": 106.7942614
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.243819320107279,
+            "lng": 106.7958939798927
+          },
+          "southwest": {
+            "lat": -6.246518979892723,
+            "lng": 106.7931943201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "e73bada47ac3f1df3368a310287612a103191e2b",
+      "name": "Taman Ayodya",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112094883593146832168/photos\">Jais Muchamad</a>"
+          ],
+          "photo_reference": "CmRaAAAAJQmns33qezEWDnP38xE9puyx0UxropAWuuZZWRqpCKoTUNYkItDBfvRLu0PSBxZbXF0ssaDYoD6-WTZSEwbuLZn5jIuq2GqHxm-nbtuiMT4pLLQdAjbyw9o-80BmysTvEhA8gKW4nhm6gonYKJpUrpLzGhTZ0F_jew0EY_9Y6s6i3E-ZD9JWYg",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJuTW9y2zxaS4RKwSl9KopVgI",
+      "plus_code": {
+        "compound_code": "QQ3V+RP Jakarta, Indonesia",
+        "global_code": "6P58QQ3V+RP"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAev-xDhp3LbAGGmBGlTnmVdUL6aOEupog9o2zbCdKy7hvKBkHniuRYd3qYMi9a34OuY3ft3NzqsCIxt-MZ1amjGJyqym9oo4B7N3qrcZuguqztbkKd5zDXkm8aJuS7clFEhBwdJlaZVw--fmsRqDZ4V0GGhQuSYgH-uP_-7drJxYUggr18MVRKQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Bidara Raya No.18, RT.4/RW.5, Pejagalan, Penjaringan, RT.4/RW.5, Angke, Tambora, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.140489199999999,
+          "lng": 106.7887529
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.134979750000001,
+            "lng": 106.79157145
+          },
+          "southwest": {
+            "lat": -6.14585475,
+            "lng": 106.78565885
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "c54d1c1ce4fcbd5e682a89c1493cce090d670ea4",
+      "name": "Kalijodo Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102409030460095859676/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAUImrlUszULiiCXNJGayaFhh56lp42jainJWK6ZgeJyUACIWt90T83l3kMORuOG_1Rs9iUHLh7g3C5_1LGITqn4Ryw73QZlnc5T3md1bMmG-UFhjBDu9taOR1gjpu9AQqEhCH8BEI6cIfTxBPpsU9HqEuGhStnO-qvI9Y3QEB4FuktiMTKKquAQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJLyINWCH2aS4ROdp7ZaYyjNk",
+      "plus_code": {
+        "compound_code": "VQ5Q+RG Jakarta, Indonesia",
+        "global_code": "6P58VQ5Q+RG"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAfrbtZwh6qWxsdGJYdNVgmnolv9pQt5cSpvyUyKAgREhQNoB8j5wWb8HAc17KYKoCwumxKwRb9GgK82C1efjTsMpqxORRQgKv3ga4KqWHjTd_A3Or1F1VqlpPfrOxTTjtEhDfTRz0EC5PDc3GJmgi6EyNGhTVy11MMCtNQmk6ocuU7Qa5DkaEcw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Letnan Jenderal S Parman Kav. 28, Grogolpetamburan, RT.12/RW.6, Tj. Duren Sel., Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1774416,
+          "lng": 106.7901644
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.176091770107278,
+            "lng": 106.7915142298927
+          },
+          "southwest": {
+            "lat": -6.178791429892722,
+            "lng": 106.7888145701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "d93860d4a2b5a185310df3506b1ab2c08ad06298",
+      "name": "patio central park",
+      "place_id": "ChIJFYOLYV_2aS4R7OjELAbdcuc",
+      "plus_code": {
+        "compound_code": "RQFR+23 Jakarta, Indonesia",
+        "global_code": "6P58RQFR+23"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAs7DJpJlwasjaoWoX41zNEBnqkg_x4hBnhcDN8wR73gOxVOVr3M6my7j-R6Bcqr63N4uAgUHREhs7Ugyg9hWRpfUk6c_5jwbGr7eCZXaZZUsjz4WkwZH18y4iBPoXvzoDEhBxkJ1O80ps50fgJFzSY4haGhQN8FfL5HX1Uu6CDID2AQfIRY71cg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Boulevard Timur No.1, RW.13, Klp. Gading Tim., Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1610299,
+          "lng": 106.9056302
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.159568720107277,
+            "lng": 106.9070167298927
+          },
+          "southwest": {
+            "lat": -6.162268379892721,
+            "lng": 106.9043170701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "58153ca9021679beb500e84073bcd82b8253db1b",
+      "name": "Taman Jogging 2",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105903515014922487603/photos\">Devita Soetadi</a>"
+          ],
+          "photo_reference": "CmRaAAAAq0svxBcGlR4bJDd-cee0iyW9OslHrXhydelTFu_p_ZDIA6yfWigc049QP9ENxvSPg91DaZBqmPQCwl1hm97eYfDWWxSiQgL7qi6sjI1Aq8Kc7KunEbPwgwmKbGaagwNaEhDmldKX1xuRDQph5AOFKBGdGhTB0rzf2YI2rnQqlrEdJ0oHfsVb0g",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJc8QAeDH1aS4RuUR7y5nTqX4",
+      "plus_code": {
+        "compound_code": "RWQ4+H7 Jakarta, Indonesia",
+        "global_code": "6P58RWQ4+H7"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAzfdTtrf-8ZD7xWBHEIlgXSEZbh8uWZmtkgxBvoQUMeKaIlHCHRjuGGt_QI6OEJyjhzkCxCFV-vzGu3lsGX9wqor6wXU6cuK48NV9dG9dcQG5PDVsSlBzAHNov2TVySeYEhDMpgacYX_F_K4udEXGq8GRGhRN6qBFZh0ZFYhMDhN0j7aOQQe5eQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Pluit Karang Cantik IX, RT.8/RW.18, Pluit, Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1138086,
+          "lng": 106.7767745
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.112415620107277,
+            "lng": 106.7781338798927
+          },
+          "southwest": {
+            "lat": -6.115115279892721,
+            "lng": 106.7754342201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "b700192ecc81331a6a184ffbeda496e95ad6612d",
+      "name": "Pluit Karang Cantik Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 483,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110725131841900777340/photos\">Acenk Saputra</a>"
+          ],
+          "photo_reference": "CmRaAAAA4D_wKbxvcD1EiMx18xOZXemsThkEnOZ5RZlrTYKSsE_oqoJ8Ajo0z30NaN-rXhq-RZYPgw4wJG5_UgG8HimtE1s0cwErx2WOwW9XlHmI1OaiRSHkTHgmfsL7lHYI66UuEhAynGLDkUin-rcv6_397R2GGhSHgO_vFHJ8UGe8DR8DHUmFew8QsA",
+          "width": 644
+        }
+      ],
+      "place_id": "ChIJaf2P1qMdai4RMO0GaqCuHxw",
+      "plus_code": {
+        "compound_code": "VQPG+FP Jakarta, Indonesia",
+        "global_code": "6P58VQPG+FP"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAkJh0h3IkUnKrN0h6ZQOpEJEXaB4vjQQ8EhC0VISLwdjcsbprzVUbHCN38IcWjfg9Zv8eN_a5MuvorxFJ-ldqKtAcq1zfCerJbRT52GFBZnmCQfXynygjbwJPuJjjweMvEhC5soM1VQiLVidekgvnCplQGhTqQj5aQdNUEeh0wh3y-S9U-aRTNg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Taman Impian Jaya Ancol, Jl. Lodan Timur No. 7, RW.10, Kota Tua, Ancol, Jakarta Utara, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 13820, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.125801699999999,
+          "lng": 106.8363249
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.124451870107277,
+            "lng": 106.8376747298927
+          },
+          "southwest": {
+            "lat": -6.127151529892721,
+            "lng": 106.8349750701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "17c96a7aa07e933f5def31aa91f63a50cae5a052",
+      "name": "Allianz Ecopark",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2113,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114367294536639288436/photos\">Suhartono Faizal</a>"
+          ],
+          "photo_reference": "CmRaAAAA4E6QrDmLPf8mDezJh5iO7Ax6lvEpsh2zryAEsIBsLY4Hs0bCvp8EqIA44crQ09ncaJvbAhLIUqkto0aioE-oSYaVYDGq8yDCF17zZdKqjXFDOoDLwZjJNyZdOlQBOe3lEhBFL17Kz6dQS7Erjx90-2K5GhQw2zdnY4r1fdEkleASI8BWN1lzMw",
+          "width": 3756
+        }
+      ],
+      "place_id": "ChIJU4lidhseai4Ry4I_Xnkg9EQ",
+      "plus_code": {
+        "compound_code": "VRFP+MG Jakarta, Indonesia",
+        "global_code": "6P58VRFP+MG"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAmqoGmkw03AFfOm4cBQ6UvOWgKGJiajAXuVQkPvBn6LFA_ZKwKIfeKfUKUtVRiUdRh3qfRTVDrzdsvj34eug2T5NNR7gXIKzdIyPoHctz_GE4dFgEC1gk40TKmB_SAOPeEhA7AqjXFlMB2bxd0DeT6z-0GhSKYRIwiIDt23mq8grieaVx-SDhDA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Medan Merdeka Utara No.9-13, RT.5/RW.2, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1718907,
+          "lng": 106.8272242
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.170540870107279,
+            "lng": 106.8285740298927
+          },
+          "southwest": {
+            "lat": -6.173240529892722,
+            "lng": 106.8258743701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "d09700d175f58bdeda5c299e49ba47fdc392579d",
+      "name": "National Monument Park",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113156063186516069105/photos\">Suga Otradus</a>"
+          ],
+          "photo_reference": "CmRaAAAAwUYre5QE53KoXG9U3SBS5C_txr_c9dpLdkrMCirAb29ZbgUHjnHH0kXRpl-8DfRCJgfQLmfPlEDRRPtWUNMMX2ZLeRxGloRxcqxatZBcbP8t5VM2LSiQb34F0KzdUAkVEhDm-U3T0FuQ_QCCCPniMyS9GhQVyhQq8w7HgYIB8VCSA-pO-0OX-w",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJa5LTMdL1aS4RL3717sOR2YA",
+      "plus_code": {
+        "compound_code": "RRHG+6V Jakarta, Indonesia",
+        "global_code": "6P58RRHG+6V"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAASj5WHsdHzCqbSH-u9rd4jO_Ek6IY13H4Bn5gSyBAvaontUsrqfTLFGO07ywdVrlU4U4avpNg4hEuHgjPC_2NClxnpfteG8Xyo8g2vBFIt2I5ZxcqHSwUDxqoEz3KAxeGEhB5zjE9dN1u2f-e7Hc_hTARGhSStH95SJsI0I17x_CtZEfJkbKcBg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Letjen S. Parman No.28, RT.12/RW.6, Tj. Duren Sel., Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1770846,
+          "lng": 106.7907039
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.175734770107277,
+            "lng": 106.7920537298927
+          },
+          "southwest": {
+            "lat": -6.178434429892721,
+            "lng": 106.7893540701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "210c30373be16eed847fa96952e755c7bd294b80",
+      "name": "Tribeca Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116441732025367642659/photos\">Yose Rizal</a>"
+          ],
+          "photo_reference": "CmRaAAAAicGtr0ofc3nR1nrKzUPk2-PqBwb4U-5vrW5awBlYurb8hmbtPa1WfA1wuCz4IZ0Nnd21SsaE44TQIusX4yAzdo4OWzZjAj1whnGixAuBB0WC5L6MtN5xTonqEKRkglTFEhA7VNFPbl30I46NZUqPhgMfGhSYkNlcyE9gRv6KGa1afQOqkipqQw",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJOQcPe1_2aS4RodErUdz2cfc",
+      "plus_code": {
+        "compound_code": "RQFR+57 Jakarta, Indonesia",
+        "global_code": "6P58RQFR+57"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAD-_NCl9Lbs2qYt0FAGDGvuMeNKZ84U7qfLtUqc7R6lamcQdrt3SWAkzNG3UkUapP6X4SvjK0qXyNT21mgN_HGILaIFj42uq4yRRiCCKV--14O2s89015SURtC3cgKoipEhAm7uzd4DIvIe-eRi9giONNGhQuEv5Ha8nefd2B9RqxGR0SOSEf0g",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Lembang Terusan D-59, Kec. Menteng, RT.6/RW.5, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 12910, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1978861,
+          "lng": 106.8346708
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.196536270107278,
+            "lng": 106.8360206298927
+          },
+          "southwest": {
+            "lat": -6.199235929892722,
+            "lng": 106.8333209701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "aa8302d8a7ddbe4abb84faae0e691b47e0037113",
+      "name": "Situ Lembang Park",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109272511440414267433/photos\">Ario Nugroho</a>"
+          ],
+          "photo_reference": "CmRaAAAAVndQ2fwyI1OFf6bRpOpUR06ISnJzOKCNlBgjPM92LrDYJErbNNtD5i3T7aLJrVcve70EVYn-yYYPDBizDHSe2bDJdFyFWAAKH_lhYkEx6HwSX1dWAn3vCweugSZNvUlqEhBE9FPiYKwHAlgm9-Vzu6OeGhRg6dSPa6V5FFsdWFkxekRVAtPBzA",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJdXBB9n4QFAURQs2buyfwl98",
+      "plus_code": {
+        "compound_code": "RR2M+RV Jakarta, Indonesia",
+        "global_code": "6P58RR2M+RV"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAFlixHfuxox0CZpv09l9UtVlFW63MnI7F2sBZFZXf60bd4xvzorYWhhKsWyVb78KDu9aTi54Zv_F7hp7qmqzm_ivMh_wkvhu4viSJkViG1I_llX5wy0sRfBbSuXo-xVveEhAIwMnPg8EbkngmPGtZwB4PGhRAGE5msGCil_Ds3VfYOF1-PTc6fw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Pluit Timur Raya No.12, RT.6/RW.5, Pluit, Penjaringan, RT.6/RW.5, Pluit, Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.114641,
+          "lng": 106.7950611
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.113291170107277,
+            "lng": 106.7964109298927
+          },
+          "southwest": {
+            "lat": -6.115990829892721,
+            "lng": 106.7937112701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "098a2505f6a2d97293c0c2ec3d593b758c2534fe",
+      "name": "Pluit Lake Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110074674432573369092/photos\">Masdit S</a>"
+          ],
+          "photo_reference": "CmRaAAAAT3hrLz4443JEUVI_t_88To_u3MxW3ykzyMcE7yXVxhNiINO3_3gBuEDd1ONriHlO2VOGdkXWFERz2qeUBQ02DeDpOU10XZ-cyqhUD5KXs56KgQIvwqN-pG3nAMHPlpdbEhCHNukguCYp67jHIouNRIcxGhQHji1R0h8HBFCWuZWKoQwiTO8b0Q",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJpzb_bMAdai4ReeRnqMgSSMk",
+      "plus_code": {
+        "compound_code": "VQPW+42 Jakarta, Indonesia",
+        "global_code": "6P58VQPW+42"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAzXmeyu03AtO1mTs1jJeHMoFlyVFrCK7tlYrLSAf4W2cVbPD4whrNi3LRJI6hIYX95fpK9BXM5Upg06hXEjnIBIKABwZcw-ymmVIOH1UcWQNoitfztbJEG6zdlCFmqRifEhDX5OaboItadgbjrDhLcCsHGhTUP3oqTeFCGu86fSrwfkP495zppw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Tebet Timur Raya No.10, RT.10/RW.10, Tebet Tim., Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12820, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.23618,
+          "lng": 106.8533847
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.234827220107278,
+            "lng": 106.8548186798927
+          },
+          "southwest": {
+            "lat": -6.237526879892722,
+            "lng": 106.8521190201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "bafb9f35a6f2b5b504d29b21b24a7f75903de11f",
+      "name": "Honda Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106473834876873284407/photos\">saipul bakrie</a>"
+          ],
+          "photo_reference": "CmRaAAAAii6iM5uv6b2GtaeV6jJ-Hs-LXG4chJx-kCn7DFpVo9SigzaeO4hDs9e14sB-qx5oosyJpnOLm8HXvWxVbKMeQitWahib5wSFGmEYr_Q7LtEbIcJ71hoYFypfA0Y0FpgiEhBwX2rh8RxaQn8DLj3GHipjGhSdqRJjfILNp-5LYz3rP6JQVXUxuA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ1Ugkkm3zaS4RXLLyfr1tc4M",
+      "plus_code": {
+        "compound_code": "QV73+G9 Jakarta, Indonesia",
+        "global_code": "6P58QV73+G9"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAviyn1Wkinsw8PcpIT-jTn8vse2Ms9iA-0PF79RzkDqQIyi0YK1Sb8CMZGuAFphslyZ418loeZBZasuH4J_fXMedBg3xpLd6ZVEXZ3_sRLvjXNK-a6SZF65P1N3Jr639YEhCQlfEFDsgq0rPIKjnQ51fSGhTXr3bDuvKzvDsv6iTZHbxw9ScNRA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Melawai Plaza JL. Melawai Raya, Melawai, Blok M, 12160 Jakarta, Indonesia, RT.3/RW.1, Melawai, Kebayoran Baru, South Jakarta City, Jakarta 12160, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.24578,
+          "lng": 106.8024
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.244430170107277,
+            "lng": 106.8037498298927
+          },
+          "southwest": {
+            "lat": -6.247129829892721,
+            "lng": 106.8010501701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "b330d5bf3d0a281abf48ce5fd3e4b16b1cfe90ab",
+      "name": "Car Park Melawai Plaza",
+      "opening_hours": {},
+      "place_id": "ChIJq0kd-m7xaS4RMsGWw--Q3SE",
+      "plus_code": {
+        "compound_code": "QR32+MX Jakarta, Indonesia",
+        "global_code": "6P58QR32+MX"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAdS247nGBade3rIXKVHQ914G4O-MHhrcJAKsCUewUSLPb0KpQ809YFNS0-w9QV1Uvo9H1hopcxRB21wwCIjSU2hzxKUDUwDkxcFlpVLBhXkjnriJ8MrN8ni7cWQxw5ybYEhDxmp4c8y8ZRr5Qfu0lOfGKGhSLVg6qjRgamVtkVgqd9VVayNZ8tA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No., Jl G Utara No.33, RT.11/RW.9, Pluit, Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1162838,
+          "lng": 106.7946182
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.114933970107279,
+            "lng": 106.7959680298927
+          },
+          "southwest": {
+            "lat": -6.117633629892723,
+            "lng": 106.7932683701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "070822fdb3b957cf995b49031f98f024dee58105",
+      "name": "East Pluit Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109550698536391777379/photos\">somad jonos</a>"
+          ],
+          "photo_reference": "CmRaAAAA_eHjZZY0lWAj3_1dsKWPIbfPPTaGrNMRimJVUgIpqUd8deXHdquCdew5HyAq6YtwD4xs_1nT3ipqWM4spJDpcTeDUpLV06xyr1WqbmJcj8BzzlIhBM0Dvoj8JjWE6vgPEhC06UYfNxN6dtdttNgQb3y7GhTSgwIaELbWiaRh-2o0vID1dFx2kQ",
+          "width": 2304
+        }
+      ],
+      "place_id": "ChIJWVX_vuwdai4Ry4w7RubPwWM",
+      "plus_code": {
+        "compound_code": "VQMV+FR Jakarta, Indonesia",
+        "global_code": "6P58VQMV+FR"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA9BWE8VvmTgBfpINv80Xbb2wYGO1tOzM-kewh3mQGmzwVeo1jh-ld1RQHYQ6KCZVNGYfU8_nITOO6IYCeSk6nx_7jQ9dEBzp94D1Xreze4BV0GyzcmOZ5m1JM06IzPySLEhBu3p5709Ro_GMau-48nJEzGhT2lKTBZtwLSwDoU1ZpBmeXI1Elbg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "asia baru blok F, jakarta barat, duri kepa, Jl. Asia Baru I Blok F No.1, RT.10/RW.4, Duri Kepa, Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11510, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1740692,
+          "lng": 106.7728931
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.172719370107277,
+            "lng": 106.7742429298927
+          },
+          "southwest": {
+            "lat": -6.175419029892721,
+            "lng": 106.7715432701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "0ba673b793cf199a6c8bf15706d3febfe92a55ab",
+      "name": "Fino Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101563474044828117599/photos\">taufik Hidayat</a>"
+          ],
+          "photo_reference": "CmRaAAAA-yioT4adr_OD2Rzc7g772I_W3_oq3Wn99plaGw_04OKOQCy5dauugCvU2hO6CT8o9pLTkxV6IBFT_0IhvDU_QaxgXwJDanXEc0PsUIo1_qNupuQ1Ty4LOhdfWmrWQEEkEhAs7qm7suQ0zidU9J6BVoZPGhQtSFPOlRX1BLU-lt8EFD3nU6al0w",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJLQGFjVT2aS4Rn0IaU1LY_Fs",
+      "plus_code": {
+        "compound_code": "RQGF+95 Jakarta, Indonesia",
+        "global_code": "6P58RQGF+95"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAJ6FHkLu0xTDHIdiP8kNTTXaCpVoMXvd9VUMB01dcIYmCDmbFYEE6RNeJo2s4JT6LldXG1C3cZiIU6EoMb6_hmen_E_1wGseYokJxE7WhJ--_0BxmQqKcfFgfjoNyevLVEhDzg5aIREkP4ZbY1wwTzbGRGhRmGf3YKRalHQE9N3o2tBrcZ5AKsA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. HOS. Cokroaminoto, RT.03 / RW.05, Menteng, RT.3/RW.5, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1964087,
+          "lng": 106.8293106
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.19452395,
+            "lng": 106.8306771298927
+          },
+          "southwest": {
+            "lat": -6.198043349999998,
+            "lng": 106.8279774701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "ec80afff45d2ed7f83fd05b1434877b8df96e03f",
+      "name": "Taman Menteng",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107566652310017371114/photos\">Leonika Sari</a>"
+          ],
+          "photo_reference": "CmRaAAAAgBaQc80vGB_eWVwqdL1idz7c2YiT53rsqOo2Fonw5c1LZ6YkGTTcmfKFYnmp5oO_Z8s85G9VCaoCETZn31yjwrbsjQBNNYTFVgPMpnnIxg81wTf6Afg4lQQO4et0W1z3EhBQGQJJ1h3KKms3XBfAOG76GhSwxAgAygWlaA_CDUFNQrnnhe-KuQ",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJKeQOsCL0aS4RLuH7DlpcjaI",
+      "plus_code": {
+        "compound_code": "RR3H+CP Jakarta, Indonesia",
+        "global_code": "6P58RR3H+CP"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAbPEBAFV2AJFMvowkk-kb3a9Mw7NaKu4yKoDycLWRcoCucqYN9SAh2zBI7wvcmWby7odsi09dIzF6w5YwU5hns8CbREROQA7bBTn461G-PgOucVqBkWyXRAOALgG8hsWOEhBhdzdIijZbXPp6t09QO1FiGhQ22zGmYParVFi5DrtN82fuJdDMkw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Salemba Raya No.9, RT.1/RW.3, Paseban, Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10440, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1929845,
+          "lng": 106.8492428
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.191716220107278,
+            "lng": 106.8504379298927
+          },
+          "southwest": {
+            "lat": -6.194415879892722,
+            "lng": 106.8477382701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "eed0f84b481cf322225c96568f9ea6d71482c3e7",
+      "name": "Thousand Islands National Park Office",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104655688360896244268/photos\">Budi Suchaeri</a>"
+          ],
+          "photo_reference": "CmRaAAAAZdxLg58GeGr1bYYpnQQdGIyHR3N71DLhk_zisCNCkDrmEfbEGRG-45SMAmGF8Cfgl6dhnQhqUMzysgeZRpXZ0gpCmQh4JESqRZ8uWyVjAXbVDisqvQuypLVGGcOGgSleEhBuOrjmEKQLX6Va1ZNxuuG0GhT2x9xm4h_Zwq5Bp5LVotoqj5aC8Q",
+          "width": 4898
+        }
+      ],
+      "place_id": "ChIJaQ9u40L0aS4RpdY0K3M9818",
+      "plus_code": {
+        "compound_code": "RR4X+RM Jakarta, Indonesia",
+        "global_code": "6P58RR4X+RM"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA0jx5C-g8npCtdL9P7Ga2KPBB2QeG-kU-lXYqm3DfvNm6TSTZrxcn9gDWKkKuoB7GK1COToaKsRsUd7-ao7NoZBlvthVSkVSZo0ncrSH6NCfTru3B0t0GZ0mWuY46J4LOEhDI9rnNLoMgufNVao8gbG7xGhS0goSxOvhyXwp1Sq_2uN6CQRUoPg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Pinang Ranti 2 No.78, RT.4/RW.1, Pinang Ranti, Makasar, RT.4/RW.2, Pinang Ranti, Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13560, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2929072,
+          "lng": 106.881551
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.291557370107279,
+            "lng": 106.8829008298927
+          },
+          "southwest": {
+            "lat": -6.294257029892723,
+            "lng": 106.8802011701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "90f9bbc53c8603af0acaaf8e30cb4f6567349ebf",
+      "name": "Orchid Park Indonesia Permai",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109624688521894014774/photos\">Boy Aditya</a>"
+          ],
+          "photo_reference": "CmRaAAAAo60zxPBxmStULxNKPudlyRIbo2s00pFIiDKyStYyXzeJTh_dt8QiBaPi00LCAfAgZvDv0FYbXyd1WLwBaPEPfkfVCJFLpu6pPUGvJER7xYXzP30COHFby-0UgZK62BJVEhAov4H5CG53KON9Stkz6dYXGhQ_uWz30f3rICrtYsM2aoJgT3AC0w",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJt7wKEZzyaS4RWti-D4OpPIQ",
+      "plus_code": {
+        "compound_code": "PV4J+RJ Jakarta, Indonesia",
+        "global_code": "6P58PV4J+RJ"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAvwqoFZpFxyEvy1JeilxWAQFYUZxyp5_1bcBDd5OVv9ANz_ZNkf4xfhgnT4ckuMdhxCUirHECbpAZjvEDyFTURj7_95gdwFXO0QbVy0_DblZrbv6_2v2Jkktn01I6nVT2EhB6TD2EzkPn4t9r9ClkYE23GhSWCUyPl7kpa41w1jnqGj1VS-L1ig",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Prof. Dr. Satrio No.Kav 6, RT.4/RW.4, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2225585,
+          "lng": 106.8229522
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.221208670107278,
+            "lng": 106.8243020298927
+          },
+          "southwest": {
+            "lat": -6.223908329892722,
+            "lng": 106.8216023701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "bd7e71d998d39d675b3371c92f43367bec1b24e3",
+      "name": "emas business park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116811916679257454346/photos\">Mira Trianita</a>"
+          ],
+          "photo_reference": "CmRaAAAAOARZ_m8SzVb-2sTrGv-eC4ow94OTBPp3x9RmlX90_iMPoJrAqBLEa9JweRPxgdZuAiDtgOC4tBItf3TAyqw_42G1qvGkfZRTujhRPyccwqF6u625lvFMWLRNRNVsLKxoEhAgbbccr0-SIep5s2cBeSFtGhQdHeRZxwcxtbe7tSLurgzYQbi0MA",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJJ1ElHfzzaS4RvaC8ioKHffM",
+      "plus_code": {
+        "compound_code": "QRGF+X5 Jakarta, Indonesia",
+        "global_code": "6P58QRGF+X5"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAm51icJHE9XgkAOlCQBoAJegweOKG6tcmRCw3bIVHS1LoUCqQmCk-5r5gO6NpmcKW5DRwZFhs2WXejksHV3XjwchDcPReYExjbBc3j7lhXGvUh2R1Ev70J3W16iT7YN22EhDl9ZZU-JVXC0AgVbyk_dz1GhRjsGNcL33kw6ZSj2btw1ITq_yDDA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

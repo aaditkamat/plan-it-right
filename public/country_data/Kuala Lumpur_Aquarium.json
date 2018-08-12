@@ -1,0 +1,100 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Kuala Lumpur Convention Centre Complex, Jalan Pinang, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.153687,
+          "lng": 101.7131625
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.15900705,
+            "lng": 101.71457545
+          },
+          "southwest": {
+            "lat": 3.15191365,
+            "lng": 101.71075845
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "08bfcda34a08c374d08a5ce486be7d2d10ec1f8e",
+      "name": "Aquaria KLCC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100043997758879147346/photos\">Will Tan</a>"
+          ],
+          "photo_reference": "CmRaAAAABZUvS3rsxs5OCNeeWFaucEJKnTBtvTf4naB80OGuJFIWmKLbl3WeghXFPJ3JxERqQ_PhYKLQDmkcY1rzQIXLk-mhe8KHPGb4IELy_dpczSRWiXXR9ljdWljqGeu_r0ioEhDPogIFoeVNHffDGNHvCfX8GhQoF58VYDuQNQAaFgbyzpBS4w3ZZA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg",
+      "plus_code": {
+        "compound_code": "5P37+F7 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P37+F7"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA3Z64rZH0zYkb2_pxuBrkjqUeD1-Dq535BXoHWurT8i3Jr-MSKhQBPyczMO3WPuv_RmGCaOWOv4Nv1PeiqRM0sdDrMKzpw7oWQ3_wM67-Elva5y29oiqtJo8MDLl2JydQEhDFtzJnYe-NFK0JTXtryjtAGhSTIx8Kf0y9bwFrU16IrVBmBS6Huw",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "12, Lorong Raja Chulan, Kuala Lumpur, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.152987,
+          "lng": 101.7035475
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.154336829892722,
+            "lng": 101.7048973298927
+          },
+          "southwest": {
+            "lat": 3.151637170107278,
+            "lng": 101.7021976701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "db7ad807a3e1e7f2070e1681ab005a21d67fa514",
+      "name": "Blue Coral Aquarium KL Tower",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117838313073827708436/photos\">William Wong</a>"
+          ],
+          "photo_reference": "CmRaAAAA1OeM5_MnoyrIjqdhPD5zAUFZRN5O2XTanFGzRCa5Fl-y6AYQO9byWefNWH3XyQyp-4x7GQFwHeAD3_k5LMiXlYHw9AsiS8ZXX3w9FuPmaAklGw0fLhPJBic3bwb5imM8EhAYyfbd6AtvqhiqfUljDvk6GhRFyWL8kkbvxYObALcxSsqT9EB5iA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJhbj2IitIzDERCU75o5983zU",
+      "plus_code": {
+        "compound_code": "5P33+5C Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P33+5C"
+      },
+      "rating": 3.4,
+      "reference": "CmRbAAAAlKDOg4oKJZlAYqdJ2BMtz_7ekRgmpX7cLsQMXPUH7-KCrJB_pP23tcz8jJtWxUy4TVkkKH14ijr_ZyhdPy1b7x6hVIJ0aLNVMoNg_jy9SdJdijQV8SfuN9wBRBlqGYdVEhB3pQehsf4BIgG0ZjsnM9YCGhSgVbShtb8Rmg7b1s1B0tC0QuA0oQ",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

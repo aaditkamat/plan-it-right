@@ -1,0 +1,254 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "results": [
+    {
+      "formatted_address": "8 Sentosa Gateway, Singapore 098269",
+      "geometry": {
+        "location": {
+          "lat": 1.2540421,
+          "lng": 103.8238084
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.2577978,
+            "lng": 103.82842785
+          },
+          "southwest": {
+            "lat": 1.252041,
+            "lng": 103.81910445
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "0412c0bff1c2e6822779b9ecd6eb779f7b57a1ba",
+      "name": "Universal Studios Singapore",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100583373750507159946/photos\">Wang Jiale</a>"
+          ],
+          "photo_reference": "CmRaAAAAkFU9gxvxSn5a_oE1oL9LPPZOCsZwl1-kOeCaMQTryIH2l-ll0oqokM2YpCfYXARybjVNElUSmSWdKVHHIn0hIUmecJV91ywx-N1lCM9uNBeJsP2DCNRzbOt2fH1K7gNHEhCHPY7m0gIVq_RiE2xTi7zJGhQCrdX0eaktgNlmgjTAyjFYAdBtRw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJQ6MVplUZ2jERn1LmNH0DlDA",
+      "plus_code": {
+        "compound_code": "7R3F+JG Southern Islands, Singapore",
+        "global_code": "6PH57R3F+JG"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAs5QX-68wRDdDs0hmQsBUf7V42_NJZjRtl7PD59y_r7HyZbzlOWFmOcRnPUvWd_f-Sr70iCZqbRwX7l2RSsDoDNkmilwQdiy8LSfCd6eLryllG8huRzGqzLogajPPtiPmEhCtl4vZ4m8vEjY9ebYer09KGhR8SlweS8MwriEwTg3Qj0yp5e_z3g",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1 Pasir Ris Cl, Singapore 519599",
+      "geometry": {
+        "location": {
+          "lat": 1.377805,
+          "lng": 103.9543167
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.379138299999999,
+            "lng": 103.95766595
+          },
+          "southwest": {
+            "lat": 1.3738051,
+            "lng": 103.95141975
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "2826f446dfba9ca52bf30acf2957e59c9018b757",
+      "name": "Wild Wild Wet @ Downtown East",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108730659548344292299/photos\">SWEE KIAN TEH</a>"
+          ],
+          "photo_reference": "CmRaAAAArRT2JvRARf32FQCUZ8YS0U9iy1QmWQvp-ZAksVj_J1W9VCt9lYQnXMx6JuF63atpAMYRnoaO-SUXobqa2CzBIQKnxz3B3Evh0GlblGmp860QJgRGgSPbGvs01AV-2XOPEhBuYzZFN47NXtUg2Nv3W62pGhS2rFhI0e5EbORbiibe56Djt1G6ng",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJK_yDUbE92jERcjxTDAYmTrk",
+      "plus_code": {
+        "compound_code": "9XH3+4P Singapore",
+        "global_code": "6PH59XH3+4P"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA22NUhphB1iFOKgB8QLUqyREObXaqV7C4zMHTJBhYvqe4d5qdXNlBRb-yME1Fh2dmx3YBlLQ0WxFt4QjAqJmYikDolaYUbFs8u1T5D_2buBCUhrr0umVKM9sZ-a36arqAEhB7P7SNa6y7WfO2v3JexVGfGhThyUJDqpkTUuLJ1gjiPWkLU_YnhQ",
+      "types": [
+        "amusement_park",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1 Kim Seng Promenade, Singapore 237994",
+      "geometry": {
+        "location": {
+          "lat": 1.2937612,
+          "lng": 103.8319502
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.294662029892722,
+            "lng": 103.8330288298927
+          },
+          "southwest": {
+            "lat": 1.291962370107278,
+            "lng": 103.8303291701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "f81ced42a089e7bcb47a5522c98e4ba1e973625a",
+      "name": "Great World Park",
+      "permanently_closed": true,
+      "place_id": "ChIJNwGgX4MZ2jERWWJ063yU5kk",
+      "plus_code": {
+        "compound_code": "7RVJ+GQ Singapore",
+        "global_code": "6PH57RVJ+GQ"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAxbOU89R7VMhfYGl1ZvA6bH59msvb-y0-c3-uUy9mKsfKGzm62PM9Gv8YXKG2AzbIdUvzheVeOqbhJPxWpwi_LjZZUN0VUKjbN3bgHbLmDGKV2UxRT8g1h_1vKHisshfsEhDRKfhKw7D_6eJ3p2xlhPGvGhQtCbCBLO6xEc-marCMwLf14fyzQA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Geylang Rd, Singapore",
+      "geometry": {
+        "location": {
+          "lat": 1.3105788,
+          "lng": 103.8737418
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.312077429892722,
+            "lng": 103.8750289798927
+          },
+          "southwest": {
+            "lat": 1.309377770107278,
+            "lng": 103.8723293201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "22e8db5ff4086fc3d50c6a3fe313777d1e29e027",
+      "name": "Gay World Park",
+      "permanently_closed": true,
+      "place_id": "ChIJOUviJzQY2jERn84kqZY4XZc",
+      "plus_code": {
+        "compound_code": "8V6F+6F Singapore",
+        "global_code": "6PH58V6F+6F"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAJHeW0cQoFrxpAShOzl7ue31jRJCdI0_qgfPISJ-IjkXowNV-obKAPaxmvU9DN8d3YXo041mVY5pgloooIVuiI0rzcfXupMKlAz7uNznt58jpZ49760J6iDTNx1Pm0-UlEhAEVFWfWlATS1qTh2LHqYOUGhRB1PcmG85jYVTOqJHjDVw6KqE4bw",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "253 Jln Besar, Singapore 208926",
+      "geometry": {
+        "location": {
+          "lat": 1.3099713,
+          "lng": 103.8581964
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.311302929892722,
+            "lng": 103.8595751798927
+          },
+          "southwest": {
+            "lat": 1.308603270107278,
+            "lng": 103.8568755201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "e5ffee42eb9adf651f8543e31ec2d53ad4f52264",
+      "name": "New World Park",
+      "permanently_closed": true,
+      "place_id": "ChIJh4ExX8gZ2jER5qnLSH2fjA4",
+      "plus_code": {
+        "compound_code": "8V55+X7 Singapore",
+        "global_code": "6PH58V55+X7"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAJ8DI_yr96-Z1tdaaQPGNKe226RxNUvuy3rjgpZWk9MFC0fe-pnjqVMIjTI5LcAiXK1H-hh1PA7FgXnT1I9H55IMi6FBuuizKuo3hpCM43Hn6JWxtbMiuLd1mqf5JXyVIEhBsyYN0QYmRTJWQNTtWG17CGhQ1iUmBYvSjyI64Ydx5Rl-0RAFUGw",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1 Pasir Ris Cl, Singapore 519599",
+      "geometry": {
+        "location": {
+          "lat": 1.3782507,
+          "lng": 103.9545276
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.379308929892722,
+            "lng": 103.9567026
+          },
+          "southwest": {
+            "lat": 1.376609270107278,
+            "lng": 103.9538026
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "7ddda3f56604050d88dc293107e4cc850c857c34",
+      "name": "Escape Theme Park",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112677719709976864167/photos\">poonan sonker</a>"
+          ],
+          "photo_reference": "CmRaAAAAoKAliO0VAs5-PFthnZ4wbuKliArqURRKX8kR3HXwi4TncqrObFmuh26DmZyAVcIsnx1_T492EFEYjtFz7xJQOv3yxGDRU66o6aKD-4pbYIyNe9v6FqeYXUDjx5_bslN_EhDECNAInR5IyL2Fi0AY_MSlGhSbVHmt-An7pUuNyMCpJ84a9klgrA",
+          "width": 2322
+        }
+      ],
+      "place_id": "ChIJ2aezhLY92jERgoyrbe8nbhQ",
+      "plus_code": {
+        "compound_code": "9XH3+8R Singapore",
+        "global_code": "6PH59XH3+8R"
+      },
+      "rating": 3.3,
+      "reference": "CmRbAAAA0JSPPHHJAq2G7gh-huaH2ERRe9I2p4Q_yfQx_H30QzUqAak1xcUOb2p_c1qV_dvfzC5Jf7kXGEtgSlkFUeHt0unMphsRIavphDNaMqpAnnrt3zB_rjFID-0jOMHt6gq0EhBqEOvorTVkE0YTpoIMAJdPGhSe3t2nfkdYh86oes8vQ_JaCdc0uA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

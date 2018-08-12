@@ -1,0 +1,972 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCDQEAAKrLBILtnakhr_dvmUpt8zVCks-f8_E_JJLaozViLdVgGNDZLoIlmEM3VFsSexdnytr5OopExmkz6iYCtD3HGjYH9uKmQqKKmCDByLLYXFDdDGSv0miSblwLPDzPTWGdBqG7L9VEvKYlddSCRcndFB6zV8ebxWaUidU_ms5Gr-fWhXvfrvznyMpL5HSKWRRJCe2_J0maVD6ouVhSkr5yqRIKbZsVAwQoS4MiEzAflreSLbCCOqRI9aDcRpuHVEf-e-zTkwHYyB0xUlze955RUUAC5u34rawfzl3hWfHujtwCiqOU6A9jKWph3hCPnpx2eZp2fpHm6DhK7nfvhGJiCUbFmBFItBN3I1n6mbx18rqBEhCJoKgPRc1CdkBcm51qkHQlGhQcFIWQdMv9VbKbw8d_O2zM7Oi0KA",
+  "results": [
+    {
+      "formatted_address": "50A, Changkat Bukit Bintang, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1475412,
+          "lng": 101.7082005
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.148813429892722,
+            "lng": 101.7095500798927
+          },
+          "southwest": {
+            "lat": 3.146113770107278,
+            "lng": 101.7068504201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a0fa0edd156df4d3690a268bf2213543d9e4b751",
+      "name": "Dining In The Dark KL 章卡暗之馆",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1359,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111897869475554743241/photos\">Dining In The Dark KL</a>"
+          ],
+          "photo_reference": "CmRaAAAAGe_zW-SD890ntiynNNDd5ICZaqrJZ6iX5X4dNJgloX3Qt_juy2qvEl-us8uUMQCNmJozV35BSOmp8FLKXU6vtY3iYpoyDe_1bpETw9gUZPChlSTkIwn3vOEKlGrlWi2PEhCYxZOIQ1ntBxs3Xna10dxoGhTElIlkP7wztP3iqijXojYk7SRAtA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJT3lPFSo2zDERA9fHCz87COY",
+      "plus_code": {
+        "compound_code": "4PX5+27 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PX5+27"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAMj77MeCAuYJcrR8-2QMK-8-eS9_T-LsCZXA3Du8BMsdS6hsDC-RooRO5Zke2RbufichCg_jQaRq9noSUSmdPbA-hOJElrM7SsxI5_ErbkkA1bMDopwwtAQD6ym-q29vAEhCBfS6_dUAuV4CDTXKnljxrGhSSO8b_KIEIsjDpmt-3ORTle6x6hw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Level 23A, Tower B The Troik, 19, Persiaran KLCC, Kuala Lumpur, 50450 Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1580116,
+          "lng": 101.7180583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.159341529892723,
+            "lng": 101.7195479798927
+          },
+          "southwest": {
+            "lat": 3.156641870107278,
+            "lng": 101.7168483201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "706a200b211e66ab66c886604a1f0249f7ddc79e",
+      "name": "Fuego, Troika Sky Dining",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115727805348009307472/photos\">Ronnie Yap</a>"
+          ],
+          "photo_reference": "CmRaAAAA-1hoWzdQgp6hAtLW05rG1CTRlLTlitsqUPTt2Om6AtFY1hy3qlLsU310ybUPKQhGTdVCiZdzfiCle255H2TtBfGx5r2ueTc3OQoVq6JIy5jWzCdFk-NK0Q46IiauTJhgEhD-d1BCEouWkcrO_A0meKwxGhQq1YiJhfc_vWywTuU-mZyif92raw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJw9z919E3zDERJQtm_navO_s",
+      "plus_code": {
+        "compound_code": "5P59+66 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P59+66"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAANDtzzrGVvu4BSXn019gvTP4ymziM5EAopX0JENxAmqmlv9UdsEOngjKUpo6zQfmHzl3GDKA3-xvhGpCGDA2wHwgD7rIRZOLqJiEJnmgWPspBGMLh8RS7aGO-1SSXEnZZEhCY1U-zo1EvodXehwQ0lHTAGhQqva3ptf-m5s9YMBnzcjlbt4jX3g",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "A09, Ground Floor, St Mary Place, No.1, Jalan Tengah, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.151816,
+          "lng": 101.707617
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.153121379892722,
+            "lng": 101.7089600798927
+          },
+          "southwest": {
+            "lat": 3.150421720107278,
+            "lng": 101.7062604201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "14026535ff15ca089f0d55d580cd22f63f8526be",
+      "name": "ZENZERO Restaurant & Wine Bar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112855114479876878080/photos\">ZENZERO Restaurant &amp; Wine Bar</a>"
+          ],
+          "photo_reference": "CmRaAAAAC-GX0-NV1VIFE_iv_bf4lQENPB2RbDyhooxnSZnspF9W2iKFv1pdQUTlOFk87oxFJPgrU0b_nCwA_mc0OnPgchICs2RXUAG4ijgRkU2VU35Ol0FUpc43CS-ZHNq4QHXIEhCRy6sxtfpOvYPvIWQKjxayGhQUY5smhdg25ZzIIZIgL3qbi8xHHQ",
+          "width": 4288
+        }
+      ],
+      "place_id": "ChIJZXrJT9U3zDERyD1H5ruJssM",
+      "plus_code": {
+        "compound_code": "5P25+P2 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P25+P2"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAANymEjhypeqhjmueRnHF_4qsxavb2C0mVfEVGpDdmi4K18dV4gihLgVoFQe_QaNXNeOPdJvUy1ireoiBkxmpmwyIFFZcC2wjCsNkDpXIg3YTD5l87QOzaRm-gJ0dWNnCiEhCR0hEqyLUJ7X7oYdZ3gAT1GhRKnA9RCqi9WcA5APpPHia35o8OUA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "43 & 45, Changkat Bukit Bintang, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1472615,
+          "lng": 101.7078378
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.148735129892722,
+            "lng": 101.7092363798927
+          },
+          "southwest": {
+            "lat": 3.146035470107277,
+            "lng": 101.7065367201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a01c8af3ad3510c1ea4277c983977d589805ffe5",
+      "name": "El Cerdo Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1151,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106333248865598565434/photos\">El Cerdo Restaurant</a>"
+          ],
+          "photo_reference": "CmRaAAAAO9AqRa8I9RpwTHXhvwtrGEp3ctkRZ8XLaUlI9NXO8PwjfVftJbV9jK2qC93Wn8EKvqAngsMrNTvi_VC2uqfQMOHjV_kXpsJUXbkrXNUsBiW6yfJRjMqIMXqqESei73bZEhAl8Z30t93ejF_l4PIE9SxEGhSl50Ecre-E3WC9pZGjzwtJhFMV3A",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJpfdVdSo2zDERBhcmuU16uFI",
+      "plus_code": {
+        "compound_code": "4PW5+W4 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PW5+W4"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAArlLfdvtvf_FzFwu6oON7QGlrx1-ymRDmsFfoRcXcJxu0HNRaGIbaoidoZ4P85DEL1zifZ-VRY__YnBCblzma0WcNDGfelbaybHDNNJ4_SIITpD4raO-mvKbIqNhclV9NEhCDlFx-Ft2YInKRnFYXcpnrGhSQxrsbDUVVY-QosAIFB7GL2JoJ4w",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Grand Hyatt Kuala Lumpur, 12, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1537449,
+          "lng": 101.7124071
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.155123079892722,
+            "lng": 101.7133949798927
+          },
+          "southwest": {
+            "lat": 3.152423420107277,
+            "lng": 101.7106953201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "4dd73bf37770aee315588b1c0f481a4a7c887553",
+      "name": "THIRTY8 Restaurant, Bar & Lounge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107953255560971668884/photos\">Sumol Anantathanasarn</a>"
+          ],
+          "photo_reference": "CmRaAAAA5mun2vZoRsUSY2FbU12BtAtIrnuVxdpGLGnJX6OVdyNkTX-NnBQNTqQvlmguZDhzEVWqJFcmKhPEaDNMxfEZYdUFlfTdrkiyg6m5eIsnJcTO-YLUfPOoD-9jOvEIeJkYEhBmBHgJro5DP23p41KW9m-UGhT0tecFKy94_LuLSevJWx1OIL2pIw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJo4RCY9Q3zDERqVGS36A--CI",
+      "plus_code": {
+        "compound_code": "5P36+FX Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P36+FX"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAllbiNp_XNsIXoxYsB3lleTKfrnrnoU6ndhakh8BAKgQUFL1w2ObcuFodr21r50_iuWpRzSUY4iR5zonnK9IKM22iogT-BXM1VF1gUsMEiqIwmj6I6dLfzvmJKan_B8wVEhDARaYaqKdF0c5jluHK_A8tGhTHgWlS3IrLWQoPcdK3kwqRO4qE6A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "6, Lorong Datuk Sulaiman 1, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1493852,
+          "lng": 101.6298086
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.150734729892722,
+            "lng": 101.6311265298927
+          },
+          "southwest": {
+            "lat": 3.148035070107278,
+            "lng": 101.6284268701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "38b44848d6f7562b6e20f1a262b34b353518ed1c",
+      "name": "Vin's Restaurant & Bar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106944654219299676549/photos\">Adrian Chin</a>"
+          ],
+          "photo_reference": "CmRaAAAALQs3xRTvaUpjsOmJVi2BedUaJi298y85z6MRMBeixOSFSDP7UogaRSzX1mhFYfnKmcPbTkpioJTtU87YmCeWpiSdlzTG75uImS_OuyLd3GzwiW51bMCHP6dTBXHoCn4SEhAKnFtaQ7t_7FFPNFj7VEOdGhTb1rL5K_C7_mUIDU1wB7KFvxjT6w",
+          "width": 4048
+        }
+      ],
+      "place_id": "ChIJZ05BeSZJzDERlVmxJahQ1iM",
+      "plus_code": {
+        "compound_code": "4JXH+QW Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34JXH+QW"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAtLBukC1Rlxb_1rLsqPA_Fli4xY7mBmMoPe7_F4wZ1MM-RjC2PBpNpAM2ulj2YatA4R_2REpv17GXTablAQ-VBE8dfV_8ssdHVqaL9XgwiCaPEa5bDFRxMFKeb38kuMyvEhAGMAOxbraRuDqidwcbJciNGhROR5243m-oMk7NQpwTm9hmRrkh1g",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "50, Changkat Bukit Bintang, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1474576,
+          "lng": 101.7083143
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.148744579892722,
+            "lng": 101.7096852298927
+          },
+          "southwest": {
+            "lat": 3.146044920107278,
+            "lng": 101.7069855701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "96bca87891450ed0bcf03fb964173be539b162b2",
+      "name": "Opium KL 乌香苑",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103753652265111386532/photos\">Opium KL</a>"
+          ],
+          "photo_reference": "CmRaAAAAN-x5u--CScw9Q9xeYYOTqx7m6esV-fOOPy3pZDzQGQV2RjhcYGxI5NcotQIc2SmcO1hmeT-CWGlA7pCxl2s9Ro73CTqjpjNcMZNXMSWhAXvLOYnNpFHpjTIz9SB1AHcdEhCem9u_MCH0J4WJ-5j2xSQPGhTszsefMmXh3MuGUrTB37OfMNYvbQ",
+          "width": 2198
+        }
+      ],
+      "place_id": "ChIJoc69FSo2zDERtZY4KA2O4hs",
+      "plus_code": {
+        "compound_code": "4PW5+X8 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PW5+X8"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAyGDLx-qYdpC0N9P0d5scdhSCXmhQ3hwp2hP2PxNSqAzjX4iAgZq4NH5IX7SbiOZetarPDvxIRMTmUbvEGPL4CxCvmit_0plG4xWOEC6xmX_RqrLS5j7QBeebXY8jrQsLEhAPzyDCUjf4bDoV14bG5-kOGhQppqf_La82HJyBHoAzJKU-VMSIBA",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "46, Changkat Bukit Bintang, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1475553,
+          "lng": 101.7081149
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.148852729892722,
+            "lng": 101.7094364298927
+          },
+          "southwest": {
+            "lat": 3.146153070107278,
+            "lng": 101.7067367701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "7ef439a0821f7235ba1282abdee8c169d869eccb",
+      "name": "The Whisky Bar KL",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 922,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110932338283752326657/photos\">The Whisky Bar KL</a>"
+          ],
+          "photo_reference": "CmRaAAAAFx_klw2ShlZPwUOYaKmVLPoNqlzs-GuE5kCgDez52ypnzPwDKXoBHlbIewTzMP6Z2dtwGc7xqz7nEHE5DZTnx05dqT8ld0Cc_SiQIy6cNeuU66dwWp1NhQTtkgvGZVezEhAxhJDvZYTvOQhP2fKh4sPQGhQGCGz74CdbEoQpWOG8mDEFOh8h9A",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJAQMEOyo2zDERbyw_1WBjCIU",
+      "plus_code": {
+        "compound_code": "4PX5+26 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PX5+26"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAUgHTrjuyjDNnUUU3ck4_tEXJ6Iv2q1gjHmEuwBOMv9_uf5KK0fjsMaLqIPueHWk_AHFxtP18QCkJZHysAHXT_NjAkDF5a_Qs9YJpgs5WHH7DyoFfc67_FAI62zerkHV7EhB6NpFUfJttBQYS-WHl8r6bGhRd6ToVlaglSA6HexrcO2gpFwj3Ug",
+      "types": [
+        "restaurant",
+        "night_club",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "44, Persiaran Zaaba, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.141761,
+          "lng": 101.627314
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.143146179892723,
+            "lng": 101.6286520798927
+          },
+          "southwest": {
+            "lat": 3.140446520107278,
+            "lng": 101.6259524201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8795318d313484edf8fc93ccceab723ef5a74abd",
+      "name": "DC Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108034463325237048944/photos\">DC. Restaurant</a>"
+          ],
+          "photo_reference": "CmRaAAAAfQBZWq-H_MQUxWRZwr4l6Cz0l47G5b5926ad9YGhcDiJBWyUz-bLVeynXDgejMxElAZdnvstU29jeJehg3fLCJW5k55yl6220lgH7nWOCHKLT_DEefC3YqeO3FF-0_OwEhCIoNduGXfrWch1QEA0wdABGhS5V6MDn1JWcrDXZp_wliakGKej7w",
+          "width": 5760
+        }
+      ],
+      "place_id": "ChIJ7W0aCDBJzDERLXoIAb7IIbU",
+      "plus_code": {
+        "compound_code": "4JRG+PW Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34JRG+PW"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAVDob9krYyr5eopcS3oNxT5yLhnyGIHju22AoAsI86WBlr6w8SDXcCWdzP5uUDfoTQWhtuUM08R2bavCTBIAd0SomMvx2wTo2nuCURafCLvlVhJ9Jg91oSnXWK62Pm8LpEhDfht8KMxfw9Fv0fywtd5N6GhRGxyty16g8YRef6jTj7i0TGTiGig",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Pavilion Kl, 168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.148286,
+          "lng": 101.712783
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.149483129892722,
+            "lng": 101.7141940798927
+          },
+          "southwest": {
+            "lat": 3.146783470107278,
+            "lng": 101.7114944201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "ec34a1515654e8909f4b41a3cbc85811560679a5",
+      "name": "Quivo Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110459248870862198263/photos\">MGR Chan</a>"
+          ],
+          "photo_reference": "CmRaAAAAIvcruqJApRdNc_2OJRWTWBSEb5uCovadtl3CayC1rwbrn8_kxH2rcZAK_zq-YnYHqCFaScsPTJyWVmfsxzANS0OdhIXUXKCLekBLo-13-ye1pxX05dgNANPNy0hJCLFaEhDsV68sZQBX-2Nh8kgjT9arGhR0_ejDx9Z8go0TKSsmtPAjZFtDxA",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJcUu-eSw2zDERmyFN308HnLQ",
+      "plus_code": {
+        "compound_code": "4PX7+84 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PX7+84"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAcqdK-eV5vEsvDaO7jaFp50N41uHjmz8tH68sh_2aY5AVa2WItXd9BCQs3MDK8hxShRNDCizEjszU8vHRxKoUlUWe5I3e6K9qofBbDbuZ2St2SXDV_fOPoOKGU-GE209iEhA56gUVhH83KR80BNRZThCJGhSTnNj1Gwx9U3wvh4PEYhdiXB7z1g",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Block C-1, Vipod Residences, No 6, Jalan Kia Peng, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.152157,
+          "lng": 101.712697
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.153384979892722,
+            "lng": 101.7142883298927
+          },
+          "southwest": {
+            "lat": 3.150685320107277,
+            "lng": 101.7115886701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "500b35a44ca3dcd637c9a2386a0bd695fed4a075",
+      "name": "Oribe 織部",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106843393884330789065/photos\">Vincent Rey</a>"
+          ],
+          "photo_reference": "CmRaAAAAIJjE_FHhJXezy9J1fH4HpWdFsnnotqC_sytlmmkGdPIw-KAE_uQtdNhA1CGDu6ybbS0PS7C1nnO5O_CJ2iTI-jYEEQOkpgNJgBVtTX5xXANZ7LS_GlvltXmQNRH8qrPMEhD5z0Gkx9Fs5GNviwQtf3q3GhTaQxFOc0rRK69a0J_KT15UaRppUw",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJlRDYWNM3zDERIcfKcUKKsko",
+      "plus_code": {
+        "compound_code": "5P27+V3 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P27+V3"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAABaNwYhYRPuXCwI8U9m2oxcCLAgCTMmXvPG6nTaz5pHQi9rYERlGJhinm3jUXCXfhWKjRiZVFWO2_ACR4385VJo0h09rZKGRQ53_bIA0oaG2ELwt4nfd9m4EKiNe5wAy5EhCOoRbrdvGbh66GJtaWkNhiGhRyZKjm5dR-C5Q6TSQS50Pt2wiTdg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "A-G-1, The Marc Residence - Ground Floor, 3 Jalan Pinang, Kuala Lumpur, 50450, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.155218,
+          "lng": 101.709676
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.156567829892722,
+            "lng": 101.7110258298927
+          },
+          "southwest": {
+            "lat": 3.153868170107278,
+            "lng": 101.7083261701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "6a7ec08a8b83c3a0bca848336aa13acfa7767e97",
+      "name": "Ten Japanese Fine Dining",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113684873920690037184/photos\">PC Chiok</a>"
+          ],
+          "photo_reference": "CmRZAAAAGPzsGCremqRA6H1yqzfzjYNHEq_rJMtbnw085W-lniYxKtl-TUke9JGHuP0ORT9bEvxencK3oj0eYIxVtim-4W0K2NCTGQ0DNIOZnCRo8qIQkBmBIIeAsVSVHvaAeo2wEhCuJOBJGZ9OEacou6pVHaeaGhTQeV9c7_cE-PWB8INElCv_j854MQ",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJa4d1SWdIzDERzxeQSV2cVLE",
+      "plus_code": {
+        "compound_code": "5P45+3V Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P45+3V"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAABlMLBGm_kt_nljvbM7csDUAkEku3Sja1qbnbCf1HD3qoivAObLpGb7cPPC17y7LID-c3dv7x7M88vD1G84A-n1GxUpqpB0RQjYWe5YIQtm96o-Q2-vTfSoL5UWbClHrYEhAAzNsX3bD7v5Cepxi0o4WxGhQF57GB4e_jgT6i0tSdccjFY3gk5A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "38, Jalan Bedara, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.148797000000001,
+          "lng": 101.709774
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.150235829892722,
+            "lng": 101.7111641298927
+          },
+          "southwest": {
+            "lat": 3.147536170107277,
+            "lng": 101.7084644701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "85cedc6fdcbcbd27129ab459552dd1f90b18b197",
+      "name": "Drift Dining and Bar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3159,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103613029575883252463/photos\">Drift Dining and Bar</a>"
+          ],
+          "photo_reference": "CmRaAAAAO3Z5wECZf_xaeli1hvM_sEdAH7N5BOEi0uZMO4NOAmnvS_gLCM6irZupwhfYXqW7y8YpEtfjMBq8esHjCY5QYtqbJxCYboBPVs5dhQE2cy5grLXh4DlGr_JM-G8SlFn_EhAr5oY8dGgBRRri7x0KsLI_GhRI8QNS14bYC-4LFP15kP6lRyb7Gg",
+          "width": 5616
+        }
+      ],
+      "place_id": "ChIJDRTYqSs2zDERBml7LdaOwfo",
+      "plus_code": {
+        "compound_code": "4PX5+GW Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PX5+GW"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAh4M3ksWZ1XuOA9WdQgbL9j_-VGuJExYr6qhkSEMmaXN5rjm2P22GIheAx4ZfQa9NnPdhNWWLf30PvlQzWN414bLdE6yXE0ub-shDF2T9wzFTvX6eqWIl3ctJTjmROGj_EhBdl5twwWOww0ecbuXgg8NMGhSsbtE9Kr1ksGCk1_p4rUHOyooE0A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "8, Jalan Awan Hijau, Taman Overseas Union, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.0820538,
+          "lng": 101.6700442
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.083425879892723,
+            "lng": 101.6714279798927
+          },
+          "southwest": {
+            "lat": 3.080726220107278,
+            "lng": 101.6687283201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e805a6aa631d0d11728db3ca38542f197b29037c",
+      "name": "myBurgerLab",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108449380109525096223/photos\">Dilpreet Singh Tuli</a>"
+          ],
+          "photo_reference": "CmRaAAAAx1aO1oV42157KPj-rUF1U42iy21U8YZ_IM6BWnJMj291Zqrct2VZgC7iA9aEs0-pQTQZg6exM-natfVgJU-sHXOo-wmbNHQL8tKxj1ToHoXkHFdzmTV2gQiU1zN_tQTdEhDlA-_Q7tFkA5EIQJqkm7Y_GhSybcHou3SBX7yhnKgbb3OancSicg",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJa3JYMVBKzDERkUWwevHetQ4",
+      "plus_code": {
+        "compound_code": "3MJC+R2 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM33MJC+R2"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA_lpu5hh72UwkT8pILkH5JuGLdNVZl6RMvvZDeAns29iqbVh4jMSpgGDLn--shkQcg5i6aWs0cRpi6tP1ofFUTkEOAXxflinWdY8cBEkeKDR-Dw6S3ur90wx_wBgwOK5kEhBgIpEESzKHp3Qic7i73JopGhT_4CPKF6pDXMsaFkElGqR0NR-0Aw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bangunan Life Centre, Jalan Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.153546,
+          "lng": 101.708622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.154991279892722,
+            "lng": 101.7100032298927
+          },
+          "southwest": {
+            "lat": 3.152291620107277,
+            "lng": 101.7073035701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "58aea8e1c76cdadb3de45d3008fa0082c8b22de4",
+      "name": "Naughty Nuri's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107301438362214008475/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAwk20t1BJPCqKb07rD_6cgxFv7s84_L4NBP7LkhdSgoc3BIbnDVcQJsEeMNEGnP9H-_2U7Haqg1aEax-QQWGkmdUOTNHpNi4YgtL47HTUWM8WuC3VE6DEUOKsMVS-IJJHEhCf5RFOWR-aX2-ORwYeovK9GhQAL8cacwohu86bNwZMQxVd5FHnRg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJr8-lC9U3zDERvz-DssP7msY",
+      "plus_code": {
+        "compound_code": "5P35+CC Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P35+CC"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAvE7zqxICINY3EOll3nTvMKTOcHVa6pJ2Fd4vHdzdc5Q3SLjvrja5GSHPRic63YQ9BnFpBTEnZg4FmXZRez9I7jCF4ue3hCmvypvEUveVKKSI39hyqOsL38EqYHhvUiA9EhALbEFQhDgbibZJa4Qitd5uGhSjO03KyBkdcLOQ0uzCP-yUQOyRjw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "G-3, Menara Prestige, 1, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.155617,
+          "lng": 101.7094414
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.157061579892722,
+            "lng": 101.7107414298927
+          },
+          "southwest": {
+            "lat": 3.154361920107278,
+            "lng": 101.7080417701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c98a40bb798daf187bdc910f75f56c3ef52c812c",
+      "name": "Samad Al Iraqi Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111360243264469985288/photos\">Hasan Salman Hasan Al-Nasir</a>"
+          ],
+          "photo_reference": "CmRaAAAA3Y6EpE4uHB59uTgRjEDzDPFsUT0E-WCp7IZJshiRdNjkffkexW04BC6qHSkiNXaLJ5wbFi9GTHVmP7ncfhHVzRqNNndPNzc3HJh-isz0sSSiArqjv-tsRGVzJYWfn9SaEhCKbnXaZrzpZ3UGL-XGYdfBGhR59rjxQN7ryNDHT5a4Q-YVOFi3EQ",
+          "width": 1960
+        }
+      ],
+      "place_id": "ChIJOzhj0tU3zDERrufSGPixw9I",
+      "plus_code": {
+        "compound_code": "5P45+6Q Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P45+6Q"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAogz-WCcH_Y3-B56UjtG31Fln9IJ6P_xy776J50X9rKbRPreNCwGeJI9HrCb1HM8f6MI4G2YDFTJ4j5O_u_1QaRI7OYuCBfWyrt9HCq4S_Xwh38nYwBwbdWawHM5OO8OeEhBcfKXr-SejSq0c8upu8SQwGhQdfetjcgozGfTJCg0QnBOXI7pMlg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "JW Marriott Hotel Lot No. H1, UG Floor, 183, Jalan Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1477455,
+          "lng": 101.7138665
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.149256779892722,
+            "lng": 101.7151985798927
+          },
+          "southwest": {
+            "lat": 3.146557120107278,
+            "lng": 101.7124989201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "81fe9096a7237d6e46162f8a98fd8b54efeef679",
+      "name": "Al Halabi Gourmet Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109259313834117868593/photos\">Suresh Doss</a>"
+          ],
+          "photo_reference": "CmRaAAAAWYyVbnvzn6KxFWIuS2KOuLRZMNEJ9q3rREjNeIWnNn1R1YOE-JCyLuk33OnMxje2GnjbrwqLrEaTMQ8MZ0RDG5goiULFGULBXPdgp34c4ljyKVyMkRycC2k0v9iPRNZEEhBobuwjpliX5Z8FmlwesnvTGhQ_GElNtGWcM_D2YdBGByKy-SBj1w",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJiwLBYSw2zDER4wbI2jwZNQQ",
+      "plus_code": {
+        "compound_code": "4PX7+3G Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PX7+3G"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAASaqdToFa0O5JtW3pQCKjcQutUjr0kiIJtzkInSZFS3XbO4l_daBR2WHdIbYFOpgFUpOPKgMUriBHpT0Y5KjhOUWzyV55dUgC6xK-EOSVrYzcgeEfy8bGSAbMXRCd_-zeEhCJd49CCrH25nlpZcRd7iZQGhTIanlf-lcckSoevTZfI0n5AclqUA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "2, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1355741,
+          "lng": 101.6865123
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.136923929892722,
+            "lng": 101.6878621298927
+          },
+          "southwest": {
+            "lat": 3.134224270107278,
+            "lng": 101.6851624701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "52417389834064ac9bde86ac3659b3a57868ad62",
+      "name": "PRIME Kuala Lumpur",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 798,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111126748983564951555/photos\">Prime Steak Restaurant</a>"
+          ],
+          "photo_reference": "CmRaAAAALc5PUoHfl4xwvUrV8b-xNA8LXyCSvFyU8xmWHmsh1K1fTlattORnFvAa59mez7Fsqlm9Sr92TAN11jGJx3YtHvUenMFYmtomocBGkoaXYqWXwYBx1q_jcjR8SZ-yPeG8EhDagav-MW_gUQAtW3nESXSaGhTxz87MbzsbgaiZaWYK9T2GmPA5TA",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJpfxkVMBJzDERCHZCeY2kVY8",
+      "plus_code": {
+        "compound_code": "4MPP+6J Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MPP+6J"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA2QoF3-AaLJ8_1a0PckO7YRelWPf1618F67MLFcrYzCFHFignOOC8v9W6LdwImt6Mz1oCI23lh00e6YwqRoPa8ja2FPEc23PdllqSPzXYyC1lYjCV9Njp4DcMrUgt2mtUEhBXVGHJInBT34c9oWizlg56GhSf9dFDUaeu1Nm9_EPneis2n4A51Q",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "19, Lorong Setiabistari 2, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1438114,
+          "lng": 101.6572358
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.145192579892722,
+            "lng": 101.6585742798927
+          },
+          "southwest": {
+            "lat": 3.142492920107277,
+            "lng": 101.6558746201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "511bb03bccb1ee03a43b05a740741a71601062f6",
+      "name": "Checkers Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111426870726775334220/photos\">Too Shu Tong</a>"
+          ],
+          "photo_reference": "CmRaAAAAV4h4VwcwA7QNiEnZpppJzWFrLabbFCuyEghPatlx5DMpevqrH5oHIMDRl63eXaCAFlWqF6CjEi4iLlt9AgSRlpRXbqQkHxJ_B47MbwXRLtaWodSSD8AqdqmDqK1--9YcEhCpy0o7tCMLr96fzCrauMPIGhSf6gk8phhWo4y34uiAf-O1oFKPNA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJN7UYfQZJzDERedcndV1IApE",
+      "plus_code": {
+        "compound_code": "4MV4+GV Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MV4+GV"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAuercsIAWgWVto4UvwPRsfr05W9le4jok9zXv4ZLv447nDkLG73BIeA_CQj4ATUYItI9s_Xuwny3XyM0jOrOgmPdYV5RhzOfpJveUx6Z8fgFF0j_kfLRry8QlDVv8JJLCEhB9GCnClP6OAZvlKGgCN1HlGhSecZpydprnuIOL-cCjaaxQC2ulLQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "19, Lorong Kurau, Taman Bukit Pantai, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1225919,
+          "lng": 101.6709925
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.123912679892722,
+            "lng": 101.6723203798927
+          },
+          "southwest": {
+            "lat": 3.121213020107277,
+            "lng": 101.6696207201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "01ac437f1b2811774170e9f9efa4d6710cf45663",
+      "name": "Barat Mediterranean",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 413,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113673421884504316337/photos\">Barat Mediterranean</a>"
+          ],
+          "photo_reference": "CmRaAAAA6aiFaMuMjMXtjLNJPoxPbotyGKPMucooAzDIQUnqZQofkdcDRy-haQEEP_sbSF1y40N_q-LAFyeUlUG3gqLGhvUt8XkUlxuV9VuIG4y-m6vXJ7fdBBNHC735OoauRBKaEhCUrXl67V3S5XALiIYCVWo3GhS2DmVvIYY9S9j6-dAnJRLmxB5PZg",
+          "width": 620
+        }
+      ],
+      "place_id": "ChIJkR5cyZpJzDERZQWwkhlGHGg",
+      "plus_code": {
+        "compound_code": "4MFC+29 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MFC+29"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAy-erD0YO7ws2gDO_FeAeWFVhEifEX_vNpdGcfd_1KVlF2-YFA7bfRdSlMIA1sNdQ2lbRDJDX3scROIZoAZBubeMPo6c0vq49aDsJb3gDms6zQE5c5D74YxCul6E_NOeREhAACs-GzD6lLshvHa5y5iUNGhTkYH5Sx2TIqWHpNRxyxNuFfDOAwA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

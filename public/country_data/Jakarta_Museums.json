@@ -1,0 +1,949 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCBAEAAGwRS4cbaD4597zQan-1cpm8d0-MA6Set_JnRIbTh5wEONyrNMo6wWLolmVPbuqddIkdHT5HlhKgH0PoM7aEaXCvPi57Q-pR09wIBwkZ8ceENkbSL0N668Seqa4X6uZ6PZ941_5ih2ZjHSm6n9ozrJvfFXxsoPh8qhWB6pRrEC2NK8PAqMSgvFIk-1LT9h3jbQdS3Vdb7bubzi4d3nSm0YQ5wvAOdPBLXAUeBvIZPW7Z1GV5x8C2S1DTUPpjZsaZkDncu7F0S-QrTa6B8nW-Gp098r5IfrXzQX6vwUyyHgaZia2mFWaQF9xD9wQgmne1Yb-vL8yV-WqlAfIr2mIJVXhLev5dgjFUFfmx_JybDpi1EhC4SIgFiJ5S6S1xBY7ZBW5_GhSObriptI8uZfKoqagTOG-umP-E6w",
+  "results": [
+    {
+      "formatted_address": "Jl. Medan Merdeka Barat No.12, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1764021,
+          "lng": 106.8215901
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.175065270107278,
+            "lng": 106.8233193798927
+          },
+          "southwest": {
+            "lat": -6.177764929892722,
+            "lng": 106.8206197201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "d9023d9db38b0ffb5a3d04a9afccf9ec03f60853",
+      "name": "National Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102197081527534306693/photos\">Samuel Oh</a>"
+          ],
+          "photo_reference": "CmRaAAAAOvimWAiUfPKUrtwtRu6HVOxiN3mWTNlSeCh8Hf02le1pZLg7or9gMaSJyxreUlSionQoLAEM_GjN1LtebQcCkU27by2qsHFbwzIv-XlqFfdvi2bHNvD41YNQaXSZZpDAEhBOv0cmjSR5ayrCI5D50B05GhRyAysHtS3w-3RdzeVHL2bjnYKiHA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJi_JxtdT1aS4R7Vhgb1ZBFaQ",
+      "plus_code": {
+        "compound_code": "RRFC+CJ Jakarta, Indonesia",
+        "global_code": "6P58RRFC+CJ"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAGqWCgDFHZslci8piWgKd_lFKvo2I8pHI4M3tVGzXS9zZRUyLLrIZnlYLR446rHc3eZQoXlPuvS-4DdawosS4vMiQ_tKhzdXLN7CGfiuBQ--44y35d7qkS9syMCtJ7tjaEhBGj1wcgGreSdFZ0E_v-qy7GhSLaCMDiBpdsuvn_zapf5zyteDLlA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Taman Fatahillah No.1, Kota Tua, Pinangsia, Tamansari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.135199999999999,
+          "lng": 106.8133
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.133731970107278,
+            "lng": 106.8147230298927
+          },
+          "southwest": {
+            "lat": -6.136431629892722,
+            "lng": 106.8120233701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "5f5f5f07344fd42934238b3164291763339e9e5a",
+      "name": "Jakarta History Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102423189868274301583/photos\">Nandy Irawan</a>"
+          ],
+          "photo_reference": "CmRaAAAA22HGulKmbHCZGs64BarjErMVC7KSZL0zwBeRemKq2bV6QuAo9Y8xnOCfnU6V04Ct_L8dplpk-FhSGO-wQuJ7ubhbccQihUmWS38sTd1nf6Kt6WPZmUmvGQSatOoIxwarEhAN6idUy6pO3yGPpRoVq8loGhQitM3bOmzPmYBTtlocK1j2qGdwMA",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJfaWSQv8dai4RRQeMZy0D8BI",
+      "plus_code": {
+        "compound_code": "VR77+W8 Jakarta, Indonesia",
+        "global_code": "6P58VR77+W8"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA0ftJB1HLsYhL5CnzCG2Oaox5E13zxfdhidfCNyXKnpSMexGu7aPMVCP4rSSO_DrRZ8qnSHDMEJkEUyumuMV8JhnvaQrxq9W0mtVdKoTVY2kT7vxV0Owj4I7Y-2eGrCnAEhDr5fJr3dy8M-WNVYgHYgC8GhQIxmIGOR3KQSq81q0KaBnD64iVaQ",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "6, Jalan Lada 3, RT.3, Kota Tua, Pinangsia, Tamansari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.137127,
+          "lng": 106.813005
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.135937270107277,
+            "lng": 106.8145916798927
+          },
+          "southwest": {
+            "lat": -6.138636929892721,
+            "lng": 106.8118920201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "9db1e17084147b9d119636254f24770e728c3da0",
+      "name": "Museum Bank Indonesia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106846876403571680559/photos\">prananto wihartono</a>"
+          ],
+          "photo_reference": "CmRaAAAAH6TDt-KKTJEDo3BxqRjVjk17e5SfZIDd6E56g0t_0tDk7QZ0kz6VzeyOmSgWLczjVhQl8aMy7dGqU0mn3uYxaTswqNGPH-t0yM0up_ieIDSyl1S1omg5P6_eCZWym1CGEhAPWH1WG0msQCkxbJ-B4CIcGhRaYedqndkroVcSs-Hqk-abTM4_zw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJDzlr6wH2aS4Ro2gBJGt31G0",
+      "plus_code": {
+        "compound_code": "VR77+46 Jakarta, Indonesia",
+        "global_code": "6P58VR77+46"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAA7sVFou1i1sU4JRzLbJoUAwSRS1VZAMU2GLU3_eZIPknpWuOi0r6hcBQqV52664MImKkXp4axswqUuDkpEfYmor0UOvSP45nSPynkr9aexR94WYdYioYzPNCStM6UjhQUEhDGQuqxaDyJH-7v0j-C64QnGhT-zy-bsxdw_kQpfFat34_dYcko-Q",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Pintu Besar Utara No.27, Pinangsia, Tamansari, RT.3/RW.6, Kota Tua, Pinangsia, Tamansari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1349597,
+          "lng": 106.8123577
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.133521520107278,
+            "lng": 106.8139027298927
+          },
+          "southwest": {
+            "lat": -6.136221179892722,
+            "lng": 106.8112030701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "54947afb9f20b1e33176ef25c60319ca63b7750f",
+      "name": "Wayang Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109685614326558633864/photos\">Suarso Sadewa</a>"
+          ],
+          "photo_reference": "CmRaAAAAhohCDRaBii3ZljtY1iZ_HMQAc2hNrXZcOj6fncwKUVLOeHKghztygbKrrBulD5rhldUqpq43488LW7qU40w6BhA7clmuZbxUMAH4FES40DrnGtqA3uiD1zsD7aO3a_FuEhCGvhriP_n-ZocU3Dq2D9cMGhQ3fiZdat_U1pNRKQ1IAgT6uzVOzw",
+          "width": 4928
+        }
+      ],
+      "place_id": "ChIJ_1nySP8dai4RU7hd4de_tv4",
+      "plus_code": {
+        "compound_code": "VR86+2W Jakarta, Indonesia",
+        "global_code": "6P58VR86+2W"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAACDKUnOi7k3Ed4F2WQOIFp2F1Ayv6HRvFxQ5gxVP7s1SGy10TG9jg60OBHDlSaJ-Bp3UsRUuK71zY4YZKtl98JAQtIGcm_KM84JPove7b1n1iY135_p8AGMT4c39P2qfwEhB1kO2cftJCsXnYMVk2g-T4GhSp4h1YZdQ1yTvHFna-TxOzl1sDsA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Pasar Ikan No. 1, Penjaringan, Jakarta Utara, Daerah Khusus Ibukota Jakarta 10120, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.126817099999999,
+          "lng": 106.8083439
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.125446820107277,
+            "lng": 106.8097976798927
+          },
+          "southwest": {
+            "lat": -6.128146479892721,
+            "lng": 106.8070980201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "d78b8b127922ffdb715e330cfdd2b1ac3ed9fad8",
+      "name": "Jakarta Maritime Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110641886316925557310/photos\">gerard moloney</a>"
+          ],
+          "photo_reference": "CmRaAAAAYirCYvWt0No9v316u6a4x0GMrRS2mmPz0C1uX6_OMg0pxXq_41nNw8LSEKrdRQSPXoYRdvbdTE-JSYL1wDB90IYJ4goGlgQYof8AZhcncoVn7XE_hpmP-rWLaK2R3vENEhAqqfuTx400SL8Yfe7HrmjOGhTbApJy9M55AOAZ6eHjPHLQDrNb_g",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJeZuEUeT1aS4RRu0tK0m-7J0",
+      "plus_code": {
+        "compound_code": "VRF5+78 Jakarta, Indonesia",
+        "global_code": "6P58VRF5+78"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAc_ufCM-qHgOiuf1ZFObat5Ue2PwTiYgkmV1lA7jCEk943xZnHe9jtXGb1MDZrpX7Kl0h4LEebv3cqHVKvhob7K4yI2XTHJyy21JGblp7nfMCJK7W82W9P5l3zQ2-oqZPEhCQkb0pKwCG6wS0-IpsjNfnGhQ-8WMQnhxKvgBzPQE8O6rz-wD-Og",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Pos Kota, RT.9/RW.7, Kota Tua, Pinangsia, Tamansari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1342199,
+          "lng": 106.8144164
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.132858470107277,
+            "lng": 106.8153723298927
+          },
+          "southwest": {
+            "lat": -6.135558129892721,
+            "lng": 106.8126726701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "46a230d536c3802bc269f7a3c0a1bd39a7f5bcbc",
+      "name": "Museum of Fine Art and Ceramics",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117885226501905208924/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAI_Iqjs3_w38RdRuiUQJGk5mo8H7A-k7O7DrQvPl4cMU6Zvj_P-frYhlIqk0gH5lL6UTH52NM-V7N8rgxNKKN_R0cpmoKFDJFV-Wzl9sa6TGoPNPI9sbqv4Qa85For9rZEhAL9Vi9qZlzJukwISJf5W1OGhRz28TfZRzwaeKKWDmAs7o0Bq7E0g",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJLSSPQv8dai4Ra0pPbm8wvj4",
+      "plus_code": {
+        "compound_code": "VR87+8Q Jakarta, Indonesia",
+        "global_code": "6P58VR87+8Q"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA09A_T7qnJfcugFJR5OOOBkyhUVZnkNchOaCJ7OoXtcynd_kynlhv6GyDaSuC4HtVUhqcc4-UljPcbVnJEbM8rRS3xNvN96fqHbfyu6vYoyaVhNDHQoLr_kgoLx69RivZEhD9KqWI8snPxUoKQcU8OuzNGhTtraNfc9nkicSCIqfEX_xKTkkEkQ",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Lapangan Stasiun No.1, RT.3/RW.6, Pinangsia, Tamansari, Kota Tua, Pinangsia, Tamansari, Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.138152,
+          "lng": 106.8131238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.136802170107277,
+            "lng": 106.8144736298927
+          },
+          "southwest": {
+            "lat": -6.139501829892721,
+            "lng": 106.8117739701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "5dca83f4ae7a29f806284f7fbbde6aa9ec56f7db",
+      "name": "Museum Bank Mandiri",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104974683719067216618/photos\">Foto Lokasi</a>"
+          ],
+          "photo_reference": "CmRaAAAAqWYBPKgbuy2UXemNRiWifXnNtos8epj-jEndIeKYl_lrzFlyf-7aN95uM-DvTGgtkJdMPAwG_fChF62mNd9pltWwu38e__q3b3Ywg_itAtpxXgLF3jB2sYYIAUqeUYBUEhAYmjF6rUw3pqU21AN4-CCfGhQk2YPD0U8gNZpzzNBs7gv1prdO-A",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJm357kAH2aS4RZKnZvSzatQg",
+      "plus_code": {
+        "compound_code": "VR67+P6 Jakarta, Indonesia",
+        "global_code": "6P58VR67+P6"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAoWsfH4X081DkzVhV98Wl7nriNgQ61LK3Su0e6dASSfeoUfm1KMmSsFDpTf-6S0D3K7Evk6WrI0sSHZPwyq_99O3SHKKv8_TQNZvBljtqRwvwhv_I3b0onQHSTD46n9DUEhC4ODioEvmaTDtXfwoXP2_qGhTCyxVmB2fy0iYz-FWCuAj4n-HD4w",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Ks. Tubun No.2-4, RT.4/RW.2, Kota Bambu Sel., Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11420, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1877869,
+          "lng": 106.8098555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.186904120107278,
+            "lng": 106.8111534298927
+          },
+          "southwest": {
+            "lat": -6.189603779892722,
+            "lng": 106.8084537701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "8df55b9030f95f9a12b14c6df521e0286f8b96eb",
+      "name": "Textile Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105034328233901170425/photos\">Yute Inten Apsari</a>"
+          ],
+          "photo_reference": "CmRaAAAAXbx1uRQOFmnsT0EQr3ghSCJFHh_kcxwOCEsa39asSpKoA6QiyAIpXCobrRhV-TQAeEU1elwTmqdQUryRY7u4rsetmeaKR8n1JIU27_Ux7mQ_InltwB4olzlkQKQQ43UuEhAUuEk8ttoBaCEcqyUV_dI5GhQdcJ93_KY-Jfxo6uxUvLONy3PEtw",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJXVigIpv2aS4REJto8lZlJ9w",
+      "plus_code": {
+        "compound_code": "RR65+VW Jakarta, Indonesia",
+        "global_code": "6P58RR65+VW"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAPsV_-56Y_a5dh1t2Ww_vknPfJLW2QHsEvtyCzZIY_NICh8tj46uETaWIa5YM0EG17CXDrXN1ZY8sxTIJO9sC89xdNie1HfZiqtos8oJ0PXTCuvctEbtXdQaJcNIw_nexEhAtKFegeLYyMcbIxJm4aMCDGhSy6CWrL1HAJD8OqKTQ_E6DCBAu1g",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Medan Merdeka Tim. No.14, RT.6/RW.1, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.178459399999999,
+          "lng": 106.8328953
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.177099020107278,
+            "lng": 106.8336715798927
+          },
+          "southwest": {
+            "lat": -6.179798679892722,
+            "lng": 106.8309719201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "105d8d72cb5489a71017e6e32ae886f3bf4cf9ab",
+      "name": "National Gallery of Indonesia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114510525945510880345/photos\">Tubagus Andre</a>"
+          ],
+          "photo_reference": "CmRaAAAA7MD9C4B-ipCCEc3NvpVeqMxPtO3HVIU-ds93cbf_UCFxXRsCPNmFp14Xc-lm42u_rA9tc33gggAifnK-lLmuE895mnvM8OSqAxTzlKvi0II8nfxH_vk1HySiREr-uOJ1EhAlRax6z7rmpLkTPV44vxPCGhRsEtDLPfFJK7wgJt15lfSx3YMKNQ",
+          "width": 3888
+        }
+      ],
+      "place_id": "ChIJpZUM-zL0aS4RqDE5R5aunFo",
+      "plus_code": {
+        "compound_code": "RRCM+J5 Jakarta, Indonesia",
+        "global_code": "6P58RRCM+J5"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAt9_hh4p5ofqAfxwdafnoV4-Ye4WnFZFIu3ZuXhYUEx_wWDSJo-N2d354jCgEK8Z6eg3E4XDrerfufacBdGkK7O6yQ0sA_mMh4XyccCAo07mlm62moad_KEhavqqPD8OfEhDEzfunn8mlY4bhvHOHeuzLGhTRBTnqve9fFlLV0loDd_cftMWQ5w",
+      "types": [
+        "art_gallery",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "East Jakarta City, Jakarta, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.302445899999999,
+          "lng": 106.8951559
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.29585245,
+            "lng": 106.91674505
+          },
+          "southwest": {
+            "lat": -6.308507850000001,
+            "lng": 106.87329245
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "a27066734066805240aac1868995a0cebadb97d8",
+      "name": "Taman Mini Indonesia Indah",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100756393747111224085/photos\">Renkghy Fernando</a>"
+          ],
+          "photo_reference": "CmRaAAAAt8Xw6gEw7wwHCQoTNO_kS9U72QboQVfEHJO1uGpUdVmzth3nEpCjVBspHLgessXmjPuIu5EukzXZXKZ11T-yxoJBssb69CcpIJwuF2TEiGTwiClZ6h9_JAiQhohXivmWEhB7PTqOArkOMvzTBWoJ-6OEGhRXCHckibqgagW625aeIfw2rCpOrQ",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJYaJ20FDtaS4RDNry7LknMQc",
+      "plus_code": {
+        "compound_code": "MVXW+23 Jakarta, Indonesia",
+        "global_code": "6P58MVXW+23"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAABt4XkD1NpawODppD5Hv8pHxE0kdD9H5YMW9tH9V4hJVXVdKdDO2Ya9sxJv1YzieXVSqFAW4RTGujVwJtetYLpmFq4DxkC50OXQqBnPbmKp3eWEiUV2K0Fx3tZlq945apEhD3kuJIvtRmNrDtmVWiRzODGhTgl9XGON2_0kfY_6Or9EKs1lUHTA",
+      "types": [
+        "amusement_park",
+        "museum",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Gatot Subroto No.16, RT.6/RW.1, Kuningan Bar., Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12710, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2317163,
+          "lng": 106.818535
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.23061815,
+            "lng": 106.8201126298927
+          },
+          "southwest": {
+            "lat": -6.23347475,
+            "lng": 106.8174129701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "5ae2e8311099ecce2290ae7b4ef942fa94ef9491",
+      "name": "Satriamandala Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117957151919910048989/photos\">nyoman natih</a>"
+          ],
+          "photo_reference": "CmRaAAAAWJlSFVws1kZwvKtSvWpqkAmkeftTjU8_5zv-TG98bHYo7RqdEU4KjEgKmz9RAs7dJRf_YifWBR9FISP3YgvzpjXQTg5JU6Cl55oZo9SidJjFHT13lEfJCxpX1XAe6e7yEhDbCrSU2P5yyszDdMLb5YvWGhQkHl3N7dH6lseGvR9Ev2WzzN_pPg",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJn0sJbeLzaS4RchXzO2jvnHI",
+      "plus_code": {
+        "compound_code": "QR99+8C Jakarta, Indonesia",
+        "global_code": "6P58QR99+8C"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAm6E3G49mvtjsU2-KdOMmDjdXfPbLZm0nO_GRasgJqZNrcBGa-7OQqia4za3w_xrUuoDGcAUhAVKOFLMcZXmwiBEvScQ4N6IHakujtekflISd8ANG7ApRAph8cjQiYJkwEhD8cTncG02WVQM5iSacAJG2GhSwzqFEZODwtHAOjNlBM1aTwt2o_Q",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Tanah Abang I No.1, RT.11/RW.8, Petojo Sel., Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.172224099999999,
+          "lng": 106.8189695
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.170983620107278,
+            "lng": 106.8207193298927
+          },
+          "southwest": {
+            "lat": -6.173683279892722,
+            "lng": 106.8180196701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "ffba6515460106b2d5eebbcfdfdf4fdd2d66b7d6",
+      "name": "Museum Taman Prasasti",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118158211768403909051/photos\">Jefry Bagy</a>"
+          ],
+          "photo_reference": "CmRaAAAA2uAjTV9TLqTBTImd8niv6lv1ixs9FGdv_Dyv8H-OYXQzI8garxuKGXc1HpLpmyYrPnTRP1ryQnOxmLUdxeeNYkwymF4dhmaE1ICUdOu2uMWQ1k-2NGxoYAsCe6ASr2IsEhCYlgLLKjSmmnxpWeK2BGaeGhSOyZnZeEZ-fhcjmmZT0Tj9oqsrHA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJme1W2dX1aS4Rl6KryVgIl5A",
+      "plus_code": {
+        "compound_code": "RRH9+4H Jakarta, Indonesia",
+        "global_code": "6P58RRH9+4H"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAtMbdN727pMUDyWuS1hEHM6OFy2AYAwWl4v2RzCi7DztM2zRW0KwOLHqsps3cIR5ZzPRQGhA0ia1ZQUMayugZGwU2OJdWbnDCxBnhLLoWsC2SHv_9yOkaVJOIpsZbelgPEhD3hDRSMjXlVpzxQF7mJJ_VGhSo5eMIHEBA2jzUtub0bx-A9oyonw",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Rajawali Selatan Raya No.3, RT.4/RW.6, Gn. Sahari Utara, Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10720, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1469649,
+          "lng": 106.8401311
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.145760220107278,
+            "lng": 106.8416137798927
+          },
+          "southwest": {
+            "lat": -6.148459879892722,
+            "lng": 106.8389141201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "79b3365a150fd615e81023e5f5a87cb499f103e1",
+      "name": "Art:1 New Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101041383744420962340/photos\">Art:1 New Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAA-NcS2ZsYYkEsFqIY7nxsEae-vJ6w-qO9U1lKKVol9eFv6mLumyu1PSW6chwol75nODLnD4zmzjkw68vesIVvgJaSUTLHvQb7xwelGL-WDTfFVFHB_0-7Jo1LCB6uquYuEhCjDwfamtH6XyR0puylWNWQGhSWDInUK1-GU94Ej-GHZmJ49bxemw",
+          "width": 4256
+        }
+      ],
+      "place_id": "ChIJm-4mPe31aS4RWJxwbINECI0",
+      "plus_code": {
+        "compound_code": "VR3R+63 Jakarta, Indonesia",
+        "global_code": "6P58VR3R+63"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAoxU7RQ5ll1NNs1hOrRy7k3D3sWf6ManbhNgQdSnJTEF4OyyA_pHy3_KYajvs3qdFeO9nIozevq6T7moLPfoMN_eWzuNJtTTlBvBE351dbMWh5cvTwHaOz4AGu9Z-Hz2xEhBo7AJhEgfqk9MRI9auwoisGhS49Fpk1lqdS0qAlMz91w1J1P1f4Q",
+      "types": [
+        "art_gallery",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Abdul Rachman Saleh No.26, RT.4/RW.5, Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.178351999999999,
+          "lng": 106.838094
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.177002170107278,
+            "lng": 106.8394438298927
+          },
+          "southwest": {
+            "lat": -6.179701829892722,
+            "lng": 106.8367441701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "98a99381d410896ffa971e35fa2f8a194c3dcb1d",
+      "name": "Museum Kebangkitan Nasional",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110243439830386062527/photos\">yanti kerlip</a>"
+          ],
+          "photo_reference": "CmRaAAAANUOBJCGCXGRJCL2ATapCHYkaax7S79jl1P5NVznYd6x8tcmYqAJNk5-JppXVr3jRHuJTz_MCePUXa_vrV-Of5PCfvW3UiWxzXAhVoOHGYl8ZTFDoG3kdUoO4upk3VMcvEhCok4KMuxqNiJaJnFp5EahlGhSUwFJRjRfS8_AYt6DpCqZ68pLf_A",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJy4KUVjT0aS4RqyjRaPmFMfY",
+      "plus_code": {
+        "compound_code": "RRCQ+M6 Jakarta, Indonesia",
+        "global_code": "6P58RRCQ+M6"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAVHeGb85M8Qs5CIgJfK7Ax4mtnCZFvldhuXzWGewt_3wc9Hgwo5lawuofof5O9o3GlHnxCzcC23-q9fcfs8qXu4AEaT1NfB_HvimfJVg2ZQO28_VQYDJcoyRhdpXjcCNPEhBwbL0dKR9YGi4XdRuDScBHGhQ1bsUUHg8IAdKgXNbp6Fsx8tMjLA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Imam Bonjol No.1, RT.9/RW.4, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.200496999999999,
+          "lng": 106.831057
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.198928220107278,
+            "lng": 106.8323756298927
+          },
+          "southwest": {
+            "lat": -6.201627879892722,
+            "lng": 106.8296759701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "06d8a080f736167dc961ed6361678a66e453d75a",
+      "name": "Formulation of Proclamation Text Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100969096316695258026/photos\">Bayu Wicaksono</a>"
+          ],
+          "photo_reference": "CmRaAAAA-xTMV2VVxvk-M6tTtzDNOfzAS1MXC7MOdxE7jAIXBGowbJqSPoFrcwQafepnP4g7ogNJ65w5o4I_uEm44coMRGMkGm6ZwHghA4fLXf2sI4p_1kcVogVcbTLcsq4LvPjiEhCyphdQWnLlcQKMofhZEMPSGhTtgk008P6X4BtHpUmpdakbmlK_OQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJh8f9aBf0aS4R3JwFlUwh36k",
+      "plus_code": {
+        "compound_code": "QRXJ+RC Jakarta, Indonesia",
+        "global_code": "6P58QRXJ+RC"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAym9M_iqFQeb4TJAtZV0wWuPT_DnTTnIURDfkLsz4NC_c2h9zJzheJ1lTt7y1IdEmiOuLGn9me9D1lRVnh3f4mMIKIYICM3cXUhyerH5AXmYLJ6WSw8ccY-hH4-8_ds03EhBZuKA7Vv9f92mUeC6hSSwGGhQyo-1BE6ATMGgvdr7p_Ho2xcK_Ug",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Keuangan Raya No.19, RT.7/RW.5, Cilandak Bar., Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.289781199999999,
+          "lng": 106.7932923
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.288355270107277,
+            "lng": 106.7946291798927
+          },
+          "southwest": {
+            "lat": -6.291054929892721,
+            "lng": 106.7919295201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "14ec1d5c78d848fcb3a4d470b3881cd824a62ed9",
+      "name": "Museum Basoeki Abdullah",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116745306034620545365/photos\">Suksmono Adi</a>"
+          ],
+          "photo_reference": "CmRaAAAArCAC2TTX61h-pze9zStbbdz0Y2SgUuJXa5B5ooViApp6-wOSO8_wZNd8djUQARz_L5S3k0HjsBmvGAxI_CToaqblcstORJHhLSIeYiFZwmiPJR3xax6F36mwhZ-b1C3KEhCfnBLkkaMz2Ov1qeD29gkzGhRnJdh0L8UkcmIaqYgYvi9vfwgGRQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ0c8MssLxaS4Rrcv-8k0m0Tw",
+      "plus_code": {
+        "compound_code": "PQ6V+38 Jakarta, Indonesia",
+        "global_code": "6P58PQ6V+38"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAMfehlrEfNpIgZsAXVFL2WqRz-XC484R1I0_4U8x-1gkPtnm-Ty46CRgaAKJLgZeyy2uhxeBJ0B1EfhS9e-Ih5hj2TgsnxlK08dWyDSa-uhQqA8ELodYAUFItuoedmCf6EhAViEYE4gAyt5WWpLtanoC1GhTAonWh1Riw2maQAayzXLBk0M83aw",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Lotte Shopping Avenue, Ciputra World 1, Retail Podium, Jl. Prof. DR. Satrio No.Kav. 3-5, RT.18/RW.4, Kuningan, Karet Kuningan, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2238498,
+          "lng": 106.8233178
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.222459370107277,
+            "lng": 106.8248796798927
+          },
+          "southwest": {
+            "lat": -6.225159029892721,
+            "lng": 106.8221800201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "40edba13dd1b66fc1f1d271a152e57745086717a",
+      "name": "Ciputra Artpreneur",
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111194751467113615794/photos\">Jeffri Kj</a>"
+          ],
+          "photo_reference": "CmRaAAAAD5G_j7ZmmaVNwMD2Oy16VgY-FfeNt66hR_IUHynXRhQNXsWPfIUZ10FYaFrqzbV9FPN8OSTxsb5NAKTZEVNDhSVSrML-umyJ6qtcYkK3H9RGANTHDLlnPBIcRS2lJV8tEhB6yTCOCNyBGzqWcNVpXY35GhSo-ZoSlk9M-5QzSbgHfKZR9Wc03A",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJjxmgc_zzaS4RoYpGEHykvhw",
+      "plus_code": {
+        "compound_code": "QRGF+F8 Jakarta, Indonesia",
+        "global_code": "6P58QRGF+F8"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAALG4YAg0Y1FJQiRNQUQD-JzjdPXhGPOOAP5xWCzd96Uh3F93ckcQszzjhdRCPJ9XWi47nggR_CzKax4XDun6sOzQL62F29Y2F2-FNWj17qjUYnC1pqJ8Hh9FbfS8L36kNEhBvLX1624A56NVPgXfphKS-GhTTzztJLg4a1Voe-EwLjEL38t1sIA",
+      "types": [
+        "art_gallery",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Kemang Timur Raya Nomor No.66, RT.7/RW.3, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.267621,
+          "lng": 106.824507
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.266289920107278,
+            "lng": 106.8255370798927
+          },
+          "southwest": {
+            "lat": -6.268989579892722,
+            "lng": 106.8228374201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "1bf49163f1b8a652840646ad2365ca921c5d22ea",
+      "name": "Museum In The Centre Of The Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118017147620046525053/photos\">Kharizmi Tavtazani</a>"
+          ],
+          "photo_reference": "CmRaAAAAhws85rPiBiHT5vqKSoH8U2R2TxqbDMqpztIkYmvUraOpwqVvd_OYE-eYFLWvGQo3tecy-EJdJdRN2CxVIHgdWLqxB9B2UWJ9kQR3GW9j8FlBVbMI0xUF91mxiDV6COS-EhBAa_ukqBTV-v5pAjFGA057GhTFPjYpczYOLi4mLSivtVkV38QeVw",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJSxh7RS_yaS4R16Fitt9Lc4Q",
+      "plus_code": {
+        "compound_code": "PRJF+XR Jakarta, Indonesia",
+        "global_code": "6P58PRJF+XR"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAMaEp1XpdmAlz1IA1q_RJxfKseSyyoVOENCsKMt6EDk2U1NGY3b4dy-UdMEvfO-sX2w_bEaZt8BM5HkOuFwByP4bJkBgWoPpS1VVwT8O3I17KUr4RbkS05kBS1ySQnOpaEhBl2WJNY9KeoHPg5CiwhUZKGhQG8S1ZfXiznLQ-j01wEeTbwKf5EQ",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Menteng Raya No.31, RT.1/RW.10, Kb. Sirih, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1861693,
+          "lng": 106.836444
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.184850570107278,
+            "lng": 106.8376866298927
+          },
+          "southwest": {
+            "lat": -6.187550229892722,
+            "lng": 106.8349869701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "bb8780b27668b1280313486679bc902a40d853a4",
+      "name": "Gedung Joang 45",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103832725344644851825/photos\">Anash Achmad</a>"
+          ],
+          "photo_reference": "CmRaAAAAv5lG88DIDIlRV8s7uzyWnFLCnMRnTREYqDbj7D4gPuN3ud0CiSwnIE3wbfqheUbrvf3qkxR0-Tguah2KUjPCPnAglxLhTAV47Z4PBe-UcO5lWrSTiPa3casmQB8og_vBEhBB58tE0Y2OSRaBjv6ykGWQGhQy1AGZgLp4LJTP-cj1Vgbn-SvRZQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJVRKd5jn0aS4RM-ATMYDTqD0",
+      "plus_code": {
+        "compound_code": "RR7P+GH Jakarta, Indonesia",
+        "global_code": "6P58RR7P+GH"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAJOo72DI9tLi8l4tyRLDrP9Y8xJUEVgaHCPhfYQelMROr82kqQmUNXAQFiGccNyTLEheJ0NK572u9eabghkpwbPD_-SIJjkBTA8FnHqWOTTVudJbHGEsVqhqFBmqMdISqEhA0EEURuNWkOWk-4FQo8sfyGhSQL56VB8cIjc6Bma-joeXTA0OKbA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Mandarin Oriental Hotel, Jl. Jend. Sudirman, RT.1/RW.5, Menteng, Central Jakarta City, Jakarta 10310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1960544,
+          "lng": 106.8236967
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.194718120107279,
+            "lng": 106.8247804298927
+          },
+          "southwest": {
+            "lat": -6.197417779892723,
+            "lng": 106.8220807701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "26dc4b27d76c610d3b947011b185b3ebb6af7a38",
+      "name": "Bartele Gallery",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110927349434226380749/photos\">Hari Rimawan</a>"
+          ],
+          "photo_reference": "CmRaAAAA2yMRq4fH6hgTk52UNvatJIXZJRtTEW1_Tqcczk79rXlfvVsYRncife_7z3lkwNH-8jlrzeV8Y4Y8RNjURTNOQAeVmfDVHI3htlO32BkKa33owMXcwvdmemXuqwtj7Mi5EhB_e6G_4iD2RG6822201Dh1GhQcwbFLsnvuG9t1HMOSsD_o9fjoPg",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ5wou9iH0aS4R3Yeqw1Zd5_Y",
+      "plus_code": {
+        "compound_code": "RR3F+HF Jakarta, Indonesia",
+        "global_code": "6P58RR3F+HF"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAA8dh9a7drunmNienlAdCXi2p2mlm3sOY0uJRzqom6hEmMKwRN540ABgxw3ZEORpbVc6gqiKkoGxh08N6dZNA5rOIAnNk8buwewFtkJQ8kJJRKVbW0SoEPltSOlkSpCzGPEhCAtdmfiBLulwN17lW9m-E6GhR8mkBM1tb_U8US7sfME8Vy9GwTlA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -175,7 +175,6 @@ var sendData = () => {
             departure: '',
             lengthOfTrip: 1,
             guests: 0,
-            pace: '',
             additionalDetails: []
         };
         formOptions.city = document.querySelector(`[name=city]`).value;
@@ -183,9 +182,6 @@ var sendData = () => {
         formOptions.departure = document.querySelector(`[name=departure]`).value;
         formOptions.lengthOfTrip = parseInt(document.querySelector(`#length-options`).value.split(' ')[0]);
         formOptions.guests = parseInt(document.querySelector(`[name=guests]`).value);
-        const foundElement = Array.from(document.querySelectorAll('input[type=radio]')).find((ele) => ele.checked === true);
-        if (foundElement !== undefined)
-            formOptions.pace = foundElement.value;
         let checkBoxes = document.querySelectorAll('input[type=checkbox]');
         for (let i = 0; i < checkBoxes.length; i++) {
             if (checkBoxes[i].checked)
@@ -200,18 +196,15 @@ var sendData = () => {
 
 var addLengthOptions = () => {
     let lengthOptions = document.querySelector('select#length-options');
-    for (let i = 1; i<= 11; i++) {
+    for (let i = 1; i <= 10; i++) {
         let option = document.createElement('option');
         if (i === 1)
             option.value = `1 day`;
-        else if (i >= 2 && i <= 10)
-            option.value = `${i} days`;
         else
-            option.value = `More`;
+            option.value = `${i} days`;
         option.innerText = option.value;
         lengthOptions.append(option);
     }
-
 };
 
 displayCalendar();

@@ -1,0 +1,972 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCCwEAAJbO1vvVr9vTEd6abSsChT6Rs2iQMxHdHJ7XPVSBNSnkB0OZucxkVF9bT5eC8mLmVgRty5BcLPFK1K6v-dgOD8NdxuRStoisaPvQg8YXtob9_7_Tm5LxBtX7s3D7tw93LvkjWK9JwHdYMcSc61HkZtEe2t_VcelKi_BD02NOiX2kGI_Gy2w2Yn4vzFB-zPauwNk7CIikLBXGJRCl5TpBuMPIctXS2SdpLYtSj3osLqzGEgTJf_ucyotEykLcQiRCVWF20jDdhtsZiqcwH4AuSh06Q9ELGRpOrUzau5XraZCz9v808PjGaUumZrVQzH37HCXjf2iVc9UUCGtHeSkiAnUxOBVdv3lDY5uRbMAmq1RmEhAdztLIVNP1JJOtZ_Hd_pyCGhTjVgz6JrUe-BiqCqWbM233eROTkQ",
+  "results": [
+    {
+      "formatted_address": "#215 Street 13, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.566553,
+          "lng": 104.929175
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56790282989272,
+            "lng": 104.9305248298927
+          },
+          "southwest": {
+            "lat": 11.56520317010728,
+            "lng": 104.9278251701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "693a1042525b5c5d1b7f596ad75af85b9cbeae59",
+      "name": "Friends the Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107446059189651307927/photos\">Thakonrit Arriyavat</a>"
+          ],
+          "photo_reference": "CmRaAAAAhJPUvNV7J60vaiYHaQY3fj_41NX7W_xDvd3pyglnxt2APDmw3dTISI-2MFN0nRPHh_l50dnjoGrgh6ScMFIrwhepaCxhzNdDNJ9gcQc7sNeqpdbJfZozqJGbJ_CnOfTGEhCZczj-P7B2S3ezvHVuiVw2GhRPfhdWW-6xVKrzK9rSjlc9XjOVTw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ66z5QEhRCTERD5UhUVtB8_g",
+      "plus_code": {
+        "compound_code": "HW8H+JM Phnom Penh, Cambodia",
+        "global_code": "7P36HW8H+JM"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAxuUhesRKnA6JJ3wGmXG7FmWTxW5SZsZVl2sASDK5U1QzJPPK7sl6jRDAZL5Jyqjp2bu6NwCINFgFNUMsHjEKpFOS7YLLxBEOTPADsVrF6-QIt7AfwervNhvLabUTvJ7SEhD08q9Gmv46ZP4DACJETAsLGhSrsGMC1f98VewDGBBH-k7bzFCK4g",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "278, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.555307,
+          "lng": 104.925312
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55665682989272,
+            "lng": 104.9266618298927
+          },
+          "southwest": {
+            "lat": 11.55395717010728,
+            "lng": 104.9239621701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "2d99399289aaa49c51032387f28c51fa96dbe021",
+      "name": "Angkor India Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114978420941683022295/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAATPeVfCCSaQ2uV-NdQ8YCbK5DNkupgRdkqoCnZKDTsECtbfoXLncQOgxaE6a7yq1JiaUKEOzsHDR8EvIKXRZurEQFBtrUEyBu7hxpkNW_e8THETedjr1kdO54Y3wy4VRkEhANFhRPfEsv4lzXpfSIP8QNGhSUGLb8AXlj9LKyfK-ywHz6z98lBQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ72powzpRCTER5EEgFX8du9I",
+      "plus_code": {
+        "compound_code": "HW4G+44 Phnom Penh, Cambodia",
+        "global_code": "7P36HW4G+44"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAuivJtGZahO-Y9uo7jFTOTciauJVj5BwEH__EGlDv5jYroDKsRBPnOgVIf-txxW9vWWz1zst-LVf0m6GgxFV5vnvIYS-3X1iQz5LxSCVOZWRL8HvMR9S5WQlZook4e0qCEhCCSeuKBEvjtOVEzxOXjP6RGhTKFmVhAD9X-wK4WrHSiammKr7ufg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "12301, 162 Preah Norodom Blvd (41), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.548515,
+          "lng": 104.928606
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.54987357989272,
+            "lng": 104.9298417298927
+          },
+          "southwest": {
+            "lat": 11.54717392010728,
+            "lng": 104.9271420701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "fefdc251b95608877e21ab9fea019da87286af57",
+      "name": "Topaz",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 843,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107735624807189894204/photos\">Topaz Restaurant</a>"
+          ],
+          "photo_reference": "CmRaAAAAIFiznZntiDJZovIpciUz5oJajXhIr6FoVUOeGYFxQ2GZloVl07bOFHXFtqxoLn_32YM17eCRaxOARc_uadK2kQ4ZThmhfyUTAQWPJAqelsPmUrRuY3DLwflKeIf6joYPEhAUtR77CgdYETwG-2xf67BYGhQHGmh8MT6v_y_8VcG58Y9tDiCncw",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJaZnwYyhRCTER2EGNULFPu0U",
+      "plus_code": {
+        "compound_code": "GWXH+CC Phnom Penh, Cambodia",
+        "global_code": "7P36GWXH+CC"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAzFQRnXeZJ-4Cl7-05dNnOrOb9Wlop2xgzojTkLuUMpBLsF3OoV2XsCPEPDw2vglxRongotTVHHC1EttglD92kGhCjDEmjq6FuJC2Stxn4z_obTtX4o0Pib0wFk5xBekFEhAmSSi4jPICZVSPgG20oVwVGhS3DBgoJgxXXVra3dMik0PDdzfLnA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No. 22-24 St. 214, Samdach Pan Ave (214), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5609397,
+          "lng": 104.9254531
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56238957989272,
+            "lng": 104.9267731798927
+          },
+          "southwest": {
+            "lat": 11.55968992010728,
+            "lng": 104.9240735201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "403fad001773a9439f970a6f0b69ad6fb9fbc66e",
+      "name": "La Residence",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110814192696386598649/photos\">Daphne T</a>"
+          ],
+          "photo_reference": "CmRaAAAAZAGXus6XOSGa8F-lNv3tYiFdqxjbuW62Qim3wPOnEjuPydkurvO5eIKko8dwjofzmFr2dawvgsBwiu1OOA6b0EDtUiv5jJ10ScvkpgsLttROKdeXZk9Ka1921X-PzmXKEhCWfmx9Aa3Dmofrxsoqvxp_GhRpUDEnv95k7wsAt-q4_7OPEBH7wQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJS2ramDlRCTERXhzkbDkbWdA",
+      "plus_code": {
+        "compound_code": "HW6G+95 Phnom Penh, Cambodia",
+        "global_code": "7P36HW6G+95"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAH1jqe6n8YGU28dtRGtoiMXB8LT5kwXRmPbec56EbPOg039wjhcaVwkg297fl0pYINKTupgaN8GGiDeHOyO3DJUixoL23waGsO-K5r2L74FZYb_xRmf3Y9bHruCy9MsdaEhCmGM6g2H1ylIzF5FBEWNlXGhSIVbZ9H2Nad_-7mMJ7TeWjKsnA-Q",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5402705,
+          "lng": 104.9119224
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.54162032989272,
+            "lng": 104.9132722298927
+          },
+          "southwest": {
+            "lat": 11.53892067010728,
+            "lng": 104.9105725701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "5bd4bee89f5f4e41905adfe80d10ef238d527454",
+      "name": "Luigi's Italian Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101183847083177531890/photos\">Sivansak NEY</a>"
+          ],
+          "photo_reference": "CmRaAAAAx6dwBg_ZDP3G6QEM_kTJVKPHv974FWiGIq7xCJZfesEgF-aIdzPryIvuxb_srYiDi_78dMpbIMxyi0qJ5bX45WTJ8UNUKlFPb7wIuGtlTVotGdpyXjv6XQPGe7trQu_yEhBWBOUpa6EiBNKbaEOF07oKGhSjvtTcX4Y_ajFVBuMphxJyFtnirA",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ0ZqQGuFQCTER3AcdZWpeUYA",
+      "plus_code": {
+        "compound_code": "GWR6+4Q Phnom Penh, Cambodia",
+        "global_code": "7P36GWR6+4Q"
+      },
+      "rating": 4.8,
+      "reference": "CmRbAAAA8BekUKEV_e__qf8fekYYYuJvK50fnSAgA1X8mS7tEmSurNh4MRDE9vGhdvrOU_o7TvXZShY_7v_fykwVVmPzBIiBhHtmnu_VKTYUlTEF5O6Menr5m0JNWsirGH198WPBEhDXk1E_MYAdnwmNG60MswcgGhSgQu8jJ5QXAxvBJpmUgFys5hJIHA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "#13(show room) Samdach Preah Sokun Meanbon St. (178), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5651436,
+          "lng": 104.9263302
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56639147989272,
+            "lng": 104.9273830798927
+          },
+          "southwest": {
+            "lat": 11.56369182010728,
+            "lng": 104.9246834201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8c76983020fe4e89ebab30341ada4a9ebe6005c6",
+      "name": "Connecting Hands Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107516273669778270520/photos\">Dagart Allison</a>"
+          ],
+          "photo_reference": "CmRaAAAAwevGBS4ftJ1Qk-Vm2WHJMBGTO-GVqFsw439iTVE3cwnZ9R5KlBpaIrr8eNHLdasq9uOx1fXPN-7br0221nFRipAVVpd5ZZN4BTzoRbItn4lBDpxV1Pth5QOCJly8gx35EhCv4qJcin7A1MJ1mjFLxe8GGhRtUQpWF90x1Hdj_DPUGV9zvS8Itw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJVY7UvzhRCTERScrNjg5W-VQ",
+      "plus_code": {
+        "compound_code": "HW8G+3G Phnom Penh, Cambodia",
+        "global_code": "7P36HW8G+3G"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAARwcrAFQXvy-lbClRC1Z7ujHNiwxm1uUF_6C2GUephiy1QdY8ntWoNVEM-raAYpwJuVG2ADGqnpl_3mgZPbPcfPlUJpTlyilJoP6kRSDFUJiE6_HAt1wNW4O1GE2zxiXlEhCQQHUoR_EC8SG5r5IsqpNcGhQfeRXm7sFqm_6ddcPchfNKIV-bAg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "111,, Oknha In St. (136), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5703123,
+          "lng": 104.9263788
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57164972989272,
+            "lng": 104.9277335298927
+          },
+          "southwest": {
+            "lat": 11.56895007010728,
+            "lng": 104.9250338701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e1506c48c66239d6fd6fcf681bb60db0f37ab469",
+      "name": "Le Saint Georges",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110852835633949102757/photos\">Guillaume Simon</a>"
+          ],
+          "photo_reference": "CmRaAAAAizRQG9AwGe19hds3kqIlVjk9vSpgCxIoM3NsQslmM9YtNqU_uTGtwEmqsZUey3SyLaMEF73_TvvEFf--ik8S4-HHL49x7hzB0zwPPpXSKTQzFsviyRhPq0hXbyeXq_SnEhBtm8ud-4pI710r2WwnmDzyGhQRF_9OWpHbw3T8A3xWNNRTaIxfbQ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ66aSBUZRCTERuYEcheW32FI",
+      "plus_code": {
+        "compound_code": "HWCG+4H Phnom Penh, Cambodia",
+        "global_code": "7P36HWCG+4H"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAATLEp_mjM-GAiqwC1e2TdW33nB-EQHZJr2t2OLnx4lPk4gRTEJK5NzI15VLrK3YgHuNBrOOwkAL3j23Jqp6c1W6Wz1lqK0_5QGNcFOZHAKcRAvvHFDknAT-xgZl6jj6CrEhB9pHW3gf5dgw6HRZp167r5GhTy6C6L1A5YZNrvQeJmJE-qyrv1Lg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No. 213,, 13 Preah Ang Eng St. (13), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5666023,
+          "lng": 104.9293913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56793617989272,
+            "lng": 104.9306906298927
+          },
+          "southwest": {
+            "lat": 11.56523652010728,
+            "lng": 104.9279909701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "0f2551e18e59e248865d5cdbc1d40e34754224c1",
+      "name": "David's Restaurant Homemade Noodles",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108995062730220736695/photos\">Robert Buessow</a>"
+          ],
+          "photo_reference": "CmRaAAAATaRnTSnYPCb0h9SDN2F6AsVvd7hXb7tWJ18xEQexEdOT-UjsGc60jKI2BfjLjDbKzF5k3MyzZCYjStW1i0IsYWeRAk9eu-RUiH2W8uHQjcY_Cod6j51nJePdTD2RBmISEhCGOYs3hQt6vzZK878wESQFGhSL61lZtMyjIjlloi-TQuvid8eluQ",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJ2zukpjxQCTERLbSjMVp8XqI",
+      "plus_code": {
+        "compound_code": "HW8H+JQ Phnom Penh, Cambodia",
+        "global_code": "7P36HW8H+JQ"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAcC27erwq8fZLBm7Xk-zrQreapguqaIYJDTKqT9BiU6Tz-YNgT18sBW-QlOal22lgX5DPb72rcr0k49l-Rt601-p3d1rAGv4PK3J6EdHqSIZ0Y3iFwzVxCDtNmO9jy15oEhA5xYY8IuPdfUDCupcPKzAxGhRxREuyAbWHTbZgQfGIzE494ozd0w",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No. 34, St 130, Khan Daun Penh, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.571578,
+          "lng": 104.928371
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57292782989272,
+            "lng": 104.9297208298927
+          },
+          "southwest": {
+            "lat": 11.57022817010728,
+            "lng": 104.9270211701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "8c7dc18bc18d4729a5af5e81d76b36235a345640",
+      "name": "Splash",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116044983770627628336/photos\">The Empire Movie House, Bar &amp; Restaurant</a>"
+          ],
+          "photo_reference": "CmRaAAAA3Q062Wcp0bebBV0kPDgfdaDD62khXY1BeKOYpuoJ_A9M4e_E1Z1FGHTkFw72o0Y5TR0WKs-yd9x93mzlcCnYBgBqzfq1puj8kiRaGb_IhSMJj3dPVYC_EFJ-Wwuh2i20EhCPQutr8MshiIT6-hzsVsOoGhShSyXmpl7mkG8WFnJDuuG8mOXC3g",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJVeWVRk9RCTERz8tuTXaT5hU",
+      "plus_code": {
+        "compound_code": "HWCH+J8 Phnom Penh, Cambodia",
+        "global_code": "7P36HWCH+J8"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA8zRFavsCov9qtcKoNwA3YKsn_NRQoy8jhJqZDrVxaGhDkZNzG_8mpvzvvLACNmBkAXeQQJ4hdYUfqiTaScup6Sh-vMJgvkdrx4NXD8FBNh0RGcC1Xj4L6mFWruP2dEFaEhDIs0GaER3nHviqk3pkOpI8GhS51UpTF6mcMd_GqZukIwEG03JL0A",
+      "types": [
+        "movie_theater",
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Preah Ang Eng St. (13), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5666683,
+          "lng": 104.9293792
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56800082989272,
+            "lng": 104.9306741798927
+          },
+          "southwest": {
+            "lat": 11.56530117010728,
+            "lng": 104.9279745201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "f8b51cea4c231188404d434a798fe4ceb42bf021",
+      "name": "Kabbas",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2352,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106626546135326472983/photos\">Emmanuel Araracap</a>"
+          ],
+          "photo_reference": "CmRaAAAAz7LfyN35EK5SDKeo-4yTZz7KZSTRaTLAzsJzdzGI1Cp5cxVl01Xp9bMQBZM4tOa45-JcTIQaUMgFZVjIrLD3dEsSquNkHUWs94RPBo9v8ui7F4egbdpyUv-rHCIZTKxDEhA3Xo7CmCfQ5OypqIj5IqKXGhTG3U8A8lE2pn1WOw6HzMSgTgHJqg",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJL8unRUhRCTERxm8_gTQkvb8",
+      "plus_code": {
+        "compound_code": "HW8H+MQ Phnom Penh, Cambodia",
+        "global_code": "7P36HW8H+MQ"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA9mGMS6_Mgn9u2hI1Yr5EKgsgs2QMkSk1a6nAjQFfStLyVkASWU_pzZXkxIGpn3eoN1dAVA_znTHFfzSoEYfD5OeLBdYe5qVIdAJazq3C___U2G7BA1CfdwxWFryNNUyKEhBwMVqW2ErlMCFlASdk_VHMGhTQilnY9aNweyxRw_ynBqbbGnE2GQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "171 Preah Sisowath Quay, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5728046,
+          "lng": 104.9288328
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57415442989272,
+            "lng": 104.9301826298927
+          },
+          "southwest": {
+            "lat": 11.57145477010728,
+            "lng": 104.9274829701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "68ff96a13f48daf9751922f6d02756fc4c2730ec",
+      "name": "New Season Indian Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112856703946195553580/photos\">New Season Indian Restaurant</a>"
+          ],
+          "photo_reference": "CmRaAAAAu-1RMwG2e8Fx-fPlaQxpTugiYUE-9doVYcsS9mxLVuapu0qdDjcJ92R_zxk8btuxa1u4tSV_SDW0IwdfdAg8J0TCzB1RaSQh0rEmmFBHmNkuiMoLxXyB22Mi_xfBGCUqEhB24n5I2PtHL5wZ2i-FcTTlGhQEc-flHuko1sJHyfp_ChjbCDsnMw",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJV_lFa09RCTERFvzLwwdBVeY",
+      "plus_code": {
+        "compound_code": "HWFH+4G Phnom Penh, Cambodia",
+        "global_code": "7P36HWFH+4G"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAALrvxdfaNrVq2hjp5pxSI41lhjtjykniUEpvKPzmwjde6kA1LSlcFbrPcyY1E4PqHFFch-gNE7X5sIuyCzqAswHRgLuv9rEIdIKxc5y2tA9aRtPoadhv5Ik-5DB87Gh7lEhAaY77WiqyXD7pcnFokdE7xGhSdnZlgHAIXiZRdqIOC6ihtxMgccQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "#1C Street 282, Samdach Louis Em, Phnom Penh 12000, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5547418,
+          "lng": 104.9256858
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55609162989272,
+            "lng": 104.9270356298927
+          },
+          "southwest": {
+            "lat": 11.55339197010728,
+            "lng": 104.9243359701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "cfbb27532080c391f4b8ba0b9c5e21723e025324",
+      "name": "Terrazza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100615635214531031901/photos\">Terrazza</a>"
+          ],
+          "photo_reference": "CmRaAAAAp0-Js2nEscOqDE8tMJvO3WE9h_PyUNO2uZHjgl3xU2QVgEm7rUgoV96cTO1KWity3YJQRdRQ7tlbNIOlBRKLXOg1e8M3qU5tyd-4KKZn6Jq8f2xm1M90xyWOGwSsdzKQEhBHj1I5rg1Wepbi_fb4fDnpGhRqPuKnHmGNTsuEOYUXpHoSkgQ5-w",
+          "width": 4272
+        }
+      ],
+      "place_id": "ChIJ54MwyDpRCTERpclesGw3ahg",
+      "plus_code": {
+        "compound_code": "HW3G+V7 Phnom Penh, Cambodia",
+        "global_code": "7P36HW3G+V7"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAHNbzWuSUZb3RlAbhEZAI5-yKnB7yYkccCfgn2i74wWNFGiGgNE1wGSu3m6ZXR2svmCpOrzov9TatukKQH588uoSJnUM7Y2LBKcMn6qKD3n65v1MdMcXWWae4ShXcZP0AEhBwY789w9AuUDR_U_Ip-YjzGhTJssg0lDw5WmfAT1w3-48Te6RVHA",
+      "types": [
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No 13, Str. 178 (Preah Sokun Meanbon), Daun Penh, 10210, Samdach Preah Sokun Meanbon St. (178), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.564947,
+          "lng": 104.924525
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56616827989272,
+            "lng": 104.9259144798927
+          },
+          "southwest": {
+            "lat": 11.56346862010728,
+            "lng": 104.9232148201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "ffb06aff72367940108fc9cf68c4ae533d85a021",
+      "name": "Le Deli Bistro Gourmet",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114302552907769267181/photos\">ភោជនីយដ្ឋានដេលី</a>"
+          ],
+          "photo_reference": "CmRaAAAA1JpPT2PGIdyoeBxHt_aRWU6iUyp-epfEGNRg3zuM9hlUb8iwIOrhDdNxDPADM64HQz4XmHSXolfUyVboSEiyxZRU91_BQZeI46eO7Nc79p9JXL-N5MAP6NsJLiPZrU0oEhCw-6z7A2itkFexPlaVHnQMGhTEi2YbzxZYNoEnLwvjwwkOXP9stg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJPWVFejhRCTERcj6bYNPtXWk",
+      "plus_code": {
+        "compound_code": "HW7F+XR Phnom Penh, Cambodia",
+        "global_code": "7P36HW7F+XR"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAACsdnrd2KNn0mwSs7qfacqhgf1HizAD_cG6L-NzR4RXvKf8TDAZAMfUaQrFK7hkZUOjr-fAvezlwg9Wejf71N0lpHjFr_AerUr0mgxHh83Awl4_lqcVxBpb2obXiW6BLgEhCzQrYyUi4iRNOdZxj-mvFiGhQ3GtL0yVf3PgYgdpHrgQkRGKJDmw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "74 Oknha Ket St. (174), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5648446,
+          "lng": 104.922614
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56620567989272,
+            "lng": 104.9239606798927
+          },
+          "southwest": {
+            "lat": 11.56350602010728,
+            "lng": 104.9212610201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "325c0c8fdcc5e155a2396a99231089e533a25ada",
+      "name": "Romdeng",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101469945045089139052/photos\">Lina Eryani</a>"
+          ],
+          "photo_reference": "CmRaAAAAn41ZIXobj2say-bOPS9sFGzmoC_jfHUCQbzglkMOTS8fQqZVttJ4yTgb7qw9dQMaSaSu8ZA39agw3nU2RRTkUowK7os_vvhOP2LNA_VWYEvAxSdbaR5nY4JyhlbFmNtXEhDgoJJQEjvCD7LAqmkjesE0GhRKiBKEwljvMw2TuZPNxzQcyiF0Ww",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJLdImwuBTCTERmVYVcbuXRqE",
+      "plus_code": {
+        "compound_code": "HW7F+W2 Phnom Penh, Cambodia",
+        "global_code": "7P36HW7F+W2"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAb5pkjLvtACshpc1pGr8zzZU7GUCMi3ep-gl8AOegpOMCpPTS6U0MjzlT8GtFqYeDrJdDE0ZtdKJu5Yl0-1FDMp4soaaeO2BaLwYK8lXYpP17lKJ49MN3ZywYCGHGCcWBEhCkmQZ-AhUM8KCyc2NNhzVaGhQ-MdDShF47r7CCLDYTB_aIG2OS7Q",
+      "types": [
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "6 Abdul Carime St. (21), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5557394,
+          "lng": 104.9308508
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55708877989272,
+            "lng": 104.9321666798927
+          },
+          "southwest": {
+            "lat": 11.55438912010728,
+            "lng": 104.9294670201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a32aca9004377e1550d6b09be07dee5ca116363c",
+      "name": "banana tree restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104118348341526448269/photos\">問田慎治</a>"
+          ],
+          "photo_reference": "CmRaAAAA4Idu2YmvRq-FRTXdF3CQrHXU3yURwNk1ypjcM0nmqCEtMSOYrFPLkQRDM3x_T86FyS6cBdBJtMWONj0xcOQKXoWLumw4xpmXuKDpexgBM2cvjFUR-T_FDd9fnLXaNk_OEhDroirDyGTyjX6q1uSQFYUkGhQUms7ySMkpag1rOkQ1k-pRKwhxsA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJSTqesDFRCTERaz7VrBZCNEw",
+      "plus_code": {
+        "compound_code": "HW4J+78 Phnom Penh, Cambodia",
+        "global_code": "7P36HW4J+78"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAASz_z2VlZ9vykxx-IAILOAXPc3J9_QN6OPuuJow5qDPf9XjbjpAiinwQpPbruIbKHCMJBqGbVWTFirvnRlP539aRVP8CtLEBIBJgYc9P0ACTDF7nA1V58kW4iSfB84P0TEhADJ8Ms_naSyHuowrgTLIQnGhTB-01eM1P56ZfVPzdrcFxukknQ-A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No. 5, St. 102, Place de la Poste, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5747813,
+          "lng": 104.9261017
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57613112989272,
+            "lng": 104.9274515298927
+          },
+          "southwest": {
+            "lat": 11.57343147010728,
+            "lng": 104.9247518701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "264fc5c9493a8a9b76dd6dfe71322b79eed48421",
+      "name": "Van's Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115862119889252326810/photos\">Van&#39;s Restaurant</a>"
+          ],
+          "photo_reference": "CmRaAAAAgj8DDgOmqFLanKydlp6q3iiB5fpUHinA0nk8oaljRQRTAjKebPQcLv3JU5AFH0bCOQNTQRMFxoPtECA3pBdNhSIJ-tZSiIN0QLF0ZkBb7YFHZOkDEn5t1aSJh4VLx2BkEhBtsQuguuw31WJxRLSxpmwjGhQN_oPL-QHSk9AAJ5g2iPsT_WyC8g",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJmdmSakVRCTER6fVlfWYbiSI",
+      "plus_code": {
+        "compound_code": "HWFG+WC Phnom Penh, Cambodia",
+        "global_code": "7P36HWFG+WC"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAALjKMqdmtGGv89dCKxiLlc0Rw7gNy-ACgE17DW_uS7QhQlosYaohVxW3qzbGfEkfFr99faq3B97tMG2tgJuZiCSDlaXCgxegInOavsNPzz1naknGH-MEirKCNVRFXi6YNEhC3p0B1EQ2a2bDGBaq--xl6GhR8YXPRYGJkhsg8olFRu25SVKr43Q",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "198b Preah Ang Yukanthor Street (19), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.563158,
+          "lng": 104.928145
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56454167989272,
+            "lng": 104.9295761798927
+          },
+          "southwest": {
+            "lat": 11.56184202010728,
+            "lng": 104.9268765201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "b9fcc20cd6f90b3f9a334fc2573ac3b2464d0982",
+      "name": "Cocina Cartel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112147818365230365666/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAd6GSCx6jYmmXM2IeAGnTGf-3Oc1w3WiZLE1Nb72WPL8GwScb1msBHLSYj2uBSy1CI4Qj-dCsw-DfxHHDpwS6nZ3iXNO9J6IZDILmev3SmM5P4R8r2KLV24c7GewRkUJxEhAAkxuJC9B5g9hK6FsL7qb1GhQQ-Gf2kzlKRnpaT8zE9NXTqw3-Hg",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJad7wkDdRCTERElR10J2Xevk",
+      "plus_code": {
+        "compound_code": "HW7H+77 Phnom Penh, Cambodia",
+        "global_code": "7P36HW7H+77"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA9z7RrmKl04wv1zRKFNLAuABLbyyudpTYj7BWXFilRP_95ZIl9PZh5S3cmhcEZuJ5rJeB1jvzBw3T9KHYquS6E72cH5Hm3m27mnK2n5RtFkSHPADmZvs_BbdvcLVD92mYEhD8OmkhQ3lsBUE_WelINwNPGhTY019dTNrFws8t4KkvR6Q3_bDcUw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "N237 E Sisowath Quay, Phnom Penh, Cambodia, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.570777,
+          "lng": 104.929698
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57212682989272,
+            "lng": 104.9310478298927
+          },
+          "southwest": {
+            "lat": 11.56942717010728,
+            "lng": 104.9283481701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "1a0cb4471717f0e6d5f55e4500cbc760d214b409",
+      "name": "New Delhi Indian Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101496255526479350193/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAjtC6H25iPDOC6DL7gIOi7faodDQfK7n4gdx8JZnyoBJXioz7y-9HtsPhLV0YYBUzQMdVfCUlzPYLs7z_vRISqR5h_X2NBD57nSyL7mI8lsAaElMeB370Hu-THcIR_cU1EhCJW__wd4dtkEM99lfIhPdhGhSVWc0lyacKAr1Gi8lDEzAXOEz8vA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJk2FvLE9RCTER-6tLmOdGtpc",
+      "plus_code": {
+        "compound_code": "HWCH+8V Phnom Penh, Cambodia",
+        "global_code": "7P36HWCH+8V"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAn-noOhh7lFAAghFcPQwZkptm4w9NvWQS6gYwVduDez5qZcHFgZHSFPJ3a-oGrw9OHEmmfrL0bl19AVO2FVJ9RGyQjwWsuJpkoaAJV1XNGr6TXnqqO2nQrIdE906XH6AnEhDXwW9TRTwBEdqdtVqAQYHRGhSI1GHn-1_Bc5OkuQWZ_wzT1LaskA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "13E Samdach Louis Em St. (282), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5547891,
+          "lng": 104.9259165
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55617742989272,
+            "lng": 104.9272602798927
+          },
+          "southwest": {
+            "lat": 11.55347777010728,
+            "lng": 104.9245606201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a01b218d3be6ff6519666b66343016355b276a6b",
+      "name": "Taste Budz",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114875880798323844641/photos\">The Minimalist Ninja</a>"
+          ],
+          "photo_reference": "CmRaAAAA4EXP_Q0N7HVyJjy_c8FgKG_I9dwzfBLJWzSWIUZg9SN5Kb1YPF2S3xwevIQ8RW-y_YaVqUnH7zTu0JqVVzdH0aaPp0kDFDpZcazPQJf-HFgfkpobgGe4Vf88GVpFsYmcEhD0zGPORRXtLZsUHY08hql_GhTPWSClyn-_CAlk6CQ1ay6MrydIfw",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJwV6etzpRCTER_HuJsYp-KzQ",
+      "plus_code": {
+        "compound_code": "HW3G+W9 Phnom Penh, Cambodia",
+        "global_code": "7P36HW3G+W9"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAVIyZRqg_2xNmgcgqXR30K_lBU5rP8Rw3ET5GVGg1YDtH1uqtGqzXUxw-jIswGRGUqxeolEYdTLyZAs2qvpX1hgoK1_E8Mcb1v0Ug_1hWt05Tv79hxDt-BkqGup0X5ZLiEhAUIHSCXBSDwXfs8kiMMkrYGhR0Uob_g6Wl3dDWEdo_kduLoHk1bg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No. 82, Street 464, Sangkat Toul Tompung 1, Khan Chamkarmorn, Phnom Penh, 464, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.537655,
+          "lng": 104.915129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.53900482989272,
+            "lng": 104.9164788298927
+          },
+          "southwest": {
+            "lat": 11.53630517010728,
+            "lng": 104.9137791701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "686bcd02ac20e18a04f8048c8623b08203d801b6",
+      "name": "L'Orchidee Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114467393146638060037/photos\">Stuart Ellis</a>"
+          ],
+          "photo_reference": "CmRaAAAA4eb06taKcNH4YBn2BlL_z1Zno7u6Gh8mN46PJh436n8HrMd2CzvZQKi4w1vqbzn-qU6rB9H0c4KnVzL3uhBxb5-ZEZIXgUoCE7284X6sC8ljGN4genMzav3WpWP1LJ48EhBE0__Mbgc516e7GtBBiVsgGhSnnGeR2J6xHdwlHI2wc8oDm0S1ww",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_RIvUedQCTER4PVATk4Pv6E",
+      "plus_code": {
+        "compound_code": "GWQ8+33 Phnom Penh, Cambodia",
+        "global_code": "7P36GWQ8+33"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAGGqFQ9-EGmOl5t-eKfpuL3W3GymRYMUeJKZnq781BDOC-CpFs1_47ns8hJ0j0GrKFpusxKhLLXNkgwnWNqyMygu3PAcVX3UeWY7JWt8lCZ7FWxXSSKZ6EPjpe2h7b6FQEhCONIq9SXwEr-osuQuXOHHVGhTbZFp-S5oaRpa71y1m45Wd2QjUwg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

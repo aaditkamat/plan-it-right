@@ -1,0 +1,698 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "results": [
+    {
+      "formatted_address": "Pavilion, Lot C5.02 5 & Lot C6.01, 168, Bukit Bintang Street, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1485216,
+          "lng": 101.7131845
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.149606379892723,
+            "lng": 101.7144323798927
+          },
+          "southwest": {
+            "lat": 3.146906720107278,
+            "lng": 101.7117327201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "eab0d762d7b8344323f99e6b8f5344025d78d596",
+      "name": "GSC Pavillion KL",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117744541095508819557/photos\">Stephen Abraham</a>"
+          ],
+          "photo_reference": "CmRaAAAAdkHcyaNywRzD2ZAoTTIgnQ6CX_Y0Zf2Mm-ARco6iXzJVyl0w4G7YPuzXqi1RXD6Q-NVXi7szPHCABfsagAII57VRDmtHzJuozgPzxJX2XXUjNzurSq65AJT9maffB73pEhDeE-a1nEu0aY1PPWJRMRCoGhRKELzEsjBsWY7o2pMSWPA_9uCHIw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJq1fGYCw2zDERdIQkG6wyRFQ",
+      "plus_code": {
+        "compound_code": "4PX7+C7 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PX7+C7"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAnx8cTfrRxmtLepP2y0WJuklmtkAVgrBqH1Re_Grmf9hXBetWXSPQbzhDzR1kp95uFCWx0BLdk0SrW5z6zJFlyK8GpbzOFVCKSNNKZ_wzT-N_xX9Q5b82MyotXWL9ebHoEhAjqPaiqmWaue_PXSs41Z8SGhRilms5le8knizJA6uq4R_FRbZTXg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "31 & 32, Watsons @ Cheras Leisure Mall, 11, Jalan Manis 2, Taman Segar, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.0909277,
+          "lng": 101.7423278
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.092039879892722,
+            "lng": 101.7433545
+          },
+          "southwest": {
+            "lat": 3.089340220107278,
+            "lng": 101.7402653
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "23bf54fd2410e87303a0421d63384fe64998e42b",
+      "name": "GSC Cheras Leisure Mall (Golden Screen Cinemas)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106712918763268831079/photos\">kahwai Low</a>"
+          ],
+          "photo_reference": "CmRaAAAAk3jKz10RXJjegjNG_oGrcaQ1Yf-yfOiYdPDJhocmRadF6vl23h36YHpXYlIS9O2wzGuue9ovJoaWpP80Gy7pBJ06fYY3raULWedx6Dt2XoeEfdN1HDtuWL0VWng6FIjAEhAEtYAp1GKEYvwRYzQcfoVaGhRz2QNBHpEGFDOfGyg246NzDIGMVQ",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJ35mB6rc1zDER47ij1vHRtck",
+      "plus_code": {
+        "compound_code": "3PRR+9W Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM33PRR+9W"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAOfDSTwsQfc-MSKaesHQ057N_-3m0ajbGdJ4OR8k1BCNSlUfBsfiGiwUPU1l4U0B9jqoop61DudISY6pAmoVVrBaX2EOXsW71a9HQDdQaAe1HgTL2UlDoBXzKusHjuS1BEhD_doLGa_StHETHjtaS4UljGhRREm1XueKuIq9c9V5mbZeIA2vpEQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.15343,
+          "lng": 101.6963399
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.154792029892722,
+            "lng": 101.6978065798927
+          },
+          "southwest": {
+            "lat": 3.152092370107277,
+            "lng": 101.6951069201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "4cbd8c5e36437fb32ca6656d126655bd32dba0f6",
+      "name": "Coliseum Theatre",
+      "photos": [
+        {
+          "height": 1932,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104739413334316290928/photos\">SANDHEEP KUMAR V B</a>"
+          ],
+          "photo_reference": "CmRaAAAAQd91MnoI1I15dqJG94k-gfz4WGnAvecZS8m0LUm2RxhC6Z3qOPgM5TGmz8idMQAjAzLwZRASk9RbprO4g6p2lkE7BjyQY1rz03doTOgBs6McNTCKZDUaLgT5x_qf-EEoEhC0PPgWxZlNQA8oIU5KlommGhSzKPGeVNJB8LgB69tOF8L54MMovg",
+          "width": 2576
+        }
+      ],
+      "place_id": "ChIJKxqtcS1IzDERMXWtq9y0fH0",
+      "plus_code": {
+        "compound_code": "5M3W+9G Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35M3W+9G"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAoD8Q76DDpMlNC4rqNDVZksOWcu65PhMUSVPlElL6gs_8jNgqLImVT0Ehu0ZQzR50YHolmtfUKPVmw-8h9DO5GOwTDR9oqesbKeUvw_rspzq0GK-XmTCE_yljmeCJFhbgEhBGli88qTJ1-hpAsDqN9fNwGhQu-fFeuJpISfc8dphkfA9GSMlZ8Q",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "T-001, Mid Valley Megamal, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1172746,
+          "lng": 101.6778268
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.118228779892723,
+            "lng": 101.6793254298927
+          },
+          "southwest": {
+            "lat": 3.115529120107278,
+            "lng": 101.6766257701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "72229f789ce1684f37c8c9a09f86bbbc51f5526f",
+      "name": "GSC Mid Valley Megamall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117522744377101413272/photos\">福福</a>"
+          ],
+          "photo_reference": "CmRaAAAAdvOdff03ozX9aqnV8c_NZGXsXqeFig6CIWm2DxSV6mugZaqKhBsnO8dcwvhZrh08LGeb47WhGnmSOJ3GGqegd0_UHfHmgzhRwf2AEtjJimoccme2NyU6tcGlg18V_qhzEhCKgfVHRJYVzGTNR_B11XlYGhQ0Z3EAZNuuLvHbEjSz1gnmHkZDVA",
+          "width": 5248
+        }
+      ],
+      "place_id": "ChIJIfr-rI5JzDER-ZaN-AHX4ds",
+      "plus_code": {
+        "compound_code": "4M8H+W4 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34M8H+W4"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA-o-oLbmXP9WfriJVpAi5sX8ygsPLZucB9Lg-3K3fpOwVQluxnbQI0mUPGxLwNTVtYHLdHHJ-ATi-norhT9pkPfokK1MBpSt_VpDzSyILyKnjXpk4U_5IKj5rdSy_XYaEEhAFWVWO5Q7xCzEHKM72FODmGhT5D83m27sMd7mecoTI8IyUt-X6xw",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Sunway Putra Mall,, 100, Jalan Putra, Chow Kit, 50350 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1661985,
+          "lng": 101.6921853
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.167891129892722,
+            "lng": 101.6937672298927
+          },
+          "southwest": {
+            "lat": 3.165191470107278,
+            "lng": 101.6910675701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "42635a69b076f1291df25eb1a1792f8f43f072cc",
+      "name": "TGV Cinemas Sunway Putra Mall",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102816203626939271983/photos\">Omar Alom Miju</a>"
+          ],
+          "photo_reference": "CmRaAAAAjsVTWbtZ7J-KA-XuMthOK6UR7V9Bfp-8qzWz-CZ-6foAYr0jhjeIX_tGhQKKy9x6UpYrdAB5dlbo4w-oxkW2H7dHGlyjTjPvWLs_XHIMzr3y-VWmMeCHbq-v3yO4IFfkEhAIkzBYhGHhUy_2AQSWiP0YGhQVlqhtthuFqjl-504flcUmHWiTkA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJ39HhztIzDERB6sEaf2nD0U",
+      "plus_code": {
+        "compound_code": "5M8R+FV Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35M8R+FV"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAiqB1lxzGSZAqrWsi4ysH8q0Mdiige5MCdLyKbpqZhouHrYNLckQjF3DCF-U0ERv8Y8fHQLS70Wvu0LhmWz5JgDElzfTF-nxMj4dhqnHJHeA-VlCSzAiwX74N8TPa-sDiEhCYYtxiM01j6AZnOn2VKlGEGhRERxUcPO_Vwyk8OFTKraX0sByBrg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Lengkok Raja Laut, 50300 Lengkok Raja Laut, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1675721,
+          "lng": 101.6967243
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.168921929892722,
+            "lng": 101.6980741298927
+          },
+          "southwest": {
+            "lat": 3.166222270107277,
+            "lng": 101.6953744701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "d3bcbd74bbd56dc5515e01ee8499b7e877c094e6",
+      "name": "Federal Cinema",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105338990048313425892/photos\">Gini Gangadharan</a>"
+          ],
+          "photo_reference": "CmRaAAAA2mqt-sFfCr1glCWhe-ZOp94dvvZNOc8JE_RrjV9DOwuZqwWmLND3xtJYgAFFQ77yA5TnfqRqMw1f8b8Sl7Iit9AYlenfmqyTxHPrt0m81MGopmq7lHFyIuDJz4QvTgV_EhDTSNG3QyxnaqHmG3iRfo-VGhSV9Sv9SkV5DfGzN5kfbDJOrkGr9A",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ8SBFQSNIzDERcFSfy6kTrC4",
+      "plus_code": {
+        "compound_code": "5M9W+2M Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35M9W+2M"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAbDcaVhDg219IKvdmPhS4_mepftAPi7aD4f2RblXaA5cHJb0yb4ifDWvqVnwojqUwO1lSu0EXwW-4h40wEoChSA1Lfb5CGzy7H0hH-D-UzzeyolX7EF4_bi_zHGjFUFbuEhAnS1cvGYhcyFr4DUtACNNtGhRSMJQHRTDLcCzzXtZnQ9ZN02D7TA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Berjaya Times Square, 1, Jalan Imbi, Imbi, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1427912,
+          "lng": 101.7111049
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.143892799999999,
+            "lng": 101.71304835
+          },
+          "southwest": {
+            "lat": 3.1405748,
+            "lng": 101.70823455
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "758460f812f4e2595c1a79bcf26cac074607c1b2",
+      "name": "GSC Berjaya Times Square",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100628379875524799042/photos\">Md.Mamunur Rashid</a>"
+          ],
+          "photo_reference": "CmRaAAAAP06Oj_qQFyV4aF4Uir5_K_TlPGq2IdEcZvP_pNiH-1ngqZGWfK9toZ5mEsrvFrYch6ypDJeNeHJ-lz-YZVWHgj_eS-R7JR0WED0eeDaYy6st3hGT6JoJUUBTNEfZKloyEhAaZvCB25TloqYUe_5OAfVTGhQWMuFq1iI-lE56Lj07__3YNYNcqw",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJnTqL6yg2zDERse3GOD_S51U",
+      "plus_code": {
+        "compound_code": "4PV6+4C Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PV6+4C"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAz95Fxg_Xs3AqaCzVx1QHslZeu43XC-jI64ppzTOMzNJT_I1c5xw3wKOFolURbWDi5Hhz7NwwA1ZiFaxSiLJoeVTZ5yyJuCvq_yVWWZbwD23oVnhtPrnEgmxdwqILzPLsEhAEJn2ImgTwp0JZh_7ki93XGhSP2EnxjK21jAxbEuBTIIic5P-rNg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "suria KLcc, 1, Jalan Ampang, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1574987,
+          "lng": 101.7121855
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.159817400000001,
+            "lng": 101.7134125
+          },
+          "southwest": {
+            "lat": 3.1562914,
+            "lng": 101.7102029
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "698c7e006629586bcfbdc8dbd36f7d4759f53ad9",
+      "name": "TGV Suria KLCC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102428711503433821995/photos\">Farid Aspar</a>"
+          ],
+          "photo_reference": "CmRaAAAApQCkFQ0V0_oYfYtKwUWY251WmBs3hhEoP4o37b5C9bTwwESPIUvA6JZG27nuYHOvT0zNfu4i4_GEtcKwgdwwN8ao3UBSNTrPQFm2zeYbExKJWi3j5qndQ41BlVBNGSXuEhBrDXUnE9w-ZwBIA51klJ0BGhSRvqBd-QixPVQmhwD0IlHf4YFMfA",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJCxY5Ldc3zDERUu5VlB-_8L8",
+      "plus_code": {
+        "compound_code": "5P46+XV Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P46+XV"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA-caLXUUmR1Lkeo0t4OE5EmUytWDNpVofdfTdG9ksLRO_bdqZSrKt9vM4hghBRbiHVHTF8LcJYon33d-aerToATimadu6AqFlIEjsmxDMToqaXH5yo6-VMcSPz82FcURGEhCoLp6iVv9WkMMZeV_LdDrEGhQSNqPdvpXlyXhZDZnQeAaX6Ag4WQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "FF-201, The Gardens Mall, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1195836,
+          "lng": 101.6763324
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.12119095,
+            "lng": 101.67761095
+          },
+          "southwest": {
+            "lat": 3.116476350000001,
+            "lng": 101.67432555
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "da4e650507f090c9aadc8f60fd1ef69c58d56d3a",
+      "name": "GSC Signature",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115742200769259092474/photos\">Brett Kwong</a>"
+          ],
+          "photo_reference": "CmRaAAAAc40z6EtCR5UVFyDIrm3rvdc-lZLQanIYUHCqnu6b0yiw2dwNmDJa-UAnEP33LX3hkLwDNwRb9UkJOhEUxjSdy4Eqtp5G-3ZS8ST5NTDukU9TNoNhlyZAjycyX9GX1723EhBfbwIL-chdUo2LQ_uqHTJ_GhSvWQM7RLSDwWUQ8Jrly7YUcagQWQ",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJA3yj3Y5JzDERBZxyoK0Yrow",
+      "plus_code": {
+        "compound_code": "4M9G+RG Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34M9G+RG"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAzcjZnL5nculdgPe0BAQZ1bCRrs7an_0Ay7uwQjGDzESkdrQKLGDOgJe51JtOpfH7Nu_qPQ1lEWPaS4g9WzMbX2NapQ15bBzPSLjp6PdVHI8We9j9kInB65xSX44p9Yw4EhAXGfNF_RTH8S_aq_-CtpipGhTMIlKQ94OLOixOOxto42OEEgArVg",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "5,14, Nu Sentral, 14,, 201, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1332046,
+          "lng": 101.6874146
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.134204629892722,
+            "lng": 101.6886820798927
+          },
+          "southwest": {
+            "lat": 3.131504970107278,
+            "lng": 101.6859824201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "74d39ca9b689d7b0bea9d64f3c145a3e8f1a19c9",
+      "name": "GSC NU Sentral",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102428711503433821995/photos\">Farid Aspar</a>"
+          ],
+          "photo_reference": "CmRaAAAA7WPE1z5W_i2vivvzgSHKUd_pUh0ayNjKTNZUBtRCDi8e3dfsuM_qOKoD_vdKVkWUAByOpjQi0DktNvaXADcTEjUX6pyKo6XfymDwVhFeoUNfhVM2QOHG7u2JWgmJRnZXEhAULdPESoZQj0IhJKtphYsbGhSGj9VKnsmFBTMjSRswNIwj_BjSjw",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJuVtJtsFJzDER_CiU3--jnGA",
+      "plus_code": {
+        "compound_code": "4MMP+7X Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34MMP+7X"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAU8S1YuyTbi_nS5vgQX3EEJQaYMRzjPvIWTKfk9FLGuIyJ_8ltNezbsau3tVW1RJ8l3xLf2N8dtGgSSdpzAty6zg1VqEJtJOp_QKv2m1HL8_31isuuIsIKW5sNSwkxPMWEhBy_B-Q2EPM5efwxHF9hxQAGhSEPlB_uxVFFTIlh6Cs_uqDSaWuww",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Wangsa Walk Mall, 9, Jalan Wangsa Delima 12, Pusat Bandar Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1984462,
+          "lng": 101.7409851
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.19971305,
+            "lng": 101.74301565
+          },
+          "southwest": {
+            "lat": 3.19670325,
+            "lng": 101.74030825
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "e4b21ceb50ee4ab7505a033eab63ef860fcb2139",
+      "name": "TGV Wangsa Walk Mall",
+      "photos": [
+        {
+          "height": 2896,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101489196199655369315/photos\">Erik Foo</a>"
+          ],
+          "photo_reference": "CmRaAAAADehZFw8JacNWJJaR1MCjXx0kuYqu90gb3wvlk57pK45ug4jxQb5xuQ1EV-QkBSTvyBp8tWVxOlEGWNZk8fPDqB20Y38rEIh2k_WdEnNBqaP0Id1sMH4i89D2EqZEQRhoEhC6fPxqyJPi43GZhvJtyQ4tGhSZ4_kQ4MHM7qSIBeFWP3Vq5yNqvg",
+          "width": 5152
+        }
+      ],
+      "place_id": "ChIJu2dzkS84zDER8oXuFMJe3ms",
+      "plus_code": {
+        "compound_code": "5PXR+99 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35PXR+99"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA4csNeAPaogkBkAX8rIA06qdosyA5SSbgWQre4-orhZPvHqQoJVirDY1iguHsDBbfCjRq1SqNYbFIsNyLYn1lby3X-UiFqyPVo7NiHNNxQz0ShtfHkIR5hZJUGegWLe8CEhDjU3gEtqMw-xAfZZp7-UcFGhQMG3Pajb4Icbzgg3X2wkmBhR4LxA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "90, Jalan Peel, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1278344,
+          "lng": 101.724507
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.128687729892722,
+            "lng": 101.72621085
+          },
+          "southwest": {
+            "lat": 3.125988070107278,
+            "lng": 101.72288345
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "c0c10e4764f8e25c7b6e7370c80098dd855ee4ff",
+      "name": "TGV Sunway Velocity Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1199,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107670629638648303623/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAPAoNv0Iob3nCw8ywU2K7pOGoZ1LK16A197_D52fZA_xjTmUKCm07VsZ29dfZ65gZ0dVH4MzdlmEJCz6_2C94TkABXT0684MJS9d-GP-Hd-Ed5VQdpUiwI-GHpw7nAxUuEhDIELsZ81upuiFsoykFXDz1GhQnWNWLu8x15JGvSq7Q9PdFPA50Bw",
+          "width": 1599
+        }
+      ],
+      "place_id": "ChIJQ1CTIhQ2zDEREDeShnpBm5E",
+      "plus_code": {
+        "compound_code": "4PHF+4R Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PHF+4R"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAApE9aNLzPQrh_JLgvaBUCfTKFQArF1YqcUMQlhY8XW2HhCRt26L4xDxTnGFChroI-k4GSo8zvXGcvVFEK3p051hNf7AO6xsf7wdambaFVPRnM3BdLpzM0syymtWiHZjbyEhDRxX3dOBpZpioOmXU7_Y1aGhQloMyxPQz38IkElXvOFWeQ1DYZ1Q",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan 4/91, Taman Shamelin Perkasa, 55300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1218859,
+          "lng": 101.739879
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.123718350000001,
+            "lng": 101.7412095298927
+          },
+          "southwest": {
+            "lat": 3.120491749999999,
+            "lng": 101.7385098701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "d4703fbd8e77cc488718d32ddd1d1ddd9c14c40f",
+      "name": "TGV Cinemas One Shamelin",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116603814573254534530/photos\">Syed Haseeb</a>"
+          ],
+          "photo_reference": "CmRaAAAAYbM7hEQvQRRoCIMMvOsaEA5odszDZwp2cu3pSbCjC7Sr76qPTtjxGorMc3cBxk_tEOIRl9FuqkWZ419tC1cyN8XdPNzBovV2S-_tbiJuUNkUZvW5yQhgJzfLIoH2kTAYEhBvKHaGCHos7h9KtQ3odqVoGhS8xXnb-VCqDvbcVX4-UKqXN0YL6Q",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJDZbsy282zDERU-cS0xm--xI",
+      "plus_code": {
+        "compound_code": "4PCQ+QX Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM34PCQ+QX"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAd71iVhxPD9acsgNc2adjaJXNXPk7KW1EiheUBYNH-ZGwd3PS6C-cYmZUJu1xNqoqFVIkyjaYlpjH3KDPKqXsaLznDVGSMlfE04dILcXdV7mwrnIKY_NVEXUzPvdseUWwEhCHLRmONTkdRTIbPnjs-IXSGhRWppr8gdhioo3mE0GXtcn4x9a6oQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Lot 9F-1, Cheras Sentral, Taman Len Seng,, Jalan 2/142a, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.078295,
+          "lng": 101.745102
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.079956429892722,
+            "lng": 101.7463292298927
+          },
+          "southwest": {
+            "lat": 3.077256770107277,
+            "lng": 101.7436295701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "5d0a14d90e2c086f1a8ab72dcf2d3e0f1964771d",
+      "name": "TGV Cheras Sentral",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113433708298774350955/photos\">優小樂</a>"
+          ],
+          "photo_reference": "CmRaAAAABtUodReC7PPabt98qa4JYWg92758phoMus0sn5gcr1VC4BYfgVz1qbbViHoyJ8NvEikAPyeFBBOWGWell3FFKuWlk7pU0csNTluPQcl1sheRR3I9u38yYwMmHubKgJnzEhAHipMI33Dy82lj0MKQyLiEGhTgSaIjP-aKjiaBtsVVuCUl4oRF8A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJd5BLwK41zDERoaGjWxBG1rQ",
+      "plus_code": {
+        "compound_code": "3PHW+82 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM33PHW+82"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAZkvkkW5OM2Si3QKYL9LLXr2nb1nceRDmC4wveaNky_6Shw2ArZxyRFipLA34L--wW86MaOj9OpmzWpk_dfzaoIhFnMl0NE_UZUUzR9o221mBcPfZOPiMckGQ1-yv5zCeEhBxQn0TYjgyhPwE38AJRD_rGhT8acgDzbiTFEtbNsUFslPxrIKJmQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Dewan Sultan Sulaiman, Bandar Wawasan, 50300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "geometry": {
+        "location": {
+          "lat": 3.1599006,
+          "lng": 101.7004663
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 3.161159529892722,
+            "lng": 101.7022189
+          },
+          "southwest": {
+            "lat": 3.158459870107277,
+            "lng": 101.6982457
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "29817ffdc2c74c09302ccf17fa6266739a16f7c7",
+      "name": "GSC Quill City Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100612362306912412351/photos\">Ganesan Chellapan</a>"
+          ],
+          "photo_reference": "CmRaAAAAyodfns8rc7uEaeiMrHCG9GLXvqhZ18CSQMyIjRjHpsiz8ZZhP-QultF2yaXdlEnvoMElcPzQBl67przdh8XdK6RZ4Lp1-fDdwRPk6qQx0qEj8WBHkyGt1FUwekNgxdI4EhCuG8Vxt_4ZwLQ7Y6ns77FPGhTo4_-UVRVclqUYWSsMyPBo8ejpRQ",
+          "width": 5616
+        }
+      ],
+      "place_id": "ChIJc9qENy9IzDERvdz6deCCVjU",
+      "plus_code": {
+        "compound_code": "5P52+X5 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "global_code": "6PM35P52+X5"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAUgoWfM3m8hFsplhd8NmvnDkabZyHCfsC3w0fqkhoqYou941bR-8gXUCtRD9RQMmxIXMonT_lgBbNPmZgFF5UaikuTgVEQzuMULc2OI95eJ5vi5VKXudYou6KxbrfGeMzEhCnrXRjjIS1-kUoa0co9ifbGhRxm2pTCtE_yVq6oIDd6KHhKQwCDA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

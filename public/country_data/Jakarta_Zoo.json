@@ -1,0 +1,53 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Jl. Harsono No.1, Ragunan, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.3124593,
+          "lng": 106.8201865
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.3048718,
+            "lng": 106.8364979
+          },
+          "southwest": {
+            "lat": -6.3179696,
+            "lng": 106.8084873
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "2f58f43543d672f96f42832fc5a0652e7ee77881",
+      "name": "Ragunan Zoo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115754588810526915851/photos\">sai niranjan sanjeevi</a>"
+          ],
+          "photo_reference": "CmRaAAAAzmfUY0fyxIuyP_kdK4KnW4E52I0hdNwr2nQYDwwc-yx_7Je-woN5PUVmwsIzed3_EvAJ6779GBSvGlb_GJ899lT9Njs7ahAhwK-_8zFz54-NdMPqCNxZ78KtL9pkzGa6EhCvvXDaHb5Z1QXyVpVkNMLZGhT_XC71YfLLdZubt1KBzJrhdvkTsw",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJfXt_sf3taS4Rmga1Wj8q3fk",
+      "plus_code": {
+        "compound_code": "MRQC+23 Jakarta, Indonesia",
+        "global_code": "6P58MRQC+23"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAANkffm3tbuR33WdBwt8eVGb8cmuQDUh25715HpUJBtEiTHOKnhpRBfWDj5OBz0q7VOPqFQ3BzJYOxUcPYOnYhD92CvzREPV-Za0NjdvweivneJrGsSJ_5i1WvuiPHUOBWEhCugs2ucvdHueIza7vOLpWoGhTZd6Sn8APMh9AQwETf9hG-Jmppcg",
+      "types": [
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

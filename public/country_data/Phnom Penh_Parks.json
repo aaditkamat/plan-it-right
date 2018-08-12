@@ -1,0 +1,927 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCBQEAALAK7kFqN7M6oNPs8X0r0DykDu53EEzqv-qCNCoyHuWioHUyus_dkTjr2uRlnRh-enrdqT0S8LgrfS6zY1kr6p82HRH9vtYZZDDXnHTafUa56vU6awYGC6BHWE6TzNUKbnXwuTMGaJ0UKYu6HjZGhnDguFF_OBHDbJ5VZT73HgV8Opa_hyzIAkZI1Fo-NqrlmkoAd5n3qKtczOhZ1IdNju940hTmr__2tot2eZPjyIFsMef88xPfwy8EevjnjeHMMHaErOHX-tuHDfMCAHDBCvjAdJvU1XaMZYvAO_mcd28pXwE2QMt6X1Hgsf6U0m-FpoWo4bXLDg8irjeyGfPCeFYutabI-SduGW6Es5lOaczIEhB6xugUu3FHScGmi2xMtGSiGhSSPgJegOkT6nPfRdvNV5-wNi_4gg",
+  "results": [
+    {
+      "formatted_address": "1 Street Number 1, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.6100401,
+          "lng": 104.8848881
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.61138992989272,
+            "lng": 104.8862379298927
+          },
+          "southwest": {
+            "lat": 11.60869027010728,
+            "lng": 104.8835382701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "b4f763dfd47514b0bd5ffb43861ede37921a0473",
+      "name": "Angkor Phnom Penh City Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106660184892119461722/photos\">Pj Patrick</a>"
+          ],
+          "photo_reference": "CmRaAAAAXw2DL8w1LzXL6RK0SDwruX0ShW3UniUCF5YbZkhUGdV-qw1TvSIcuGWyQmZw29nsVUyGSh__mtSFCHIuCM3pJuMtlXAeoAfKDY4bT-4k1zHBzejNmYKjYJHnAiMW-lklEhDSxfzyOIEPa7jmZ2lU2i7UGhSsK6PCsyChC9emXKzENHQLInn38A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJKz5QHDZSCTERENyv0CK1SNs",
+      "plus_code": {
+        "compound_code": "JV6M+2X Phnom Penh, Cambodia",
+        "global_code": "7P36JV6M+2X"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA_nLVF-mviwuJteOIpFLRGbAewBosT38nB1INFTisfzPimHSo8lwaozLAPUELUhS_2hSxqy8DhfC4ae91jdJuZswr1q2GJKckH3WydhrFjyk1KoV74RBCNzM7B7N2Y0I0EhB4gqOyEfDUkd9FjOsTYnzeGhQ91JwuozrL95_1hqid88ThAVmSsA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Preah Sisowath Quay, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5720061,
+          "lng": 104.9295816
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57332207989272,
+            "lng": 104.9308502298927
+          },
+          "southwest": {
+            "lat": 11.57062242010728,
+            "lng": 104.9281505701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "0c7fd0381914f4bf1ed94794d322d69df8bb4a25",
+      "name": "Riverside Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106290492538721975291/photos\">Lucio Boato</a>"
+          ],
+          "photo_reference": "CmRaAAAAAJMGOtXcFP2Hr9m_EWhv3sYXnoFXoCyQkuDRq-AdMsmr3UUyXsT84JiLrX9zFC8Dr5cOIVs5KNFHwdcB2XX8FKI46yukiDj4eLjl2BpPEy0f3geyM-zWGL6AFn8KGIJQEhAcP56XLdpUxSD0gQjQM8TFGhTSl0_QnQh7oHjWel7rluz035EDsQ",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJ5zPaEU9RCTER_E-SnOofV1Q",
+      "plus_code": {
+        "compound_code": "HWCH+RR Phnom Penh, Cambodia",
+        "global_code": "7P36HWCH+RR"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAphU5WO7phWlGnMTUtrC42IXZSxUVAWlGBoKC-z_XnD9gVyGglanzI2PaGN_Vk298uGLPgBpqY7xset-9z4cJ3_7FSkDNGUJHG8Xe19JRR9YbBppuY3SAdWtRnsqzxNGVEhCJ_Q7tBN7iOSNdETLazUcjGhRF9b6FlasaZN9YRfjhbFBrrTkGLQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Samdach Sothearos Blvd (3), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5596903,
+          "lng": 104.9326797
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56103787989272,
+            "lng": 104.9342692298927
+          },
+          "southwest": {
+            "lat": 11.55833822010728,
+            "lng": 104.9315695701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "bf5988b1a848674ee7550564b632fdb24bfc8fbc",
+      "name": "Wat Botum Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116335597648811608503/photos\">Adhie Indrawan</a>"
+          ],
+          "photo_reference": "CmRaAAAA8kNd1R_SUqmenFFhCtlqC0J3q--T574SLNRujIrDwVZaDxwj7TXSdXEKa4CSUJxU_G76GkrzjMKVKR2o2k80BKaR2aoeAdaOc-X_Va7ZeALR4rUtZNw6Er8g_I8DbJ9mEhD18xIWpjHExez82KiQnqDYGhS1UrOnjrcMcbWf-WsLojIP4v1-iw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJ0lgrTZRCTERrtfNLbEDG1s",
+      "plus_code": {
+        "compound_code": "HW5M+V3 Phnom Penh, Cambodia",
+        "global_code": "7P36HW5M+V3"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA923OMKgGok5w4QKQ40x4V9A38TGdFGfVkKMC8ji1PZ260Aqdam5VJIJyzpvpgr8drEFxYpW6I5ohZF2ln3lrhgMLHKwvljGFnprAKWdrEZnj32YftQjGY6pE9cR0a1xYEhDOwHmb3zh42GU3u1HaOqFDGhSpxyvBr1LmUe0P5HJpOlNLi0YJhw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Samdach Sothearos Blvd (3), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5652836,
+          "lng": 104.9322227
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56646262989272,
+            "lng": 104.9332800298927
+          },
+          "southwest": {
+            "lat": 11.56376297010728,
+            "lng": 104.9305803701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "cf06f56884bd79531feb16bd2a40721688762b79",
+      "name": "Royal Palace Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117347609687538925949/photos\">Khương Lamborghini</a>"
+          ],
+          "photo_reference": "CmRaAAAAF_vWuKBPiXm3IAczHooI1gRpM53vysnYk7xK7mHMSqO3A5TKoI5hyw4dmJIBJvpAYZMV4W0pFwKW0jkQAFAsKDUUIce7Qx_1g6K-ph0KTRWv6lzTnY5kELFDBhdSKe7YEhBnPIGk9aVz_PeOjLGoNbFpGhRAqX3_SfjdmFpI86u9uY4ioxb1PA",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJqUiG40lRCTERO91s5YjVEoY",
+      "plus_code": {
+        "compound_code": "HW8J+4V Phnom Penh, Cambodia",
+        "global_code": "7P36HW8J+4V"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAx7ubwJ_RfP85icCh4MG9vmVTpj8_TSvJjX45g23Rws8wW6fT9vvtNg_2FrQufBFp9d6BNLWk4PModfcz49FXz_DD_uFz-QmGT70UWz6UIiYtdXJZWBVu2rkoFLRCfE57EhBLZvR__LN76Xl-f46ndIGsGhRejrHPNz0WxNZhjj0xtno7Kwgkuw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5565208,
+          "lng": 104.9300712
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55787062989272,
+            "lng": 104.9314210298927
+          },
+          "southwest": {
+            "lat": 11.55517097010727,
+            "lng": 104.9287213701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "ad53d62d4a348bf56d8dde16303832322fc12af4",
+      "name": "Statue of King Father Norodom Sihanouk",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102795938592437271154/photos\">Giuseppe Brandmayr</a>"
+          ],
+          "photo_reference": "CmRaAAAAkYMSsLHy4YINLhHmbFxO16iRS-1iTJ50FGqOyC2vCnY2fCXvatSzlJUB3bBbGDkzqJJgui4exHQUr-M9UiYyiRgvOA9f2S8MY1vengOarpm8eFbJzRSPjzYSBoyb1_XHEhD_zAcylS5fjKD3F5kTj2fxGhQCcgJkjpqTbU4lQUAclgdB3coJ3Q",
+          "width": 2976
+        }
+      ],
+      "place_id": "ChIJgybaVDBRCTERxlRrWou-GSg",
+      "plus_code": {
+        "compound_code": "HW4J+J2 Phnom Penh, Cambodia",
+        "global_code": "7P36HW4J+J2"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAzkDEY9iuAxV0V0m-0TuB1PP3kNt2Jo6HRH4OH3QLAcpGTcZ7N82B0n8XQg6CEKJ3vNIWz_q3hE1_NS1uaKY99SU8WNtkcwrtecsu70g9FTJR-1xZuKF72YU7ylEPnLn3EhDZfrRQvCUjcS1SvF9O4GP6GhQWgmlvUiiRdn6b9lXuf0w2tEFUWg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5566249,
+          "lng": 104.9351759
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55797472989272,
+            "lng": 104.9365257298927
+          },
+          "southwest": {
+            "lat": 11.55527507010728,
+            "lng": 104.9338260701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "48b581b8fd153c215b95391ad22565790f700d2d",
+      "name": "Samdech Chuon Nath Statue",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114188410973382277120/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAACipQBdV_xDGniPMX0ufzh3r-e_SAiJNEaxu_we0DEK1vFPOsAxRPmObXy9sM3yZ6Ea4oygcWkG2wVZ-zaoUVfMj6QBBsWsFNoCQ9PpmC3OnjqjnBOBZMtACEHIFMec_5EhAGlJhpRLIwf1wMhwgph_eNGhTc9v1O7iawrVhJkDZWut_gqHfRsw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ-6iAsjNRCTERKFRcyxEx2a4",
+      "plus_code": {
+        "compound_code": "HW4P+J3 Phnom Penh, Cambodia",
+        "global_code": "7P36HW4P+J3"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAmFPxRD4WHrLyCOcGnHTj-n9XtXsCgw5j_8c-mgx9WJPXoRx_EkF4L0mQ9Unps23XXQROVQ8Cr1EVXZIP6hxvhUo0W12wtvUcEG5mggDQ310FR4zTniTwiHza3dtOL_ViEhAYYyT_Op-cH-Tk1RrG1NCuGhRR16msRsfdAn6h6NkJwGq4BoUSBg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5547785,
+          "lng": 104.9330558
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55612832989272,
+            "lng": 104.9344056298927
+          },
+          "southwest": {
+            "lat": 11.55342867010728,
+            "lng": 104.9317059701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "3e032140dfaa647e153ed784aedcd7350f9dc6f0",
+      "name": "Triangle Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106699534567297967189/photos\">Dave Boyes</a>"
+          ],
+          "photo_reference": "CmRaAAAA53qkMgi4gDujtb0uQTprvkGs_ElRjck7qZXsf9cF2SX8Wsmu2dAq7xPep29lC5u9vp_gmNWaLt8iU2mTGjCU7tT-4r6Z9Gxujgk9F2gx2XG7nePPm-AVhmtzoEDFbCEOEhBVqOaoQJ4fveyjEVgM6uEsGhQ6RxvFz42gOzAaL8Ief0agPZSexA",
+          "width": 1960
+        }
+      ],
+      "place_id": "ChIJyar3HTJRCTERdHBTwUTy2IU",
+      "plus_code": {
+        "compound_code": "HW3M+W6 Phnom Penh, Cambodia",
+        "global_code": "7P36HW3M+W6"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAWJbCT6A5lbUNsG4Hwux7rTbV3yuyrjc5yrj5EkE-znTcaYqClSOLF1gRSHoRSk0S0FfQYwyEPh9NMdEVy4Q0eQW2rE-V3jRMM5X5C6x3hZ5BO8C5zd-bw44EnZ1BZlLmEhDimOLDWBwvqo1iJVV70_RdGhS7FhqDs1qYragV_564sr-N_guZ5w",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Angkor Blvd, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.6041748,
+          "lng": 104.8915295
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.60552197989272,
+            "lng": 104.8928772298927
+          },
+          "southwest": {
+            "lat": 11.60282232010728,
+            "lng": 104.8901775701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "53017484cc44d2bc2c6e44268caada08c99bc36b",
+      "name": "Angkor Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116868667192287003439/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAqLePZ4QH4zrQC8Yn_du6rB7PXIY_JD6mVm1du6PCI7xXzXpeYI6AK-qywUbdWZ8wHVmOMvVOjI6FPKgArDEX4i4xKKMoSZoWt01pCkRyxqMdxamRMKRz2HQy3RxT1hZfEhCwgiFs6pINyRoF8xWhu4r0GhRuZWtze81xd8Tzd0LepUWJ2li_3A",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJTW0XOzNSCTERi-0BeNz5YbY",
+      "plus_code": {
+        "compound_code": "JV3R+MJ Phnom Penh, Cambodia",
+        "global_code": "7P36JV3R+MJ"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAWA5ieJSvw9LfTqS7NMLLX9_WER6EJLeabRpz1LdrRgusaFboLdh0vPV8g-_qctSPSrqtAbb7aR_wk1wf5sj9irjCic-yW8_A1of3mYUDR7J8dFsiyBCO4ge8785RtVQaEhBa_CYDv3x8bwZwmAH6PiH7GhShGjH0q7OS5DWkIIUD6jhcgnLEXg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "កោះពេជ្យ, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5508657,
+          "lng": 104.9411669
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55221552989272,
+            "lng": 104.9425167298927
+          },
+          "southwest": {
+            "lat": 11.54951587010728,
+            "lng": 104.9398170701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "a3e2bf3dccbef95f8b9251e39293c966115d0d6c",
+      "name": "Diamond Island Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103956357961532401447/photos\">Hai Hui Zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAAzki1p60h3JGbOaLqfUAuz6zjAlzk4Qs5K1sFtaQ6m6dLe4LfF3hEAaggNd-cRVHkjZjiyFGA7O-DybATU8DH9PynoPaVgITZNkYftvmCeXOvDV-vUX9DGHfArr5KqEPbEhAxsjy10MPGvfLDRxmbqoWJGhQQQ-hyJT8EqKH0ahfoGYpEjGXq2A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQQqw_NJWCTERkmOYvR8tpJk",
+      "plus_code": {
+        "compound_code": "HW2R+8F Phnom Penh, Cambodia",
+        "global_code": "7P36HW2R+8F"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAwcChERCzr3zRb8h8bbeNQpZKMi0N1zH1X1qDcnjorsXb57wLXsQbacREoqCXfCr_KAC64MFnZqmCOprNCq_iKx8raCmcUd1kyfvsYrZMVH4Wjep3OSJdbTiUuPczWHwuEhBCcfwi6zj3eGveSP0n-vGkGhQXL1uOCuJ1KaW3VSS25He8rZfD5A",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "130, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.654676,
+          "lng": 104.7630326
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.65602582989272,
+            "lng": 104.7643824298927
+          },
+          "southwest": {
+            "lat": 11.65332617010728,
+            "lng": 104.7616827701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "f8251620ca002acb9be63a29339f46782e7f38df",
+      "name": "Wat Sowann Thamareach",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102070455361310764075/photos\">Bun Chhoeun</a>"
+          ],
+          "photo_reference": "CmRaAAAADkJXWDBu_TrJuwLTxLYEk9-mQA3VVF8mi8d1kstVdn_vn13Z_OCNriDs2YwNHLcXw5yVlsuglJb-STI46B2dFk8lFuraGTgS3CoWB-qoB785CJ_aKTcUUouAuX5KW2mYEhDaAA6ajKX3mgjgRXJrz8nLGhS5XXJBHD0xFBt1uFWSdGsGLG3GmA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJGVjZQppMCTERlj5Ly7bPpnk",
+      "plus_code": {
+        "compound_code": "MQ37+V6 Phnom Penh, Cambodia",
+        "global_code": "7P36MQ37+V6"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAPdBPTIf7HOE3S-I1NkNG1TO_I5ghV-lQZEhqHzFOdhP_wX8qlxpA33BYAEKIXRUXK40GoryREDmn5vyBuH_Z8u1ufNnlT1JJZK4ALnJIlasnFGDq9g9SfOvgKVJc_9tFEhAMFe2rcMME15JlPHjSQyXNGhTGncvtPG2NptxFWHzkPeOs3Rn4ag",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Phnom Penh 120710, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5759264,
+          "lng": 104.9327028
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57727622989272,
+            "lng": 104.9340526298927
+          },
+          "southwest": {
+            "lat": 11.57457657010728,
+            "lng": 104.9313529701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "d660d3841906152d8cdd40f67564685d3bfacea3",
+      "name": "Chroy Changvar Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106419644614542620096/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAbH8IoDH2xOv26f1UZH3QPxlXcPGxlNlSunLXqEMJKWGW63d9c_g8v_g_M0C_ukT2uSRFUP_l2pD758bjaKxUZ19MsVrlwqRYMIve29VJhL65agOikGDx8Z0PhylP0psbEhDsuSEqzC8ow2DzunyTQ5RLGhSUKpHIdSrLveJicApNl2CKul4qoQ",
+          "width": 2322
+        }
+      ],
+      "place_id": "ChIJvdj9AU5RCTERT9IxUp-04rE",
+      "plus_code": {
+        "compound_code": "HWGM+93 Phnom Penh, Cambodia",
+        "global_code": "7P36HWGM+93"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAPTbo6DF6OqcQzysHKYDjmSLNczAKDxI2Mn6xcGknNwEywuihW-yFAN_8Vo7JZt-SPYjMtmveHQ95VhdD5mtythH2bIQBw5jCOHYA0em4WZJ9l4stvLDVGJ94bJ3M-ECuEhAJ9xSwpVT__txwl0u0lvl-GhQtY8Pk021WGK8t7IplDVVA2cHuIQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "National Highway 1, Phnom Penh 12357, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.517303,
+          "lng": 104.95538
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.51865282989272,
+            "lng": 104.9567298298927
+          },
+          "southwest": {
+            "lat": 11.51595317010728,
+            "lng": 104.9540301701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "2f424b21cef4841e6c07fba47df88b44d9dc8d38",
+      "name": "Euro Park, Phnom Penh, Cambodia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105540880157878187422/photos\">Sovann Nou</a>"
+          ],
+          "photo_reference": "CmRaAAAAAJwjgPVtVXj7Ad6KmzkxeqcoAgh_LNvlB8dXEUaMLunsrbiGKT3cgoTd4l9RHPko6VrLSGtcpMBa1KcZEhCKjFKp9AVSi7o8NttdCMxsLboOQqSG06zBGo0SgpdVunDmEhB7BOA3oubmrhcewx1uswIEGhSh5tSDUZIVC9wBADLi32nxByKw9A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQcGDw0ZXCTERe81u_9ugw18",
+      "plus_code": {
+        "compound_code": "GX84+W5 Phnom Penh, Cambodia",
+        "global_code": "7P36GX84+W5"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAPa_BgLvovyVXf0Zik9zFRKGcnvq0bQpLrZCEp4Fwx2lRgyKSBSfvv4tkis3ymU386iXTAUcGcnFB4WKhKkW9i4LzA-GVxNXSp3E5rNRb1EB0_iVVmHaMlP5MLk_cu9USEhDcxx9i5zU1ZKHG0mDd9idFGhQdv_h8ZR2WSfrO1d4rHHIPztixBA",
+      "types": [
+        "park",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "136 Street, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5710426,
+          "lng": 104.9299286
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57239242989272,
+            "lng": 104.9312784298927
+          },
+          "southwest": {
+            "lat": 11.56969277010728,
+            "lng": 104.9285787701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "41a42cb5a165d3487a987fe15707ee2f25071087",
+      "name": "សួនច្បារមាត់ទន្លេ",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109945734712960176232/photos\">Kimberly Pieterse</a>"
+          ],
+          "photo_reference": "CmRaAAAAxZ7tTku7GJvsUYLrt9HBNgpFKYtNchbqFWNaZIeaaOVON-aWQldFraifi5UxOIqUUwnHvW6E3nrj_Akn8xQUAYhFS88xVundmuVLCI-SIRKOqHjgcI6pa_GRaTI0KUfPEhDCbBC4C8SC-oKqkihhrxYCGhRVGuNfFR2z2BcilrgIxrVnOdmGgg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJO1wjKU9RCTERhSDRZbfZ49E",
+      "plus_code": {
+        "compound_code": "HWCH+CX Phnom Penh, Cambodia",
+        "global_code": "7P36HWCH+CX"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAkhg1BzN_rYCJ0RTNcd3aOUUX11fucc9_jNZ_BGayZIkjqcE0XEwnqu3UbkVFd-6TSMutjE5cvZQvgkl_6N45yi7gyUclScbyrTRxvqCA9jvWnhogOD9LRuga7zb2sXUaEhBgBJdR3W1YkQa3GdAtKhaJGhRpQ5fMr0jN6LvMeo1qowqTrA-Y7g",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "St. 110 Russian Federation Blvd. (110), Phnom Penh 12406, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5626316,
+          "lng": 104.8550255
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56385667989272,
+            "lng": 104.8564270798927
+          },
+          "southwest": {
+            "lat": 11.56115702010728,
+            "lng": 104.8537274201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "f27bab53b7c2afb86d49edc4c4b3c7c727abbbab",
+      "name": "Pochentong Children Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104994315011123451679/photos\">sambo teav</a>"
+          ],
+          "photo_reference": "CmRaAAAAhPbH-vuuGIajv7VEmjxDrQCnfViWMia-kwIoOId4xvkZSWNEozSTZdEOV7J3umWK4LVogH2dQSH2XRsvBLgMzwBp_m5ThPyTXCClu0Q4eTARIstsN_4rKU-TNAoGspufEhAz1swBoonFWP4KwUuk1NWMGhSMTaCKM1qJm3s6hjn7rqpuafJpmA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJjXwbcNtRCTERs378v7xhRhg",
+      "plus_code": {
+        "compound_code": "HV74+32 Phnom Penh, Cambodia",
+        "global_code": "7P36HV74+32"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAyPViCstNgiVE8XSODp6ZVL-FgW04m05UsyKngZSm4nPsAOzFc7BRZ2QB1niMzPbJ_eWkHI-SStlsJQsyb5owePGfDA8zDk-_ZT3h4u7Xjrnw5LLJVExn-QUW5msNWnyqEhD1vP6PaAq6mBBGdYCAMJj0GhRRpofUFtmJijdv-YtCVF7nVq81hw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.6112903,
+          "lng": 104.8841109
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.61264012989272,
+            "lng": 104.8854607298927
+          },
+          "southwest": {
+            "lat": 11.60994047010728,
+            "lng": 104.8827610701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "4111d6ba23ff5ab97fbbe0a6f63b5985df1eccb5",
+      "name": "Borey Angkor Phnom Penh Playground",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101098143271582454746/photos\">Chantra Be</a>"
+          ],
+          "photo_reference": "CmRaAAAAsmEtJP74RQXKWWl8Bs7Av8F06-_TmtU-_HITEzJUMBQ03htXYhRaGrkICMvfRXq62o1UStPT-bAWRTe49dr2J3aKcCzwTGGszsRB4gFsvJ5OyaVKLnxLpqjrKA8BmimZEhDIC-aEMlffh-59_2BevOEPGhS8WxIltaYt66AxMWcZeqdN_A9a2Q",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJo8NQLzZSCTERBHm0nvSYE_Y",
+      "plus_code": {
+        "compound_code": "JV6M+GJ Phnom Penh, Cambodia",
+        "global_code": "7P36JV6M+GJ"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAARHRmkKAKu0S3FuqcEJGuB46D-KCVWNQcUJUClvlSNp5-wXaNWwHMAzSkGZAzlh-FGPOVkFmWOf8ApAcIsZqjMDRz-9b6hzXiDA8gs_WJlwya6-gmjA7SetIZW-mJ0ZtHEhDfIDeI-JgSWrsbLAK9LM_rGhQTD7hH5YnIWLb4GJBpa7Q-UQjUAQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.6062024,
+          "lng": 104.9187958
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.60755222989272,
+            "lng": 104.9201456298927
+          },
+          "southwest": {
+            "lat": 11.60485257010728,
+            "lng": 104.9174459701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "785e0803f33b6633bae4a153a933ae0275014d2a",
+      "name": "Democracy Square",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113931152595984397443/photos\">kho chee</a>"
+          ],
+          "photo_reference": "CmRaAAAAF5XHdlbMlqF1soC1gYx90Xk2UNfhkOp7Wrl-jxcg8oC4Dj0VafgwDiCuvNI-eldwaSDgWtLjkn8xxTiYGdnvc36sXTGTTXGPLIGC_m1W1X7YUT5rlY4UVZ_zNsVjxDVWEhAnye3Yp_yCAWf_QqDCgryUGhRdw6Q1gmeYfyMAgGd7YWJQRl0xvw",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJSy7Us-tTCTERhpedt5gEsRU",
+      "plus_code": {
+        "compound_code": "JW49+FG Phnom Penh, Cambodia",
+        "global_code": "7P36JW49+FG"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAcaNzI079pjQj-l10hRFCF_MP9vM2oj-FkW9fr2gnEyhmYJL35qiDXEg4TxTrZkc1jbRlrLqUIT2ZioEOqUvO_Ozas10vciEIp4CrU8WvjafVneVVffBeBSPHn6FSXT0UEhA1-dBpQNQetXyuv3tjkTj_GhRoXwUCQBIIVFE0n9QQQbieZE8E5Q",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5729003,
+          "lng": 104.9193146
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57425012989272,
+            "lng": 104.9206644298927
+          },
+          "southwest": {
+            "lat": 11.57155047010728,
+            "lng": 104.9179647701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "ae28b3ffc1f3c74b8a73c2ea293a9f113e9c177c",
+      "name": "Vattanac Capital Livestyle Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3216,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108657227800797236305/photos\">酒井慎一郎</a>"
+          ],
+          "photo_reference": "CmRaAAAAhwvp6Q_anYUqCOcV1LZuNGokosmYhZFPGUZUCgnf8iIvvRVICHw3GGAoozfNYJT75cIfqY-BKKRR620KfS7QfTp31klqXAWEc2agSTZFPuTrz_ZnR3U8pe8AoTYYLISuEhDp3vTjeaA7h2a1kobfN730GhRELmvvQmQB-GiFCS7mPQs1eDn7ug",
+          "width": 4288
+        }
+      ],
+      "place_id": "ChIJfUU3ukNRCTERZQaqoh2wub0",
+      "plus_code": {
+        "compound_code": "HWF9+5P Phnom Penh, Cambodia",
+        "global_code": "7P36HWF9+5P"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAA2BAm9jOxbG7Siqy7sAvP2JK7Aph-umDB6EcbPz9I7oAiya4c92QVc3yhxpxhiitKc_98Hb7TsDOYnzy_nDpyvfc9whT_OWFmepibtt0yvn2zeePW2SAY1YXOfTs3u-h5EhCXosG33RCHqAHceHBh7vNcGhRu0zC9KraJ6QiUze9xOl48QihEWQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5607516,
+          "lng": 104.9332899
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56210142989272,
+            "lng": 104.9346397298927
+          },
+          "southwest": {
+            "lat": 11.55940177010728,
+            "lng": 104.9319400701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "1f02f4d229a7b8556fe022349c7a433029516018",
+      "name": "Regent Park Hotel",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111197719882534593902/photos\">Kenneth Campbell-Harris</a>"
+          ],
+          "photo_reference": "CmRaAAAA3JPB3DQnRpd5vayHdjoOEiu0J9eQTOEX_vxJP2aeVwAia0Kqdw7d9Fv3lR5WdAA3eCRW9RNv9fg1Jt8pc21pinpi_UX6gm0sE2fVJWkioFYBmsHjLdEpUgAf1mJ1RSbJEhB6ExZU_eQTdhtjE4ivsWq9GhQL-MhhzQDSinoDG1hoSW8hd2XNNA",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJHfbDITRRCTERiN97QC99mL4",
+      "plus_code": {
+        "compound_code": "HW6M+88 Phnom Penh, Cambodia",
+        "global_code": "7P36HW6M+88"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAlo3qIH_Pi3M9cB-XgxCP9yVHzisTywymOZJ0YeK8E1H0Nr0nbKQo5aQP4uN17nT_EPStpnoQK6CziB64BrQSs5EBD3xohWpEXQGsBX1eqB0wq34YyfSjJXErJgndDCRyEhAEjQIxBTDhOyJGQ7OCV858GhTysirbz0ajt8YOvBPktmCjztEKrg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "120803, Phnom Penh 120803, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.6289822,
+          "lng": 104.8689069
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.63033202989272,
+            "lng": 104.8702567298927
+          },
+          "southwest": {
+            "lat": 11.62763237010728,
+            "lng": 104.8675570701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b6dc3ff7746f524d881d5bef994e8d399de7b31d",
+      "name": "Fantastic Water World",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112033639958091759656/photos\">Sreyla Chron Meas</a>"
+          ],
+          "photo_reference": "CmRaAAAAWA88WqqjjfFD4rDn9h3NT7bAWZomzg63ChLO03Hc8PbxxBuTNMPm6XtgS5mqh4Q8A1TcP2wIKfuRPBqBaSTBtga6hYx3D14j6F8WjS1EF5XUlhOqekqZJwVbvpel5hJ1EhClF-Dxj25CVt6lYixB_NNWGhS_a46kBgDY1lRoBAvwTTtzx4IdmQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJEfC__11SCTERMV76fwHAM7g",
+      "plus_code": {
+        "compound_code": "JVH9+HH Phnom Penh, Cambodia",
+        "global_code": "7P36JVH9+HH"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAWACM4y1u1xNtgUXLHIAmiTWk8RzQPek4I_-4LufuG3Tlvim2JCKcT6ppi4ckv-hXLCbzu5uGkIa-heTYyh94vEp-vCKMRltHqfPQnQu457P2pvP5pb5RDfWdDuuDWHWqEhA-zAvdmZ4D3qMMHBYgaJxNGhSAyMk6SL8MRKPqg5y-_IM3vIBaxQ",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "City Center Boulevard, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5772057,
+          "lng": 104.9108364
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57855552989272,
+            "lng": 104.9121862298927
+          },
+          "southwest": {
+            "lat": 11.57585587010728,
+            "lng": 104.9094865701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "fa1db961d0debd734ae8bbc5eb86fff132f7c79d",
+      "name": "Eden Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112063028928838886530/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAKOVIVYcZfG78hnMM_bQh3pkyxgn6cN3GpE7oVSonO35Mm7HCofsKOuc2KKUCEDaMuaPNafBk72GXmvjzMyq9nu3Q4CLg2YtvoUF-DUc62OBq1fcsvetIxxUp-kBIBicLEhAx-NlbnejTWQp9M80srEVKGhQIuqQUqwGKIFvbjUsjUPfOCGCU4A",
+          "width": 643
+        }
+      ],
+      "place_id": "ChIJW51vHmZRCTERnpiViUDP-tI",
+      "plus_code": {
+        "compound_code": "HWG6+V8 Phnom Penh, Cambodia",
+        "global_code": "7P36HWG6+V8"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAFGs_fW2dnaBRqgMjleKulP1bfg_u3cNtqlkBmMo1UsC8bnS4dHI0BahbSKBV4r2cs3X_dfwjYoVp77IU4U662B_p5x9yvDtuPZI1tzGt7Q7mGAxAmOngEXcGje8VmNA6EhBBdkZsyWHT4Ey_rK12OaaDGhTlTki6NBn9hGMCk4GkJloma4Z75A",
+      "types": [
+        "restaurant",
+        "park",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

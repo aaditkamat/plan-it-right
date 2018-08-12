@@ -1,0 +1,53 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Yaza Thingaha Rd, Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7145319,
+          "lng": 96.11095019999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.71588172989272,
+            "lng": 96.11230002989271
+          },
+          "southwest": {
+            "lat": 19.71318207010728,
+            "lng": 96.10960037010726
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "41a4c35eb857c4cd9e8810c40d4516d38ef7b113",
+      "name": "Junction Centre",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105046638507835226720/photos\">Raymond Htoo</a>"
+          ],
+          "photo_reference": "CmRaAAAA_8gENNQwjTaA5Vo1x-E6RvGXVjgxL9XW8iWxu_ynYImGcJT2pRyJLQAM_8Z373nSGjb881ZX-4puLCBJqA4tXTugXExHUI9OFggi4IICPEn_Zc3fIbDJ3BwNq2RI7D8zEhBWMCcMBNlfGXXbZxzDKdQSGhRGWzeh87VNdp6HLxhPgaQM9hVrwg",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJcwqts1K8yDAR1GPYF7-m0CQ",
+      "plus_code": {
+        "compound_code": "P476+R9 Hotel Zone, Myanmar (Burma)",
+        "global_code": "7MFRP476+R9"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAjc4l5jkl_bctXC-t06nY4uGQ2c8Y9CAWyPnOuE8AXq_X7FqI52Rsg_hDLCkWTxuz36sHDUsorzHjvSl45b5kAuLSeDhpmPC7SLQuxyB9J_AoPnxaMyzLIwQuqqEdMOdrEhCV-Wq4M4oEHkgkKxA2R_kuGhQz9ah31_oBYqRwydzgTf9L84Hs4Q",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,924 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "11-13 Preah Trasak Paem St. (63), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5677421,
+          "lng": 104.9208168
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56912517989272,
+            "lng": 104.9223952798927
+          },
+          "southwest": {
+            "lat": 11.56642552010728,
+            "lng": 104.9196956201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "ee15365ab5c5946196137d6daf28d06c9665b899",
+      "name": "Sorya Center Point (PhnomPenh, Cambodia)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100004286453129297407/photos\">Alfred Wilhelm Meier</a>"
+          ],
+          "photo_reference": "CmRaAAAAsxYj36BcBkXnWc5sczttViaaUNS9VxQGmrEvZ56hNor7y2Jq4M3VVizOmj-z_iwj7-jeTNvgXM20twi0ZeL4fWngcXiujhtFrjMDQmGsKtHerig8CJTVOFbIYxCEkI43EhDgr4iRW9mnoRo1wxqeB1oiGhQ4nLu2hhrH33JAhwYhsOsG5kEKhQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJi7680UBRCTERyCybrdkAoE4",
+      "plus_code": {
+        "compound_code": "HW9C+38 Phnom Penh, Cambodia",
+        "global_code": "7P36HW9C+38"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAs69ewZQQUjX-car2E09dq_iVNA6Y5UQ48WTQIs7NbjQjG5yJkbM3FcII_r5H-N3wx8rYqJ4P8YE4RYG1FYALT0DoGPYC3spugcrPdmwQTleUa3bkfAy7c3kCGzrLj1IHEhBVV4VNQgy7ny-f_LZvoa7WGhQvmGVpRJ6iWilwYOh0R-qP94g8rQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Cambodia, Phnom Penh, 217 Street monireth,",
+      "geometry": {
+        "location": {
+          "lat": 11.558291,
+          "lng": 104.909584
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55964082989272,
+            "lng": 104.9109338298927
+          },
+          "southwest": {
+            "lat": 11.55694117010728,
+            "lng": 104.9082341701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "08030bc9fa0e36005477da28c552036882c4fd02",
+      "name": "City Mall Phnom Penh",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110362553775120348459/photos\">Adventure 007</a>"
+          ],
+          "photo_reference": "CmRaAAAAAJNy7nL8ag04TixxffLrQgv6FT_wIxFHr4SYANnoe3vwhMI77ECEabypLqzNnzLX_d1-GYd33aK6g7yCO6t9JxgF1NY3NbyocFvtT3Vgy8ijyE4ZWnIeUsu4PHtHuVMZEhCQur6TIU-8lSLVCcBGW8kHGhQETgPO-BlPga_NRXO_eKQ__AEl6Q",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ0V_fKBFRCTERhKGGzOupJKM",
+      "plus_code": {
+        "compound_code": "HW55+8R Phnom Penh, Cambodia",
+        "global_code": "7P36HW55+8R"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAA-Olt5W_SzsL1ZOWca_s85xUrh-NmgIFDLRPDEmZ7bMj80YUEn0HgoJMqzH4niPF5X396LOFcMwr97A54wBj-_xPpZuxozsmsYZQTOURgydcj9tHwycB4BJNQwdfnPvBmEhCiT9sq6olsiHeI2X6g2WkKGhQilqPjqU94F6OMDNh948KNOJdQcg",
+      "types": [
+        "shopping_mall",
+        "movie_theater",
+        "department_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "N. 12, street 126, Sangkat, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.570085,
+          "lng": 104.920055
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57143482989272,
+            "lng": 104.9214048298927
+          },
+          "southwest": {
+            "lat": 11.56873517010728,
+            "lng": 104.9187051701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "dff57302e37451d4cd57c23f97bfd3fc2906f14b",
+      "name": "Central Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112066875708979127936/photos\">SSK All For Memory Official</a>"
+          ],
+          "photo_reference": "CmRaAAAAsTFrOusPnsGIgsGrnft4uGcNUY0qhP5KFL_uFNbCLInrGToomene7lOLmMynx9RWmvowZW1tkrBsUQolI7JDmt2zZC9XLm3pcVeBMOb4h72lzH4gd6F2cUxJXjKNmYRiEhBueLPfLI5l_Bjd-Tts0oTuGhSIYrzc1hXTH35NTEi7MA9hKJlybg",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJFQUxQkFRCTERp5bUa72qJO8",
+      "plus_code": {
+        "compound_code": "HWCC+22 Phnom Penh, Cambodia",
+        "global_code": "7P36HWCC+22"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAA6fCmiTPMsAsx2zaFPLgqubbfnnM8U6p6lI1xTWoT8CBdLow0VMMNFhLEIwvz2QpkFVcaeK9J9w2_DSgjmRa2kgqEJOf2OfcCAxczXLAHtg5SBjCwzPXnD3xyS9ZP77iAEhCPNna3lQaQpsqh2lrctDkxGhSiZrontq5wyRgZO_MYjUODM8HyCQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "St. 1003, village Bayab, Commune/Sangkat Phnom Penh Thmey Khan Sen Sok, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5996821,
+          "lng": 104.885444
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.60103192989272,
+            "lng": 104.8867938298927
+          },
+          "southwest": {
+            "lat": 11.59833227010728,
+            "lng": 104.8840941701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "d05c54a991a55aaa0a21c672ced2fcf3a9693a0e",
+      "name": "AEON MALL Sen Sok City",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104768893341801795721/photos\">iKHMER</a>"
+          ],
+          "photo_reference": "CmRaAAAAp6a3pJeqAv5UnQonL51D-pIgepddG6TpnEPdzl0x_to6_E8jE07MDCigf6hUGJ9RLsZaWr3GY0d39Z2rZvqf2kCJXok2byCm7t1QijAexQq5ldcJX-LpjYMGAuCNC7CCEhDy_sSF7FfsYipkZ1Ta4EwSGhSi79ysxb5LE5mvi4I-AuS8PpfPXQ",
+          "width": 4048
+        }
+      ],
+      "place_id": "ChIJg_bbGi5SCTERF5bsNc2VQz8",
+      "plus_code": {
+        "compound_code": "HVXP+V5 Phnom Penh, Cambodia",
+        "global_code": "7P36HVXP+V5"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAR5Uzbu4GAAMK1PfRW73UdZsVUASoPlQIfN2w9nRCWdbhc0uCiUIme4pXVQkzEapKGBNDcazS-2NR4D26hQ6X52DAWWMx9kevS2UvDe1MJ8PtFYJasxrBOgAHRCgoL6QOEhDi1Ov8kAHRGCwJRMUX9ob5GhSTP9uPigLwmJ7_aZa3zJ3UkiOi3Q",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "#87, Sihanouk Blvd (St. 274), 12207 Sangkat Chaktomuk, Khan Daun Penh,, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5560474,
+          "lng": 104.9224251
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55739722989272,
+            "lng": 104.9237749298927
+          },
+          "southwest": {
+            "lat": 11.55469757010728,
+            "lng": 104.9210752701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "7da8773df5de19ccd065be3b1bdb2f942575e5bb",
+      "name": "Dah Export",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJfeNcaTtRCTER7C00prIi25I",
+      "plus_code": {
+        "compound_code": "HW4C+CX Phnom Penh, Cambodia",
+        "global_code": "7P36HW4C+CX"
+      },
+      "rating": 3.2,
+      "reference": "CmRbAAAA0V88A1-sYdslxpB_sT8siWk1zYq2jbq9UaJh3zpxnN3u6vwthHgxjtw4sYLMhiKzJ8gQYPk7yTv3ziYkw6qkUVkEi3MwAYHrLN9YcAK4NoZNKQnMU2P50Chqp-cUFvs_EhCzy61bUMHh5dutPYDWcGCrGhQPmy4TagYxvuNelCkBVNpZh3ffeQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "#132, Street Samdach Sothearos Blvd (3), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5483925,
+          "lng": 104.9325778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.54986507989272,
+            "lng": 104.9332847798927
+          },
+          "southwest": {
+            "lat": 11.54716542010728,
+            "lng": 104.9305851201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "d910d8c1789140618f145370b8ec2ae8655e4696",
+      "name": "AEON Mall 1 Phnom Penh",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111023916724583303106/photos\">Hideaki Aoyama</a>"
+          ],
+          "photo_reference": "CmRaAAAAmNJwA29OWINlF7dStgr2lWA0AkhQ3n3VND4sP9FIVNeDU5qkjvtUt71-BvMLCv1yxcqR2vdShu2bTc-gFUvEejd05ENtyM-EKq4zJBzQPoyNyv7q2sbIe0Sssa8YswRmEhBBo8LbxrOmEEhTNotMYYXJGhSpZ7kAEK-crtNTremHZagac_k3OQ",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJzToMVilRCTER0g0f-8d2tHs",
+      "plus_code": {
+        "compound_code": "GWXM+92 Phnom Penh, Cambodia",
+        "global_code": "7P36GWXM+92"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA0RBokhwTPvs2mc-otG3JcLPLWulnM6Z8-MCjW5rf3izKaxT1QTTzWa2BlXUYfqvIZNgtctIrLoTz1oqZjIKLBrich99yszfD-iORFA31jnoF0Id429lRf978XUbZBfWuEhCrSS-R78PBGZjrIe8D_3gYGhTqJj6OWKuuy4CcXBSC_MPtEzpKXQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Preah Monivong Blvd, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5303228,
+          "lng": 104.9288267
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.53167262989272,
+            "lng": 104.9301765298927
+          },
+          "southwest": {
+            "lat": 11.52897297010728,
+            "lng": 104.9274768701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "4d846a8665c32c0eda326729e1d11a6d1283371a",
+      "name": "DNT93 Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106425178724150561468/photos\">Sinkhannorith Sann</a>"
+          ],
+          "photo_reference": "CmRaAAAA8BVE776cuW2PXRPABs7fL13D89UiW_AAkE21FphSA90y1_pmv1zRRy3xMUq4uTlbk5dO9ShqJoj2gQactA7Uk2qVK4fuP1NX1ludaL-YHJ0ugCy4DFpkTaQukQ8-SxKOEhARVqKQOhfCx6NcL1ppc9n2GhSiICS6NJCqN6lKdkkfgsT2NNyYNg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ8bNyvs9QCTERcjsMJOsSc8Y",
+      "plus_code": {
+        "compound_code": "GWJH+4G Phnom Penh, Cambodia",
+        "global_code": "7P36GWJH+4G"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAuujxgqpssP4pJsJyaYpCD7g7cIdU2SY1CzlIg-M-IY51kAzIRtGUveYpKvvMU64LEDkGEUXTSk38ut75iG6tfN3ZSSZ4krfY-f4ZqsH2FaA80ETwVkb8mFXYoad385xWEhD65Np-rvUuarqNxI94ta6EGhT-MSeK1x6bqc6TzpJMY3kaOjvzJA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Alleyway of St. 240 1/2, No. 82 E0 St 244, Phnom Phen City,, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5603144,
+          "lng": 104.9302252
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56166422989272,
+            "lng": 104.9315750298927
+          },
+          "southwest": {
+            "lat": 11.55896457010728,
+            "lng": 104.9288753701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "513cdfe81161f1ad7a248536ae4457a3d8c8c717",
+      "name": "Bee Vintage & Craft",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112388402294071502578/photos\">Stephan Spijkers</a>"
+          ],
+          "photo_reference": "CmRaAAAAfavY0rRx15J6pzkqMy_RXCZqo30h2Va2-jMx8Cvhp2N0CQ2rwgLS9-vq877OEDb1sgSYNzF9kyMmNOp2v3wPA7cDIFDV0jBFim04cHS77Fl4WWWh7jtsaCVaTsLoH4a7EhDOhdD58_c0G6aohbxs6VoYGhTpc7fiuHFzgDf1qgTaYp3Vz6CrYQ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ0dZd2DZRCTERJZMKwdBgCjE",
+      "plus_code": {
+        "compound_code": "HW6J+43 Phnom Penh, Cambodia",
+        "global_code": "7P36HW6J+43"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAwNcsAo8L5-KG-4-d9hHn1hLX4rpBqCmODu8obcH-s0MeoznR-XEY0YL6peSXsm8XOtjEyTFCH1LhifD6fpgxA5dK2PqQl_4C0BxPB7IhGk9koJks9eszFslcrMI8KM24EhATArgtprOTWShzVSWJa8yzGhS9ObTZ_CB06ds5acBv_zakTuPvHg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "C 18, St 105 Sangkat Boeng Trabek, Khan Chamkamon, Phnom Penh 12300, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.538519,
+          "lng": 104.920699
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.53986882989272,
+            "lng": 104.9220488298927
+          },
+          "southwest": {
+            "lat": 11.53716917010728,
+            "lng": 104.9193491701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "ec4c3f2103a532566cb5638d8e63c4816dcee518",
+      "name": "Boeung Trabek Plaza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114390865372708721999/photos\">Meeran Anwar</a>"
+          ],
+          "photo_reference": "CmRaAAAAWmx711S1gfnYHaPXmo1knsIpZ8vh4h8Gh2w50I5r3u2O1LJvlp48wVH71FBnbcD7KVZEys2PILJIMlwEhca60AhUXRS0_tGGTJ5QCylSEDTbHHKKYwTvye6c1dz96F-gEhAumNEQ0pN2gxvziAtWEDiyGhS8J8joyzkH8d_jVupmN7iDKJV6jQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJhz3kr95QCTERFqNIfMG2MHE",
+      "plus_code": {
+        "compound_code": "GWQC+C7 Phnom Penh, Cambodia",
+        "global_code": "7P36GWQC+C7"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAWz_2Kd_A-uYj9h-yKsDULNmalrcKd8agwdkNzMqNaFojhu1W4LWR35iWEL2H66agbtKdvXUi6MA1jR7IPBhxg2r4GIp7L9RoVzMuaYJoy99wy4MKaUkSwc_sJAc6p3lCEhDdkK5WDQHLEy5FHuUo_7EUGhR5-s2VG0GgrwoLlArjzA9qRwMAHg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Unnamed Road, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5336794,
+          "lng": 104.9544076
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.53502922989272,
+            "lng": 104.9557574298927
+          },
+          "southwest": {
+            "lat": 11.53232957010728,
+            "lng": 104.9530577701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "5852c93b1cd0210e67c7665e63b7d17a0a3ee70b",
+      "name": "The Park Community Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 949,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104210216245954080297/photos\">Crimson Cory</a>"
+          ],
+          "photo_reference": "CmRaAAAAeuQE3qipK_V8eyRPzrKIVh-MkmUWGO4Q41661oW1Q_wX3SJLWyfNMFLG6TCZJDdOscZO-LD3ZcZYOTrkBpNyvTNNimeJPNg5ooWvmtyUeIou7jfUeG2Z2gX8bysdHyRWEhDzWy0wPOOWoXLARZVr13kcGhR1cJYnUPjGIQ8aohwaJ_w6mPYBGA",
+          "width": 1209
+        }
+      ],
+      "place_id": "ChIJn2zVWyRXCTERbrJzuxDznO4",
+      "plus_code": {
+        "compound_code": "GXM3+FQ Phnom Penh, Cambodia",
+        "global_code": "7P36GXM3+FQ"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAHSO2Uf6V5VcgijMjC3tFlT4igOyCp5P3hcVMWlsf4ezuHPyJG9nFae51laMjFsI__lzuWWvw_OwAU-hNTJBUCbECvzdxU5qkt7smtHgqvDVNuWVuq4ABGYw4KkDXqCC3EhDgl1htOj6JCLtusy6qqDt7GhR2Zlq2luxP5wrcc5VlylGzhdxO6Q",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Oknha Chhun St. (240), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5599265,
+          "lng": 104.9279711
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56122687989272,
+            "lng": 104.9293432798927
+          },
+          "southwest": {
+            "lat": 11.55852722010728,
+            "lng": 104.9266436201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "988d7e2df4a2489e93fda033c91b705cb008675e",
+      "name": "Phnom Penh Souvenir Shop",
+      "photos": [
+        {
+          "height": 630,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104066005092081097720/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAsJIqjm7WShX94FZLpKjfOa3FOxYk-vWUoqqyhPj3WKilZG9Z10uAmKzTUxtyTcmejRMIXOOd26pDhtOgB-_GxlI7ubv_skY7IJ9Z5b3CYMug0oDqvAklqnhBmqbp1kj-EhBjvW_BTnS9zFT6pDU9RuUVGhTPzdtUFKMiVjB6GVQEgu9Y8uYPKg",
+          "width": 515
+        }
+      ],
+      "place_id": "ChIJ5wL9TTdRCTERvPiQm4Jnu3Q",
+      "plus_code": {
+        "compound_code": "HW5H+X5 Phnom Penh, Cambodia",
+        "global_code": "7P36HW5H+X5"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAA7Ujrs8o9eOywUlV6LNj1_XV62x72clurG83GgGB-FLrH-01jexOv95yGQG2tQaOmp9UWA2YpKZ8CgZlYtnkfLBawytoZVkRux7ESb7JlxILsrb3GAA3Nxj4lSUOYsRLOEhDRF2cn0iGzzuNjet9t5372GhSKllOOG2dtNLCe6y3WPfHrY96hgQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Cambodia, Phnom Penh, Preah Trasak Paem St. (63), 11",
+      "geometry": {
+        "location": {
+          "lat": 11.5676976,
+          "lng": 104.9208033
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56907992989272,
+            "lng": 104.9223897298927
+          },
+          "southwest": {
+            "lat": 11.56638027010728,
+            "lng": 104.9196900701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "3bbbd7a0701b5e97e43a313f87b53fbe92c72b5e",
+      "name": "MISSHA Sorya Center Point (PhnomPenh, Cambodia) ផ្សារទំនើបសូរិយា",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1081,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105083048992101379225/photos\">cambodia Missha</a>"
+          ],
+          "photo_reference": "CmRaAAAAYr1rZVJ0GHKXWpcli5_U3fRBE9QRsPmFFYVPA6N3vpYWto9MrYI4_JYnOckVNP21UUQtwNAVzU_hR2kwYNDdJSYmBYUfiXMXdcGegGxRV9uXN5x3QqbIqjx4aVFixYxHEhAlc0NR0sRp3D3VGQyuQXsaGhSUej656lns6NXOiKBAP3F4Xb2_zg",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJNRz-hmZRCTERksc9U3nPpUM",
+      "plus_code": {
+        "compound_code": "HW9C+38 Phnom Penh, Cambodia",
+        "global_code": "7P36HW9C+38"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAEbeYGck2rF7IfPDF5Y0vtbsgEmlzAV6juUlPerff62Hp0IT422GCnywerL9XdMbAKMOjEFf35rgun7p4Uipttat-FWU4cb1cGxqZTvjVKAgQuD3axHuup9fZsJIpHIbuEhDcXqUAuCvFk0nfBI_y8JIfGhTUkISqg0udgXsOPvf1AkSjKP2Amg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "#100-102E0, Road 128, Sangkat Monorom, Khan 7 Makara, Phnom Penh, Phnom Penh 12251, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5688878,
+          "lng": 104.9172181
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57023762989272,
+            "lng": 104.9185679298927
+          },
+          "southwest": {
+            "lat": 11.56753797010728,
+            "lng": 104.9158682701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "492d5f9c40d26195ca59e5ea528f23ed08ca08f9",
+      "name": "12leap Shop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110401009103179911405/photos\">12leap Shop / ហាង១២លាភ</a>"
+          ],
+          "photo_reference": "CmRaAAAAf66ZhiBo_smuBPcvcERcUtzmPrezvYS7yU0z-jVzGr6kSnN-pWTNzQN1_eA3q5bBNCpe_LP7h52TBj2P5H6W223JVLQ5rMA4wa9b-5zwC8EFYvsqf_KxOpvYN60X5fzAEhDiM-v5B7p4X93VlCGVzVjgGhRF_kST08-LcTzO5PIVqRgtYpLjcg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ31sxt0FRCTEReOgpOd9ZZAw",
+      "plus_code": {
+        "compound_code": "HW98+HV Phnom Penh, Cambodia",
+        "global_code": "7P36HW98+HV"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAwyv_gUr6kM8jMzLOg-FK3cj400X3B9a1YuBKQO8RsTGbQ1Qsz0HmEiiY8t5zYU7mW3Va1vljQQMpQxat_6Uh59NVDXsJxv4QgXBach2OggB4KqhSYxMSGoWVr3RIlsDwEhCzPlgc-vkAX82pd0-JCNTsGhQ6GSBaXg6IPVRztrCmjXGyH-lViA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "St. 589, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.6277901,
+          "lng": 104.8777031
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.62913992989272,
+            "lng": 104.8790529298927
+          },
+          "southwest": {
+            "lat": 11.62644027010728,
+            "lng": 104.8763532701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "446b6549950d110663bcac369c5dda3a60c54df8",
+      "name": "Atrium Mall Phnom Penh",
+      "photos": [
+        {
+          "height": 2888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107560922066378835886/photos\">Marzo M3</a>"
+          ],
+          "photo_reference": "CmRaAAAAoyXsqrv7Jn9uTlX8nL90FSKlIpu4zzzaRl-fObcqz1QAwFOOWRc_OxJwsQxkANVKNQQcVqTw1E7ZiSApFIc0AKyF3hlJSrgpZtJqhaq-KoxLmuPbMYkZ_4f5tf7jbDuxEhAFKTszm_jOAZSt1C-5w0ROGhRL2gbUdULx3nEQr51NEWocfeDt_w",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJ5zZse1lSCTERnjyjnGl9aFc",
+      "plus_code": {
+        "compound_code": "JVHH+43 Phnom Penh, Cambodia",
+        "global_code": "7P36JVHH+43"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAkzqyK4lpHPJzLcCkAe36XcZjm3dW6CBrZpIMx-5BneQ9JZ7eYRKMrfgHFFMQ-Jq-EYzsW7o2yQ6jcbg7za_lbtF0WYezEBIV7QvkBEywtO2RTmtF8sGc0Xo-hd9RsweXEhCHCC3cJyzZVXEdhlvr8U-5GhSz7dp12cGuMRra_z7vF7Szl7IeUQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Preah Ang Yukanthor Street (19), Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.561059,
+          "lng": 104.9291338
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.56242737989272,
+            "lng": 104.9305291798927
+          },
+          "southwest": {
+            "lat": 11.55972772010728,
+            "lng": 104.9278295201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "e22a98605307c4f5f8d32d9c80d6b286873ade66",
+      "name": "Mini Fashion Shop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114136144807859959740/photos\">MiniTech</a>"
+          ],
+          "photo_reference": "CmRaAAAAdtIU413XpJg6zFbBB7-q0EwkJfqX_fITEffOpofuxIEU-CDqLeqQk0iLtphIGPj_jpzidm8HIgE4igtJ2-RP-QZW5hAgsfXUxA93QHIg7vRllOHNxs2wUAUjT9Gm_YKvEhDX9_w9G76xwPoECI04CFCGGhRHi4DZ1QPDqG3ytE6CA47ujbkIhQ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJbzZcFjdRCTERGtneSVYDi-o",
+      "plus_code": {
+        "compound_code": "HW6H+CM Phnom Penh, Cambodia",
+        "global_code": "7P36HW6H+CM"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAFAG4QOsVraOkIlwbTxaEBYLWU3QYq7RKJ47zitV-mhxkLhT0XlyaLMxRkAA-6Y71p8nT63Mpqwj_mI4Kv_woHqh_pZ8bqhcRbC37d1k4YVVIrmzUz4f47Uk4SBKPd9B_EhBYcy0Q3MfW_ZclFzgK2qFXGhQTx-mdldjpwb83Q-Ht_Kl4ZfA7jQ",
+      "types": [
+        "shopping_mall",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "173, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5490141,
+          "lng": 104.9115104
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55036392989272,
+            "lng": 104.9128602298927
+          },
+          "southwest": {
+            "lat": 11.54766427010728,
+            "lng": 104.9101605701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "4c4382cc93ff48ccbe810724ce22691f66d78726",
+      "name": "Sopheak Baby Shop",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104992011882933588206/photos\">Vandy Srun</a>"
+          ],
+          "photo_reference": "CmRaAAAATz3Tml_r9GL6KbGUTMawnSW4OCawVoWLTPMA9Nx4ruPHlp-wJ-e8Gk9aT_simQt5t0N2rlBGmtZXrkuGNgOgR6dmDo01y307mGAeI8Pc4gB624e2-ygNeNWWdnthq0tLEhBqVVzMnpLYnyTow5tdOjeDGhTlwOCtW-J4L8VqMWMX0lyEFxPuzw",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJlWLJZR5RCTERdxO4TszOQr0",
+      "plus_code": {
+        "compound_code": "GWX6+JJ Phnom Penh, Cambodia",
+        "global_code": "7P36GWX6+JJ"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAE38UHSErykL9HcorRvr9Tn81BcGPDnSUi3dGvTSKnQsGLsWHmXLExefhwKKOlVQIIgdk1Tz8S9vfnc8gS5teO6LzsUV5OqvwyaNKfah7ZJ6xwiBdx-Aa16i8Wh5PpwOsEhCLh8bt1gFTQ4hQy3EKzHmxGhQlhEsO8RaGozZ2InGg21XWhA64Qg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No. 118Eo, Ang Eng (St. 13), 12204 Phnom Penh, Preah Ang Eng St. (13), Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5709501,
+          "lng": 104.927894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.57228572989272,
+            "lng": 104.9292010798927
+          },
+          "southwest": {
+            "lat": 11.56958607010728,
+            "lng": 104.9265014201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "fc15723e0753b9b0a9a58a2bbf7e66d14d3cabc6",
+      "name": "Pen Sok Drink Shop",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108524381481625375676/photos\">Yi Lida</a>"
+          ],
+          "photo_reference": "CmRaAAAAWRUIEl_dfUmRk_QkM5MqHvOyvJV7bdsymgb10smk8-A05lwDGBZIwwLPL_8YQKHGmz0Vn84ES2m1m25s37cEGTGty4_6s2-TBAMGgESgj8kjM7HWeN7I2ywL3zajOvPJEhBKH0NrghtLEoIH-X4ffwVKGhRrTm3xtt3e9L4bt9T-RoS6DWZXvw",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJ7-sVUk9RCTERk-Ckc1_fT7E",
+      "plus_code": {
+        "compound_code": "HWCH+95 Phnom Penh, Cambodia",
+        "global_code": "7P36HWCH+95"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA-EorS87f0K0XvDKBxq0Wi01c7RRKUNhXWZasEVeT1uDTjCkgDZ-2919NK0Hvb0lnxobfVzg8uydFhWm_DpX8aLDbeuKb8vPlV_JF_cxx4ZO99TIaltWEyAZT9BZzqNKXEhAg8q0rDnvJ3D1q4rKMoezXGhQJyrrvWDE6rjoEj0Hy5cmgjWicpQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "No. 10, St. 278, 12302 Phnom Penh, St 278, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5550834,
+          "lng": 104.9253264
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.55659612989272,
+            "lng": 104.9266511798927
+          },
+          "southwest": {
+            "lat": 11.55389647010728,
+            "lng": 104.9239515201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "357068a7c200263a57de373b7b28a5d31a218144",
+      "name": "Monsoon Souvenir Shop",
+      "opening_hours": {},
+      "place_id": "ChIJB6YNxDpRCTER6Gaf9X4Wi4s",
+      "plus_code": {
+        "compound_code": "HW4G+24 Phnom Penh, Cambodia",
+        "global_code": "7P36HW4G+24"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAA8TYTC6wSUBJVx5UqP1qlz2sUsdfEsrjfAmlnoMJm3XumyvO2TJmXB0vCaGClwVKgFIbBatJgGcKhSeHZSVncXEaAmYst8z6alWrK7x9y3Q-8-BdaZ3PobLs3_7gr1faMEhB-iZIbFMNCm4RB5ExY3fOVGhS9T55bT259FIDoWYueH98YfgIOmg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "7C, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5465501,
+          "lng": 104.8889777
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.54790017989272,
+            "lng": 104.8903296298927
+          },
+          "southwest": {
+            "lat": 11.54520052010728,
+            "lng": 104.8876299701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "882a33c37fb81f4fe2de8093a878273b01dcb091",
+      "name": "Riya Shop Cambodia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105084773479735009654/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRZAAAABQ-IIWbmRGzXQq6nxjM7ubFk-q4hRGXtdAC7hW8_KWlxWLmiida2NLSDn6fgTasJ4Uir4XxkVJCYpoUSLKd-eT8YG776-IfnD8oCzfeRPSuylepWj7T8pFam-1WB-iVSEhDUxjzn3kzAXiBi2jiIV5pwGhQcbiOKfMVjhK2fIh2MuvVkh0piCg",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJpfYXH6tRCTERy31uRjXbr6Q",
+      "plus_code": {
+        "compound_code": "GVWQ+JH Phnom Penh, Cambodia",
+        "global_code": "7P36GVWQ+JH"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAcIMShc3UcmHoQUH9yx7kzKtnZNhb3gZRnADaHt6L24DVEidwEdgOMED9OaVnCPm96L3IvG1EdDvLESJYVY4r-Cq3xBTA_MrdLhQ0d3uQbYSB_kYwtNxhPUlsECaz16tyEhCKp1URM9tt0_4JyghbkgSnGhRYZU-Nfo1_eJKFrrmILRzFlfbtWQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "B87-B89-B91 Street 199, Phnom Penh, Cambodia",
+      "geometry": {
+        "location": {
+          "lat": 11.5456731,
+          "lng": 104.9015484
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 11.54686297989272,
+            "lng": 104.9031048798927
+          },
+          "southwest": {
+            "lat": 11.54416332010728,
+            "lng": 104.9004052201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "08632018311a3c40c0dd4bfa0fee62cbd240988a",
+      "name": "Sovanna Shopping Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112312563863438921864/photos\">Borin Hy</a>"
+          ],
+          "photo_reference": "CmRaAAAAI8U3564DOLRGmucH5l1x_iTSxf19ZiFW18_92Gcynmin0igjVnVILKgD49ip6C_Vpbjh1ko-xo64Wu-dFP6zkoZIMnMOjnWL-WeJ9QAlfiuynh27k33e-IGcAMPeU2L2EhB1vE_pI42cmpAjcLtuAu7NGhQwQ4gEgfo4DMmmAL8V3Zf5V-NGpQ",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJM6WE8AJRCTERtgymVrkU-tE",
+      "plus_code": {
+        "compound_code": "GWW2+7J Phnom Penh, Cambodia",
+        "global_code": "7P36GWW2+7J"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAXr3jG4YjcYpJEiJXn1f6kUnwS0_Gs4dzI_bLcFJft4zHLlh68HL8woxKUyLRiOxPJ3nYJQ_C7yZAG1yalHPP2l-ENjDsoVvlcXuvI0rpS1YLPcgFZC1lbD_cxAvgCczrEhC-Uw_jOqHNSdCc9Fa7LJayGhQp7PxLoVaCvaCTo9Km3-D4vL9Skw",
+      "types": [
+        "shopping_mall",
+        "supermarket",
+        "grocery_or_supermarket",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

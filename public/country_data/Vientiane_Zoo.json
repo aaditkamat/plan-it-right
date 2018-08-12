@@ -1,0 +1,133 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Unit 15, House No. 173, Sisavath Tai Village, Chathabouly District, Vientiane 01000, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.971783,
+          "lng": 102.615378
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.97313282989272,
+            "lng": 102.6167278298927
+          },
+          "southwest": {
+            "lat": 17.97043317010727,
+            "lng": 102.6140281701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "2c75cad6c7ac014e7a8f7d302ea5087b3c75c224",
+      "name": "Wildlife Conservation Society - Lao PDR",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJe9DS5HtoJDERrFhybM8WLjE",
+      "plus_code": {
+        "compound_code": "XJC8+P5 Vientiane, Laos",
+        "global_code": "7P94XJC8+P5"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAloz-EX1Nn_yM5Bo_aPiqeyZhOEPFcj84pfJez7LQe2U8M7rbhTAEWocfINM-G7lRM_TikQ3ykHnYmYGe8nKnUXbNmry9ORrzTDw4FV9McFZpEMfTn67CAH0NeQUK5cYyEhBon0jyidbPe2aVcn_-2ChKGhSzFZpssFPGCoezJzxMzrL8_HBOuw",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "P.D.R, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9706189,
+          "lng": 102.6185264
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.97196872989272,
+            "lng": 102.6198762298927
+          },
+          "southwest": {
+            "lat": 17.96926907010728,
+            "lng": 102.6171765701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "9ffdd262f71f3d527e7c8f14e46fa3cc19bc2cd4",
+      "name": "Patuxay Monument",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113712617470050967014/photos\">Pornlert Kulprasootdilok</a>"
+          ],
+          "photo_reference": "CmRaAAAApBfOa4yJnB9d6hwx34eWmwsYSefOyzQM-uaPZNBTjIrRcSh5fG-2vRv_rgItllWMcZLEIVhjZ7cjQRwIcRxZBugwFh7lLsL7HxdP4sXm5JN_AxcrP7_KwMhJLXmj9a11EhCzNwmaCsQalZoVhESoueeYGhTeoMMCIg4Y0ve1MfYZ8xbGHRDzIQ",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJ3-FV1H5oJDERsEVErjlNryQ",
+      "plus_code": {
+        "compound_code": "XJC9+6C Vientiane, Laos",
+        "global_code": "7P94XJC9+6C"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA8Dl-VnRxRhlPFQLWRldRCwG_buu451QwrkUi4I1HkdlpTS_nSp3-OV5gs_wT2iD2xKu-i6k16TDOD4mAmc7MeQzKAwklzU51BcIiBITFFSFbwNVx0uuT0T5tfnVAwwhEEhA35wtIXfl4WyNrBG6kKKhSGhSMX5UkieCLlDYju1W28_Dpxi81-Q",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.960369,
+          "lng": 102.6474195
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.96171882989272,
+            "lng": 102.6487693298927
+          },
+          "southwest": {
+            "lat": 17.95901917010728,
+            "lng": 102.6460696701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "a3f500987e8439d3e514723d226e4da20c4fe692",
+      "name": "Mini Zoo Vientiane Lao",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101752315075737770979/photos\">vilaivat MOUNGKHOUNPHAISANE</a>"
+          ],
+          "photo_reference": "CmRaAAAAGrf1brmDO0qbRpSfwCvaS8YrGH9Qt6al2el9_ewwMlFW0i3j4tWMkxkI-mNG6p5DP8WgTgxjm0ijjziz0HodaAlFpVZSvK_22oVtMirjVf7M_9EVChjaNmKVy1QMjxdOEhA2NfidCiADhqK537zwWcGmGhTVn2ukAPLixqSMFHJu-SIMvAb9CQ",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJX7bR_0pmJDERJ5F7_2qCe7w",
+      "plus_code": {
+        "compound_code": "XJ6W+4X Vientiane, Laos",
+        "global_code": "7P94XJ6W+4X"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAr4UWzKvZOgbuzjYcLyDcDbWe8GbzZo-ga8NPKZv3vdKvxfRqi2WHt3S1Wcqs18CgJqUtsfVp7NUtZNIGYBfCJwe8bD4yMF3pOgoh_aRMaIlK0GWPklvYMkU1H6WCJoDDEhDsiAuzDGmPNt_HZPX-tpLbGhSY-Zg9q7qgcY7wrMXvAvDxOZUDjw",
+      "types": [
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

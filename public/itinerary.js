@@ -2,10 +2,22 @@
 var test_json = null;
 const itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
 
-$.getJSON('demo.json', (data) => {
-    test_json = data;
-    addContent();
-});
+var getData = () => {
+    dataSources = [];
+    let formOptions = JSON.parse(sessionStorage.getItem('formOptions'));
+    $.getJSON(`country_data/${formOptions.city}.json`, (data) => {
+        dataSources.push(data);
+    });
+    for (option of formOptions.additionalDetails) {
+        $.getJSON(`country_data/${formOptions.city}_${option}.json`, (data) => {
+            dataSources.push(data);
+        });
+    }
+    $.getJSON('demo.json', (data) => {
+        test_json = data;
+        addContent(formOptions);
+    });
+};
 
 var addButton = (id, value, json, redirect_url) => {
     var button = document.createElement("a");
@@ -32,9 +44,26 @@ var addButton = (id, value, json, redirect_url) => {
     document.querySelector(".justify-content-center").append(button);
 };
 
-var createPlan = (planContents, curr_day, placeName) => {
-    const planItems = test_json;
+var createPlan = (planItems, planContents, curr_day) => {
     let ctr = 1;
+
+    let addStars = (rating, starSection) => {
+        let createStar = (width) => {
+            const outerStar = document.createElement('i'), innerStar = document.createElement('i');
+            innerStar.className = 'star star-over fa fa-star star-visible';
+            if (width !== null)
+                innerStar.style.width = `${width}%`;
+            outerStar.className = 'star star-under fa fa-star';
+            outerStar.append(innerStar);
+            starSection.append(outerStar);
+        };
+        for (let j = 0; j <= parseInt(rating); j++)
+            if (j !== parseInt(rating))
+                createStar(null);
+            else
+                createStar((rating - parseInt(rating)) * 100);
+    };
+
     for (let i = 0; i < planItems.length; i++) {
         const entityDetails = document.createElement("div");
         entityDetails.className = "entity_details";
@@ -50,27 +79,67 @@ var createPlan = (planContents, curr_day, placeName) => {
         circle.className = "timeline_circle";
         circle.style = `margin-left: -115px; margin-top: -70px; position: absolute;`;
         const imageTag = document.createElement("img");
-        if (planItems[i].day === curr_day && planItems[i].city.toLowerCase() === placeName.toLowerCase()) {
+        if (planItems[i].day === curr_day) {
             entityName.innerText = planItems[i].name;
             entityTime.innerText = planItems[i].time;
             circle.innerHTML = `<svg height="100" width="100">
             <circle cx="50" cy="50" r="10" stroke="black" stroke-width="3" fill="black" />
             <text fill="#ffffff" font-size="10" font-family="Verdana" x="48" y="54">${ctr++}</text>
             </svg>`;
-            var domObjects = [horizontalSection, entityDetails, entityTime, starSection, imageTag, circle, entityName, planContents];
+            var domObjects = [horizontalSection, entityDetails, entityTime, imageTag, circle, entityName, planContents];
             getDestinationAttributes(domObjects);
+            addStars(planItems[i].rating, starSection);
+            let ratingSpan = document.createElement('span');
+            ratingSpan.className = 'rating-span';
+            if (planItems[i].rating !== parseInt(planItems[i].rating))
+                ratingSpan.innerText = planItems[i].rating;
+            else
+                ratingSpan.innerText = planItems[i].rating + '.0';
+            domObjects.splice(3, 0, starSection);
+            domObjects.push(ratingSpan);
             handleDomObjects(domObjects);
         }
     }
 };
 
-var addContent = function () {
-    let combineJSON = (firstJSON, secondJSON) => {
-        return {first: firstJSON, second: secondJSON};
-    };
-    let data = JSON.parse(sessionStorage.getItem("formOptions")), city = data.city;
-    let numOfDays = getLengthOfTrip(data);
-    document.title = city + " Trip Itinerary";
+var addContent = (formOptions) => {
+    const combineJSON = (firstJSON, secondJSON) => {
+            return {
+                first: firstJSON,
+                second: secondJSON
+            };
+        },
+        numOfDays = getLengthOfTrip(formOptions), planItems = [],
+        referenceTime = moment(new Date(1970, 1, 1, 10, 0, 0));
+    let currTime = '', day = 0, displayTime = '';
+    let ctr = 0;
+    document.title = formOptions.city + " Trip Itinerary";
+
+    for (source of dataSources) {
+        for (result of source.results) {
+            day = Math.ceil(ctr / numOfDays) + 1;
+            if ((planItems.length >= 1 && day > planItems[planItems.length - 1].day) || planItems.length === 0)
+                currTime = referenceTime;
+            else
+                currTime = currTime.add(1, 'hours');
+            if (currTime.hours() === 0)
+                displayTime = '12:00 am';
+            else if (currTime.hours() >= 1 && currTime.hours() <= 11)
+                displayTime = `${currTime.hours()}:00 am`;
+            else if (currTime.hours() === 12)
+                displayTime = `12:00pm`;
+            else
+                displayTime = `${currTime.hours() - 12}:00 pm`;
+            planItems.push({
+                name: result.name,
+                time: displayTime,
+                day: day,
+                rating: result.rating
+            });
+            ctr++;
+        }
+        ctr = 0;
+    }
     for (let curr_day = 1; curr_day <= numOfDays; curr_day += 1) {
         const plan = document.createElement("div");
         plan.className = "plan";
@@ -85,72 +154,29 @@ var addContent = function () {
         dayText.innerText = "Day " + curr_day;
         plan.append(dayText);
         plan.append(planContents);
-        createPlan(planContents, curr_day, document.title.split(" Trip ")[0]);
+        createPlan(planItems, planContents, curr_day);
     }
-    addButton("get-trip", "Get a downloadable copy of the trip", city, `#`);
-    addButton("get-calendar", "Get calendar for the trip", combineJSON(test_json, JSON.parse(sessionStorage.getItem('formOptions'))), "calendar.html");
-};
-
-var getAttribute = (placeName, attribute) => {
-    const planItems = test_json;
-    for (let i = 0; i < planItems.length; i++) {
-        if (placeName === planItems[i].name) {
-            return planItems[i][`${attribute}`];
-        }
-    } 
-};
-
-var getRating = (placeName) => { 
-    return getAttribute(placeName, 'rating');
-};
-
-var getReviews = (placeName) => {
-    return getAttribute(placeName, 'reviewsCount');
+    addButton("get-trip", "Get a downloadable copy of the trip", formOptions.city, `#`);
+    addButton("get-calendar", "Get calendar for the trip", combineJSON(test_json, formOptions), "calendar.html");
 };
 
 var getDestinationAttributes = function(domObjects) {
     const service = new google.maps.places.PlacesService(map);
     var places = null;
     const request = {
-        address: domObjects[6].innerText,
+        address: domObjects[5].innerText,
         region: "sg"
     };
-    const starSection = domObjects[3];
-    const imageTag = domObjects[4];
+    const imageTag = domObjects[3];
     imageTag.id = request.address;
     imageTag.className= "destination_images";
     var ctr = 0;
-    
-    let addRating = (reviews, rating, starSection) => {
-        for (let j = 0; j < rating; j++) {
-            const starDiv = document.createElement("div");   
-            starDiv.style.float="left";
-            starDiv.style.marginLeft="5px";
-            const star = document.createElement("span");
-            star.innerHTML = "&starf;";
-            star.style.fontSize = "200%";
-            star.style.color="orange";
-            starDiv.appendChild(star);
-            starSection.appendChild(starDiv);
-        }
-        const reviewsSection = document.createElement("span");
-        reviewsSection.className = "reviews-section";
-        reviewsSection.innerText = `(${reviews} reviews)`;
-        if (typeof reviews === "number")
-            starSection.append(reviewsSection);
-    };
 
-    let action = (starSection, status) => {
-        imageTag.src = '';
-        let rating = Math.round(getRating(request.address));
-        let reviews = getReviews(request.address);
-        addRating(reviews, rating, starSection);
+    let action = (status) => {
         console.log(request.address + ": " + status);
     };
 
-    let addPopupContent = (place, popUpContent) => {
-        let placeName = document.createElement('h1');
-        placeName.className = "place-name";
+    let populatePopupContent = (place, popUpContent) => {
         let openingHours = document.createElement('h4');
         openingHours.className ="opening-hours-label";
         openingHours.innerText = "Opening Hours:";
@@ -160,38 +186,46 @@ var getDestinationAttributes = function(domObjects) {
         openNowLabel.className ="open-today";
         let image = document.createElement('img');
         image.src = "";
-
-        if (typeof place === "object") {
-            placeName.innerText = `${place.name}`;
-            if ('opening_hours' in place && 'open_now' in place.opening_hours) {
-                const array = place.opening_hours.weekday_text, openNow = place.opening_hours.open_now;
-                for (let i = 0; i < array.length; i++)
-                    openingHoursDiv.innerText += array[i] + "\n";
-                openNowLabel.innerText = `Open Now:`;
-                if (openNow)
-                    openNowBox.style.color = "green";
-                else
-                    openNowBox.style.color = "red";
-                openNowBox.innerText = openNow;
-                openNowBox.className = "open-now-box";
-            } 
-            if ('photos' in place && place.photos.length > 2) 
-                image.src = place.photos[2].getUrl({maxWidth: 600, maxHeight: 400});
+        if ('opening_hours' in place && 'open_now' in place.opening_hours) {
+            const array = place.opening_hours.weekday_text, openNow = place.opening_hours.open_now;
+            for (let i = 0; i < array.length; i++)
+                openingHoursDiv.innerText += array[i] + "\n";
+            openNowLabel.innerText = `Open Now:`;
+            if (openNow)
+                openNowBox.style.color = "green";
+            else
+                openNowBox.style.color = "red";
+            openNowBox.innerText = openNow;
+            openNowBox.className = "open-now-box";
         }
-        else {
-            placeName.innerText = `${place}`;
+        if ('photos' in place && place.photos.length > 2)
+            image.src = place.photos[2].getUrl({
+                maxWidth: 600,
+                maxHeight: 400
+            });
+        else
             image.src = getImageURL(`#${place}`);
-        }
         popUpContent.append(image);
         for (let i = 0; i < 3; i++)
             popUpContent.append(document.createElement('br'));
-        popUpContent.append(placeName);
         popUpContent.append(openingHours);
         popUpContent.append(openingHoursDiv);
         for (let i = 0; i < 2; i++)
             popUpContent.append(document.createElement('br'));
         popUpContent.append(openNowLabel);
         popUpContent.append(openNowBox);
+    };
+
+    let addPopupContent = (place, popUpContent) => {
+        let placeName = document.createElement('h1');
+        placeName.className = "place-name";
+        if (typeof place === 'object')
+            placeName.innerText = `${place.name}`;
+        else
+            placeName.innerText = `${place}`;
+        popUpContent.append(placeName);
+        for (let i = 0; i < 2; i++)
+            popUpContent.append(document.createElement('br'));
     };
 
     let createPopup = (place, ctr) => {
@@ -207,8 +241,9 @@ var getDestinationAttributes = function(domObjects) {
         closeButton.innerHTML = "&times;";
         closeButtonBox.append(closeButton);
         popUpContent.append(closeButtonBox);
+        addPopupContent(place, popUpContent);
         if (typeof place === "object")
-            addPopupContent(place, popUpContent); 
+            populatePopupContent(place, popUpContent);
         popUp.append(popUpContent);
         document.body.append(popUp);
      };
@@ -221,17 +256,8 @@ var getDestinationAttributes = function(domObjects) {
         if (status === google.maps.places.PlacesServiceStatus.OK) {
             if (place.photos !== undefined)
                 imageTag.src = place.photos[0].getUrl({maxHeight: 300, maxWidth: 400});
-            let rating = Math.round(place.rating);
-            if (isNaN(rating)) 
-                rating = Math.round(getRating(imageTag.id));
-            let reviews = null;
-            if (typeof places.reviews !== "undefined")
-                reviews = place.reviews.length;
-            else
-                reviews = getReviews(imageTag.id);            
-            addRating(reviews, rating, starSection);
         } else {
-            action(starSection, status);
+            action(status);
         }
     };
 
@@ -241,8 +267,10 @@ var getDestinationAttributes = function(domObjects) {
             const placeId = places[0].place_id;
             service.getDetails({placeId: placeId}, second_callback);
         } else {
+            if (request.address === 'Canvas')
+                console.log(request);
             createPopup(request.address, ctr++);
-            action(starSection, status);
+            action(status);
         }
     };
 
@@ -264,14 +292,12 @@ var handleDomObjects = (domObjects) => {
     const circle = domObjects[5];
     const entityName = domObjects[6];
     const planContents = domObjects[7];
+    const ratingSpan = domObjects[8];
     let findPopUp = () => {
-        let popUps = document.querySelectorAll('.popup');
+        let popUps = document.querySelectorAll('div.popup');
         for (var i = 0; i < popUps.length; i++) {
-            if (popUps[i].childNodes[0].childNodes.length > 1) {
-                console.log(entityName.innerText + " " + popUps[i].childNodes[0].childNodes[5].innerText);
-                if (entityName.innerText.includes(popUps[i].childNodes[0].childNodes[5].innerText))
-                    return popUps[i];
-            }
+            if (entityName.innerText === popUps[i].childNodes[0].childNodes[1].innerText)
+                return popUps[i];
         }
     };
 
@@ -281,6 +307,7 @@ var handleDomObjects = (domObjects) => {
     horizontalSection.append(entityTime);
     horizontalSection.append(entityName);
     entityDetails.append(horizontalSection);
+    entityDetails.append(ratingSpan);
     if (entityName.innerText !== "Lunch" && entityName.innerText !== "Dinner") {
         entityDetails.append(starSection);
         entityDetails.append(image_tag);
@@ -303,4 +330,4 @@ var handleDomObjects = (domObjects) => {
     planContents.append(entityDetails);
 };
 
-
+getData();

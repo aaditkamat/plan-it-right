@@ -32,9 +32,12 @@
             /******/ 		// Create a new module (and put it into the cache)
             /******/
             var module = installedModules[moduleId] = {
-                /******/            i: moduleId,
-                /******/            l: false,
-                /******/            exports: {}
+                /******/
+                i: moduleId,
+                /******/
+                l: false,
+                /******/
+                exports: {}
                 /******/
             };
             /******/
@@ -69,9 +72,12 @@
             if (!__webpack_require__.o(exports, name)) {
                 /******/
                 Object.defineProperty(exports, name, {
-                    /******/                configurable: false,
-                    /******/                enumerable: true,
-                    /******/                get: getter
+                    /******/
+                    configurable: false,
+                    /******/
+                    enumerable: true,
+                    /******/
+                    get: getter
                     /******/
                 });
                 /******/
@@ -3532,7 +3538,10 @@
 
                         body.removeChild(container);
 
-                        return {baseline: baseline, middle: middle};
+                        return {
+                            baseline: baseline,
+                            middle: middle
+                        };
                     }
                 }, {
                     key: 'getMetrics',
@@ -5471,7 +5480,10 @@
 
             var cssFormattedClasses = function cssFormattedClasses(codePoints, options) {
                 if (!options) {
-                    options = {lineBreak: 'normal', wordBreak: 'normal'};
+                    options = {
+                        lineBreak: 'normal',
+                        wordBreak: 'normal'
+                    };
                 }
 
                 var _codePointsToCharacte3 = codePointsToCharacterClasses(codePoints, options.lineBreak),
@@ -5555,7 +5567,10 @@
                         if (lineBreak !== BREAK_NOT_ALLOWED || nextIndex === length) {
                             var value = new Break(codePoints, lineBreak, lastEnd, nextIndex);
                             lastEnd = nextIndex;
-                            return {value: value, done: false};
+                            return {
+                                value: value,
+                                done: false
+                            };
                         }
 
                         return {done: true};
@@ -6334,7 +6349,10 @@
                     var lastSpaceIndex = value.lastIndexOf(' ');
                     var _color = new _Color2.default(HAS_LENGTH ? value.substring(0, lastSpaceIndex) : value);
                     var _stop = HAS_LENGTH ? new _Length2.default(value.substring(lastSpaceIndex + 1)) : i === firstColorStopIndex ? new _Length2.default('0%') : i === args.length - 1 ? new _Length2.default('100%') : null;
-                    colorStops.push({color: _color, stop: _stop});
+                    colorStops.push({
+                        color: _color,
+                        stop: _stop
+                    });
                 }
 
                 var absoluteValuedColorStops = colorStops.map(function (_ref2) {
@@ -6443,7 +6461,12 @@
                 var x1 = width - x0;
                 var y1 = height - y0;
 
-                return {x0: x0, x1: x1, y0: y0, y1: y1};
+                return {
+                    x0: x0,
+                    x1: x1,
+                    y0: y0,
+                    y1: y1
+                };
             };
 
             var parseTopRight = function parseTopRight(bounds) {
@@ -6500,7 +6523,16 @@
             };
 
             var findCorner = function findCorner(bounds, x, y, closest) {
-                var corners = [{x: 0, y: 0}, {x: 0, y: bounds.height}, {x: bounds.width, y: 0}, {
+                var corners = [{
+                    x: 0,
+                    y: 0
+                }, {
+                    x: 0,
+                    y: bounds.height
+                }, {
+                    x: bounds.width,
+                    y: 0
+                }, {
                     x: bounds.width,
                     y: bounds.height
                 }];
@@ -7831,16 +7863,25 @@
 
                         case TOKEN_TYPE.URL:
                             if (s) {
-                                contentItems.push({type: PSEUDO_CONTENT_ITEM_TYPE.TEXT, value: s});
+                                contentItems.push({
+                                    type: PSEUDO_CONTENT_ITEM_TYPE.TEXT,
+                                    value: s
+                                });
                                 s = '';
                             }
-                            contentItems.push({type: PSEUDO_CONTENT_ITEM_TYPE.IMAGE, value: token.value || ''});
+                            contentItems.push({
+                                type: PSEUDO_CONTENT_ITEM_TYPE.IMAGE,
+                                value: token.value || ''
+                            });
                             break;
                     }
                 }
 
                 if (s) {
-                    contentItems.push({type: PSEUDO_CONTENT_ITEM_TYPE.TEXT, value: s});
+                    contentItems.push({
+                        type: PSEUDO_CONTENT_ITEM_TYPE.TEXT,
+                        value: s
+                    });
                 }
 
                 return contentItems;
@@ -7872,7 +7913,10 @@
                             } else {
                                 isString = !isString;
                                 if (!isFunction && !isString) {
-                                    tokens.push({type: TOKEN_TYPE.STRING, value: str});
+                                    tokens.push({
+                                        type: TOKEN_TYPE.STRING,
+                                        value: str
+                                    });
                                     str = '';
                                 }
                             }
@@ -7909,7 +7953,10 @@
                                 switch (functionName) {
                                     case 'attr':
                                         if (args.length > 0) {
-                                            tokens.push({type: TOKEN_TYPE.ATTRIBUTE, value: args[0]});
+                                            tokens.push({
+                                                type: TOKEN_TYPE.ATTRIBUTE,
+                                                value: args[0]
+                                            });
                                         }
                                         break;
 
@@ -7944,7 +7991,10 @@
 
                                     case 'url':
                                         if (args.length > 0) {
-                                            tokens.push({type: TOKEN_TYPE.URL, value: args[0]});
+                                            tokens.push({
+                                                type: TOKEN_TYPE.URL,
+                                                value: args[0]
+                                            });
                                         }
                                         break;
                                 }

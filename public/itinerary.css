@@ -152,14 +152,15 @@ h4 {
 } 
 
 .entity_time {
-    float:left;
+    float: left;
     color: gray;
-    font-weight: normal;
+    margin-left: 25px;
+    font-weight: bold;
 }
 
 .destination_images {
     margin-top: -70px;
-    margin-left: 270px;
+    margin-left: 280px;
     width: 200px;
     height: 150px;
     position: absolute;
@@ -202,4 +203,35 @@ div.nav-link {
 
 div.nav-link:hover {
     cursor: pointer;
+}
+
+.rating-span {
+    float: left;
+    margin-left: 69px;
+    margin-top: -30px;
+    width: 100%;
+    font: 22px "Arial Black", Gadget, sans-serif;
+}
+
+.star {
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.star-under {
+    color: #ddd;
+}
+
+.star-over {
+    color: #f80;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.star-visible {
+    display: inline-block;
 }

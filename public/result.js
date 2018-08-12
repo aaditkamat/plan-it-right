@@ -12,7 +12,6 @@ $(document).ready(function () {
     imageDiv.append(planTitle);
     imageDiv.append(heading);
     addMap(title);
-    getDestinations(title);
 });
 
 var getLengthOfTrip = (data) => {
@@ -55,6 +54,3 @@ var addMap = (title) => {
     });
 };
 
-var getDestinations = (title) => {
-    $.post(`https://maps.googleapis.com/maps/api/place/textsearch/json?input=${title}&key=AIzaSyD4un_NkfBiUU0ijI86MkFLc5j1xpdf-xE`, (data) => console.log(data), 'json');
-}

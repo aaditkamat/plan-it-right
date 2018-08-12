@@ -1,0 +1,847 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCBwEAAFiCU3y9g0JlO8ApxEuUONNWV2p3_YLbcNcndZTUnSPFikRXwkE7_RQGk4BmZWKJ8wNwTfQuIsnqPS3CEYhN1mJkTAdlGIO3-XCg1khpY7ym9tAZGvDXPt1H8EyTalfVdJ4iKpJ_1ITOGidmIJ88HrskM8s3yKz8wQeub5P6cfBHQv6bpYv_yrKuZAuC-4rPwDvkKQPq_aq2f1xs01Ye7c7ksmOT0CEQ4VGP3hoAqMr1vCCqS2TaYwz0SaHsA1MegwGXj3yzrToeGJgCh_jgo5kg02vJvWbM5hSjfqQ2Buy1-eqxA9dH-7_cuPkiQla6nDvF6jIMgHvwoYMb2fPEKEedfyMu0z8Zje_Y8XhUqG6qEhCDJkjvIhD8x-NO8sdTgC3QGhSqNLCveD0ntfrIj7rSznDjpwEDDg",
+  "results": [
+    {
+      "formatted_address": "5343 St., General Luna, Makati, 1210 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.565466,
+          "lng": 121.02927
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56681582989272,
+            "lng": 121.0306198298927
+          },
+          "southwest": {
+            "lat": 14.56411617010728,
+            "lng": 121.0279201701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "e610523b70fa68c4d9a81a24883148a3060fbe46",
+      "name": "Royal Club",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107075732065658355266/photos\">AcaPilya Chill</a>"
+          ],
+          "photo_reference": "CmRaAAAAfX_6H3J-WEopkQZh4eLMg7hkhJi58Ntw3clO1THc21T23nEFQImoSPOEqhsDuEwK9icMIFjB9KvLOJeq1-6XZc9-qbtuYmFnFcN_BsW_HR70m7K9_Eje6oGrjA88i4CgEhCqIeZ3qZUWQ3ghu5pPautKGhTsiRB_C2e8n2J276GpRHNDXtf3eg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ2YsbuKvJlzMRnuMx3xsE7tc",
+      "plus_code": {
+        "compound_code": "H28H+5P Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H28H+5P"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAALdGOIzDykFM9-v8mMMtG8CGUlUoXmeYYoiVDN9abswh_MUJyaglQ_b7x5mWT5gM_B2JnEZ_a5dgpowtC9pQuCunyFQWVLTL32TaQCNy2pF48qt4iQzq1ysLVcfma7N5aEhAyPf6w0aL6xWeenq6SnIUcGhS8gblu4owvhrBC206tCbigmgflEQ",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1917 Adriatico St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5696088,
+          "lng": 120.9862658
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57100637989272,
+            "lng": 120.9876720798927
+          },
+          "southwest": {
+            "lat": 14.56830672010728,
+            "lng": 120.9849724201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "46c25d92b052193d9791b7aec4ff0156660135d7",
+      "name": "Exklusiv",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116333777524644903568/photos\">梅田慎也</a>"
+          ],
+          "photo_reference": "CmRaAAAAiRCh98gMf75a0dEmzQf_ymKXGrsxrUeonjGzxxoGk2KaYTAe56WpZFzbmQzsaT9s0AWDhlnfwGPZuq_u9KdLZd-RBsFxtrqLQpGU18wr-i9RepC13yj70JR1ZUPsjJVAEhBJnX4npvmA91OqObp6JgXQGhTl8Ng7QmtKCaHZpdS5YRPqITw9WQ",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJd89NlSrKlzMR-H_OKIOHHpE",
+      "plus_code": {
+        "compound_code": "HX9P+RG Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HX9P+RG"
+      },
+      "rating": 3.4,
+      "reference": "CmRbAAAAC3OEKdY_LoXNN9HjNhadLjgFVZ7__4YQDSiUxGSS3M1V7k070ns4GOl12sUz4CipdaopqF4yn-McR95acTSlS0xmfHGVedM8c_GZSGQrZeJklpAyUQmAMn__K8pstjj3EhATvcWTlFqfs1LfCiJj1_TLGhSAlJAjv3cEIEds_B8LtK5xha2tnA",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Manila City, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5785751,
+          "lng": 120.9814701
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57992492989272,
+            "lng": 120.9828199298927
+          },
+          "southwest": {
+            "lat": 14.57722527010727,
+            "lng": 120.9801202701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "138fb74aa9e2704ff2058ec27c4976b9559ea6b9",
+      "name": "Rotary Club of Manila",
+      "place_id": "ChIJ64nMSC_KlzMR0tR0fsStNR8",
+      "plus_code": {
+        "compound_code": "HXHJ+CH Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXHJ+CH"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAATOEytWgb0mRQa4rnftSgF1KMjDlIkKND1pQIXSeZzQmj5V41jt7z2mKg_PfqoETVRjIMEHKUWDkWe0PYNzTeGq4SN_6Zfy1vxL9CwTnetdA34d4QiZPKGPOvl3M2u89JEhAsSdb_QBmxPw2OWdv1N1P8GhSZLXy5reFOLwyjYxwhq9uVsA99FA",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1851 Jorge Bocobo St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5708087,
+          "lng": 120.9863726
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57209092989272,
+            "lng": 120.9877607298928
+          },
+          "southwest": {
+            "lat": 14.56939127010728,
+            "lng": 120.9850610701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "773fafce09cafee26392519dd1ceb33a866fc4f9",
+      "name": "Club ZZYZX",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105647250932972342140/photos\">다모이다</a>"
+          ],
+          "photo_reference": "CmRaAAAAcY58RTAPxdiExqwAk6cHLj4llCLeZYhbH8p0BCKAAPa84xVjeR2N6keGtC6Hf4b0zwIMkbCzv5rR-Hz52bG2Wm4xvzSYg63_i84cNK5n9cGuHqEfDvMZRoKhkgpsHGHnEhDL7iAWDlYYxL1Md5alS1_NGhT78xll58Qzfr62prn1EtS31RbDjg",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJl3D9iyrKlzMRP2gd_qqJdMo",
+      "plus_code": {
+        "compound_code": "HXCP+8G Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXCP+8G"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAbjJpWczxn-l9w9wgHAQXQKGgSQuMrVyL5YLwJCNjSoClwabYsSxjm3evPUy46_RS43eqacqUBLop2FI_-ZZcr9mBOaH4MhqLbQ7IbCIkrCr6RZEN2ecrfO2WaPTMIZj5EhBD6NtLo32GV6XJaF_3u4vQGhQQIjp8wyU9XNk6_aX-F0GgL3yq-Q",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "P Burgos, Makati, 1210 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.562822,
+          "lng": 121.02868
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56425267989272,
+            "lng": 121.0299981798928
+          },
+          "southwest": {
+            "lat": 14.56155302010728,
+            "lng": 121.0272985201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "b16ae780f1ccc80947ccd491452e1ac39166eaac",
+      "name": "G String Night Club",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ-5pSDqrJlzMRAOm73IexjyI",
+      "plus_code": {
+        "compound_code": "H27H+4F Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H27H+4F"
+      },
+      "rating": 2.8,
+      "reference": "CmRbAAAAnMny_RdT2wV9QnlP-umMaklY-DU2aT_dvE2pEwB3-Avcc3teT06hVqjLp0Y9wosNJgNAPhPGHJXugPCRCd47aOyH83S_nMU9QxhNwUDhxlEPso2r-hm07fvcd4kgXdLEEhCUBYnHhUfVP0ddgBR7cP1iGhQlizgukj8CNMNQHwiIXgtuA1NTqg",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "5043 P Burgos, Makati, 1210 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.564283,
+          "lng": 121.031082
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56563417989272,
+            "lng": 121.0324234298927
+          },
+          "southwest": {
+            "lat": 14.56293452010728,
+            "lng": 121.0297237701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "b5b11c6e4cb38858c36abcb14643544450bfaa5d",
+      "name": "Horizon Gentlemen's VIP Lounge",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108060874825483896011/photos\">Horizon Gentlemen&#39;s VIP Lounge</a>"
+          ],
+          "photo_reference": "CmRaAAAAK-jbLQGJCFcRtjXMyMvtJduKZreaQlAswOMv1TgXVq-n9_LFPIJ9LtmT0-kJZfnc_fWiVsv7eIi1BGTxQLGivsAPGynk_-EENqt54ayfanuTWZAHNtytqnpvepzAbW6VEhADNXPPXCo2rWulhmtx1mSJGhSPf1NSE8MP6y_v2rQMJp6s04_Z_w",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJKRlA_KrJlzMRhu_9e_HXrBU",
+      "plus_code": {
+        "compound_code": "H27J+PC Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H27J+PC"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAVVPWilkyLhjN0gVMX67AIhe8PQcz6EGOer15g-TshDpVWgbzu3otNP6vwTUnNzaENtOXSB-FE0bOHARV3pesW23ss5CXgbKbxPsSb45jUhLPfTYLOHsHY5-TmWiRoqhSEhDSz5Tog_2vAonl7v23DeEJGhRe0CP5MS3-DFS2kW2qiekaWNweKA",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1561 Dagupan Ext, Tondo, Manila, 1012 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6123386,
+          "lng": 120.9727273
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.61367967989272,
+            "lng": 120.9741184798928
+          },
+          "southwest": {
+            "lat": 14.61098002010728,
+            "lng": 120.9714188201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "3b58cd49d61a8aaf09b675f82ce1b1d6013884d2",
+      "name": "Boss J Night Club",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ2R5RLva1lzMRi7VdXvG_z2s",
+      "plus_code": {
+        "compound_code": "JX6F+W3 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX6F+W3"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAm2qtqcShkc0-UYxp9Xjs6UN82fgyBzuoyytarI9SWrRBAvkwFKKMUrEqINDn9veRxda-q3OiMbBXOyour5bk9DjVOxFMy-agdV6nF4zKJT4Jht94E5I2NSCsMQ_fBiMUEhAofh8H7AOy4jaY8MB0EF9-GhTCnzgLtqJXl17IK-dVVAitWOlItA",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Felix, Pandacan, Manila, 1011 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5811434,
+          "lng": 121.0056897
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58250412989272,
+            "lng": 121.0070854798928
+          },
+          "southwest": {
+            "lat": 14.57980447010728,
+            "lng": 121.0043858201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "5e9cf25a075d8ee29952b1a8d8cb9cd89134fc02",
+      "name": "ANL (Club house)",
+      "place_id": "ChIJtRxqqJbJlzMRZ_-a_jOn4RM",
+      "plus_code": {
+        "compound_code": "H2J4+F7 Manila, Metro Manila, Philippines",
+        "global_code": "7Q63H2J4+F7"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAB8ZoUHU_caHZOqwsJlC8eFIgUbkWQ0cVzBQKqkIAmgoA9BPrPDDlNyn6w_cq5E6djYL5gJcwp0HCcddOPi4yQclaK9jjw1nxmU6eONjOWHLKk-kjCx6NsMoWgHFyLpnaEhAngOaD13T2HElRbBziCJLMGhT4AA3w65Cwh7kXTGL8LqxQv31Wog",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "36 9th Ave, Taguig, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5580355,
+          "lng": 121.0542465
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.55944077989272,
+            "lng": 121.0554267798927
+          },
+          "southwest": {
+            "lat": 14.55674112010728,
+            "lng": 121.0527271201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "07e6554da37189946132de27e1767f7755a6720f",
+      "name": "Valkyrie Night Club",
+      "photos": [
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100422103373112724245/photos\">Shahzad Faisal</a>"
+          ],
+          "photo_reference": "CmRaAAAApGIOXdzOZLVs2Z2TcHshN13hagzuFH35EBQv13kPgYHKYOHQnr4HI-Ciaj0FahBoe9rSKX98mgR9gTDDdAoM5HQ8FfgTAy6nXkd5O-3Gh41SQnOm1rI4bBRd8b2FhsGCEhCDs9a0bXlpFzTPs2EHO_4nGhRHq1zp-6gUP74P1Z1ra2tNMkhF9w",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJkVluc_XIlzMR9RQdoqz4itU",
+      "plus_code": {
+        "compound_code": "H353+6M Taguig, Metro Manila, Philippines",
+        "global_code": "7Q63H353+6M"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAwmxhfYVQc0TKpQ6HTmHT1IH2Pl0ShPEdNO4I7bXxHgXo3PQBXRgSEotIrTix6L0sk_YwLyyV3vFULJyaye05s-isa1sFdpNloEkxKCxvt3TiqkDlVM3-f_PaH2ssHFkXEhDW6IdYuJOb32aldIovTDk_GhRqRZmWsq4ddjkwduQIGDxOdP4sSQ",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "5023 P Burgos, Makati, 1210 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.563468,
+          "lng": 121.030475
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56489542989272,
+            "lng": 121.0317948298927
+          },
+          "southwest": {
+            "lat": 14.56219577010728,
+            "lng": 121.0290951701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "ec8bccd5b808d0f9ff4749bc0d043d8ead3cfb49",
+      "name": "Rascals",
+      "place_id": "ChIJ5YesX6rJlzMRBfZ3pvaCyc8",
+      "plus_code": {
+        "compound_code": "H27J+95 Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H27J+95"
+      },
+      "rating": 3,
+      "reference": "CmRbAAAAr81raAX74P83uTS16kPkn62zbgWrgER--PmAhnM5mS2C6hDtYw6rGxtNh_jZc8xwvDFwKuwUNLXbDyiqQOvi8VGIkInG8m0QPSfIcKnsS_JQxm6Vfa8Q8QkdA19h_Q-CEhDLcMEVusGM5Rrb5A8HNj_9GhT1N8PhR_YnRYIm92etqm16pL8DhQ",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Esperanza St, Makati, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5512544,
+          "lng": 121.0216895
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.55268602989272,
+            "lng": 121.0230485798927
+          },
+          "southwest": {
+            "lat": 14.54998637010728,
+            "lng": 121.0203489201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "d5f761b24fe63f4a82ed2418df6a520f283a6176",
+      "name": "Bé LOW Club",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106164526200689505159/photos\">tareq banamah</a>"
+          ],
+          "photo_reference": "CmRaAAAAmr9uJrO_JDslqQ5dzwOV5Suc63Av9Q32Uq669qtJPr-JCfA0T2q9M309soYXIaxZfSNCFge4J65Hg-0q-Wnu0pvvKF1w71xQOVEBCXb_cbO7gwYXhxhggyotroKgsjuWEhBwY_rnxqD32D2IV23jDNbAGhR_9nAdoqGabCKiaz5clV9Xx8G45g",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJferMdhDJlzMR-nfdE53v3ew",
+      "plus_code": {
+        "compound_code": "H22C+GM Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H22C+GM"
+      },
+      "rating": 3.3,
+      "reference": "CmRbAAAA-2UEzcXKA65pUPNX3N30h6Rvots47Ve6bdRkmjiiMTTczcsKICsyFcNlOXJcOX-LnXIJ-Joe6Nx0xuPMrkZJXvvpD3sZit4_FSnZYnxT_ge6ZhvT2QfpejwXFRCPOOuSEhBQhjgyue1F4Tvks9SOQljTGhThHHg8SVkEwqvUlQ8DUfxts13mVw",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1726 Adriatico Street(Corner Alonzo St.), Malate, Manila, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5719193,
+          "lng": 120.9852316
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57326912989272,
+            "lng": 120.9865814298927
+          },
+          "southwest": {
+            "lat": 14.57056947010728,
+            "lng": 120.9838817701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "76c87d22076742139a4e9282b6f8b8587c303495",
+      "name": "SAORI ( KTV )",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 763,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105366406007880349257/photos\">Jhun Sosing</a>"
+          ],
+          "photo_reference": "CmRaAAAAvvb6JgVyeo21r-Qsdn8NKPpOBe4ERmSersUnINOhBnekHhxO10kEh4aMxxNCszpbNiKF1xKmrTnit6cEJNNyFsdKlC8HNDkFtdSzRmJDINT30BivCfGJLIUTQ5kFRL7bEhC6wN-glbpq-65870Rrjc2xGhQzat31sUdbg7hZ_TsobSmdjf9KYg",
+          "width": 763
+        }
+      ],
+      "place_id": "ChIJXe0mTirKlzMR3Hqhvj-ymqk",
+      "plus_code": {
+        "compound_code": "HXCP+Q3 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXCP+Q3"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAA9XYIGiFJDmg-__YKomOhxm9VQRnJHgx_OPUrkcb14uneYK5s2DMvUL-w_xCI0rLojKqqqPRndlcMVTXfJcCeWB_8jQoMlwy2KdP91_FSAOkO-Q5FUP-VcvbD6wRPoWSoEhAYkt_JZx35AytrSw6Lc1_2GhShibxHRw7c_3aHJBU-g14s98GV4Q",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Upper Ground Floor, City Of Dreams Manila, Asean Avenue corner Roxas Boulevard, Entertainment City, Parañaque, 1701 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5241546,
+          "lng": 120.9920621
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.52550442989272,
+            "lng": 120.9934119298927
+          },
+          "southwest": {
+            "lat": 14.52280477010728,
+            "lng": 120.9907122701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "ccb50f575dca80d7795aeb91787f2fbafb11eede",
+      "name": "Chaos Manila Nightclub",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114645527344116670756/photos\">Jimrey Biosa</a>"
+          ],
+          "photo_reference": "CmRaAAAAScjOJEQVpRFw5gnDGBqBD7qx6pS-Iaey1TW3qd7JTQOlrCDo20xn8MXdxy9VgpGEpXu7RCit3VQ3yYGhX8QJHq_MEWWXYAApocIu20LM3zRvbHDLwQmQow3ww_n_WTbbEhC-nZ7cmSIp7MipfqCmrTafGhSwQtncHWpQhaXTbuDfX7NNoViWyA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJf0RPsKvOlzMRAxHZep9jep8",
+      "plus_code": {
+        "compound_code": "GXFR+MR Parañaque, Metro Manila, Philippines",
+        "global_code": "7Q62GXFR+MR"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAANj1RD1wXAq1p2X6PYh4jUt2_V1M9Ty1HoF6WL6uoaeeNY4UFIcPuRg4TwJvAqF5g6sjMhH0t5a9kvuuqPagCMRkdM-mpeeCWmyXBsWBcXBbPyNfpnsPtNGXGbGNOrI2kEhDwlrvna1NV8PRH34hI31m5GhQ6oJ8n6q9wTAV379o54ughFTtBeQ",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1210, 5 Badajos, Makati, 1210 Kalakhang Maynila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5627614,
+          "lng": 121.0290882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56412337989272,
+            "lng": 121.0304738798927
+          },
+          "southwest": {
+            "lat": 14.56142372010728,
+            "lng": 121.0277742201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "981ce006e74be14da1c712d801dbd53bfdb818bd",
+      "name": "Kojax",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117752979510168836607/photos\">Frédéric Guittré</a>"
+          ],
+          "photo_reference": "CmRZAAAAskl9Ir9neewkIr4N3-5m-l28ABCgjMGLX0k4Mb-gieykvVhSOdN-F8PX5L1hR-FyKe-h-kZNTeNQsP_HlKUCm7ebgTdQ9WY0_5lreKGN8AHLKntv2OVxOM_luOK6TwpyEhBbO0C7m66pQGByhTOTfTz9GhSGoWQWBS1G4qA4LDVkuETwDOoTrw",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJl2QaDarJlzMRJwTCy-Oe6Sw",
+      "plus_code": {
+        "compound_code": "H27H+4J Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H27H+4J"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAA7EIXfaYwfm6UJpmKZnaBl-DDvoHcaqsiqhOVKwyJqHT0rzpYqpD-914pVUC9SaWjBphgdY4STsvKEvwB0Ki7VzuC1N6e_P3Uv-Q3COWKVjJy3EEvSBhW3RHfIWW4Ic_fEhAGP6lsostQ0dTXPagLWpvDGhR9gKgYlLubW8jtGf7qvjVfCzoYCQ",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "13 Tambacan St, Santa Cruz, Manila, 1008 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5998598,
+          "lng": 120.9795436
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60124452989272,
+            "lng": 120.9808364798927
+          },
+          "southwest": {
+            "lat": 14.59854487010728,
+            "lng": 120.9781368201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "4359969bb8e895eda7fe08df47058f86fc689438",
+      "name": "Venice International Club",
+      "place_id": "ChIJ93-DJRvKlzMRgmlGq3-3hAw",
+      "plus_code": {
+        "compound_code": "HXXH+WR Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXXH+WR"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAA1CZN892gDL-x10TK0Gh14ZUGoS_qO60LmU9xp9MjFqbS-gFshTk58t5IS-r8z8GBNh4jr6hz8ck12HDPYWMsZmvJkXKMtoMJ2kUlV0mFMUtjeAHHvo38Jw0Ppb42DT32EhDJMP23Dbu71LeI98DIPbbrGhSCvNtbj9vnzv4LfJ-87foZphTWRw",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Makati Prime Citadel Inn, 5009 P Burgos, Poblacion, Makati, 1210 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5633987,
+          "lng": 121.0300482
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56478872989272,
+            "lng": 121.0313824798927
+          },
+          "southwest": {
+            "lat": 14.56208907010728,
+            "lng": 121.0286828201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "3a14976e813f9939e2dd4af14ec7c5f5e74a4013",
+      "name": "Shampoo Bar",
+      "place_id": "ChIJmVVbXarJlzMRB8DLMe8eai8",
+      "plus_code": {
+        "compound_code": "H27J+92 Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H27J+92"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAA6PcozpWVoy_vzt07HGYBKbA4TFEVHKnI_obBjXyV-yMX0BeT96zIwhEVErnNLKidP6blbms3Y7H4CwBWpEfQz1oonJWYSsuqP_wnXHT74YyFeVUC0GlCTVddfqg-o9XGEhD1fnC_hp4dGh_LNT8PHmoXGhQY4IyZULA1H5p88YY6L_rbnC3Fow",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "561-1726 Adriatico St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5718242,
+          "lng": 120.9853402
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57314292989272,
+            "lng": 120.9866306798927
+          },
+          "southwest": {
+            "lat": 14.57044327010728,
+            "lng": 120.9839310201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "7eeb07c24807cb821a02c2b25acd88ea6c901a48",
+      "name": "Junko",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115847214703756178147/photos\">Edgar Kim</a>"
+          ],
+          "photo_reference": "CmRaAAAAOPuGoLthDF5M4ix22Q-dcO7hHowi9vB1HuLPXgLScx5FBgP-R2gDrkLiHjJZykXibc0XI0v_ax1SkaaAzW_wPAfyiAqtEDd2_-vRFDOmESxBMY0fxwEWXgqg8_VbbAZnEhDKk9iCuin1TmHbZ19_D5aMGhTwWFhj7m2ZtZQwlfb-ZctwvdN9tw",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJW1wwUCrKlzMRgIW1I9yAG34",
+      "plus_code": {
+        "compound_code": "HXCP+P4 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXCP+P4"
+      },
+      "rating": 3.6,
+      "reference": "CmRbAAAAoRAEg9_KtxY_TlQx2dj0hR2QHvhzt02ue5vWAIbf4bU44RgoF2_apeWgyk65XVpMsyMCIKXAMldU06N5Q--YmhDcfjfp-XbFUDwB_nwRVspr_1s9NRXpNbLiGpXsShd1EhCwiEVr82NsnFsecT-MVTbhGhT1lk9I9njREX2FRz8qWo9hnvPxmg",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "5th Ave, Taguig, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5494695,
+          "lng": 121.047553
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.55081932989272,
+            "lng": 121.0489028298928
+          },
+          "southwest": {
+            "lat": 14.54811967010728,
+            "lng": 121.0462031701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "649941349bc52153e764a6264d70779cd0bc34cc",
+      "name": "Nectar Nightclub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106150409933193592175/photos\">Jake Anthony Navarro</a>"
+          ],
+          "photo_reference": "CmRaAAAAYgBRH5x7gar11hQyR8Pn3rGTibm5CSZXXA4k5PnRgJNc5dv_59QFt7ntY3rGZZIaeD5d6NiDtOrFgTJ-driudu6S_s1IHzXcPqxydR2xs-WPcI72ECLaSHVXRFfifaiAEhCzAl9T9fLPW77xZdWqxLRdGhS2R0fisR6a0I7MpiCunKeDWtmNew",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJLdntK_DIlzMRzQZo-wJMK4o",
+      "plus_code": {
+        "compound_code": "G2XX+Q2 Taguig, Metro Manila, Philippines",
+        "global_code": "7Q63G2XX+Q2"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAS0EXnT2lPnMmi4PE3i5fIYmaFl4_g2Zios4V-bh_AFWVIMq_vYCxk8OrmIchdHRlLcJq0mumlp4HlS6qVt6MDnW8UiYzK1h0tz8X-dmjizlXk96ZfeuQmzSzjEFCYBO0EhC1BjcDieAU3WvVUcdcU6bYGhRsb7_8fK8OHOBCpOXKlp36B060gA",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1787 Adriatico St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.570268,
+          "lng": 120.98591
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57164852989272,
+            "lng": 120.9873185798927
+          },
+          "southwest": {
+            "lat": 14.56894887010728,
+            "lng": 120.9846189201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "fa14c8f2803604dbb27bc4fccc2590428e166fb0",
+      "name": "Cynthia KTV Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1728,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105647250932972342140/photos\">www.damoida.comᄀ ᄀ</a>"
+          ],
+          "photo_reference": "CmRaAAAAs2TWd9d0kfG6lVW-NYoWm85XAl-rZpPZJ6KWW7q6EY5EznHLRmLfybQLq7z5bNC0jLkmd_hQU6JzZGR0EPyhqSxWgMswr3ijJfhV4CcaQjtwTm13XDzlRvwaMPTIi8tvEhC-GMPc6bSnsgAXLdHZzW1RGhTPZhc-iJvs6VbAnUJfxShCfpEjaw",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJdZc-7CrKlzMRLG1CH3HKEY8",
+      "plus_code": {
+        "compound_code": "HXCP+49 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXCP+49"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAR85hlffkHRZtkM09feVFm7vXRZpAsqexx_sNEll2eMjcBPQxVqbh-ewpjADQ_uVL2KhpmTyyxRhYNiq4VABGdBXTklA5hef7IzGw55z8QpkC-IuUmVEfB19kX2bsggFREhBDJ2ErmZ9rsP9gwqw9oFk0GhRE0hPFIsYMV-WIleuYtl6AbtnvKg",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "5003 P Burgos, Makati, 1210 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.562926,
+          "lng": 121.028998
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56436222989272,
+            "lng": 121.0303139798927
+          },
+          "southwest": {
+            "lat": 14.56166257010728,
+            "lng": 121.0276143201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "7f52500f067808125166b28b5fe463feeb413ae1",
+      "name": "Papillon",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJN7J7EqrJlzMRDPEbM7a5c7M",
+      "plus_code": {
+        "compound_code": "H27H+5H Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H27H+5H"
+      },
+      "rating": 1,
+      "reference": "CmRbAAAAsX14WZqgzlvfkCbfpWvOOcSqTxQenvfzUjoXjs1cN0zD6Mba15LAICD8ugT7z0PY4TgHp9prKAAFuirx8oUnhcX_ywVCdAoF1ohm9XOIGe4-c-fsWn29he8Ssjg6wDzHEhCyGbFmF-330D6MnjOgYmYDGhQw49IbcpjV08uglgvFLMwDCfcxPw",
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

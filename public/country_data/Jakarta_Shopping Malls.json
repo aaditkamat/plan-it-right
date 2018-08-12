@@ -1,0 +1,949 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCCwEAAKhg16_qmfGcZ2y_kx3otBd-UNqqKpaXoUj0vw85oCZ0xb-H9DDu_29X2KocCMcP7fvThhWgvxVgUqY7V3qRbNcGJAYY5g-gE4smqYvUvLvtbMJbL0laK8xA9HY5paz5SQSjwh2bo4ec0_46zkV3lcsm0mRv3BB6An25FamnThDF2qVcfVLdF7G8epYmnTbTdTUQUmgZx-t6V2ow3KVhYcOGxoFPHEjVyjKFC1vMRMIqV1L2MULeIFibbIcRBYXrgNdHoK_RH1NazIlPOokkgytfD3R9FPYZsNcX_fRQeM7qfGzitmaY6zu1oBQ5EEuSfjgHVSQM51wZZRBhsUeaV40AJA8nzt3ERVF913yXsiv3EhA5Ud9rpnZiCjGSZWALVThsGhRZ8-Z68r-nGYcC8zUtMumwHnUmug",
+  "results": [
+    {
+      "formatted_address": "Jl. M.H. Thamrin No.1, RT.1/RW.5, Kb. Melati, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1950034,
+          "lng": 106.8197866
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.19300995,
+            "lng": 106.8249697
+          },
+          "southwest": {
+            "lat": -6.198921749999998,
+            "lng": 106.8169577
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "d5c5d835327e7d1e656c65c74dd156cbfb31b49b",
+      "name": "Grand Indonesia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116351196753924995955/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAq6v7Djr4d0IDXzaBiRhiBVkAmRwDTtX_I9KYw7isJAzro0Nbh2BMigiUizCHZBedINpMfPCNm1p-XkfEsGh71rK28ICMsx3xkkl7NzS7QgW8p2CHp2RDa9VwOM-XsGz4EhCl64bBh6be2hRVINcbxmTxGhRrGeGLOYH90_u2I3vkMtkiN1FY5A",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJY9TrwiH0aS4RrvGqlZvI_Mw",
+      "plus_code": {
+        "compound_code": "RR39+XW Jakarta, Indonesia",
+        "global_code": "6P58RR39+XW"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAzIeb8vwYM6z2MswsnRJ4CneNAlIHtZOmclXQNQBMEps1_08YXJSI48BOrTmS4xdkRr2KMlCAkQw4KMaMipa9mCT17vNwyOx6af1pu5YqTFuOE4HdUDA3cISj8N31_tQTEhC5nUyoUbmVCvFyc1GAgjqtGhT-69hiVW3pCo5NcD3vbOAzenR_cw",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Prof. DR. Satrio No.3-5, RT.18/RW.4, Kuningan, Karet Kuningan, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.224268100000001,
+          "lng": 106.8233179
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.222813320107278,
+            "lng": 106.8243231798927
+          },
+          "southwest": {
+            "lat": -6.225512979892722,
+            "lng": 106.8216235201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "784abdc214dd0d8656d001080184b6da7c1faace",
+      "name": "Lotte Shopping Avenue",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102335539337693029064/photos\">Wibisana Jusuf</a>"
+          ],
+          "photo_reference": "CmRaAAAAVSQmBwGgwgJbFvjNx3rLm7HUb39Zn8TXCLMtEALRNXhIzkidCIQ8wxbYsDxSjG8DwxpXtYa8Yi-s4LEnFs1u6CLIa22X8iPttCNOppUHswMySBtHtfTXM8uq0UULMbMMEhCmBTaDHkVUi9tTLVGUzrfoGhQCiKdyN5GtFDO_NtfB_Nocszp2Ew",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJMfzJcvzzaS4R2naZUxVB_HA",
+      "plus_code": {
+        "compound_code": "QRGF+78 Jakarta, Indonesia",
+        "global_code": "6P58QRGF+78"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAP1rkYq3feUXSzMaJDpTvndoP-nedpQawP6i6Ee-B1B_noqVh40IdnLRqhPI9rB44aW51ic9Je5YdhEuqxiIy9eybggLtPVgNZQzEbUgVfxjCfmxROc0Uy3oY6F4v6XgCEhBAMyIZNf36vTEZStGMmKZkGhSHYIlCCd1Zaij4O_GygmFRGUpSZg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. M.H. Thamrin No.Kav. 28-30, RT.9/RW.5, Gondangdia, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1937706,
+          "lng": 106.8221798
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.191293049999999,
+            "lng": 106.8237598
+          },
+          "southwest": {
+            "lat": -6.19556045,
+            "lng": 106.8201162
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "082793ad2b00c029888c636dbdf826dab729c8d5",
+      "name": "Plaza Indonesia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112284998704205317862/photos\">Simon Temelkov</a>"
+          ],
+          "photo_reference": "CmRaAAAAY35CceJh_sCbL4KVTnSxuwbj2MO2AsvMiVd9r_xDRqrY6f311CNcdnlpiCqcFeCDMZ7peg3BQ3xaNASt5rXCWstGSxIeymmR8qjszsxNXJfMgOetCIm-9q0yeSrZts78EhAzhM0byaQspaV8qjrjrJXtGhTJfXOWZ5vyDBBZ5HBgVHYsEJUSpQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJAaQtdCH0aS4R0G3h7crA7Oo",
+      "plus_code": {
+        "compound_code": "RR4C+FV Jakarta, Indonesia",
+        "global_code": "6P58RR4C+FV"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAFeYO8cQV-jHjv1VMFjAPVelgbfvmT5lS0UEHWwyeQJ7Oi6uZzlBjYXHZ9Qzrswk-M4h68WVySGoVE5FFxU3hFjyclDvGm4mZsxew4oXqsB0jYBnbl6YJhHTMy2856G2yEhB75TxSkkrdHUruPBKvOgdrGhSfb8WgxCFiB4Om2aqVt11F5r17nw",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Artha Gading Sel. No.1, RT.18/RW.8, Klp. Gading Bar., Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1457048,
+          "lng": 106.892263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.144449320107277,
+            "lng": 106.8935748298927
+          },
+          "southwest": {
+            "lat": -6.14714897989272,
+            "lng": 106.8908751701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "ed139590dcab6ed63bfde9be06f4991bb249414a",
+      "name": "Mal Artha Gading",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101325035465185957388/photos\">Barr Barani Nataadiningrat</a>"
+          ],
+          "photo_reference": "CmRaAAAAYDND0-X2BA5j04VjExazIN1L3c0Mgf3XUrxn9mgkyFsQLY5yrWhh9zyC4KNSmErBNWtiDSaazXsWn97lYX1oZBE7_ynmtxxBN-B59u57RAFLpPP9ihVtaTPuSUbWkGRaEhBuJLgeLRWPBLrykpzQcHboGhSRz0WZHvvZUq68rKWYWpbL8x9JSg",
+          "width": 3984
+        }
+      ],
+      "place_id": "ChIJN5-AA0P1aS4RJMeH0LNmYRc",
+      "plus_code": {
+        "compound_code": "VV3R+PW Jakarta, Indonesia",
+        "global_code": "6P58VV3R+PW"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAABQg-Ik5EaNKhE80iBIKWL1Z59gRdtpZqF4B5tS-47KUn_-dkQV351D6wX3_9a9t9DxkeiXXcw2xVf0cF41wyCaCG_Pzj9avYQfOLp_d79Oy2dfiD-W7-GPh7q_BsnLrpEhDpsArnVoNn8wv5d4GkTcBBGhQJrPvWMGv97ZAcldsDSdRVZjaEzQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Asia Afrika No.8, RT.1/RW.3, Gelora, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2254505,
+          "lng": 106.7991989
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.224126320107279,
+            "lng": 106.8002247798927
+          },
+          "southwest": {
+            "lat": -6.226825979892722,
+            "lng": 106.7975251201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "ee1f8827d575708d59bb2627f8213a4e2b217c88",
+      "name": "Plaza Senayan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110635551228902089091/photos\">Emily</a>"
+          ],
+          "photo_reference": "CmRaAAAAblZ2hJhFwAipYK4Wv-paPoKZ-McXRt-mfYsdPEtipqIGxJ7wDhpguc_o05NQIKY2IgDhyGdAVdIEz43Fa7j5R5C4kanu4elqwfrtSOpzWybpfZdr_XzuYH5aUgroW7YkEhAJjHmtQFMvSFqhBCbfkQQ2GhRgkcBUQohpgs3R1vvY4Rah-8gbyQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJz9G3IEnxaS4RlKx17x46jng",
+      "plus_code": {
+        "compound_code": "QQFX+RM Jakarta, Indonesia",
+        "global_code": "6P58QQFX+RM"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAXggsSnpFDGxXnmwJGhUID-84Ct6BU1kzrcyXZGC5gyAepUUvfnUBa7aC0V530CKDNI_jd9f45aP3Qty6SanHPUyDV-jE40cgfwain9tuo6Yyl5Zj3ub9JgXe98_8u3FtEhDg267BE87oYOoV6Gn2meWzGhQleLckK_ngDN4C3zyX8DwtQ_rcsw",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl Pluit Karang Ayu B1 Utara, RT.20/RW.2, Pluit, Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1078119,
+          "lng": 106.7791325
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.10643975,
+            "lng": 106.7814812
+          },
+          "southwest": {
+            "lat": -6.11192835,
+            "lng": 106.775196
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "547bee5381decb414c1cc8988bee95663f6497d0",
+      "name": "Bay Walk Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109501543606420537326/photos\">neno setiawan</a>"
+          ],
+          "photo_reference": "CmRaAAAAq9K3zJu5YnG3uynxHCgr5d_9C85UMlHggaFZQq7YASWNhysIBjdp4fYusYS6nNR8gSTHh7I4B5Kz242cyzFQfth6_a0S1Ve3tSB77h3Ia6ExcMCFJD9OjCSkhQ23D3idEhC8g_x9QSckDU92iGCX3Ll5GhQdy1ujRYZq9ou2xUPZpu8N5xfAgQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJp0WVVaQdai4ReTYEzGUVj7o",
+      "plus_code": {
+        "compound_code": "VQRH+VM Jakarta, Indonesia",
+        "global_code": "6P58VQRH+VM"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAEdvzQcNC7_2xE2HqT3d_yyjNaZwuQK1po0GCtZOD8wHYhEPqhqdN-atZitBPuWHNgMihJFZALcYs-6jBRODXwl71ogZDXYIq39VhzC9Iubg_fel2pT9eqbRKdlJfRlQMEhB5dB1Yl6WqdUe9PhB8ScECGhT6rA9dXbgKk-9DJ6agfoA2q4NUXA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Pluit Putra Kencana, RT.23/RW.8, Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14440, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1272276,
+          "lng": 106.7908304
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.125846170107278,
+            "lng": 106.79263385
+          },
+          "southwest": {
+            "lat": -6.128545829892722,
+            "lng": 106.78975125
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "a624e0f8cd5d77a2c3e566754e547ee57eadd5e5",
+      "name": "Emporium Pluit Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107291649893917335483/photos\">Rini Soemitro</a>"
+          ],
+          "photo_reference": "CmRaAAAAzDgVw97HCunPs3wlYcb8VwGIrYggIM3Bl4-V3i2dh5eSLL1Q0p87Cl102WMQB3lfWdm8E3kWwZ83rjjtZb_hmJHP_XMqvQhAqpFJfiSRU8vvJWpu_djQVJa9lKu56Ac2EhDMQpm8eUAqttmSZcYMtlQDGhSJQMIbSmll_nADTibTULGeKkVKxQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJbeC5DY0dai4RWOS9Zhefy1Q",
+      "plus_code": {
+        "compound_code": "VQFR+48 Jakarta, Indonesia",
+        "global_code": "6P58VQFR+48"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA_7qzRKQx7Sva_3a6Q-0QBxFJ_Y6od460Xnc_KoWvwr-Bq5Ya_Ms60Ghv_M1gNIMS-CAm3661tcxMuh-fJ1SYzrq8hAIQBSpvWcJ9Q5KH8zJZdTO4sk9GhhG1joQQVk-XEhBNImUNlfpPulMk4OOtMMAXGhQD6GbGBnoY7x6PMZwd3NnmuUo3mg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Metro Pondok Indah, RT.1/RW.16, Pd. Pinang, Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2656714,
+          "lng": 106.7831458
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.26200705,
+            "lng": 106.7846157
+          },
+          "southwest": {
+            "lat": -6.26968685,
+            "lng": 106.7808473
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "83630fad916a1624b0fdc5a22c4e521e2d263076",
+      "name": "Pondok Indah Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110962216782911306804/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA1QIj8s6BWWyuhYHrYbBWv-3BNRd8gwLaFNjUEd9gwqEjOYadaP9lLJxryo1oYQsY-_2mQohKZ8vDJBQ0yq3204NlRKxLxmAZWLkFJjwLvGggKWhDKlf13jkB-IfsDkIqEhBCjxsw7TCBfIToQUZuCIppGhQj8Bkqkb6K0LOZEl90JBX7QdPuFQ",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJR-779KXxaS4RVKhOPBE3KGg",
+      "plus_code": {
+        "compound_code": "PQMM+P7 Jakarta, Indonesia",
+        "global_code": "6P58PQMM+P7"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAMvg2lwcSbs3MP7KZzPbmFNeJglSt-BWKQQPXCqTS04g4_aY-3Ve2bQm28_1OxKPo_nHau82L2NnlzBy5gRCKFZj_SADG0peHjpxPslXulZc3SkuzGaQOdsDxncsJ89KfEhCokfvPN6LNokSnpLZDG3MVGhT1tql4KuJakc0OnsxCJqE5RtSnHA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Letjen S. Parman No.28, RT.9/RW.1, Tomang, Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11440, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1783326,
+          "lng": 106.7920751
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.177647699999999,
+            "lng": 106.7939478798927
+          },
+          "southwest": {
+            "lat": -6.1803873,
+            "lng": 106.7912482201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "f6b324889597586c9fbf728cd733732acc6b1d28",
+      "name": "Mall Taman Anggrek",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107305227133745147527/photos\">Farianto Kurniawan</a>"
+          ],
+          "photo_reference": "CmRaAAAAZqAT0Ui-0bE5d2rZy2Mkv9MdxVJD1vgmRM3H469sVwvkb2i-c3srSXPuGHnaq_xMMTsUVld82eQSN411_hda3kEWHr2ybf0TRvzBDaJFI2dbiWSHimZ6xlDaD9Q2Vo97EhBAzKcGG0lF6TCQV-4wkYnKGhR3ste-jccl_HJ1nLCNb2qkPpBTwA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJm3zhDfX2aS4RQfROjxC_h7I",
+      "plus_code": {
+        "compound_code": "RQCR+MR Jakarta, Indonesia",
+        "global_code": "6P58RQCR+MR"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAjb8kWW0lQK9uSDvvOL4U4POEWxyvD0POqi2g4YHwVHtbKwPFginoghlUr9vDrIVaNg8ouK9a3VM9lx3_HyX8XA2xFjVn1eutbncT4VKxx41UE6oZLAFMpFLsyY45zyG_EhDiI6jvaxzrtMpEdYolz7xxGhTwHwXFeHy2Bqg7o4oUpXJUiV3Ldw",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Boulevard Raya, RT.13/RW.18, Klp. Gading Tim., Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.157519,
+          "lng": 106.9080208
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.156535870107279,
+            "lng": 106.9119327
+          },
+          "southwest": {
+            "lat": -6.159235529892722,
+            "lng": 106.9062107
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "5ba41d80e0a91ee396b6dba5f98bc7250b603e47",
+      "name": "Mall Kelapa Gading",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102581458679234413667/photos\">Tifanny Cherly</a>"
+          ],
+          "photo_reference": "CmRaAAAAodUDneDb59dX80iNir5lFwO1ojhh_6WC7WJscUmJ8tkYLUhJ9oZNJYcqe8HDUAxbEFXSKDkLEuh4Qmvm3ScviBnBaMc5pfLVnBdYh79VESzVOURyt4WINfUf2YGokDADEhC39SCVq-bOWvrAa3NwRiVDGhQONm6hYbk2JuE7hBJM2fzJVsf8fQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJScamvEv1aS4RRxz_II4nGhw",
+      "plus_code": {
+        "compound_code": "RWR5+X6 Jakarta, Indonesia",
+        "global_code": "6P58RWR5+X6"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA6yz9tviuvk9h730Biq9vF2u5m5WmiOtWSFUfGeE9yump-xcGUtqKeQ5tdIH7NlRJ8C4CWtr3qIg8QneTpp5Bg4I1Jkmdb4cqX7Nr4ZMTGX8PO0b0nI7P8bvwdzugRqwLEhApQ0FWj2S2-e4puW5-4SuMGhSDkJXQWWDUB7WI584mnD60qwKaGg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Casablanca No.88, Menteng Dalam, Tebet, Kota Jakarta Selatan, 12870, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.224131,
+          "lng": 106.8432108
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.223101370107277,
+            "lng": 106.8439479298927
+          },
+          "southwest": {
+            "lat": -6.225801029892721,
+            "lng": 106.8412482701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "a10133a510b82c3dea5ecdcc71c2344f680ebf88",
+      "name": "KOTA KASABLANKA",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110698863895485211428/photos\">Atika muliyandari</a>"
+          ],
+          "photo_reference": "CmRaAAAAq_179irPa_C5xU6I8Vo0gpMvtTttMyy9kM2gYmvdINqmoeZnIQJa5GoWD8Owwfy8Z4__OnyyQqhQS62Twjh6haZND_EcMgRIK_JJaO8wDebgQetVFnvYGB_swsNwT-1TEhB1AZc0BTCUyxN1TRiLklj3GhSsvDPFkAikFLmHQkhm6uQAxEkB7A",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ5QMPII3zaS4RzqxjFWPLVK8",
+      "plus_code": {
+        "compound_code": "QRGV+87 Jakarta, Indonesia",
+        "global_code": "6P58QRGV+87"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAADutQzKVbIOunK7WYcD3RokVUG5EfqTTcvYCsbWYCAjQ5dIfdV1xtbTAsQBPy8fm3RRomMvAOGPX5MyVBPv3ZoL8IMa2TfTmtiZ-eTnTORCwIJH1cvuzVB8TTNItwtO-IEhBgHQ_xeWG1pP8bO_0Lnpr8GhRNT8MhKou7M60cjAt04j-cpEKMVQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Gn. Sahari Raya No.1, RT.11/RW.6, Kota Tua, Ancol, Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.138878999999999,
+          "lng": 106.831481
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.136741199999999,
+            "lng": 106.8331861298927
+          },
+          "southwest": {
+            "lat": -6.139591600000001,
+            "lng": 106.8304864701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "7496dcfc9a2108a7cc83273d43b211c827ed898e",
+      "name": "Mangga Dua Square",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101682953358921171510/photos\">andar zamaris</a>"
+          ],
+          "photo_reference": "CmRaAAAARfFyNn-9i_X9nob9T8efmwGw63eaUBopCvw5gRczugZtaPK18IzJf-AEARSSRScuzC2trVIm2uYE566FmvVjFgMgRVgLvO2Oorubp4FmFhuny7_8tLV6wDRy5IF_n4IVEhBdQLy4Y94pWj3dCIK3cH6WGhTTcXyCyTjhePGsgJ-Pt8P-QuEq7Q",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJi3uTCff1aS4RoUa7RsXoJMw",
+      "plus_code": {
+        "compound_code": "VR6J+CH Jakarta, Indonesia",
+        "global_code": "6P58VR6J+CH"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAPTv8ssYtC4HjxqR47gTVs5XFGM0lHCoSNz20N7tVU0gajpLNVO-kiOLjAOWZ0PD8TzxzINCCrC5K5mhdQP1kP51dlN7yGubTRQ9BYUAykZVAEDWGsnxVSaQ3tXVB7_HaEhBZ4Ivydvf2Z1L7-73ya6Z5GhRbgqZcvOT5cNJHbcwNx3HvIHnVkA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Taman Impian Jaya Ancol, Pantai Carnaval, Ancol, Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1174842,
+          "lng": 106.8579897
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.116044070107277,
+            "lng": 106.85969255
+          },
+          "southwest": {
+            "lat": -6.118743729892721,
+            "lng": 106.85639835
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "0ec0c621291457bdd2478395969f5fa6007d1dd1",
+      "name": "Ancol Beach City",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1872,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106216116908439551116/photos\">nur hayati</a>"
+          ],
+          "photo_reference": "CmRaAAAABDpRF62ScRKEOGvHQQeuAxcTmdfKLYFgayXvS9gClPrFKAv_xoIksRcmmAdBbXwiRyX4pabVlvDnTfelWvWyqW6Iqn9LAEypvYxbZBYpXSvAfe8u1mM7fFmcDt-jEjAnEhAVLbLgZREXNi2b6vmbe_bkGhQlVdcBUFZ_qnpEzNcwtr6ClAe7xA",
+          "width": 3328
+        }
+      ],
+      "place_id": "ChIJjbCNYjYeai4RFmqnJg7bfro",
+      "plus_code": {
+        "compound_code": "VVM5+25 Jakarta, Indonesia",
+        "global_code": "6P58VVM5+25"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA7rfw37FV6p-AEHaAJHENWEmIm4j3qK8A7uihRXy3iDzUmCLWgByzwRkejwRl7Ot7yB0NS7ltlRzKOin3JdMkN4s_pI6RHIuixW3NqwZfDGwUWeT_qHzWtKUIbz_B0iCFEhBH2kAZYdAZ1sJ5_kGZZA6xGhQ03_9H_SRxybX2YlDUo3x9B-iukQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Melawai, RT.3/RW.1, Melawai, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2443935,
+          "lng": 106.8006146
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.242822970107277,
+            "lng": 106.80212275
+          },
+          "southwest": {
+            "lat": -6.245522629892721,
+            "lng": 106.79916735
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "45056332416a81b5a82e198f859d5a8d8e37e5c2",
+      "name": "Blok M Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113299051241605190165/photos\">ari wibowo pane</a>"
+          ],
+          "photo_reference": "CmRaAAAAV8-5TlW87hlR2rKm_X3k8RVLJ7oWOfnnripyQsc5C9wcgCpeHFsu944CgWiWsxjlJKORNWeuGmGBcfaklSW8w8BK4uw8T4U24IYYF3i_qxQne5AmZvnfKicUvVZoyDVNEhBcW-0EM4UjCHX5HHNiB5GuGhT4IzH9jMBqQgVs01rRUcWLaCDwNg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJEV_4sm7xaS4RjlsxVenKSs0",
+      "plus_code": {
+        "compound_code": "QR42+66 Jakarta, Indonesia",
+        "global_code": "6P58QR42+66"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA8DAhXtz0wwaBmclu4ZAVOzEq3LFZKkoq5b-V3HBVI3TB8vnNiQEZ2MOdZDorNynLd_9txS76kUFF3eWkKjTJyVM3vKmeYHVjD34m5NqQOtwc-Gj12xboBFLpnKYFitjXEhDLDQQCP6aHUgA_cUqkw_l_GhTClJitfuEj0SPqqiPOTLW61decPg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Jendral Sudirman No.52-53, RT.5/RW.3, Senayan, Kebayoran Baru, Kota Jakarta Selatan, 12190, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2247259,
+          "lng": 106.8098833
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.223012699999999,
+            "lng": 106.8112799
+          },
+          "southwest": {
+            "lat": -6.226685099999998,
+            "lng": 106.8083607
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "77bd9e5c68d43120a3e8d746aa4393bdb9df6384",
+      "name": "Pacific Place",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110635551228902089091/photos\">Emily</a>"
+          ],
+          "photo_reference": "CmRaAAAAW0Im1Xrt8RM7Unv_aDCMA7aD8BWcHgsK1y49ypQX6ci4x25d32HWoeWdvFCel0-4IpxHXQfqojkLzoFuw1tHHuin7LIAb63Ru77czLNrxvWRpb7EDydFlVO2IfdK76DoEhBykEcG_JIwPI5iMPGY4RPoGhQkk_gH4c7QhV92Dttr6fZgy9uvGg",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJK-5KEFHxaS4RzANfS7MIpsQ",
+      "plus_code": {
+        "compound_code": "QRG5+4X Jakarta, Indonesia",
+        "global_code": "6P58QRG5+4X"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAVQ-rMJJEkyK0VAsMywRAWRydNdb1d-dLh34Q3aL6nfiR3Hfzx1nXf4suo4DfP62vgHWinJSFPsQRmNUQZPNf3zJLJLEMgcd6CP-EImrhxuLLKVv8_rA1DfVc-WubLixXEhC8Q8e5vNFkcwNRO_Cj7sIgGhS19a7uxMrAi1FqblCEbXK8WfLI-w",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan HR Rasuna Said No.Kav. 62, RT.18/RW.2, Kuningan, Karet Kuningan, Setiabudi, RT.18/RW.2, Kuningan, Karet Kuningan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2153027,
+          "lng": 106.8300407
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.213878620107278,
+            "lng": 106.8315515798927
+          },
+          "southwest": {
+            "lat": -6.216578279892722,
+            "lng": 106.8288519201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "cab03887615fc6c8dc4b42acb6f6a77d9f0ee1d9",
+      "name": "Setiabudi One Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102067782440558400227/photos\">Kardinal</a>"
+          ],
+          "photo_reference": "CmRaAAAAPeCiCaYyTP9BmEfSm91kIyYPC-9zNlyjP_so0VeISSP5UHzg1r0CP7EB9_OsUwjasWYgtttJjAuE0JMzMOQ0IHHJh3OrKsKcbsyFXG_aDO2RD9Ygrdk8fxUGN3JUQMghEhBUxjGIygTu_mVN0UrOhQjrGhQ75KUe0VKPH9bMNFSvjTsK51DaMQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJz297cAj0aS4RVJbI8kcDcNY",
+      "plus_code": {
+        "compound_code": "QRMJ+V2 Jakarta, Indonesia",
+        "global_code": "6P58QRMJ+V2"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA6U0trhfZxuIS_pwWZnjsBySy_XWrxMPMz-NGVM8U1LdUmkn6CvdK3A_XY_nqMoTlGZ9PV9nUGgGuF0fvUudPGyoBxpqGwU7Ax3Fu3szFR3Z-5w8NJ7NeFyMq9Y3IEa6EEhASu7psbIxy72-EjzBWg8OgGhTZiWgMMIotA28iOnN_NHXLXh5wBw",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Jkt Garden City, RT.1/RW.6, Cakung Tim., Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13910, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1724489,
+          "lng": 106.9519365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.171099070107278,
+            "lng": 106.9532863298927
+          },
+          "southwest": {
+            "lat": -6.173798729892722,
+            "lng": 106.9505866701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "d2eea7da0b54f5e9d233ef790e8ff32e852c188e",
+      "name": "AEON MALL Jakarta Garden City",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102595923445495195978/photos\">Alung Ng</a>"
+          ],
+          "photo_reference": "CmRaAAAAZd08S_rJyRoqGuvIt1hN-rqwmY_4cGcENSZAKa7LprdOXqwBh3WxV8G_GDe1DZ_JiiJ2FX8xrKdOn1v5yHZuRNfeLkrfV-1t3QFlWaABeGw8mABbLow1YWXseu16Jws7EhBFxJaCUV2nn7pFIFcxZS6EGhQtn6GqvN301xT0ztkpI4EIlA5ZFQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJyxMqeAKLaS4R9u7R1xkzRyw",
+      "plus_code": {
+        "compound_code": "RXH2+2Q Jakarta, Indonesia",
+        "global_code": "6P58RXH2+2Q"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAKeR7zuf340U9_1vcP1Qs1cXvHDkHtVwGTpizR1dC5i2sGnNqEwXTZ-mKWa-xoEogaLQxcWGxjCTlTpgQiaqU5WZQiYHAyZtOh0vtx19sAZWW0kB9zSeZWVJDwyNw4uCcEhBGBTRpFWrtuqlP7iplgBOpGhQOD0WKxpODyF69u-E8aYKEkchuWg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Boulevard Bar. Raya, RT.18/RW.8, Klp. Gading Bar., Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1510566,
+          "lng": 106.8920804
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.148869350000001,
+            "lng": 106.8945137
+          },
+          "southwest": {
+            "lat": -6.153049949999999,
+            "lng": 106.8894125
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "1e1e21f58acbdf2cd4cb2e1aafb0fa125ded9bc8",
+      "name": "Mall Of Indonesia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116364437535813507720/photos\">Imron Rosyidi</a>"
+          ],
+          "photo_reference": "CmRaAAAAfSS3OigEMSX8cI2lzRZ1h-FCK0iDrcbjeJf7YpFEPtrYJCw9uE5469-4eex_lfM6F6Lzt90REgNXXKqZ-_71wCEKQmQtrL7vHHKLz4GUzRWFeafPQdBZ5ptqQOPJLEMBEhA-o2GWT-LLziZalXUvhWSsGhSHZcYj9qFTC9FicE_tUPPZixjcGA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJRbkZzkH1aS4RtvHRrarHMTQ",
+      "plus_code": {
+        "compound_code": "RVXR+HR Jakarta, Indonesia",
+        "global_code": "6P58RVXR+HR"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAWPPSz5fwyENI5a1YFivw5zyL-Ts14zL-FcKHo54K0z0ID9bgaKuKFpSC-UGbqCY19-FpEmw8a_PU1CfhHXveDevexi8gqm4Dgz1ul7JndbjPIQ7xhTSz1FwvMRtvdkVgEhCvv5UxE6wHehVKM-pYSGvaGhSKEefUZ4-C31-HimGV7voGX2G5XQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Let. Jend. S. Parman I No.Kav.28, RT.12/RW.6, Tj. Duren Sel., Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.177361599999999,
+          "lng": 106.790481
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.173791299999998,
+            "lng": 106.7932806
+          },
+          "southwest": {
+            "lat": -6.179561700000002,
+            "lng": 106.7872442
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "fadbc365d1c023283d8b4885586ecc6b4c62451a",
+      "name": "Central Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107305227133745147527/photos\">Farianto Kurniawan</a>"
+          ],
+          "photo_reference": "CmRaAAAA_DJiH4vOYZqjNYFnWMtr1QQbtcrvoUT4n-lKU0-m14NQNCnFT0dobVyCrX44yuFotigGU5vBPqbm9sGIZxRWygw1h1jAimbyA7NOhZnmDY30SGk0S1nx2ZP_nSk5ZK7hEhB2FMcS0NWr_RDPvzwqhSPcGhR5LR9uvnpAM632EBueC7fJed6Pmw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJHTgvgPX2aS4ReiDDN1DWFug",
+      "plus_code": {
+        "compound_code": "RQFR+35 Jakarta, Indonesia",
+        "global_code": "6P58RQFR+35"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAA0yymBtpy4_wmP5F3cTGaoWnXxB-YRLy8MpLdTwKFvSDQ8vhZl204ao3NGy7z6fQwi9D1aiTYGgbHRB7ScRlgJJ9xm9uulTW2B_vi14i_gpGDXlN3I6iEbci8XYOiebvpEhDfoglneDYZ32idEeSeIskWGhTCqiZ6oKlPx7BnEwqrlWt7OGKy6Q",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Jend. Sudirman No.Kav 9, RT.1/RW.3, Gelora, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2267487,
+          "lng": 106.8011346
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.225530670107278,
+            "lng": 106.8026755298927
+          },
+          "southwest": {
+            "lat": -6.228230329892722,
+            "lng": 106.7999758701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "a45b5f65ab1a217369e0caf81fde6d84213c08a4",
+      "name": "Ratu Plaza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112394433147147572978/photos\">ilyas novend</a>"
+          ],
+          "photo_reference": "CmRaAAAAndLO9_90Bvgm2NcUx6qZOXRk6wM8WYjFRxuCjc72_6gy7le6GSnhR3g5HqoQX34h5L4dPLPbCKJYi7RYwF5_TrYaLHZq_5YEkIFcqbqIRMcqn83egQ2gH5SvzroWicmyEhDS44lGwRSX5g1lUyHTgERvGhQxNzMpKs2VUWVGMVHFWMdf-88eng",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJDf5pPE_xaS4Ri2fGdc2K-gE",
+      "plus_code": {
+        "compound_code": "QRF2+8F Jakarta, Indonesia",
+        "global_code": "6P58QRF2+8F"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAfAmAG0zIk6pM3xqgbJLnYi-YRWjdMqHRb-3ukw3TkbD4F5iLA9CHm-ZAEeFgy5ckN6bUi4j60mgLww4l-o8KGy2XSmUPg1DjodK17XduzvFTSXcO4RDd44Wa5zm8kDOXEhCWHOXKmjCbSdMMrwYYIHmCGhSsDpy0ATlurJxRNwyWhYkVjVmTEA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

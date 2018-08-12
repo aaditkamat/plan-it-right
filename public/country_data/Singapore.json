@@ -1,0 +1,931 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCDQEAAIVEbU1KRXHmcfEob2DwWo9KqzvcmB1nOi8j0_z5hTQ9YcfQGHDsDc5Jdz073yGY4dxLoZLrdpY-Wyoq59-PgAOdv263cJFRvzgBHIzkZYSRi1uc-JLhsa9u1Q277jhE_Dp8dsJsuq3Xt8DxoA8CMPb_FxrTUPZqWLrtIPBFbKHpBiUmOP6G3OLCFmHYT2Bx6E1mwlSdp4u73E5pMxc0iYopCF9QC7Hsq1F7S74OZKpWrXOY11bb83aX46NgzagxrSF02z1CwHumurH2LgauCiDMNOgzsCPm7DeT0sixq74B6kyj7qfjdt0-taqzlHPzqh7vB4QfSQmCVeevtWPEvAz4lCwkYzym31M_4gda37hSEhAuvLw18QqBLzubG5dP28CbGhTDdD2-2q_BBz6_2H8Mg8rUrrywgQ",
+  "results": [
+    {
+      "formatted_address": "9 Empress Place, Singapore 179556",
+      "geometry": {
+        "location": {
+          "lat": 1.2877221,
+          "lng": 103.8507546
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.289071929892722,
+            "lng": 103.8521044298927
+          },
+          "southwest": {
+            "lat": 1.286372270107278,
+            "lng": 103.8494047701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "a517c975a4461e7122d3ddcf56eb3079ee83978d",
+      "name": "Statue of Sir Stamford Raffles",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100172940758957224627/photos\">Ed &amp; Lin So</a>"
+          ],
+          "photo_reference": "CmRaAAAAc7FB-vggsmOYmT4prHZhBN5_uBG8LtJv8p-p5IwAec327zvHWrbU3BqkE6iwHYLqh97tBTZX5uBJHAOxr1r3iXdJwNGayF5UhW79ONoBrMCOkl0AjYNB-OxvGt-xy3eSEhBRPaEUyegifMI3LNhbvAVYGhQkkq67yR1pH5D8CRYSAN2F9Oh3jQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJN21BlAkZ2jERGmrNMLOQQEI",
+      "plus_code": {
+        "compound_code": "7VQ2+38 Singapore",
+        "global_code": "6PH57VQ2+38"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAuf3pf9_7tuY0qIfxn6kPHbz7HSfG5zNIGWgBSi-dVqp-RzZAXQI0Jwqv9Keoh1v3seaWwP9N75WzPp7iIUs2Q97E8d3nD8-vK8XBikM1jdK9JMO5YdrmzDChvGwTum-zEhCmTbSS09l5JFMQQXEWUWrfGhQiZU0qNeir0QbhsTBlAPBbyA37Jw",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "69 Joo Chiat Terrace, Singapore 427231",
+      "geometry": {
+        "location": {
+          "lat": 1.3146402,
+          "lng": 103.9010239
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.315932529892722,
+            "lng": 103.9023847298927
+          },
+          "southwest": {
+            "lat": 1.313232870107278,
+            "lng": 103.8996850701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "321f65c63b5a5d2aab9bb67f4f2bb3a345b761a3",
+      "name": "The Intan",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107810333428319776700/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAWidgSHxIvW1PTcLFPQe0QVBFJoM74lgb8v6n6fiL80IsR580TMNHiwJ-vhPGhlnncv8oGmOjJfOyQIrE_Cq3LVmq5ykhK-gXPQPMiB-gl9uw8JBHJDW2tmB56qsmcql7EhAdoad2qnGVwusI73PTqpLOGhRwxe1yF6WE3Vi8SMxuivnsSeM7mg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ4UVXsxEY2jERZ3a6nVN3LqI",
+      "plus_code": {
+        "compound_code": "8W72+VC Singapore",
+        "global_code": "6PH58W72+VC"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAOShFr4cP7wNSY8p1av0AbkAwofPjyo9saowz6caEswG4hfH9ZQvbdGwRgk-BEJ23dd_36Smg9omufJorCrR25Q642VsbRwZQAVI5_oPXqa5DHUp8NSDY_S8wyqifj6cnEhCYcKcaDXdOErKK5NgPDeudGhQTBpruXQ2sugdWBQ0nrvclN5a6HA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "80 Mandai Lake Rd, Singapore 729826",
+      "geometry": {
+        "location": {
+          "lat": 1.4021872,
+          "lng": 103.7880606
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.40564755,
+            "lng": 103.7902812
+          },
+          "southwest": {
+            "lat": 1.40103375,
+            "lng": 103.7873204
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "568a2bc1f8631fa321c700dbf3f1c0918bdf3f1b",
+      "name": "Night Safari",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 598,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107500878633805056208/photos\">Biswajit Samantaray</a>"
+          ],
+          "photo_reference": "CmRaAAAAn0AzaRgeMwQlUHNmUZmoQtNvdXguG4GaveKDqRYGI5UPlMG8FdNqVNWTqTqOorr1s2lm0Vv0yqn8yuYa4WtEze_F2Sy9DQE4ohtj_YFA0HEegGR9exMMk2cbYWrod8MlEhB7Dsmti9eMjcdChxuH5ANAGhS519eflRD6jLn9vyodE0bGglibtA",
+          "width": 1017
+        }
+      ],
+      "place_id": "ChIJ9xUuiNcT2jER49FS2OpE8W8",
+      "plus_code": {
+        "compound_code": "CQ2Q+V6 Singapore",
+        "global_code": "6PH5CQ2Q+V6"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAao59HR8PDVDoFDomzJy4BrF7ownAFAYMKCGA5tVhzHocdTZ2sL8pRmJE4xWYsDtt4QFRlzmKfeKKbRWup_moZOfBWLoZmHw2JaX4CqA6SJwuSymgjeRhSYNPivZ2Rwl0EhByftyhuJ6jEIs3kcF8jjDbGhQDsQNDFXeGaumaWJGOsc6Brc9jQw",
+      "types": [
+        "zoo",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "18 Marina Gardens Drive, Singapore 018953",
+      "geometry": {
+        "location": {
+          "lat": 1.2819617,
+          "lng": 103.8639057
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.283311529892722,
+            "lng": 103.8652555298927
+          },
+          "southwest": {
+            "lat": 1.280611870107278,
+            "lng": 103.8625558701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "cc16f0210c13ee50e7f930d5f8bc0c293f2aa7c1",
+      "name": "Supertree Grove",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2527,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115954692686368030480/photos\">Lau Heng Song</a>"
+          ],
+          "photo_reference": "CmRaAAAAfnNeSwgH0ACG86cXWgtQRY_QomXiCJpHb1pgfURZzWEOKwZaEfVaWEnXUDvH3sy6E9X2UTRozrUvdzq7M485fpWymDscARu2qN0KiWywHSVqHRe0OdoGxudpxrVQVSSUEhB1Fyv3c87xjXcj7S6qc0bNGhQ-C_UlPzOEvi8JUON7NDGmUMZk4g",
+          "width": 4492
+        }
+      ],
+      "place_id": "ChIJT4lHCgMZ2jERloDE6WmkdMk",
+      "plus_code": {
+        "compound_code": "7VJ7+QH Singapore",
+        "global_code": "6PH57VJ7+QH"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAkPhCnuZZlFEdA1GvGwlEI4FNuTTpT6byjfEEl2NjzCY9oZzbBX7uoqdBwjjVs8m6zkK4ZW3DiWMCR4wV_YtjXYTq_l3dplx0JCFFBoAAI6Mdux0AiLyDcNknhxLZSwItEhCeOIWdvNCT8xeCHnVl8J6xGhRwtwSWL4erNZMHpYS6gJ650Q6Nng",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1 Cluny Rd, Singapore 259569",
+      "geometry": {
+        "location": {
+          "lat": 1.3138397,
+          "lng": 103.8159136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.326912000000001,
+            "lng": 103.82008
+          },
+          "southwest": {
+            "lat": 1.302976399999999,
+            "lng": 103.8124928
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "d6c0cf575512f60903ec186f89ad7e69542442b3",
+      "name": "Singapore Botanic Gardens",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111071596836352903190/photos\">Yusuke Ishida</a>"
+          ],
+          "photo_reference": "CmRaAAAAfdBZTf3xFqNHzCIot0NiKAySgYdMStpN1CXAanYJES3lZkxNZi584X4uAx_YyrX-8w9JBidApEBaRdsNSoXLoECnqfvyg1ZgFWBo9JdG9UrZQyOJY85zKnvSS48uO9p9EhDSsHAuS68b-kCOE00j7_O2GhRzCM_FhbddzDc5KhOW2GtKgW4JCg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJvWDbfRwa2jERgNnTOpAU3-o",
+      "plus_code": {
+        "compound_code": "8R78+G9 Singapore",
+        "global_code": "6PH58R78+G9"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAALoQaDbcDF6G5CgPkqXG5jR9OfexFVrKP1DfXBAA57mf8A_BUEPEkthzR0TMTrqTLeIor-enNadzYp-kn4X0mlwSkADObdbntT_YoHDVGOIl_NG9sKwvFaLXAWY8BA-g2EhADLVORsS4PB7toy04s0fNrGhSIg0sYJq7HVoBuso7rI5JpunSRFQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "2 Jurong Hill, Singapore 628925",
+      "geometry": {
+        "location": {
+          "lat": 1.3187065,
+          "lng": 103.7064417
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.322741350000001,
+            "lng": 103.7082018798927
+          },
+          "southwest": {
+            "lat": 1.31736155,
+            "lng": 103.7055022201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "94157c8e8edde42ff550f01a8b3d985011ce2501",
+      "name": "Jurong Bird Park",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113147816727959947293/photos\">Kirubhakar Prabhu K P</a>"
+          ],
+          "photo_reference": "CmRaAAAAf0tEKrzWsW3o_03LsTJi-568M5XrtHPp269uvy6-9ictThVcEmE7sBYZau_D6XB_yvSVZ_ZxPWduFqsylkSBfLFAAyMTYvTmsfO6FGlnHqxUktyDjliz98sX0RR_WJosEhBMgVB16OCpa0VoazmBPWAiGhQ8MwifOYiHGhf_NLHCAAIlT8eyWA",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJOVLiR10F2jERTB2-cCujA4o",
+      "plus_code": {
+        "compound_code": "8P94+FH Singapore",
+        "global_code": "6PH58P94+FH"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAbOvdMM5CE26cjLn0Jrko5ZEl9oydSY39snis8TiaMZ0veaZNfplXsYh3WdmOnPCaPkhl6QgfuEbS6nu3mtojuj8-QkBWwg1qI847GDjW_O2JDAnuFxJyDbPeATo6uNT1EhAHyv57DXSLwtP2T1G5kh_wGhRMCAnmKCnMYWUbjuH87wjcWXWD5A",
+      "types": [
+        "zoo",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "48 Pagoda Street, Singapore 059207",
+      "geometry": {
+        "location": {
+          "lat": 1.2835085,
+          "lng": 103.8443515
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.285076379892722,
+            "lng": 103.8452000798927
+          },
+          "southwest": {
+            "lat": 1.282376720107278,
+            "lng": 103.8425004201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "5d3837202a27de8eb073347a0a792de1a32a2f04",
+      "name": "Chinatown Heritage Centre",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104391019195658754186/photos\">tadasi lai</a>"
+          ],
+          "photo_reference": "CmRaAAAAuAprMDUBguNE4jcAdOy_y_dwFfCwu0Q371o5htha-ZLRGIBiYrAu4JygjiQtK5KY5nrnU1XR3KC6ZcHjYrdi5gzuzPE0xr6vSYhSPHQvgIZd6G3fM9A5jSY2lZmXNyc0EhCBGYP6sDuH4ELXrcojmkR7GhSbCziKFa_SXbtXIEry9jvCLaPpJA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ3eg6SXMZ2jERCxutt4adUyY",
+      "plus_code": {
+        "compound_code": "7RMV+CP Singapore",
+        "global_code": "6PH57RMV+CP"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAOUDKH1wHh-NTTM8GCRYUlHQMUy4sadW7a9S0D-O4yt1KnciK11vV7Uwwq0J9NyCOFl_sU8NpLudf8blaeNXVxu4aGHjzkcOwo41rOSNh_mcnz8yI6jPIhSmYUCYCkZgFEhBuPmmOzRJdZbbwwm1X4wikGhRhOPrHBAl0Jbw1BV0HDuHLYBeguw",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Singapore",
+      "geometry": {
+        "location": {
+          "lat": 1.2480667,
+          "lng": 103.8213852
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.249444629892722,
+            "lng": 103.8227787298927
+          },
+          "southwest": {
+            "lat": 1.246744970107278,
+            "lng": 103.8200790701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "254aa7e3fe6b61f028196ec228282e8c29268f7d",
+      "name": "Southernmost Point of Continental Asia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108472519882250212713/photos\">Pedro Bahamondes Walters</a>"
+          ],
+          "photo_reference": "CmRaAAAASeNQcePCgqn9k9qkJPCFeeFO3Vroko5ps5eotjf3DAHjkVAhbyTAdHnwgKtsPZ1D71WZv-4qlegkBCZijn2HXqoVOwI48u3dFBD1RPle5EFGjqbCt0S5WKkcWIv6s1_OEhCps14-5Fe6M0dGqbqWWQjaGhRSXblxc2Dif34kHEsl78pbS2DxTQ",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJLb-FB6oe2jER74hJNe4kwkw",
+      "plus_code": {
+        "compound_code": "6RXC+6H Southern Islands, Singapore",
+        "global_code": "6PH56RXC+6H"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAKKHhTklgUiX5gvR9qn6t4dElJwFowHrTk7PJlETzYGwZImhJ8AC8CiOcKcSqohtFw6cOIsRgIHq8htt0oR1_qOMPzbMNr6UEGi58_LM8b9Yvslrs-qB8inY3NBAsMG_1EhC_6xTXkRlHnTtRytpwKKYZGhS8zPLaKOjkXFuktsQ6qsfl0GXHzw",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "244 South Bridge Rd, Singapore 058793",
+      "geometry": {
+        "location": {
+          "lat": 1.2826847,
+          "lng": 103.8451304
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.284106179892722,
+            "lng": 103.8466483798927
+          },
+          "southwest": {
+            "lat": 1.281406520107278,
+            "lng": 103.8439487201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+      "id": "1d30af4455a5707af3901589199cb5a570798cdf",
+      "name": "Sri Mariamman Temple",
+      "photos": [
+        {
+          "height": 3040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115655764713238105715/photos\">Anke Mos</a>"
+          ],
+          "photo_reference": "CmRaAAAAF8r5VEnxJFxCCoLpPsTXkfdzIF9pI2AAFrBv-UPJ1WCH02FheUlC5splZxsi9dvpCOYH-3piGY41Ofk4QTCExctl9v7ACIw3IWhjoQ3DmA1IUeyzw8GJqXD_7uu7GH5qEhBnJP0zLBi8cR9duLCCWqhmGhR891AyvwCBOMQ2axAv_ToRw5Oi4Q",
+          "width": 4899
+        }
+      ],
+      "place_id": "ChIJ0yjU0QwZ2jER6gg0ImuCTRU",
+      "plus_code": {
+        "compound_code": "7RMW+33 Singapore",
+        "global_code": "6PH57RMW+33"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAo6TAIg3M0YGoYe1EK_EJpkM-jlD_MUvRs_sW07-8Qg5As6LtPxsgg1fo6Ef-LBTGBL86gZMWmLickn9AylKHoVVkbTRxeBQE95bvuBq-NBDOP7HnwmQm_MAQXkhM2wVTEhDBsC5pVz_2x7jZNsN6nsGWGhQCCugODZmYoWspyakDaSZ_kZ2OWg",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1 Cluny Rd, Singapore 259569",
+      "geometry": {
+        "location": {
+          "lat": 1.3116834,
+          "lng": 103.8149013
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.3160448,
+            "lng": 103.8157878298927
+          },
+          "southwest": {
+            "lat": 1.3102024,
+            "lng": 103.8130881701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "fc8694b87e186731413da0c4ec551b9a7222bd5f",
+      "name": "National Orchid Garden",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115207984269222548561/photos\">Masaaki Moriyama</a>"
+          ],
+          "photo_reference": "CmRaAAAA_tg9N_NkqtJK0cY3Lk9NU7CgbMvrN6Ta8pN-Nit0lYZEMf7yXH_XCcbN7YjywStGXm0i4j5mNOW4aR4lZj2CfMhL2uwoYF-obDs4B008naRTETPH8pZSLkJ2EQp2SRrPEhD_lf5xwoBCAsbiS8W8xgdVGhRPOcTLZXK4wVYI5UulSP-zYa1Q1w",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJ56qqmhsa2jERVxXMSM9vax0",
+      "plus_code": {
+        "compound_code": "8R67+MX Singapore",
+        "global_code": "6PH58R67+MX"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAA0FwsE1npOppkJm8sjKlNnQneFxxZq4ifJ6olwnPGUylQhi-_MT8Suzeq7lMHfPLlsR-_1gdXeeQZ0k4pxjcxeg53YMUHQiShnaFN4Eibd9_4xkh-Crm1pfOwTt1sbIjIEhD4bcGAy0I_Y6gjt2SV2cvNGhQC47QzaKxFv7GQuwO0l8iJuqHCcA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "River Valley Rd, Singapore 179037",
+      "geometry": {
+        "location": {
+          "lat": 1.2945118,
+          "lng": 103.8458004
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.30048195,
+            "lng": 103.85116145
+          },
+          "southwest": {
+            "lat": 1.28813975,
+            "lng": 103.84193285
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "cc310d19ca8caf94176a87889cbe95fc099de3f0",
+      "name": "Fort Canning Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110518511630797247788/photos\">Daniel DS</a>"
+          ],
+          "photo_reference": "CmRaAAAAtKqh6sQRIkrFC9p4mklgb58eArPDGZ_tL45XszZeX3IbOTQbnjWmgjHf0yeHgXJ09iAfYJSrYkiDvbVJc8zpFdjHKadBmCRUBpk7e1Zqe4M61BpcT-ZuMg80L1Kr035wEhCaqobAMNWM9uVYBpTvekAIGhSvV6YS2MHDJJqdSObYHmhasLiWAQ",
+          "width": 6016
+        }
+      ],
+      "place_id": "ChIJVSYjJKIZ2jERpRFinATD52s",
+      "plus_code": {
+        "compound_code": "7RVW+R8 Singapore",
+        "global_code": "6PH57RVW+R8"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAoBdr3LdMP9f-6DUOCn9FvUWePGIFgwe4Bnm3_z9sqVBwVimGRqGSB9Gk-Ows0L41kh-n5FqTGpIXspCmb4oiEAWzLYNQ26Bcbf8l5f5u-XmU8NJPkUBOpmEysGqc1DNvEhCTeNJv0WRi7J-ziwgzByLbGhQaLajP-GmcwAjJtKB2v6LNp23MOQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "18 Marina Gardens Dr, Singapore 018953",
+      "geometry": {
+        "location": {
+          "lat": 1.2838677,
+          "lng": 103.8660024
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.285562249999999,
+            "lng": 103.8672806298927
+          },
+          "southwest": {
+            "lat": 1.278784049999999,
+            "lng": 103.8645809701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "944385516b2336245bfd32da32ed9437af65f124",
+      "name": "Cloud Forest",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108140456860352434391/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA97X2DSHZC38g6aD6y_GLE9Z-7fwMDeVVkUQasnS2IY0Xxa4pNqYUHdC_BuRBSqSDSPBx9tuwuMssUyF35P5gIdy4p5SDu8KW-0kus5YNVcnP7aUliiJpbUuYFiVQgWj3EhDlTP3YAdGaMZS4gmpv36ucGhQl8esmTTvs7BsdWP45QzAmWfac8g",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJd0VihwEZ2jERKeREhO6G1Qg",
+      "plus_code": {
+        "compound_code": "7VM8+GC Singapore",
+        "global_code": "6PH57VM8+GC"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAl0uoLRK9d4eYGurtF9koQZKy2m0N0xnaZZi9fKLXbA90_44BV-xtJ5KAAE_IgZNIskrrA9nx-ehckMkSmB8lgqdvGvsASOaqSPEeIAYatZnTJooi0YuXXj81Q-tthB5kEhC1ukAS18doXFhNBWff7ayoGhQBsJRi8fz6JluEbOSdE_cai3NPrQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "288 South Bridge Rd, Singapore 058840",
+      "geometry": {
+        "location": {
+          "lat": 1.2813361,
+          "lng": 103.8445218
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.282818079892722,
+            "lng": 103.8456559298927
+          },
+          "southwest": {
+            "lat": 1.280118420107278,
+            "lng": 103.8429562701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id": "f9d14b88e8f729da21d1b8fbbb050ed27609db28",
+      "name": "Buddha Tooth Relic Temple",
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104566877611575267829/photos\">Noteman Vorapote</a>"
+          ],
+          "photo_reference": "CmRaAAAAAVARcFdlbJPL5oggGyk7zkxgThCt8Ufr3PvLlGSvKGrebBv7Z1WroOaXOebsz1SHJlYtr_DV0lIopwI8m7u8JCllkrt7E_KveTcq-CDVtIzeVU63Ik18L-_L4_3ibitJEhB2oYJFzT-QJjqFEp0qvFTWGhQV0GtDH-AVKApSfV5Uf-JbYWwBKw",
+          "width": 961
+        }
+      ],
+      "place_id": "ChIJ0bwmznIZ2jEREOCMNggtIBk",
+      "plus_code": {
+        "compound_code": "7RJV+GR Singapore",
+        "global_code": "6PH57RJV+GR"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAqOxSv47sVB81BxRTNabXSh0xZVzFIGlNffaUHKbk-HqPIu4G6i9HY2Pklv44N9Wq6m3iDbNmP_nMGGo809-DJtC5k8DFqXeUZxuCj7d5SHd2fYAFUy1yNCsHL7lH5a7vEhDdAq779U0EZjqpdtig-ujKGhRcrRq_poLd1LpvJvYp4C8BU03ZMA",
+      "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "30 Raffles Ave, Singapore 039803",
+      "geometry": {
+        "location": {
+          "lat": 1.2892988,
+          "lng": 103.8631368
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.291055779892722,
+            "lng": 103.8643301298927
+          },
+          "southwest": {
+            "lat": 1.288356120107278,
+            "lng": 103.8616304701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "021245e36680793a72b3c428607f0a01ed5d1786",
+      "name": "Singapore Flyer",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 424,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111016206540380304710/photos\">Ngô Châu</a>"
+          ],
+          "photo_reference": "CmRaAAAAh8h-rHp44KW7o1qxuwisDwXUt-okUITaiTm6rwMdC9flrwwniO9BU1kSMOuPWDT4BbHlZZxrTUbPzxrs4vgSB7G-RWOwN-mIDwY9RvfaYxgDqLwaiX6ihUiWohdhecn9EhB0DeRl6jQigtrf6EbmpNS-GhTKVoZw-sQktkTrWol6OsSUxKwzcw",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJzVHFNqkZ2jERboLN2YrltH8",
+      "plus_code": {
+        "compound_code": "7VQ7+P7 Singapore",
+        "global_code": "6PH57VQ7+P7"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAydEiyNGy45U5ZjENkuPjprLGlMvX29cWNTEnYrr5VLj5TywLl9fg9Yy7QVko1sRrVp_ZGYN3txtu4pr6wc0OzY-tutf1YFq2vgCRAv8K28clCbyvvIZ8sSVGIjRYREh_EhBIFKOd-ILngVg8yuoF5tp6GhR79JmrWrYQpJ330Ojjk1737MufZw",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "3 Muscat St, Singapore 198833",
+      "geometry": {
+        "location": {
+          "lat": 1.3023191,
+          "lng": 103.8591095
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.303647579892722,
+            "lng": 103.8603817298927
+          },
+          "southwest": {
+            "lat": 1.300947920107278,
+            "lng": 103.8576820701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+      "id": "acd3f79b969df5e8fa5c4ce950fed8745ed98cbd",
+      "name": "Masjid Sultan",
+      "photos": [
+        {
+          "height": 2742,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109309241802010853476/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAFaaPkvAcsICFY5MBBf4NfbNddyRNcI-WyKLpXvRfgR1VFKzYOKw6wcTCl3fC4uIIhoQ2l9CetZMKN9A4j_oYF9V3v5nQKyiQUtVpF1CXA-8X0RsirdDydn-Gj6x6mv0YEhDcAd9ZYKGA1c6mF6bgPeOvGhQvfUI7zQJ1c2ZKDdz4gNhx5tNqqg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJb6xq2bAZ2jERE1P6sVKtofw",
+      "plus_code": {
+        "compound_code": "8V25+WJ Singapore",
+        "global_code": "6PH58V25+WJ"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAqByfmnlP2lkOjmOFHqydLdHyQ9upOtEDkFT551KMcogyiNWa9Cai1CNt1d53NGnsbT2N1semFyGRookOdErgWPLA8rcVYQdTNERZGi1KvqJndpkYGNGkFwOegEdbuzHdEhBGTR8BhdezDKDMbONn40oaGhQ0ToXf4qE8chUAKG_FoHrmtUxEEg",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Sentul Cres, Singapore 821313",
+      "geometry": {
+        "location": {
+          "lat": 1.4111243,
+          "lng": 103.9046565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.41315305,
+            "lng": 103.9126138
+          },
+          "southwest": {
+            "lat": 1.40503805,
+            "lng": 103.8983046
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "3730e95389d05bfdc3951aac2dd48e9e6c637b95",
+      "name": "Punggol Waterway Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102902576679617972515/photos\">alna tejareddy</a>"
+          ],
+          "photo_reference": "CmRaAAAAv6ODqcI_yp1SXs7M_-tMB5pm4IHRQ6qt4fC-fl8OoZSGYrswtoOnnJ9H1bK-9emPZjeg0xmAc8EVcGpAIyrgjrJF6cw5Z35yRSYg7ceISSwvP_R9GC02qdIpTVTk_2IrEhC6vpQPolp_aCUb2t25RltNGhQ1H4BDNXqbts28NwflMBXrVblxpw",
+          "width": 740
+        }
+      ],
+      "place_id": "ChIJBVVBo_EV2jER-jKR3Hy6qUk",
+      "plus_code": {
+        "compound_code": "CW63+CV Singapore",
+        "global_code": "6PH5CW63+CV"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAARxv6-gSFdSr2FsjdVxTz3jnXTNuDFp-JPbVKK6G-WNMUvtXsaVTRySiBRJtDPtpsqIv54xkWMRnjX90PXlIkgAm3ERatC0EZmRcPljK8fAQQhSj5YMXDWwVO_fyOZPNlEhBvoG8ZcPm0bAYKBzV02AIYGhSfihArleIiOTCatMyuxop41-McaA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "111 Tank Rd, Singapore 238069",
+      "geometry": {
+        "location": {
+          "lat": 1.296022,
+          "lng": 103.843462
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.297308879892722,
+            "lng": 103.8449692798927
+          },
+          "southwest": {
+            "lat": 1.294609220107278,
+            "lng": 103.8422696201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id": "2c67503f4b7d74ba0bfc30c3313e8599bc434a64",
+      "name": "Church of the Sacred Heart",
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109705777041316309245/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA0XSuZIizjptAZgpB_lVQ-wbwSi7XUO9z-VBpuQHiDa-ISjOmJJcSzjV3quow2OsdBR08-pbkd2E1PK_QWWZ_yb861PS9AknrTKtk68n7TI9ihzpV-WymPZVcTk5NBcbQEhD82oFU2PXBGIz0Qm35Dr_RGhTgCiHIdJGMt3yD7UGfYvzfUTW6fg",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJD7vwipgZ2jER76xBojb9Li0",
+      "plus_code": {
+        "compound_code": "7RWV+C9 Singapore",
+        "global_code": "6PH57RWV+C9"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAnrGuWZMZug7t0T5cVc-3ttf4eyTi7WrYcIBF0S9Wx1aWKcpG9Ha6LipzeYAazPi1QxjQToc-d84Wjp3AC7SCh-am_8aBN76w7wMNxWl3ztLT0Q4MOO6KH2y3E6LKTxzDEhDemi0oiimxzTwd5QZQrmfiGhRG-nUSha0N3MkcU-0GLj7ojr373A",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "A, Queen St, Singapore 188533",
+      "geometry": {
+        "location": {
+          "lat": 1.2960557,
+          "lng": 103.8511899
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.297557279892722,
+            "lng": 103.8527410298927
+          },
+          "southwest": {
+            "lat": 1.294857620107278,
+            "lng": 103.8500413701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id": "15a853da3dfb5c19fc2e9a38fd7a6a5721599c75",
+      "name": "Cathedral of the Good Shepherd",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107810333428319776700/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAwPbyaYDULCq8SRBk4wAY55t5_YrVZ5CnCD4bwvsDhphYw2-zHCHzuuqYdCvNc_TP-nVKTU7ctMJ0WLf803ANZM7jdKs8zx6SziGbgjru3KwcJHCK75XI8o_TeXJelzV_EhB7YcSwYyrQS82YgV5CbGHGGhRia91jVmYD7lhdNGWjq7YiB_rGOg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJd1u7YqQZ2jERreK_g33tkIg",
+      "plus_code": {
+        "compound_code": "7VW2+CF Singapore",
+        "global_code": "6PH57VW2+CF"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAUN-Pr5xl8QTDKCPpV7o1Ga-ncaaT0TqlXFWAZcWZRYgt2hM3aTykmgH3Wc-OrGq_OXg0SMVTKXOGj-pPwkNgQxyKZjJm8gIGTsmuNmgkYcK6Eynlik5tQymmFStw1SyIEhBiHjkIe16tBJ6ttKk6vrgjGhSFvYK5F7tluvZQiKl0J6RuMtGqAA",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "11 St Andrew's Rd, Singapore 178959",
+      "geometry": {
+        "location": {
+          "lat": 1.2922741,
+          "lng": 103.8521989
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.2943587,
+            "lng": 103.8529636798927
+          },
+          "southwest": {
+            "lat": 1.2908243,
+            "lng": 103.8502640201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id": "cb2442abab2ebb36af200b8030ed129cd56a1f61",
+      "name": "St. Andrew's Cathedral",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100172940758957224627/photos\">Ed &amp; Lin So</a>"
+          ],
+          "photo_reference": "CmRaAAAAL6BMRUwSI_-OtpXY6Tnw3iND9gUx32G7MKmyU7vdTAWbtUufoILupLzcgnm--PZq4KGRaymhqXbYv16U0_WNTEBfrN-KDDQpc_2pdgt5TcH8_G8ATmiJhqNJWuHIoYFNEhBUfQAlDg2O3_L6H-IYv61WGhRLVxcn_ciuYWvUCq7WawZaTRYJuA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ_xBP6qYZ2jERrO-IiImXiGw",
+      "plus_code": {
+        "compound_code": "7VR2+WV Singapore",
+        "global_code": "6PH57VR2+WV"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAKGp9pRR6P_32SDp4_fL2kH7nUyAfG5csVmCSyCSXSI32ynw985RtziefWn3VNLLo2Sh-LbqO3r8hSawOC1vDEMsnqETcs2UVl1V2VKnuu0F1RMo1O0VEuNnlo-GMq4O4EhDyp1Pl-HnHyQUEejIEmEYMGhQWmSUo4TIrPSLDlD_-WeUpLtubkQ",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "141 Serangoon Rd, Singapore 218042",
+      "geometry": {
+        "location": {
+          "lat": 1.3078831,
+          "lng": 103.8524431
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.309165679892722,
+            "lng": 103.8538911798927
+          },
+          "southwest": {
+            "lat": 1.306466020107278,
+            "lng": 103.8511915201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+      "id": "45f9fe6a8fd3a5e3fbcfff40887e22de090d1bf9",
+      "name": "Sri Veeramakaliamman Temple",
+      "photos": [
+        {
+          "height": 1361,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101504934460820637836/photos\">Nicola e Pina Singapore 2012</a>"
+          ],
+          "photo_reference": "CmRaAAAA68lnYSAcidq62xztn33r-MqgDmkAWqaACzUDY91hqa9MfnfbdeY1vFMCGJDbfnLEfBwRRXBgWv9h4eEhgWlKmIUNNCqGXA1sisi9ngEmSaSvrq9sbtXy8gxV-9-SJH7qEhAMrvp3FjvTb1dXgsIVgiMvGhTIk4bQbZVmVRUX7KdU5fnp6QF4rA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ8zLPY8cZ2jEROE-GeGiS7GQ",
+      "plus_code": {
+        "compound_code": "8V52+5X Singapore",
+        "global_code": "6PH58V52+5X"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAOWt10xL181W-U-UHkroHOcWV5PhsB5nrPpyIwpIxKOfrVNd93n2oYUpeyofcChqgmz3kdPww-KM86qyBniQKpXUJiNifncJHRLCw3XkjGhbZelCWtHXDGdiFlNoApe0YEhDtRFq3LLW-sXowZmTwdcvBGhRG0wHF9cwO0YDSPBVyPx0-op2JbQ",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

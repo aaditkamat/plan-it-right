@@ -1,0 +1,54 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.6998591,
+          "lng": 96.1197029
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.70120892989273,
+            "lng": 96.12105272989272
+          },
+          "southwest": {
+            "lat": 19.69850927010728,
+            "lng": 96.11835307010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "6dd51e51190d3286f6a9b446c97877ee48c68fdb",
+      "name": "The Voice KTV",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104759770559137701123/photos\">kyawmaw oo</a>"
+          ],
+          "photo_reference": "CmRaAAAA8oVWn8fry8247b0JZ5iIsos3yv6wUjJcJBsJ4GzfqyGNtXYIyqUNjGORAAkMzntQM0PbnrebUHLD7aGU1iFv5acg_UKS33g-T6XL5NtjJ6uCzP3HtLaxEzsY4IfO1YAoEhBA5a7BEIqcw9tWFWRY6522GhRITxI7XUvlrjM9jI0YRQ6pZ4SwEg",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJg7WpNfi8yDARGRiNC2EFKtw",
+      "plus_code": {
+        "compound_code": "M4X9+WV Hotel Zone, Myanmar (Burma)",
+        "global_code": "7MFRM4X9+WV"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAyUwT3144k3WIgV4V6J1BEOauz-yoTE0mVjP7PBdGIUP3Y9wiJ3HEB3moAVlKhlbivyyVceG1Adrtxly5i-MAtwqw3BM4Sv_ucFJUxVt96ijomf6mPZcf2VVyrrDt2mmpEhDkVAqRB1_6jQt4jtXupMhPGhRmUjd7dF6Eh5_jTIpZd0XOz-xquQ",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

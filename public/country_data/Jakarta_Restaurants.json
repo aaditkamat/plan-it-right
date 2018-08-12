@@ -1,0 +1,971 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCCAEAAO_3HDd7G7T6y0vSygnfsvOQ2X-8Mo5h0muWvCvEg8Ut7pkdHrsKSJXydGi483u2vpwPSX7p5LU7yshwEFH1stoRnaXGHAQWeveInytjuzy0ZKECSAAbflZbjMiV-OMgNVghOkhRUAMYjaBJ_j62VMTMQR61Lj9zt7wWTxlgY1JPiJ96nUBzB2nTzPvcnLp_BA5tU8pWqx6CrXFRIhmIRdlarbNNb63u2e1pwbZf72Yhn4dI_wvP_L8pB3i8-dNEhb_x1s7uStqLXTi2bKWJON5QkehQbzG9tjIIDfxd-tiOv8kejq5SM_0VIKm182B6X44TObdnH5vBuLhkIEFFyMmw8hIMSHetiAmAw9VQjovuEhBto1K4Zq2B1MdRRuS09539GhRLv7mjs8pPe1TsXyRJVtKDmo6eQw",
+  "results": [
+    {
+      "formatted_address": "Shangri-La Hotel, Jakarta, Jl. Jend. Sudirman No.kav 1, RT.10/RW.9, Karet Tengsin, Tanah Abang, Central Jakarta City, Jakarta 10220, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.202913,
+          "lng": 106.8188966
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.201328370107277,
+            "lng": 106.8204648298927
+          },
+          "southwest": {
+            "lat": -6.204028029892721,
+            "lng": 106.8177651701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "675f4527bab71330a45fa36f49d598a3e0425147",
+      "name": "SATOO at Shangri-La Hotel, Jakarta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1299,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116645465514429961168/photos\">SATOO at Shangri-La Hotel, Jakarta</a>"
+          ],
+          "photo_reference": "CmRaAAAAX7nnNEvXSohmldkG8GqNS10ROb1WPH2JXub-asD40pa07YHKE6aIzhYI7l-NEJqe1Dmp_ruS3-DQbgBqMlPdrlIH0cOQj5qNQB2_foPBlfUgGaF23sv0TV_vfbBEBoOmEhBO39fsnnNY1kfqaJbmGXMPGhR2kec6SQ9R8szLS9GZL3FyTJdRxg",
+          "width": 1949
+        }
+      ],
+      "place_id": "ChIJUV2l5R30aS4RDD3t4XFllMg",
+      "plus_code": {
+        "compound_code": "QRW9+RH Jakarta, Indonesia",
+        "global_code": "6P58QRW9+RH"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAeShTsgZK2YFIQtq3-WAN59MRHeoDW05BB1LzYszbyBWAuj1R7HY_g5eu83DmMWTGo73Foz5F_1z2UR4Bsk93Z77wXywd6PhuO0Y7hQRSoK-u1c1btZ3geu2N_1iD9zZ1EhD13HtIHZ3sfMWhtNzpSy_cGhTO4N3itRQ73tmVxhaYGiAjSEDkwA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "The Westin Jakarta Level 51, Jl. HR Rasuna Said Kav C-22A, Karet Kuningan, Setiabudi, RT.2/RW.5, Karet Kuningan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2244212,
+          "lng": 106.833757
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.223071370107279,
+            "lng": 106.8351068298927
+          },
+          "southwest": {
+            "lat": -6.225771029892723,
+            "lng": 106.8324071701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "167bbfe903b251da943b591fc657e5ff7e4a64c3",
+      "name": "Seasonal Tastes at The Westin Jakarta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117033877413610698214/photos\">Seasonal Tastes at The Westin Jakarta</a>"
+          ],
+          "photo_reference": "CmRaAAAApPJRiACMIv2khqXilhCpXXDeTeZkWMfEWufXPAxyFkySQcU4xfTgU3vr24robnSlzgTyiyuJfeaVYpfKsDT0LBKgojVRVd3xaTy2zXvJBWWvTuCYnPtQ8HEqOkKNmkKZEhAD9I_LPfJ3Byi_tGvOOWOEGhRN0aQZqKObZmb1WLCgHcX0PG4bWg",
+          "width": 3900
+        }
+      ],
+      "place_id": "ChIJMVBdEvHzaS4RzzD3mbhj5PI",
+      "plus_code": {
+        "compound_code": "QRGM+6G Jakarta, Indonesia",
+        "global_code": "6P58QRGM+6G"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAEA43nRrKQ-N5d3Ag3oIqTbt887JDO1ktqLFCJrlRMR4EYFsVpFtd3hHbN2wW0UIh4LYOdPEUBHi44VRNure6tOc3pqGAIXpzb-h8RMKEYpCBCvLO2B65qi3yQKFBgff0EhCnol-Q_Bv-EqcsjL7H97y4GhTi3d143IwGe1-ev2Cy4cPZMI9duw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Gunawarman No.42, RT.5/RW.2, Selong, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2386281,
+          "lng": 106.8069142
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.237158020107278,
+            "lng": 106.8084161798927
+          },
+          "southwest": {
+            "lat": -6.239857679892721,
+            "lng": 106.8057165201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "b070a6f8afc3e82a1dbb7d86ac080758d384f3c6",
+      "name": "Namaaz Dining",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 670,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102598410209346974737/photos\">Herly Izuardi</a>"
+          ],
+          "photo_reference": "CmRaAAAAg0LlqZD0goB8qmJGUA05dkT7-wlb3quJnkHjTBh93qiJb3F8HpK9sZR_msHLkxfk69cD29kvscT5GwrGi79arYT06CnnkCbd1_tiTGEOxIea3mKO2epZsiaMmHM5ILVQEhB3zHtOGWZ1IgkNQ4s1rbd1GhRyl-TS70I8VaJockd8YUiyvpMK2w",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJTxAy8WfxaS4Rt0KGZl6HS1Y",
+      "plus_code": {
+        "compound_code": "QR64+GQ Jakarta, Indonesia",
+        "global_code": "6P58QR64+GQ"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAPnlYzuc--MYSq-QDCd1pZ8XN8ULR_egVSIKBO647qwqhvuSVlaGlAoGmdrcMGOp-xPZx2J6ROF8BMRwnRGQUe-0JQuG23G4CuFP__k3d69y5fKIuHiN3Wr4I-pxtyXn6EhCtmFfBoj63pUUjJGzobxYtGhQ3QZOnWI1yL5IAUZepCue9mA315Q",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Jenderal Sudirman Kav 18-20, RT.10/RW.11, Karet Tengsin, Jakarta Pusat, DKI Jakarta, Daerah Khusus Ibukota Jakarta 10220, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.213105,
+          "lng": 106.81872
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.211755170107277,
+            "lng": 106.8200698298927
+          },
+          "southwest": {
+            "lat": -6.214454829892721,
+            "lng": 106.8173701701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "6c2cad0a894fd10ae65b8697ad2363ece7c7e1b9",
+      "name": "La Brasserie Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1125,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102653459379824657330/photos\">Adrianus salinding</a>"
+          ],
+          "photo_reference": "CmRZAAAAZgd-YgVE15_MHxC1bnfoG7vWFvEF61V8POOaAS_kkZVO5_CRpzC03jonQzmfTjR6xduqdKxjKZdVFsdewCzUKz_xkOnQSMcNX9U7-W3o_yG1tgEFNpjEqJLdYmZZCuPuEhDObqlXbxnzCHrHgcchT635GhQvD0ehF53lEueN9A0zK7LnfmQYng",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJNx626AH0aS4RlQ5CSlPnxao",
+      "plus_code": {
+        "compound_code": "QRP9+QF Jakarta, Indonesia",
+        "global_code": "6P58QRP9+QF"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAhJb6CGHtk8v3CW8U5ewqdgknRGDXr3YWK3Xg7Le21CyxXroajEGa2gniXhTjHuwrdADu2qU63OfjJlAOYVTB50-y9Gy7H2moJxabxppjwr428W8PZWOYVD4eAlKtoEPfEhBbqpsfH09j9bG3BH8Q_sm6GhRuTzdx5uR5toKmUeZC6_-0BK63eA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Teuku Cik Ditiro No.4, RT.3/RW.2, Gondangdia, Menteng, RT.3/RW.2, Gondangdia, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1942049,
+          "lng": 106.8362037
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.192855070107278,
+            "lng": 106.8375535298927
+          },
+          "southwest": {
+            "lat": -6.195554729892722,
+            "lng": 106.8348538701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "7923001208e59cc8e70f48e8f12a1096b3a227db",
+      "name": "Lara Djonggrang",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100932515606100382231/photos\">Daniel Chau</a>"
+          ],
+          "photo_reference": "CmRaAAAAxgGN-pk8ZvrO_n9ruI_Q9RajSkuzY1laR9iaDp8ZPAkik_qf_EKVJBAUpQkB4oDuZ0qPUQDwsiP-FHJaECkuNM4gIdreQiZ2XCcpjGJgKWq-qc1eU-Jf5rEZBr5CDnWgEhD1JKYSjad6Zw2oB3ZDjSOeGhQxC18UudH8K4sZHKKhe_5tsdBo0Q",
+          "width": 5056
+        }
+      ],
+      "place_id": "ChIJZ3XYYj70aS4RyDFzTQx4BFY",
+      "plus_code": {
+        "compound_code": "RR4P+8F Jakarta, Indonesia",
+        "global_code": "6P58RR4P+8F"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAuGFVZqEc5ghH9LUCt2Yuah896ZQOarImD3ZJw68GvkT3q6OPnt57vWTbmj_uNiZyXWZG0FWY69YapejHQOnz-eHirSCxAssS32kE-4_6hY-EdQCB8qYXIsz_ra4Hv4zBEhC_bvrrVwouN54cIEHwgDZEGhTF1-XiXTt4G1VAxRVhA9dRbq7W_A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "MD Place Penthouse Level 12, Jalan Setia Budi Selatan No 7, Setia Budi, RT.5/RW.1, RT.5/RW.1, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.208024,
+          "lng": 106.8285059
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.206674170107278,
+            "lng": 106.8298557298927
+          },
+          "southwest": {
+            "lat": -6.209373829892722,
+            "lng": 106.8271560701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "26e7cd96e2426640b10b39b55cff1deeb8384a11",
+      "name": "Akira Back Jakarta",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115797158960156100457/photos\">Julius G</a>"
+          ],
+          "photo_reference": "CmRaAAAAKjoxS6HVfGHiIgZGKM9W32OR806WeAgdLrRZvqHFAJdd7YGM8VLHDs4u5TbectJmsV8DZiA_TrMiXMBQ9J7GFwlqesbG-J4gIZw2zzxDcotINis74W1CpphlHnBmqaZyEhDGJiPCHTNbwgigr-yAEAohGhRi_bRvRIu2fYjFfCDula5UwHpVEA",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJNd7SjgX0aS4RIZ6NHsgn71c",
+      "plus_code": {
+        "compound_code": "QRRH+QC Jakarta, Indonesia",
+        "global_code": "6P58QRRH+QC"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAymb6f8cE9cG3rx_DbkFwl31PRsGKa48m2Z6yMVQODZfFwoWUFzqduK5uqfphyVOTNhlDwerGCaczaoLBPHxptJhzsZyC0eEgm1D51J5L40ZWLG310JJM09Sh5YShLTLmEhCWg3QdIG6gEciG0Z9jM9kbGhR8Ml073854nmjv-i-27LN0rdw1Ww",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Pullman Jakarta Indonesia (Lobby Level), Jalan M. H. Thamrin No. 59 RT.9/RW.5, Gondangdia, Menteng, RT.9/RW.5, Gondangdia, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1932885,
+          "lng": 106.8238182
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.191938670107278,
+            "lng": 106.8251680298927
+          },
+          "southwest": {
+            "lat": -6.194638329892721,
+            "lng": 106.8224683701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "97a623bf8fcf4a5b3a11b544e45104e1bede8d11",
+      "name": "Sana Sini Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107581686191240979571/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAATdTFHzmRBV5OyczWEj_xwQkn_Xuye4shjIFg8RhXhX3J-TX2dHmJ3ZaRcE7IrGkVUH94dQRTOMMpcDxHfS5kFyZ7EDWug14jwVBTjNNVokHjM3ZIcZzUNusA6jhuHRMOEhAZ5KwOenVp1K_8lWipCFs9GhRs2idT62qpImlj_i0OgGZWNmuLcA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJTWtJeiH0aS4RY6h3u6ESq9Q",
+      "plus_code": {
+        "compound_code": "RR4F+MG Jakarta, Indonesia",
+        "global_code": "6P58RR4F+MG"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAumc-U-chMGSpFTVT9_m5kVKi4IaEU_rEQw9SWClobMyhKm7KM6O4c6TSiZx_gTz8qHpwkgNPb-0xnKX4edKpEijtOqaED6bO3Fo2ck3MMqRwICSTmm33J2gHVAeG4K7JEhANdDa742QFLDxTbFlgyzbZGhShEngE6NzCRG6_HG26eCbHxUsLDg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. M.H. Thamrin No.Kav 28-30, RT.9/RW.5, Gondangdia, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.192998900000001,
+          "lng": 106.8222671
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.191639770107277,
+            "lng": 106.8239076798927
+          },
+          "southwest": {
+            "lat": -6.194339429892721,
+            "lng": 106.8212080201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "2a4e3f2af9bd9b4477edd0127c135a5d2655617c",
+      "name": "Altitude Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118369708563282117769/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAkec3doNN4etXDKz57jeV0siKF2CPut-VYS_lWJSx7rcvQgjdCQ7uOjONkg-pNlGIt7zlar6NeIx4DFRT6GYUxVfCtUmxM9KwDs1JuIbfBFpEJFWyUAumYM8648uZcORYEhDu2DmVKcCnjNPGiBDZyKZWGhROHFXG20xyt7rhLmJJroVBE-4j0w",
+          "width": 3936
+        }
+      ],
+      "place_id": "ChIJN_OwPSH0aS4RAXJX58WorqU",
+      "plus_code": {
+        "compound_code": "RR4C+RW Jakarta, Indonesia",
+        "global_code": "6P58RR4C+RW"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAUEkwzqZJkLYVD3B13eOuxilx_mIDH_09OS-H2qHEpM8Wui1TK0J55XlBHtzIMJyNHMeRnpGbLNEZXY0qwRf9zXetgTXWPaZrwacJ5V247yLiIsdIm7FlrEerM5_Gnm5IEhAGyVdn2f5uvPehS5OABs4qGhTZ84zlokUVnjkw-67IVp9zJTBApw",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "JL. Jend Sudirman Kav 86, Grand Sahid Jaya Hotel, RT.10/RW.11, Karet Tengsin, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10220, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2108953,
+          "lng": 106.819497
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.209545470107278,
+            "lng": 106.8208468298927
+          },
+          "southwest": {
+            "lat": -6.212245129892722,
+            "lng": 106.8181471701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a25974a51c6445f07163b06a4177a1cf740bc8f5",
+      "name": "Bengawan Solo Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2754,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112640751833548106907/photos\">Gembong Isbudhys</a>"
+          ],
+          "photo_reference": "CmRaAAAAvjO_wAyWyQ5yMFLDDjrtfCGUMvx4xGjLbHTmGAseUKUvotc4amkzB16ILR-EcK8PnUpIt4IPCw7ceIH-GKSZ5ACq3N4KL24Q70g4WvAS0-_quFzePOzCYZgIozdENwreEhAsorwiHHyRjrkGhjfzOXAdGhS_vLyI-fqj6IxtEh7dsUqAGL2rmA",
+          "width": 4896
+        }
+      ],
+      "place_id": "ChIJqSsRRAL0aS4RSnTUSN3-grc",
+      "plus_code": {
+        "compound_code": "QRQ9+JQ Jakarta, Indonesia",
+        "global_code": "6P58QRQ9+JQ"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAGVT14binuS0Htq01g7h-lmVqamMZNGKWKW43vF1N0pAi9ZSFWyY09fris0XlYAu4aUQN7q8TLKyeroc0KCzxX0yJENStiSLoT9Kq9FtnR3guYYCYiqJB7rWrM9YJCiN3EhD3Yo0ymryhQz--ZLzNyPxbGhSOHE_jzltPoRVNl8sJlLfOemh_nQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Hotel Indonesia, Jl. M.H. Thamrin No.1, RT.1/RW.5, Menteng, Central Jakarta City, Jakarta 10310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1950031,
+          "lng": 106.8220157
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.193653270107278,
+            "lng": 106.8233655298927
+          },
+          "southwest": {
+            "lat": -6.196352929892722,
+            "lng": 106.8206658701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "9e4ba052d36846a3cfc90f3823743bf617f0cdbb",
+      "name": "OKU Japanese Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112506252370662899658/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAnmssWU235eUbpzaFDWqByWPjycszW61La5tbIqpfYPnn-YC-qL5cR1EuoAUcPDM1FMzR_Rqo0LPU1kuEL4tWvHzEMCHHODHfexm9QSNVjAq_NMQU181DkjZBnLAs8_3BEhCZ7ZI9sfT_ku8e0kHINKKYGhQrUsO1g1sGUzhVoQxP9_VZBFBhJg",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJuQszoyH0aS4RpCt8AqUo27g",
+      "plus_code": {
+        "compound_code": "RR3C+XR Jakarta, Indonesia",
+        "global_code": "6P58RR3C+XR"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAIDKOiKeO18z9VXQbSDAlXXrdbX2OxZRf7x2arj0k-7J_ocD7FEfsgAU358j0Uwup4jE54RTN1BvSXvul2EwXPsTRzI3UvBWjI4fBDp9TU0EGWilHp-0yhsM6r1a3Hl9EEhBKkXeavwQu3L5KDW9-h6fVGhQbguiqSB64LDQq-OISQYz8-ak3FA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Veteran I No.18-19, RT.4/RW.2, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.169951999999999,
+          "lng": 106.8298287
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.168635870107279,
+            "lng": 106.8312309298927
+          },
+          "southwest": {
+            "lat": -6.171335529892723,
+            "lng": 106.8285312701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "f39d3e695060d33ac8b05e55f2a92c94a9ff61b7",
+      "name": "Dapur Babah Elite",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104373737085163908767/photos\">Mochamad Muldan Nurul Yakin</a>"
+          ],
+          "photo_reference": "CmRaAAAApT5U3d3unHUBP9VgVMEyl1GmGb8RKOXA0BpJtsLdj1iT0Uhl3BJDzEHWVL1ADuuTyjbc44NoF4-qNxiCXYQfULBl6EqxC1dWYMNWRvmTiWcHLuUscAsXLtaTjA6b7R8cEhB2NCXIjAtYGqk_4olXw6D0GhR802evJMWWaVCuU3urRQLMDa9ToA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJRWFOKs71aS4RvHVWAvAJgbs",
+      "plus_code": {
+        "compound_code": "RRJH+2W Jakarta, Indonesia",
+        "global_code": "6P58RRJH+2W"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAHEkZt88lvaExLxDqLrzss-9xpZhtKXXBPwmGqYXGJYRDAZI67-b1oMapq0Rkcz_bMVX26V8Mk6DREukOBGNwgI5sXrvE1NpZCI1Wkfu93KMuh0zwEtGq0hGlkzaZeE_PEhAVjkvNfiF7_XLy5Etfxu74GhTfTy8qJUgRPTVYf8WsKca6DSxn6A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. H. Agus Salim No.128, RT.1/RW.5, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.195481099999999,
+          "lng": 106.8248146
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.194154670107279,
+            "lng": 106.8263102298927
+          },
+          "southwest": {
+            "lat": -6.196854329892723,
+            "lng": 106.8236105701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "fb2686d5c3a21e47c06fe422fb6525d982b778de",
+      "name": "Seribu Rasa Menteng",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108749488272184216028/photos\">Danang Arradian</a>"
+          ],
+          "photo_reference": "CmRaAAAA3N2K8ASJ3M0mPa9DSxYeTEwszB2HeFJKzHJ1ulI0kFh_JCd8lklNAVKWxFblnMLpg6bsw0YPyk8XX6Izm3pCIDZ_eSCxssaXEh8OoIoLHDUG3g8yTe4J06XILGMG1u8wEhA-_rPVVXz4w6WZk9GCGgtaGhSFZrUm98GKaWsJ3yyzKiVfW7J4tw",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJR2I0yCX0aS4RnsVGtM67WiI",
+      "plus_code": {
+        "compound_code": "RR3F+RW Jakarta, Indonesia",
+        "global_code": "6P58RR3F+RW"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA31D6c-THzXiDVPIjOJ0V796j6GZCOrsF0Vq4a_kvW3FDx6w7IYlfGp6nFJmzpWQbc-7PW3JDgpHmgAU9jQccajVwj217jJLv61h8d5ExrhGdr5PO_1KJJMzVsbTTgeXZEhBPnp8oF598nwqV9aSy0_LsGhRUZ-KRZ90z3bNOud-_VG7qc3DSJQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Senayan, Jl. Asia Afrika, RT.1/RW.3, Gelora, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2149215,
+          "lng": 106.7972263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.213571670107277,
+            "lng": 106.7985761298927
+          },
+          "southwest": {
+            "lat": -6.216271329892721,
+            "lng": 106.7958764701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "48fada7b5a266e7c206cf3d97d01f491d078c21a",
+      "name": "The Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 384,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100810716834945707820/photos\">The Café</a>"
+          ],
+          "photo_reference": "CmRaAAAABa7rbe_S6p94E77TclFJiH2yv4Weiyr1LmURhViwc-wCklb-MYZqhejo2eW-NyFIxHtjjiIs0NOhflaKVvPBsGrMQ9sNLgWchSLeTlw1bJ5zuSNXBTo0PEU0R5JXqrixEhB1TgdKeOJqA3aNRDG9bUvnGhSCssiH2fB-R71hrY4TLa8OCKfyUQ",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJmS8JUrT2aS4R99BZY-87klI",
+      "plus_code": {
+        "compound_code": "QQPW+2V Jakarta, Indonesia",
+        "global_code": "6P58QQPW+2V"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAm_ocFN9dyWo_5tocWAwd_7WwvjwrK0hDzjqLrmbzVExCxK6Oiz8nXiixlTpaSGCFdsZX63Hln5ehlqMxsDe0JIWe1Tc-hNi0NToLgKQ4xA1P11666FNHN1GxFslzkVcxEhBabLWE1Cs2dF8-1OKN2Ci7GhQqrWJAztg-aookPDfzc_FHM68MIA",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "The Energy Building 2nd Floor SCBD Lot 11A, Jl. Jend. Sudirman No.Kav. 52-53, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.226134,
+          "lng": 106.806897
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.224784170107279,
+            "lng": 106.8082468298927
+          },
+          "southwest": {
+            "lat": -6.227483829892723,
+            "lng": 106.8055471701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "6f70129f505b877e9f932a1baaa32b4acbc2ba9c",
+      "name": "AMUZ Gourmet Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103920626502181989941/photos\">AMUZ Gourmet Restaurant</a>"
+          ],
+          "photo_reference": "CmRaAAAAId_h-zPAo83orX3WucDDRTWnwbKzikHqnLVInCmr1EtkkHcMmW5CKqdKa7EKJ3DAInDuS97fAsT90l1puwMgAljtcRBcfqOvnNabWUPEFySlj0RwkMmS51o973ztBhfMEhAjHk42WeXoe0sKO4m1d6SzGhQHRTRP8c6G69giczmrYwKjG8GGQg",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJdd3B8VDxaS4Rp9xaR-L7Ops",
+      "plus_code": {
+        "compound_code": "QRF4+GQ Jakarta, Indonesia",
+        "global_code": "6P58QRF4+GQ"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAxUQwttE-zC6bK5p9nRenHECZZ6HG-nG-tHwPbS_n01BB3fQCH3qhBsYq4egm82HZQ5iq64yYsBc2ASMlSX5pV-fZ8x0XGCOgE5SIBodY_RcBv_7likVZoDYIsqAJxgdqEhA2ndU9agUdynjDCHUpiMPRGhRKgL_kVf-S1cRQgFkXrKI7PYs4QA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. M.H. Thamrin No.1, RT.1/RW.5, Gondangdia, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.196412899999999,
+          "lng": 106.8225938
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.195098520107278,
+            "lng": 106.8236301798927
+          },
+          "southwest": {
+            "lat": -6.197798179892722,
+            "lng": 106.8209305201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "013d4dd3d1d16423de918bc057eaa2fd2a016f61",
+      "name": "Paulaner Brauhaus",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1020,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117061547268457900239/photos\">Paulaner Brauhaus Jakarta</a>"
+          ],
+          "photo_reference": "CmRaAAAAEGFxKGKE471H9zX6B34jUs8vjKU8K90v6LX4NB7cneRGdIcewyRvxo3dPW23jFv7pSix7dmaISUQEzkEItUo0-ZBSAPaaOts3fLRV4tzmBvae6rU7ExhPOwz5-BZT8HuEhCGQE0SzGH4KEe27bVCIRqIGhTXRRNGDHRSWHvbJeuqg_X6m3q9MQ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJTwTtG9P1aS4RTBuC8A4MTBA",
+      "plus_code": {
+        "compound_code": "RR3F+C2 Jakarta, Indonesia",
+        "global_code": "6P58RR3F+C2"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAYIZjSct1baJNc7I0YCi0U1528Zrf41G_vuuxLWX8--MSBZiDTbLK_zmDxFectNVHBZ0REOxOH-D4NrmHHislVcBf83ffE7fohFjOxNQavrx-SoUykS68WaFRjVPkOF1yEhDmSbY8H9QPCRq6TS-6PDzwGhT7SqFm-abb6kzYfPfIXJXn5R6YWg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Jend. Sudirman No.Kav 45-46, RT.3/RW.4, Karet Semanggi, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12930, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2167842,
+          "lng": 106.8178422
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.215434370107277,
+            "lng": 106.8191920298927
+          },
+          "southwest": {
+            "lat": -6.218134029892721,
+            "lng": 106.8164923701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "44e97d00e6f725a2b857d6e005ab3d8078d3aca3",
+      "name": "Gia Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102474929028520953756/photos\">Viovenski Febriani</a>"
+          ],
+          "photo_reference": "CmRaAAAAJsdTFKwhDnSF3uuRc5FOFlNHjRF0Zr7sMcfoUl67SfKwbzRt3s8WPKx6KsZTEvp3G43pTbJ82CW7oye1OKETZbyNaQ_XsbjdEnvHMCFogPWUXjdKpNUIjUx_DJEgekFBEhDUwb4QMg6EVXUiy4cdZiphGhT62QBBo34J5s8E2PrbKwuF_EYlhQ",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJrw3Ynqr2aS4RTGNdmAlhC3k",
+      "plus_code": {
+        "compound_code": "QRM9+74 Jakarta, Indonesia",
+        "global_code": "6P58QRM9+74"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAccri5u6I5M8vxjZPKoj6bhngWKv_vqAZDLTOgYI48kjKymW1PWSykouBU1Ni0ZUkympe4EW85qh-4iYKXxqaqm6NX73WiSO9nDZV-QTh1GdJVdJx8V0XhiCz-9sSoyeeEhBREZAzko8vzw3KKM4zrJxQGhQBNYjLfzNJ28LIkAbfpKh5CVZZEA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Hotel Mulia Jakarta Ground Floor, Jl. Asia Afrika Senayan, RT.1/RW.3, Gelora, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.215276999999999,
+          "lng": 106.797628
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.213927170107278,
+            "lng": 106.7989778298927
+          },
+          "southwest": {
+            "lat": -6.216626829892721,
+            "lng": 106.7962781701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e2efc021ed6f488ea82b5f6f7309f8c97bd26b5e",
+      "name": "Table8",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 384,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116307105487165716823/photos\">Table8</a>"
+          ],
+          "photo_reference": "CmRaAAAA70DdhJwctWbWEBifyvGEBK-6cVFz1ATeHbwcv2oB9DIbbNPLyQAvIKaSoF8ugMEAkgOnNAVtI57C0v5EDGEvL30PdQjjHY6VvanVXvjBXTHce0sfxvqgGRdsqmbbOp4LEhC7rLbGGrbwbJgm2kG367P3GhQyG09rFBMmeAufSAPYvUGlpLcX7A",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJHbLWVbT2aS4RvBcoUXJOT4A",
+      "plus_code": {
+        "compound_code": "QQMX+V3 Jakarta, Indonesia",
+        "global_code": "6P58QQMX+V3"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAbrVfLVjjEqkfCAjmqozxPEaU_widv0O6VNciHbZ2JD86aiXOQcCFDqY4eWVyUxuTPQM-LN5CTzLjmlerI-OWnV3OoojDysprg_BZX-Qk_PhmBnIGngpvzdyQGlGohRtFEhCYp-Yk2bK_ySMeSa3GW7OMGhSfvWQX_j2jc7CMvAbLog-CxwxSkg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Grand Indonesia Shopping Town Fashion District 3A No.02, Jalan MH.Thamrin No.1, Menteng, RT.1/RW.5, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.195220399999999,
+          "lng": 106.8209972
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.193870570107277,
+            "lng": 106.8223470298927
+          },
+          "southwest": {
+            "lat": -6.196570229892721,
+            "lng": 106.8196473701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "f02968c5209447d7b86a189a2437cd38e16e5ad0",
+      "name": "Tatemukai",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3931,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105568274483636848986/photos\">Herry Liputra</a>"
+          ],
+          "photo_reference": "CmRaAAAA_DWN4Vc_6nQ0p6uQo42OkNnlq1vRFTC-ttE0SuiTeLrK3TedmF4yhfY65Qlr_hsxp-35xsoa0LdYP7UKzFVbEUA8Pse76eWoFKe3YnZkHuFmnAq-w-axAdz25sDrOTxsEhCfUzWi0og40qTFpGRIsYEWGhRrZZDrb6zpbq_NDbtSsmNEozi0nA",
+          "width": 8111
+        }
+      ],
+      "place_id": "ChIJ1YzgsiH0aS4R7YvrObMsAqA",
+      "plus_code": {
+        "compound_code": "RR3C+W9 Jakarta, Indonesia",
+        "global_code": "6P58RR3C+W9"
+      },
+      "rating": 4.8,
+      "reference": "CmRbAAAAEk7Ncasq5V0PUnZ442dLI19EhINJ0Rd8PinmqKug3DZ-Nh4clzjikux17JI96jpysdFXGuzZfJ7BByQfPafoCCdMGKZ-DDEk0TJZ8iAgG_3QiIGZpcpUwqtF1mAkXD1JEhCTAs3mblEpeVpyWi4ynANFGhSZZTtqgQl40UhjJ52uBuyA-GLKhg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Plaza Indonesia Mall, Kav Indonesia, L3#119, Jl. M.H. Thamrin No.28-30, RT.9/RW.5, Gondangdia, Jakarta, Central Jakarta City, Jakarta 10350, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.193991,
+          "lng": 106.8213362
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.192641170107278,
+            "lng": 106.8226860298927
+          },
+          "southwest": {
+            "lat": -6.195340829892722,
+            "lng": 106.8199863701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "1ee746d4664664be8bacdcfe0d54b3775e7b5f0e",
+      "name": "Senju Omakase & Sake",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100010309192275319783/photos\">Senju Omakase &amp; Sake</a>"
+          ],
+          "photo_reference": "CmRaAAAAOkeXMzUAyzbANDX_-sCfRf8mK--PUdR0UTcI1TlTWGsxJ9A_SwzVh7J6nPifaFrF5NKI3TGAUhV5tg5I-kNhKD5ess8_oIrl1dGx1qFXMTeu6aiiuMs8YeVhzllN9ZEwEhCIy4BmQH4jm7t9wUSUEIfPGhRQJXLUeYHSRoq71adteQVBhH3QDg",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJX5skDiH0aS4RFDZYZupb7Uc",
+      "plus_code": {
+        "compound_code": "RR4C+CG Jakarta, Indonesia",
+        "global_code": "6P58RR4C+CG"
+      },
+      "rating": 4.9,
+      "reference": "CmRbAAAAQ2O86fGfBwBSlDbZMRcdDOGgpGgMfkJ72a3-mslGUC_Kdr7iXY_MealkaG4MLDd8ND4GnYLMzAu661nIw05vqW_6tbJKU3mjC3Ov0nLUbYAZpU3pAOBHIk6epbQilYT6EhCyPNVXoXPkm1nAYfOByFEBGhROfGrUxUUB23-u3s8ZSS2YageIiA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Teuku Umar No.1, RT.1/RW.1, Gondangdia, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1889246,
+          "lng": 106.8334929
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.187482370107279,
+            "lng": 106.8347379798927
+          },
+          "southwest": {
+            "lat": -6.190182029892723,
+            "lng": 106.8320383201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a7eb5fce7a60083cd09aeaca5b64004139185a27",
+      "name": "Tugu Kunstkring Paleis",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 924,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114672438805857337111/photos\">hartono theng</a>"
+          ],
+          "photo_reference": "CmRaAAAAv3BJBuxyKOl10h0PicIxM5aDSUKaOSFz3nlcsDKEw2dBak4K3LvgGAHCPoo-38z7KdzZ-r_ATvWJaAHVaoTygCdB8yG1MkXq1Tr5FZCi_gCccXABeQ5o9zpKN-3E94bkEhC1UVY8MF0e72E3N5e6NULtGhTrXi11AatN2zTOA-q2JZK2hYF6ZQ",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJ7eBosjv0aS4RG9Aqt4j0sgM",
+      "plus_code": {
+        "compound_code": "RR6M+C9 Jakarta, Indonesia",
+        "global_code": "6P58RR6M+C9"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAh-A9QAm-0Ljzh2agpoGHCxIKCkuygqAzl2EGyaN3B0yMqSEkR965x_MpLruozFgxWoisYf9laljIjWr9Xvsz1NKhrB-7CS5rGkxQkTCw0wxnWPnXFUJ8F1DyUuAToNDdEhDtUPVXC5m5BMrh91BUw8dcGhQYZmUc9q3PzBZRPBpe-OtanajR4Q",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

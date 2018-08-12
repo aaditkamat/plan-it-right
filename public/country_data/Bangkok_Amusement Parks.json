@@ -1,0 +1,614 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "203 Suan Siam Rd, Khwaeng Khan Na Yao, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.805689,
+          "lng": 100.693014
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8114185,
+            "lng": 100.7021124
+          },
+          "southwest": {
+            "lat": 13.8031125,
+            "lng": 100.6880724
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "7bce6b91c5d721bcafb5e274904fc6fc0cc972e1",
+      "name": "Siam Park City",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105881285521567303432/photos\">Louis Ng</a>"
+          ],
+          "photo_reference": "CmRaAAAATbujlOMHHlu76R4M1sA2mZcnBEZgrKv8Bdpm_7LwMFkKp97KPkME_2cLpmKw34pXmO3p6nLTc79qLtk08haXq2MTewRztxur1-tPvR9xZxX1N9lnZGlI8HoQXOrSvqkWEhDnNXtQPnXvHPEx5SG8pPaUGhSeQubeTh1JTnT0iLEbDAU590IaNQ",
+          "width": 4896
+        }
+      ],
+      "place_id": "ChIJrc78zJBjHTERdLG8EciM5Qs",
+      "plus_code": {
+        "compound_code": "RM4V+76 Bangkok, Thailand",
+        "global_code": "7P52RM4V+76"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAXAZfpTv40nI5En2kN0VX6WFmGkcRRaOY_B99AnvRtOLhSZT6ua5UweJAAg99rxvzqq0udSm7AUJWadksggJHU8x1d17g8Z29qN7n0GJmnnxZzOrI-CEk3TNjqlUulC6YEhBirxd3x8VEtb6znA4ySkz1GhRVBh2Ta3KMK8BI8oGZ4B5J_28Nug",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "544/1 Sukhumvit Rd, Khwaeng Khlong Tan, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7321319,
+          "lng": 100.5662042
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73369537989272,
+            "lng": 100.5677571798927
+          },
+          "southwest": {
+            "lat": 13.73099572010728,
+            "lng": 100.5650575201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "5c405e8ef181269cbace4da2e80e11eee46bde82",
+      "name": "Dinosaur Planet",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4140,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105285570435271462172/photos\">Andicholson Ken Lianto</a>"
+          ],
+          "photo_reference": "CmRaAAAAyeFdnVN9bXe-n3BA32otB9jA0t2KdUv0fFcUwwwVuBcGbjZ9uOJQ7QScCspsKa2M9UAUh4dov1UM5EMPbYM4QgOaSQEkjuWXBh_0b8nUMcC71giIj3obF5tBGJuAUv4aEhAtg1YFyqi96kGzq5iW6OA2GhRaCTWMeDLJ9qIb5sLmDQkj34hZZw",
+          "width": 5520
+        }
+      ],
+      "place_id": "ChIJS54FZwKf4jARc7o7_BJnRWQ",
+      "plus_code": {
+        "compound_code": "PHJ8+VF Bangkok, Thailand",
+        "global_code": "7P52PHJ8+VF"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAACetUixgIeShuusTbOSACOMPI6MS1k9BCmDaE_XQzL6yJAh89LtX2f3510tobteO8toXGaNPsDcieLPL4PcFLOjERT9J9Rzvrclm5x5DAvRnrKywmsqR9YhEK6MuIQbsyEhCGxmiaDKIpt2CMweacPvzxGhRcwX9ewKHQsm32vj5sfPGf-CcoCg",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "13, Siam Square Soi 3, Prathumwan, Khet Pathum Wan, BANGKOK, 10330, 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7452353,
+          "lng": 100.5328102
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74658512989272,
+            "lng": 100.5341600298927
+          },
+          "southwest": {
+            "lat": 13.74388547010728,
+            "lng": 100.5314603701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "49af93eca079a4f3aa7a1ee30f04d3bd8e8ffd6b",
+      "name": "Ongart Rasamee-Ampaisakul Phaeng",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106167831818044733711/photos\">David Kennedy</a>"
+          ],
+          "photo_reference": "CmRaAAAAgx1X6COF1tarzQkj93614S0wUMUDXFe0CoSDl3hXU85nhw0tTglXxrZkyjR5pbP9J4gqpTInU7ga89YXieDUmbM5kAloPiy640QRDF902ww6VBr5LdRZBlcUlZRwB9ymEhCtG9kozNnDM3gDd63Q49bdGhSUN_ENay7zLYaGTIuh9Yqbn4tDlA",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJz6WvZNKe4jARv3-vYc53MtY",
+      "plus_code": {
+        "compound_code": "PGWM+34 Bangkok, Thailand",
+        "global_code": "7P52PGWM+34"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAJKd11rSWWNACmMKH2wHozLMfDv-9DtvKrE8Fq1NG36NcHS-MoW6rIVycwZIL-XXasXhCQgNZO4L7wIzk3UqQ9DsoJbc7vYDvarWuDxJvWihKumcZi3MtRX2KZRl__nbbEhA5Tiktcny3mQOk02co3jxwGhRfw-dwizXzBUWD9yxPe4HHthAxyQ",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "275 หมู่ 1 Phet Kasem Rd, Khwaeng Bang Khae Nuea, Phasi Charoen, Krung Thep Maha Nakhon 10600, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7131993,
+          "lng": 100.4076489
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.71454912989272,
+            "lng": 100.4089987298927
+          },
+          "southwest": {
+            "lat": 13.71184947010728,
+            "lng": 100.4062990701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b84dc2187cfa678219da3138edb8cbd581d53d56",
+      "name": "Fantasia Lagoon",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102483907984325863952/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAMbGjumxnTLveS-xjxsC8oUCoj8Upnl_qQFsIZ_hssMHVdNHSeBlsVLXYbd9vwvFvQX2Fv8Vf1PB6NAXaBnb_Dr72_vFrrkIZ30tfzjtNJdH6NYkRl7rkBRaouZHdkiU9EhCBd1bmG6HurW5OEIzQt3QcGhSMGyAvi7JKgh3ln0h9jClNNDHJxQ",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJHexfRMaX4jARTFDNopKhoBw",
+      "plus_code": {
+        "compound_code": "PC75+73 Bangkok, Thailand",
+        "global_code": "7P52PC75+73"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAA0ErYFBlAwvMCW-NAO0mA1GJQf7w1Y22qLJAM99hM68Yw9DbYpmDyG2d6EnE7YGiRc9vfGTDb95qmsfYFAU30992mDWyGldGbngYUR0b33rvUtYEVOP6f2-mhNtQ3fYUZEhDO4Qby0R4qDMTiyVHMTAMqGhTgtH1goafmBlP3toOSoRQ-e1ZAAA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "86/1 Khubon Rd, Khwaeng Khan Na Yao, Khet Khan Na Yao, Krung Thep Maha Nakhon 10230, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.8233321,
+          "lng": 100.6769212
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.82458902989272,
+            "lng": 100.6780208798927
+          },
+          "southwest": {
+            "lat": 13.82188937010728,
+            "lng": 100.6753212201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "e2ecb0e60b447307ebf0d7d7b5782f6b3324fb57",
+      "name": "Wonder World Extreme Park",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107797989016392362604/photos\">mee linn</a>"
+          ],
+          "photo_reference": "CmRaAAAAE0u5LVDgjGFZLdwkStGU28ced2q2H2JSb-zkOBRe80NrnYB-5UneLX5LdWVFdPFC0hhZe_t7A3Z8VcAZZT5bvkdBMAQJJAqfBH2H6IAMB5v6Rg1X4gsRyP82pdEt83arEhCZXZwDDbQIDLvncZ1BUqpmGhSNsQkR6T-dl5ZFqjDViYr2466Fdg",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJIfomjghjHTERbFLj9t81nK8",
+      "plus_code": {
+        "compound_code": "RMFG+8Q Bangkok, Thailand",
+        "global_code": "7P52RMFG+8Q"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAnq_H_1mivn-kiqzCMCskMSSZhXy4YVPc2pUbmARD2wFl-53-HFS7adoQg2oz-64QrEwocatZGIMFCTixFSiQTmD1BvecX-yvTWUn0Tb_fqBW4_guAGI8_YviZfYqxZ8VEhDZUntLfvFdIizv5I-6p2--GhR8TvSb6fHMLlzafPInGhbG8CLH5g",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "428 Ratchadaphisek Rd, Khwaeng Chong Nonsi, Khet Yan Nawa, Krung Thep Maha Nakhon 10120, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.6968563,
+          "lng": 100.535827
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.69806472989272,
+            "lng": 100.5372353798927
+          },
+          "southwest": {
+            "lat": 13.69536507010728,
+            "lng": 100.5345357201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "1c086704122448b040930267c44cdab5cf2822af",
+      "name": "Rockin' Jump TH",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117061517975353667902/photos\">Rockin Jump Bangkok</a>"
+          ],
+          "photo_reference": "CmRaAAAAcJYeTtvkHp8VP4CTypOj82BAdADtHflW9Y3u0fegfWsaZCsXXFxMWzUEPtN5vmGnBhDNix3n5l22DFR2FpR_GI38bCZAMoVLe2jm4yzCQA1boa3uEHw-ndzTDYDltQxEEhCmxEUcqTYe62iIHPfHqqbaGhTGbktND0Es3VVKBWpsnJnR6J67sQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJxTKJcFGf4jARWajFIZVVgls",
+      "plus_code": {
+        "compound_code": "MGWP+P8 Bangkok, Thailand",
+        "global_code": "7P52MGWP+P8"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAFac9QnhjtJelZ_l-3aPossXkSx_n613nQC9Ck0RuAYEXjLE3jb_nSU7oEq_CqB5g_-FTQa7zDDJk9cOt8laM6suMTtAenAF4PvYZGCISkN2oEh-xnI_m0e0yQ5VQepOVEhApKQW4QQSFYLsrXvOVvuUgGhQ5RLM0_GsCvv5sJ-McIGybGnV83A",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Gateway Ekkamai 982/22 Sukhumvit Road, Prakhanong, Room 3115-3116, 3rd floor,, Khlong Toey, Bangkok 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.718341,
+          "lng": 100.585369
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.71969082989272,
+            "lng": 100.5867188298927
+          },
+          "southwest": {
+            "lat": 13.71699117010728,
+            "lng": 100.5840191701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "679daa87b73542f289b046622ef0ce54225be9a4",
+      "name": "Ticket to Mystery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102495896033603782774/photos\">Ticket to Mystery</a>"
+          ],
+          "photo_reference": "CmRaAAAAB1aeYFbc6vZ2PKcc-VkjsgavsuNY_tT_lHabV6KM9QlTS18aULPv55ceUQ3oKTamykDI2CYjsKCyBezVwQRY4PEtjUx8gT3V1bk2Oq2Z8_bDMur_Lp2CbetB_bNV7waeEhBdnnKJqeYgfoprr5KpnPxhGhTFjuSCfYmepo0wA_3U21PF1EdszQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJj0QpKaWf4jARWuguXzQSrQI",
+      "plus_code": {
+        "compound_code": "PH9P+84 Bangkok, Thailand",
+        "global_code": "7P52PH9P+84"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAthBocLTaOom-yF3vz99AAOO93WD7HchW49Ry699Wfp6K9NTqrSvdpzNVhgHwyxTvXwX0XCZEMRkJWxrOFQvGPwn1B9x74Y0qJap3DE6Cjn0vGVRVLAjs31OSpPS3oLBUEhDgI2woxD8tWnKgxbwSPXO-GhTVIo-EfUXX7LQF9FjGlRUGEQW_RQ",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "L6 , the Mall Ngamwongwan , 30/39-50 Moo 2 Ngamwongwan Road , Bang Khen , Nonthaburi , 11000 Nonthaburi, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.856098,
+          "lng": 100.541844
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.85744782989272,
+            "lng": 100.5431938298927
+          },
+          "southwest": {
+            "lat": 13.85474817010728,
+            "lng": 100.5404941701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "bbffa344078d4227235b0375b3307ec55ce354c6",
+      "name": "Fantasia Lagoon @ the Mall Ngamwongwan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108812937102176243494/photos\">Jeremy Freeman</a>"
+          ],
+          "photo_reference": "CmRaAAAAx3koqG-xf2vwBvvcA_3qn4ywer6BlMZZKAg4z3S0TbeV2Aulv7S5wo9unYkYhQ9g513SRWS5jVGcS0Nzj9rn53TG26L0RxPLyXwgBAlQUV_WbpHy0iuPMwQrXNCENk8tEhCw4eLAMRE2KBxC935BUYg0GhRiy22LRJnMSmQ4HQwARIiXrPvUqA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJOW_pO7uc4jAR2YWdVVpium8",
+      "plus_code": {
+        "compound_code": "VG4R+CP Nonthaburi, Mueang Nonthaburi District, Nonthaburi, Thailand",
+        "global_code": "7P52VG4R+CP"
+      },
+      "rating": 3.6,
+      "reference": "CmRbAAAAh7CZBv3XTpbPJpG26ddf29zllA-bIhAJosCkQTkoyeAkxmQAya-zs7rAr3Kt5wEMRv0R5nabA3K3X-CxSZr6gLv_ZTSVGieYGvozqwuJnOiMXoxGIUTkcDCNCpJ2uFxsEhDk5-S-muK36VsfQEjBUVXVGhSQhQfcUgt72pokrHt2nCod4bIobA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "L4 The Mall Bangkapi 3522 Lat Phrao Rd, แขวง คลองจั่น คลองจั่น กรุงเทพ 10240, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7667458,
+          "lng": 100.642752
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.76809562989272,
+            "lng": 100.6441018298927
+          },
+          "southwest": {
+            "lat": 13.76539597010728,
+            "lng": 100.6414021701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "acc69e95a865544940a7aaf1d84b2415d79495bc",
+      "name": "Fantasia Lagoon",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 457,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114030150127152681439/photos\">ศักดิ์สิทธิ์ อุทัยพิบูลย์</a>"
+          ],
+          "photo_reference": "CmRaAAAARgHn5guLIEXusOzlGPyyXyfshB4T-jJ5gobyIUz1-SBjmQhIHe3kI66GPXjSEAMNH9b3cA3EAmYH7QcnrHGrlbAZSy8c13CaLiiXszbliO-TIUBXjZ_nE0CBmrP4fklqEhA7TBl99YJP8BRBPUNaAknqGhQK5CQJO3B4QjSOETyVhh8nrvkq2Q",
+          "width": 685
+        }
+      ],
+      "place_id": "ChIJsRvxM41hHTERsK8NTRZiMGo",
+      "plus_code": {
+        "compound_code": "QJ8V+M4 Bangkok, Thailand",
+        "global_code": "7P52QJ8V+M4"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAlROECqrogv4GigAmpBIEK1KlB6NBbI77FwmeAF9OURfIlr7LHbyXXwPnfUyUxvdsJU5uQgya-MuspT0rHx7So0KO4WKHjcg9oRTlzmDkH9ydAfKAtK4ZARPH-JXtqVUsEhBnWcmBs8Zb0regyvy0tAcLGhRv8pu55BUcHgXjC6KA9-WWyrrE_Q",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "991 Rama I Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7477544,
+          "lng": 100.5353246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74910422989272,
+            "lng": 100.5366744298927
+          },
+          "southwest": {
+            "lat": 13.74640457010728,
+            "lng": 100.5339747701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "12a3aad2438924de6c57393a074440c7e3123c8a",
+      "name": "KidZania Bangkok",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117692891277181285952/photos\">EP TAN</a>"
+          ],
+          "photo_reference": "CmRaAAAAfsp638DdB-4C3wmx0EYR49VXQwNV1TBMIgTDjEdlS1lcV_Jic9R9lpMAUUmFevt6fgkBzT0wFotQs-z0WOT5_wjYy-B_8QJPI3Z_DZtcQ0-OaW8dPPRQRtrVkAlh_wANEhBQZ7C0aSLsDutYYTgDPf1RGhSAvCW-a0LwDea-giOxVTbCifY1LQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJo66Bds6e4jARDv_a-Rri3vE",
+      "plus_code": {
+        "compound_code": "PGXP+44 Bangkok, Thailand",
+        "global_code": "7P52PGXP+44"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAhSfAsgtvccr-RmLJPa2xYIZj6Axxr9ga9cP4kvhp0A8gXgVADBR-eGOFl2hAYc09_Aez37ZUkoHm0lCrt4dqIpgmktgdYg3-Hu2Gj1lsYjpAtlGvJTp2Uz_K_C_SbmkhEhAUHUG0YCIEzl1SemPaSzX9GhRxwLTHZWeYtgOOAT8qHoRFXow0cg",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "ชั้น 6 ศูนย์การค้าเซ็นทรัลพลาซา บางนา 585 Bang Na-Trat Rd, Bang Na, Bangkok 10260, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.6688522,
+          "lng": 100.6347013
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.67020202989272,
+            "lng": 100.6360511298927
+          },
+          "southwest": {
+            "lat": 13.66750237010728,
+            "lng": 100.6333514701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "97cab41e79b5423fbf67f9727a3b8df5cc5b6e61",
+      "name": "Pororo Water Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3756,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111937938174150685241/photos\">U.S. Photografer</a>"
+          ],
+          "photo_reference": "CmRaAAAAdsz7sk1MjWH7eLcUs3IVY_2tEmcyiIhkCBFu1WZfLgtuYvivXtuarTVPUPogxPIbNSGtPk5alaKB4bIAyXq-1BmotQslJT2Xbd_kxUMDJlLn0RzelEgBeRPyp580rTQQEhA3jimX-6WQQsmamIP7XvP_GhS08d7Z7HGm6aNlfO370vczSLSE2g",
+          "width": 5008
+        }
+      ],
+      "place_id": "ChIJezKV7O5fHTERivA9WfWzK64",
+      "plus_code": {
+        "compound_code": "MJ9M+GV Bangkok, Thailand",
+        "global_code": "7P52MJ9M+GV"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAnTe0h1DGAEVQWhmLUCPLopnJmepHolSyxka6fJnEFmlV5S65t7Owzk-pzq24mJJjSzhT9RmVffs4f2MtTEAxCD4x5qoEneIpFklJ7Q9EKmvor5PXwlyuymy3gjKX4Jx9EhCndNiB-VjQiIO8kkOix0L4GhSHzg6WEmwGUbRYW09vAyeAoePFyQ",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Sukhumvit Rd, Khwaeng Phra Khanong, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.71862,
+          "lng": 100.585446
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.72017642989272,
+            "lng": 100.5869504798927
+          },
+          "southwest": {
+            "lat": 13.71747677010728,
+            "lng": 100.5842508201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "60e3c74ffa53b49c1039f71eaf5776feac6e70e3",
+      "name": "Molly Fantasy & Kidzooona at Gateway Ekamai",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113977780826388151956/photos\">Molly Fantasy Gateway Ekamai Store</a>"
+          ],
+          "photo_reference": "CmRaAAAAeEAw66hUH_fq3HrU1RH8pCDo_lyYJykhxEAiy1LKBDoBHXUi32gh7KXxotDQuj2-vJ7MptRksLgVuzrZ0wOFwXGClLups8nsKcmsKy7a85FMwm6tkWYsOM15-KWRh8Q-EhAtTXaQDvU2lhELwsitgCqqGhRPFEjk5Orl9gGEpP3P6kAMVqy9lw",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJo1hqLqWf4jARWEbiSrlcxuw",
+      "plus_code": {
+        "compound_code": "PH9P+C5 Bangkok, Thailand",
+        "global_code": "7P52PH9P+C5"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA7kY3UtmY2fD3RHnK4HwePNkF0SBK9_dr_uSq4OcIuFAePZDkWnOaOi2mRBQXXpPfW9JMmrjBL-b5IxcAf1vch_F6z03RthIGeSa32eSwQNnEN_WoANKrG2m0FAVRuiFXEhDKEbYCZomfNsO51DndSajTGhTJPF_TxbSfGEBuSOi1gEChtS1gyA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "62 หมู่ที่ 1 ถนน รังสิต - องครักษ์ Tambon Bang Yitho, Amphoe Thanyaburi, Chang Wat Pathum Thani 12130, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.987754,
+          "lng": 100.675087
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.98888782989272,
+            "lng": 100.6761090798927
+          },
+          "southwest": {
+            "lat": 13.98618817010728,
+            "lng": 100.6734094201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "045e6dfc56a8137bb9e5e8676500ac8db9e06c90",
+      "name": "Dream World",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1568,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112092692179091494889/photos\">黃 則熏_Sky</a>"
+          ],
+          "photo_reference": "CmRaAAAAzziR4DVhCW1NndztzKy0V0b7bMNwVnCPZaWjjnMs2UuDlLyzVxIwLTMEMmvSbhff5dJ2iYh1o1PduY7AYjTg4M5uTaFVDoMuvsaTgDYlC_Ya0tGy1gpFXWdncit1p5ZbEhCgEEhQIZdxbh8PIw3Vp_3dGhS2b8FdaFO9oYnjQ4dY08-rswqMSg",
+          "width": 2352
+        }
+      ],
+      "place_id": "ChIJD_Ph9PF-HTERKo_7Kxa8k0g",
+      "plus_code": {
+        "compound_code": "XMQG+42 Bueng Yitho, Thanyaburi District, Pathum Thani, Thailand",
+        "global_code": "7P52XMQG+42"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAuQVnfQbQ8-MqN8b_orVLiWjTGJoZNOE1aT7haeH3PAPGm3lIJbqwLQQSLMVuDZDu4zBAYW5mtmr-BI9ryT9scBA_9Q_vHF8HB1hMhmB0f2R1WU7jDaLL5Iyy6tnr9HPKEhCE0fPwPmF6m_rkaPfw3SbrGhRvGe6qZ-VjJ77qu-fxX0zYrmjDpg",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

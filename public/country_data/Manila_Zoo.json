@@ -1,0 +1,148 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "666 Behind Quirino Grandstand, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.579156,
+          "lng": 120.9725498
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.5822745,
+            "lng": 120.9757739
+          },
+          "southwest": {
+            "lat": 14.5781165,
+            "lng": 120.9714751
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b6c79398ad2c4b0b4d5147f696099f21794a9c56",
+      "name": "Manila Ocean Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110989650998707415201/photos\">Robert Reid</a>"
+          ],
+          "photo_reference": "CmRaAAAANKF1zC-8lGXv-_8OB2o5nse3S8TJfREpuKrDKA3tmNRjjXXHWnhC0ORYWfqwAT-fEveRk_vFltpp6EGHw7_MuxxNvlWs_ogWoMkaPQCyU2UmZmumGncpq-I9Hyuqz85gEhD34jwokHg14f4VeHiocSzWGhRHy-GrCm4QQklWElhGrJLK1sdSkQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJDXUM9QPKlzMRDOajr3iHEoQ",
+      "plus_code": {
+        "compound_code": "HXHF+M2 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXHF+M2"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA479xShXiOzBOI_aH6zme44uiReko27wXiOlKGLlW2MWBMmAKbHVsMO05Pcl5mAiwQjnQ715bd4vvR8X1hVxMyLhqvKXmsMWHjJtyqd3urZNUK-LIcLmFTa69MTclihEoEhCbBZYjrXqGoq5lJSpQqUVZGhSNO5ScMjL7zNT0StylPq0_x6zFJw",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Adriatico St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.565137,
+          "lng": 120.988525
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56688037989273,
+            "lng": 120.9900257798927
+          },
+          "southwest": {
+            "lat": 14.56418072010728,
+            "lng": 120.9873261201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b95d4e604d6c05c6fba3564ed2e8e3fd33119afb",
+      "name": "Manila Zoo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105195314927409596687/photos\">林思葵</a>"
+          ],
+          "photo_reference": "CmRaAAAACgnOx89kUHVIzQW0HL3fTeDdW3Ac2tG2wU_-Ckggmzf0BaWtPKHXshVoLSZfjxJYSI8NuVQkpcBozX2mV8i4Q-BfPWbxSjS6NSyP6NqfFYugx-lAwVz4YF8BO2jAd4mXEhAu-9rNC9f2hdt4orVEhxvHGhR6gBuGF1M6Dvo4aHK56tKC9fZXfg",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJ4_WFMX7JlzMRJOkBCvft38A",
+      "plus_code": {
+        "compound_code": "HX8Q+3C Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HX8Q+3C"
+      },
+      "rating": 3.3,
+      "reference": "CmRbAAAAEPTd8D3Bs5XZJD_pmcr_zSMscaIpZkT1Q_rpGby4h-5Rz2XYI0zwHErIVZ4VUVM5YlUBD2GW2Ic3IWWI_QSLeEw7TxN_7aV0G4fMkqDzg3RGgN8tOquGGb26RCDpcC7dEhA9K5tt7v1bUIxjsbW8-H8ZGhQryGKHDO4syQCD5yUbrQAq7_-dPw",
+      "types": [
+        "zoo",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Elliptical Road, Diliman, Quezon City, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6509444,
+          "lng": 121.0440136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.6537429,
+            "lng": 121.04650555
+          },
+          "southwest": {
+            "lat": 14.6478573,
+            "lng": 121.04318295
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "7ed9192db653888da516cb5023baccc77c4d5ea6",
+      "name": "Ninoy Aquino Parks and Wildlife Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110747722854149837053/photos\">John Paulo Salamat</a>"
+          ],
+          "photo_reference": "CmRaAAAA2glK9tC3IyQU13v66Nlp8qm96am6PpymmP9DJ8HMjmk90iBcFRiQTI5TliqTdQQqmeZuFjJJdbA_EGwEyxXfXKOkqyldEF0ifacFTL81Y_r03VQkivgKAoyhNeSpCdufEhBLZ3zhfy9FDuKZ2XT8KPYYGhTmibFMH8Fzi3yVooJH8deD-XNYrg",
+          "width": 4912
+        }
+      ],
+      "place_id": "ChIJAeHvngW3lzMRikJHv1z5cVI",
+      "plus_code": {
+        "compound_code": "M22V+9J Quezon City, Metro Manila, Philippines",
+        "global_code": "7Q63M22V+9J"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAL565sG4eHMtvr5n-rITyQJGIsEPa_-aGldZGMIomTqPypKFCmvviP2r5ZO0V0UWbj3qXJ0THAg68Kj7l8D6KSjGB0oLLd1HmGSKlRUVu_M_z1kxZ1cZJ0e9yc2UDB02VEhDV7ZbRYE6-I4vx4Ag45j82GhQ8DhOw6lQSgmZiuw8KYVbufRAfhw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

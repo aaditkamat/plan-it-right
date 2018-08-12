@@ -1,0 +1,192 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Jln Sultan Omar Ali Saifuddien, Bandar Seri Begawan BS8611, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.892839100000001,
+          "lng": 114.9414803
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.894226079892722,
+            "lng": 114.9429157298927
+          },
+          "southwest": {
+            "lat": 4.891526420107278,
+            "lng": 114.9402160701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "319e210a6423a93962633330c6206d1c58aa48c1",
+      "name": "Royal Regalia Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110971245530030418761/photos\">Erick Jamat</a>"
+          ],
+          "photo_reference": "CmRaAAAAbKnHdQrgNC1hLuWMZ3zvP9x0VPFS5HF1eJRtC8rPlIxJoGJ2Iqe1ATHIgUJt0-iSYnPH1gP3HXuBplldAxKw7CE9rTakkJKzrBF0wW6dDuJYHo8j1pMRqPf-L3rs4uf9EhCshi1H6C7P7_Mj0IctbtSMGhTQH44bGtZ18zuw2wjtLhLYoSxp9w",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ7S90ttKKIjIRk8z8gr0W4qo",
+      "plus_code": {
+        "compound_code": "VWVR+4H Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWVR+4H"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAakEy6iHvGxO094xFhWRxul3fxn_Fsie9W156pwvRhwMGeltm43u28hMVrcTuPUHBmD_Mm9oxq7zFDh4n_hEccRHDvtaNp3-QQNTe8SmwhZLQAO4vlUL5XqL2kI8v6hT_EhDQaH3D8W6FxBVrI6pfd62PGhTiYN9HCuxVoUo8qcYvFfvuA6qwvw",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Simpang 482, Kampung Kota Batu, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.883336,
+          "lng": 114.969818
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.884970329892723,
+            "lng": 114.9709051798928
+          },
+          "southwest": {
+            "lat": 4.882270670107279,
+            "lng": 114.9682055201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "9676cfcd1f480e66c56ca74685e54312c6d2ec25",
+      "name": "Malay Technology Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100354348064426274745/photos\">Nazmi ÇELİK</a>"
+          ],
+          "photo_reference": "CmRaAAAA8ltY9hKDBbJM3U7CpEr0e_IfjqCLfKPHsaTNNjmbZuu3p8n-fpckxbM1-iQAmNYl-0AgB9FcHiwkbP7afxE8WBUNL8M_oY6oBcSmRaIJxBDgHb8iVhshcWgxPIPx6VVREhCRGKckOCcS-g11gvVEIAv6GhTjpiG-6XzjrOZ8nYDJt4qX5oHfQw",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJewKOTTeLIjIR3Ycu0f2phjo",
+      "plus_code": {
+        "compound_code": "VXM9+8W Kampung Kota Batu, Brunei",
+        "global_code": "6PPPVXM9+8W"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAANbtLgV1lHX7Di0CBaFXgrxgp_q9cuKkEoGfzs9Wteearo_iVWh5yKOGhr8WUGg7E8iE2k00EWfkxV6IwTVvZ99hTcdslQoHblyooIoo0NoccH1c4tfXpgp9Xt6-eajKYEhCHKXZisGeMMGNHPLtEzcQSGhRXHB4PEyo3svm9lYctXFUtjaxpTw",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Kampung Kota Batu, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8853393,
+          "lng": 114.9686375
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.886689129892722,
+            "lng": 114.9699873298927
+          },
+          "southwest": {
+            "lat": 4.883989470107278,
+            "lng": 114.9672876701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "8aa1483167c999a10c56beb8ae830d182fb9af69",
+      "name": "Brunei Museum",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107360809420274091612/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAqYhADWTCEEdyb9yhWNrEeir83S25kwXjomzkfwXhRNOiIQdAQaMQgoSbaBDdjb-r40YzY48ka7MUsxTQ6jMRf8SqfNzdJAFmnJAlRXNzRoXvC-XLLWlK0Uc8jYJy1F3MEhCzTWYLnE1-yLFCwWUniZG-GhRDNc-whfIImoN1kKsFXnt-Ym3EVQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJa7Oa1zCLIjIRyh3oRq-sL7o",
+      "plus_code": {
+        "compound_code": "VXP9+4F Kampung Kota Batu, Brunei",
+        "global_code": "6PPPVXP9+4F"
+      },
+      "rating": 2.2,
+      "reference": "CmRbAAAAGzt4ppSTaIEmmg7zsTq84Sb_2aNWaoM9FpOCRu46weA2vIpdzI5lta41i-vIxvXxiOAR87O_9hBEKDayKRTuyt00a78LSufZ4Lo8I8IEZxgQknWgW-OIvgudcxHsAJHmEhCAyfcmiLYe8Kqc1fyLaldoGhTqX4EohtNDTdDvBuEumLVG5c-yaQ",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "482 Jln Kota Batu, Kampung Kota Batu, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8818364,
+          "lng": 114.9685318
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.883186229892722,
+            "lng": 114.9698816298928
+          },
+          "southwest": {
+            "lat": 4.880486570107278,
+            "lng": 114.9671819701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "d7223dc137739e7cb002af4d36d44e44afdefc14",
+      "name": "Brunei Darussalam Maritime Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116967523325064503672/photos\">Adrick Loh</a>"
+          ],
+          "photo_reference": "CmRaAAAA8jQ-gc1TT4KSoYu04UhhQc34jyDJ7bpWa6WJB8ruDVa-nmiPYJzoWZTreFOxod78PYd5PkqQNftMBRn7lhX3LUaAvpG9gJVSZVOm05oldMsVuaMhiJrFDIMPwwmL9tLAEhD_uGRE8wFOl1kggvucIFaJGhSYoV9fsSqrTqjuumTE6Jl0iZpnfw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJZQ7jFTqLIjIRDnDzyjJD7_c",
+      "plus_code": {
+        "compound_code": "VXJ9+PC Kampung Kota Batu, Brunei",
+        "global_code": "6PPPVXJ9+PC"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAATKyPpU-FcLG9DokVkvdCwDyKhOnsnN2sdc7L8oKoyoy_hnrdoGJxIkvxA_QLUqmpgCPgKEuRzrgA_7k6dTz7QfbpW7G0Bw0HBvWRFJ_7MgXrtAh-gYyroMEakQO9w9ExEhDnJJ99UDVFf4t7rHe1d695GhRXONhVDBoqg3YdQitne-U5-Vdqqg",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

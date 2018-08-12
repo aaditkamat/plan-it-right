@@ -1,0 +1,53 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7438807,
+          "lng": 96.1159244
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.74523052989272,
+            "lng": 96.11727422989271
+          },
+          "southwest": {
+            "lat": 19.74253087010728,
+            "lng": 96.11457457010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "f1796674854eacd8f391f95a182820f60edbf097",
+      "name": "Gems Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 724,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104865022742094523489/photos\">Ni Lwin Soe</a>"
+          ],
+          "photo_reference": "CmRaAAAA4buNZtJXWp4-d_-MvbwZkUw5dSF-PWhludgZ8vcxPzeOQuvk4tEbP1IVzymiVAB7iyeuK1VYMHa_tJB8xvLH8CHQmNUxX9odpWWUH4VLzAy0k2Skeihe66qUzEkTRIwDEhALsN5oaEQqW1PTmMGQ4yxJGhS88lRbv2TFtGuGBF-9QaTccJj_Vg",
+          "width": 1106
+        }
+      ],
+      "place_id": "ChIJ0eOHqS68yDARcAgc7xQ0mmk",
+      "plus_code": {
+        "compound_code": "P4V8+H9 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4V8+H9"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAMpBcOzvmNbt7q7WGn2mQ6KmNYIi3D9KMRhv4ZEAIGJwjVbC68lChDTtM0hO4EXzIsYE7EfBCbifB8jezjQ_qSQ_OrYBuoEoCySfiVZrHkfSwg_hVLLPUVUZif0GGP9lnEhAVDXEiri2wEfvpJZ5C4aLTGhR_fvsXPXx_LGR_WtKIzVAhmFUynQ",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

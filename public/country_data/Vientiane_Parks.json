@@ -1,0 +1,901 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCBAEAAPwsqfPI9a3M1W_PwB9IQzkbIInQn0jOGtgDOYo7ZIWETHPXZfflTVo_AccUd_noOn62JPKF2GLRNt8x-3w39WnwA_hXR1cvQMtEWQyF_qlUGTnTUyv3kxISAHNN2FAjzdRFJ3T3_JSsSxvy4tg7cieU9BHX35dbB9fEFVvYLTk8fKnUR6KUMdmoxHM-ake5jKW5PFBfyrBU7ei0NV6bFi_TBPJrGUcFnIj9IJ0ry0rY3OMs0mDJjSXG2MWDYY13V85BjIehuONZ2J9cq4pZa3WxTIKoi2qpmPVlTUEcOeAyxABocWMmJT6Vu3PqFe41pkri3PUw3UAVlrlv1Wc_t-XzuR6F-kK7P70qDhwmH-ILEhAx3luzhQht15N8wtHXXttLGhQ7rKMlXWZMQ2k-bejfG-GFUomGUQ",
+  "results": [
+    {
+      "formatted_address": "Fa Ngum Park, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9685085,
+          "lng": 102.5959692
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.96985832989272,
+            "lng": 102.5973190298927
+          },
+          "southwest": {
+            "lat": 17.96715867010727,
+            "lng": 102.5946193701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "50c02d8d97879eefdb1d183c7bebd08b509fd99c",
+      "name": "Fa Ngum park",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105585616580258564898/photos\">Akihisa Higuchi</a>"
+          ],
+          "photo_reference": "CmRaAAAArz2a28zG9YsqgKu2yljbUOOfh9TpGGlRAg13xunT0jO6D7KkN-afhqCjjzbeKLRWjxOf6Sy8C8zG4Dw03lmjiXOIS6pWh36kxsogYBVOKwyTCVKpvZF0kIznpa-r4UwTEhCmlJnNMu31UGs4mzVgXUewGhT2tltjy64ajKFCRot6A0Rkt4T7jw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJVVVVpl9oJDERyhuYtkhH0HM",
+      "plus_code": {
+        "compound_code": "XH9W+C9 Vientiane, Laos",
+        "global_code": "7P94XH9W+C9"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAGGA4SfJbGpmn6dnQqXZcAfZIVs64fUGglfhTihG0L2y-yCLNFZp0ixZQLiYC4ADLWfwcAIEuOC30n8ITTJZYsmXyG3HovbAY4qouYe4ZVHOGKpJ20ph87vxJejr-2smQEhA4PMJi7DJQ0kpnbuWUuga3GhRqfverupT0sfD9INDayMKS10Bd3g",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9617598,
+          "lng": 102.6076239
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.96310962989272,
+            "lng": 102.6089737298927
+          },
+          "southwest": {
+            "lat": 17.96040997010728,
+            "lng": 102.6062740701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "e5880f2b673e00c23bb1594093ac5bde28bf0412",
+      "name": "Chao Anouvong Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106647679761804325021/photos\">Paolo Mabaompen</a>"
+          ],
+          "photo_reference": "CmRaAAAAlnJOYyqg-0Gyy4qDIEfiaQWSBOa9qO4JzxqERdiqD3R7N9MgiBOksXXb-gHYOZbodBBSzCSLJUtYz0cqbgU5QL6cMKqiu4J6rquOQh9BaVH0U9pntLwlc8T_jJiHXFFCEhBGWczm1_WN61pzr7tbVUUhGhQyX_mVsz8WdaHvWuBI3zR6TFzkDQ",
+          "width": 4288
+        }
+      ],
+      "place_id": "ChIJmeaqG4loJDERC4FQ1MgLnYA",
+      "plus_code": {
+        "compound_code": "XJ65+P2 Vientiane, Laos",
+        "global_code": "7P94XJ65+P2"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAATej5I9ysOKse9Qzs4USaSCpyIebw6ZOoY63C-rMyYb5MAEpxXzB24d2_GcD6kNtDLlMN6zBI-9n8CLCgOIr8gL94LtmFGFvF2by4hutSvD3qlaZocAqrEfVOh4xEeTMEhB1wFvtqAiWX61aTaLO1E2JGhTZ5Kf0FpMAiLJrr-cnGs1mJ-4FMQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Dongpaleap Rd, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9880385,
+          "lng": 102.6061527
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.98938832989272,
+            "lng": 102.6075025298927
+          },
+          "southwest": {
+            "lat": 17.98668867010728,
+            "lng": 102.6048028701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "412fdad197f51ef53ac9ccce1069f52349e4c11f",
+      "name": "Dongpalap Swimming Pool",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117531275948815931436/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA_0-Zt0EvbWxxkW1r0zD0IeymXJCzcaA4fWqq2UJx0kX6Qya14zqLcqyGw4J4RCoktYRnKxQd-pEdR-sdDYxddHhTfzRhJuORUfNWSaAP-R96Is9alB1XfkWBVSFzXZSmEhATfwGwbtHLz_hLIWgkTQOgGhTt9svLT_af11szXsP7VN7wj0fB9g",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJM5GtxmxoJDERFn0EzLZKuzo",
+      "plus_code": {
+        "compound_code": "XJQ4+6F Vientiane, Laos",
+        "global_code": "7P94XJQ4+6F"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAA6YuYSVRWEvSAchttXwUnTT2Py9Sbh6oXxJHO2_KYV0YSXFsO4rqD68RGj_h_hkKTLIWxdanhU-RjPLycm_kAh2tPpsoya9mBpNAgKOHfMspTVGIrfS0J0gDRGvZSSGpnEhD1fmamPezxDdWzNnFmDFv5GhSMWIp4ayF997UXP-K3_RD56duubA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Sokpaluang Road, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9366943,
+          "lng": 102.6258523
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.93803942989272,
+            "lng": 102.6272193298927
+          },
+          "southwest": {
+            "lat": 17.93533977010728,
+            "lng": 102.6245196701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "101197fca18a46cf4eace73601f3e52d8094aeb3",
+      "name": "GIZ LMDP",
+      "photos": [
+        {
+          "height": 2576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102384607861887098111/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAASeUZ2g0U5wxA4i19CQZ7XhtvX_4vMOKaJntYi8AEM3WyJKwwGrly4S-kppU9XWIsHZAr-6IrkXl4syXTOlNBAcaoOSlyCcXI_mpmGkgUyqt8mxF5x014RIQZjat5LjvVEhA_pNfQjTcFJ5AayHdM2DCLGhRnFDMCgVRPdzSxXc8G4asPmoqsLw",
+          "width": 1932
+        }
+      ],
+      "place_id": "ChIJT7uZlR5mJDERBC2COo-10s8",
+      "plus_code": {
+        "compound_code": "WJPG+M8 Vientiane, Laos",
+        "global_code": "7P94WJPG+M8"
+      },
+      "rating": 3.5,
+      "reference": "CmRbAAAAS-V5uVkK99CWMUs0mTJY6niVmc791Uf5f0EqaHvW3cdTvw7Brf7NBDdq8gdU5VpF4KgCc_KffIHuNkW481g1pif4YYyRfuL6RFel0igtiv1Q7S3JP9gAKcjwSlwJqoY6EhD-HzU9B8rpJJ5--MjmHjgtGhR6UlrnrPWrNWbga-CqvulayV-S2w",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9723617,
+          "lng": 102.6203652
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.97371152989272,
+            "lng": 102.6217150298927
+          },
+          "southwest": {
+            "lat": 17.97101187010728,
+            "lng": 102.6190153701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "108761b5ed6fdd5e0271ad89f0c7abb440cff675",
+      "name": "Patuxay Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107956764141019921190/photos\">Martin Babinec</a>"
+          ],
+          "photo_reference": "CmRaAAAAuNHcObUu0ZMjIkEMvkC3twI-IvgssqK3SyHIp6DXUhrXVF0gYRuvUFM7L-VL7AuLzFUZe60tZJwVJRqhxABWwFlrQxTKO1IL8-MeyVaJV8u_7Nhw7_5a0npzop2EhcgBEhAAqeuCCmU4q7s4f2MWsxODGhTIZO2XpoXytn_AookYgKyzEjPdzg",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJH8x5lXhoJDERnComX1wdP9I",
+      "plus_code": {
+        "compound_code": "XJCC+W4 Vientiane, Laos",
+        "global_code": "7P94XJCC+W4"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAQ4fqpGtFcpVE9JvsLlXdqFgPnvcAP5-AIDLR8_GATUkkR-GJ_NW6OSMAQ14-bKc86FpMhB-dPkSP0xw9xv0R5XbAWm5DobQ4reFo5FpECg76ZXDD7CyghB8OXFqVBKDuEhAmIrgQkmLUCKZZEz74j_I4GhScjleDAEP_eR8XBc1TM22w2k02OA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Kamphengmeuang Rd, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9518675,
+          "lng": 102.6563026
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.95321732989272,
+            "lng": 102.6576524298927
+          },
+          "southwest": {
+            "lat": 17.95051767010728,
+            "lng": 102.6549527701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "eb96f858ff9b46076baf1098594ba698d528825e",
+      "name": "ບຶງທາດຫລວງ (That-Luang Lake)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112894241611458253366/photos\">ລັ່ງ ວົງພະຈັນ</a>"
+          ],
+          "photo_reference": "CmRaAAAA7bLsALa_TT7cKoHTSTX_FmREDaJYOZcBGoXeHmL3Xqol5LEI9TG9MIqxNja11wj0SzfJeny5idzNWOSSpIG5g6EdRIykYw2NAB1rQr0ck1PgTlcvZmv6xqWFGPHmywT2EhAl2OUSk7hgeGp6dRgUQU23GhT3tP2HMbLm3Ezixp34xGG25hptxg",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJayyMHFBmJDERyxdUbUMP5Po",
+      "plus_code": {
+        "compound_code": "XM24+PG Vientiane, Laos",
+        "global_code": "7P94XM24+PG"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAzaqwImgFO1NYAkBbVV-QNNEzk3Lp8kMTwpPpSsKoi6QZSx4QsQdcHtFrr8P0LtXfwcQuvF4B2kKeij-q7wv_c5fm-6GkPZKOT4kUnHHHKaOI8KbLOjs34kanNvUNZIi9EhC0umhZej7wdFC9Jei048wnGhReXcfpHvsc_gNCH_JCWkk4xmWc6Q",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "塔 銮, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9809307,
+          "lng": 102.6370598
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.98228052989272,
+            "lng": 102.6384096298927
+          },
+          "southwest": {
+            "lat": 17.97958087010727,
+            "lng": 102.6357099701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "600b7b64a90d984b801a9077a7df472422644fe8",
+      "name": "cycegc",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112472176937095986479/photos\">Beeyang Lao</a>"
+          ],
+          "photo_reference": "CmRaAAAAUSTIvZjhELHl4bzS8Dprcs82w3AvhulS6Kfn9foL0pboDLKTgKM910APWrc1ibyaWb9m7WTB1OC8IAac4DRLvgv3A1xorSKjIoRDSLZaQGgyHClzsc6tsnAbtWWq-xxoEhB0fJxzaGn-LqrfrYvm_CeGGhQJh5_JmS5lqkELlBpVx6zwL5sZWg",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJt08CdMRnJDERHVCw2pJ4nx8",
+      "plus_code": {
+        "compound_code": "XJJP+9R Vientiane, Laos",
+        "global_code": "7P94XJJP+9R"
+      },
+      "rating": 3.3,
+      "reference": "CmRbAAAAzjvMpHB_XvUrkgMvcToGIapIgPMtKmk-0pwk7_hRwVM0znqd6uSdERHU3L1xWNRoQ_A_YE-sdfiqK2W9SARg2JxTl9yfsxMRQbxwaC0SGFWfDRYqRc2i7Fada-qrVHxlEhD4ac7ADnIf59lTKMjpoXrsGhQuRcWGcp7AAZvyDK90KyvrOGqwag",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Quai Fa Ngum, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9636237,
+          "lng": 102.602227
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.96512832989272,
+            "lng": 102.6036260298927
+          },
+          "southwest": {
+            "lat": 17.96242867010728,
+            "lng": 102.6009263701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "bf9b39658ed8784911a18088e3ee668ae61cccba",
+      "name": "สวนสาธารณะหาดดอนจันทน์",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116571448188031891758/photos\">444 Channel</a>"
+          ],
+          "photo_reference": "CmRaAAAAFswQQPE4hSMgCBZbcXUY4XBecM60A3Leu4WDVBYuPQ1BsDup7qEb3QctIQ5F5Q9UYaOvLIbmlSempGSiXKyXkANhib3VQWnFFt2zRKEnWrkSoLWJluvxIdjDDqwTJcP-EhBlimv4c9hiPadNEeAW7onJGhQCCrDhfKitVcEyRADPViF8dskZVw",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJxb8USIpoJDERJK_FnYNOEXQ",
+      "plus_code": {
+        "compound_code": "XJ72+CV Vientiane, Laos",
+        "global_code": "7P94XJ72+CV"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAA28U1tjYNbGKmxwbvXrfSQ53KvzBl_6_TFwvF8rPgSS5E566Sspi_8BNI9QP1mpm72M5Y4rx9SoE84KpLbNumKCYq8_mNfFWvtZLMJUQaSvdioVtKX_euE5xx32-0c-uaEhAKe0kiD7Vy-oYhFPcl8Z5YGhSuFC3_w294KapkIGcRJcBRNAbgww",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9389654,
+          "lng": 102.6332803
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.94031522989272,
+            "lng": 102.6346301298927
+          },
+          "southwest": {
+            "lat": 17.93761557010728,
+            "lng": 102.6319304701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "a3ad55a3f80e597f28acfa134b427c908c540214",
+      "name": "WFP Laos Country Office",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102835483686884264500/photos\">kone manivong</a>"
+          ],
+          "photo_reference": "CmRaAAAAZoJJOINMxJnC1badBT0g1qPN3LY2SQpPuKlobcbKXouqPukKIdrEmiWKCqs_wc56NgeZUnPT8j7_N5kXWodP9P5MCZ7W_rOr9e-jOP0mgklUi_2aPHaFOW1ynwH2kGmeEhCAMNwUqrPqcRzDVybdqsnmGhSfERGD4jSoIFquS3aJY_LKwxl41Q",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJrVYBhxdmJDER0v5DQB4WXcA",
+      "plus_code": {
+        "compound_code": "WJQM+H8 Vientiane, Laos",
+        "global_code": "7P94WJQM+H8"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAqipH100iEPqWvBUZ9RoqOeIClNmiNCJkPF83L1chiiHDDgq2Bkxldf5Y0ws_jWYvcmXSk35MtocGi6zzrWuCZ-04eSOY9sya1Woh6dM6y6vQ8dGZBAXN8KIrx04bApN5EhAfDzT_b_cwgCajBvKrBRekGhSGa5KUtiU-MChQslzZENHwWBesYg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "ຖະໜົນ ກຳແພງເມືອງ ບ້ານ ໂພນທັນເໜືອ ເມືອງ ໄຊເຊດຖາ ນະຄອນຫຼວງວຽງຈັນ, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9599122,
+          "lng": 102.6459986
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.96126202989272,
+            "lng": 102.6473484298927
+          },
+          "southwest": {
+            "lat": 17.95856237010727,
+            "lng": 102.6446487701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "fd11ef7644422d24d6360788022634dc7b4236ce",
+      "name": "Ocean Park Vientiane",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106105447886850248293/photos\">Zak Malimar</a>"
+          ],
+          "photo_reference": "CmRaAAAAu6XzrsQ5cIOg32q_aMntUswAqqLOJDoIU7WDm0SjFWFCoeUl-X1mWkIQbFR-v5Li-3Hr3ObkxyFA7F6FmrmxUae26SuYwkqjNCFdDjotDfs9HUdeebKJR8GkdRmaNMz-EhBeMiJvRey-Dzm7BBb0_egZGhTkH9cwFDROhJo-t07A0hvMfmixYA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJD85QZ0pmJDERvDyFIPINbnY",
+      "plus_code": {
+        "compound_code": "XJ5W+X9 Vientiane, Laos",
+        "global_code": "7P94XJ5W+X9"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAUJA5dMjjHHBOM2WCWSUgQ6nXL5tFkqwB7SIlSRPbZxqfioVXNSELFV3F37ktNtx67wzFocs83hxzGUHR0b-WhR8xtowdTrNV3PsDSE6_qmzuZbVEkHDvK_Ymi7kfDq64EhCkUm7FcKmr47aBpsVTzb9aGhS2qODpvL8l3n-0JKKs0nIM-I88wA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9573145,
+          "lng": 102.6175512
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.95866432989272,
+            "lng": 102.6189010298927
+          },
+          "southwest": {
+            "lat": 17.95596467010727,
+            "lng": 102.6162013701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "deeef80a83b1ef037201496dd9e1d1f31b9a3be6",
+      "name": "King Sisavangvong Park",
+      "place_id": "ChIJaSBbvINoJDERAFD3blnvP3U",
+      "plus_code": {
+        "compound_code": "XJ49+W2 Vientiane, Laos",
+        "global_code": "7P94XJ49+W2"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAADylmKqsFLjk7V33V3iJvLpiAonKN3S3UaQzSsYBLrU1Ruiru5CMqJTW6v1-HNkw5Be0Y_FpWgDKBo9N6apKhvCplwmEPXNmum1c6ijthTpvs8FX8PdE9_GKgwGs9M7JEEhCFy7DwiBxo5p2udJkuVXkvGhQrK_54iTc60_StURwmihz3GBje-Q",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9787845,
+          "lng": 102.6318081
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.98013432989272,
+            "lng": 102.6331579298927
+          },
+          "southwest": {
+            "lat": 17.97743467010728,
+            "lng": 102.6304582701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "595ceea712e0c18209ce170b88ee92975f5ea5af",
+      "name": "ສວນສາທາລະນະ ໄຊເສດຖາ (Xaysettha Park)",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107909047791963301910/photos\">Andy Chan</a>"
+          ],
+          "photo_reference": "CmRaAAAAtJlI1q3gOVcqGJUCPeHoKFBRja15zoVY4p5j2F6dx3V6LnqiebmdLtYpEFpgDRJwpsYIniACLNLUfmvR-iltp0859vGeM_hVSr1OD4WvbCAVWstNNvvCAud_yNBSDGrxEhBrWmDTjIPRa9-L-jBGUv0cGhTjJXWb9YI6en2ck4aYq7jwNC1inQ",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJj8BnINtnJDER5uixmfVWTiY",
+      "plus_code": {
+        "compound_code": "XJHJ+GP Vientiane, Laos",
+        "global_code": "7P94XJHJ+GP"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAuRRusyhHUFkCObUwBhHrqzIBR5axLY_pmPZ_Daeb9K-PfrAAkSoZqKJJTdVnDCwIvsXBfj2eTHBFHGdfQJffz2YS9BRE5ldZPehCr9qc-iq9R-BmvOR6U0MCSDtXdSypEhA52vFSgm3GpacTy7BIen7zGhReUUBmsjmAoP6WQ6N93JJW_s1RFA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9759213,
+          "lng": 102.6314829
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.97727112989272,
+            "lng": 102.6328327298927
+          },
+          "southwest": {
+            "lat": 17.97457147010728,
+            "lng": 102.6301330701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "01526fb6c795928922836c5468da5484df50f7ae",
+      "name": "Nong Sa Phang Lenh Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103067488209236644771/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAlD5mY_vB5gi0q8VkQEP9I8ZhpRKlWQxVqpzGytA5plVAW_7ZM82qGzBxr3iTowNeUOYaSLlRY_VIT5R5OHz0jQonPm7Hd1LWCfcuJ4z51oRO_0aANZc0pMICJmZhnFRyEhC30ssMTIXYV4LCrAqLKnh9GhSjjoL3Qk89kRz4-Ty8xukNMhWqcw",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJZWpLntpnJDERisi9U-txJHs",
+      "plus_code": {
+        "compound_code": "XJGJ+9H Vientiane, Laos",
+        "global_code": "7P94XJGJ+9H"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAHnrpbMT8hMoTSWNZ5LQkibqEXJI73Q24xvHxF53a2xfAXFd9HbUUhKTKzmulz3QDCoEqpJxCBM8GnFnM6KIdw0pLVys11dKA7ntF-IDSo3sMxgt6bq-wQL3nU5C7IfEQEhCUrhHvJyFTbEayZsggr7xPGhSF8EPDKvnBvC_lSCjwSbtFxXxAfA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9721482,
+          "lng": 102.5932171
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.97349802989272,
+            "lng": 102.5945669298927
+          },
+          "southwest": {
+            "lat": 17.97079837010728,
+            "lng": 102.5918672701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "49b56aa98e61d6b4f4b8427c286729aba3f40723",
+      "name": "Mars Hartdegen Lake",
+      "photos": [
+        {
+          "height": 478,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107844670808686950516/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAt8TNZ-cm9sXpS3t-jvZp5YTwOXcKFccwGmK7rhlf_PnrfH_8emw1HFSCsJLKT_QHwBEaeWctSP5o2zoi_H0gprXVNJAd2htlEwuOCfIRYqjeBkdTBwOhHdzEi3gL9Z2REhD3g3NmvN4qr4AGNX2vb-o1GhS5iK20AdTZP-xwZ25VXv8g-H_F4w",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJHz72q15oJDEROC33sxCCK8Y",
+      "plus_code": {
+        "compound_code": "XHCV+V7 Vientiane, Laos",
+        "global_code": "7P94XHCV+V7"
+      },
+      "rating": 4.8,
+      "reference": "CmRbAAAAV2tw6wwduJC0Mccr8yEykS-6ivFs4nuzXvcO9MYczpftO5RGSP4XPgse5eXDfxDIKDb0LSsoAitQFEcQYxrQM3yCET7qAo00CjBH7mcnAsQmocx7RLcnd4OpgAfpVdtYEhBUcG41ZGktV5npgWS4LnxLGhQ8gg_lbfXGd7hNiF27KV8d6OhtVQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9771813,
+          "lng": 102.6319117
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.97853112989272,
+            "lng": 102.6332615298927
+          },
+          "southwest": {
+            "lat": 17.97583147010728,
+            "lng": 102.6305618701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "47a08de6b4d50ef4f8231309ee50ef62270021f6",
+      "name": "War Deads Monument",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103719311216876335881/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAacDJlFmg1waKHa_TZsAfTIO_0KBwPx8Lv3TSHD0xq-tWFGiUq2x5Eg9wh87CnZl9sWqPZyFQkj18JSsSgHt0bFJxU_s7ZciiYrcy1L4h39rPhEHJO0VIYSzknV9LhnlGEhAf63n1EESLHKF1lbx7EEjOGhSFxWAR4nL1Wi_-qrLCqUgmcngVbw",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJNdhuv9pnJDEROJdyEOUnC74",
+      "plus_code": {
+        "compound_code": "XJGJ+VQ Vientiane, Laos",
+        "global_code": "7P94XJGJ+VQ"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAcDGms83hkx-ruPlFP_g6-ZdQfIbSVEAKplFJPW5dIOgXk0gtfh_0ZCZmKhEKNvEaG96CqnXfL-zB56j-pm7WxAKCGyLgM7UtiH1qfQ4XdqKJ_uF-gptzmtUZCCE3aFtCEhCZYidw7462t3RPkNxxihoCGhQ8AQodz-4W4ve3OiZsHgb_xoVFIw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "40 Dongnasok Road, Ban Nakham, Sikhottabong District, Laos, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.971186,
+          "lng": 102.5862842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.97253582989272,
+            "lng": 102.5876340298927
+          },
+          "southwest": {
+            "lat": 17.96983617010728,
+            "lng": 102.5849343701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "deac0a4737087dcd802c5c65ce09911137108c7b",
+      "name": "S Park Design Hotel",
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103356620725592954657/photos\">charbow ancrea</a>"
+          ],
+          "photo_reference": "CmRaAAAAlzuLPyeIG-cmVNGy9fqKOSLTVIxdjDRCpk_v9xpZ1GwNC_TZF3pb-8hq2qsqkA9GohBU0fjS6FBi3rLWm3191IpjbXa6XRWvKkt3H4F0fYJxiz2Da-1K0YKGB61NuYDDEhBwbx05IILfxAJ6J_949kztGhRwDkDCCiWa6iMERB5lsTdH8qACOA",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJPTIQZldoJDERNnZQfnDr-jw",
+      "plus_code": {
+        "compound_code": "XHCP+FG Vientiane, Laos",
+        "global_code": "7P94XHCP+FG"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA--CSZOLozsrWYVhgTQQrzZ0dQBMjLQv5Fzhhos01Vwp5sC73AYC2E_gb6lidNcrh_9eLXf8Eybo4qVeURH0eksQl2PIN5uxzkt8ZdmXcg34-Fq5m1JsK_w42RQ-P894SEhDjbo5GJEg_XTXi3q5VeTmIGhTsijJJD6KEmUj60NatnyyR3xxKbA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "248 Khouvieng Road, PO Box 9698 - Vientiane, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.958547,
+          "lng": 102.620845
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.95989682989272,
+            "lng": 102.6221948298927
+          },
+          "southwest": {
+            "lat": 17.95719717010727,
+            "lng": 102.6194951701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "01368fd0b4ed034013efe6086c2b4e55fa5d373d",
+      "name": "Green Park Boutique Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1414,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114447525558502487169/photos\">Green Park Boutique Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAA3YVOrDAoSBIJnTgox4jP16Gk7bElmVMscZtYYRdtwfZjEQVjCKhz9_T5Po0W-BVKfb5hSKGeYmA-YHTE27m69xOvkcuQghDY1ZVB_L4Q9pG9Cebz8fl5nxSSNg28V6mjEhDrMImT_s18vOE1d7Y683eIGhQ8Tnpi8prqsz-mCk3m-gjlCDjvWQ",
+          "width": 2121
+        }
+      ],
+      "place_id": "ChIJZc0qG4JoJDERmOMlQ2lnytI",
+      "plus_code": {
+        "compound_code": "XJ5C+C8 Vientiane, Laos",
+        "global_code": "7P94XJ5C+C8"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA-Z3k0QEBAWDKxPzt-2zEdn1BcXGlyo8ctbQTN2Dnl5hDrwYpXQeZlzqE3Y8bgC6AyWKi1UFU08E6DPow1wju9I0iYVE7JwXzwwV0L1tQGJYL02xAwV7dQ-0hxUZf1kqtEhCUkCZEA1KY8MAmuGfOXfV2GhS9wvB7-1YWzN8Sq-ttH8Qz87kUqg",
+      "types": [
+        "spa",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "406 T4 Road, Donekoy Village, Sisattanak District, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9306813,
+          "lng": 102.6513446
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.93203112989272,
+            "lng": 102.6526944298927
+          },
+          "southwest": {
+            "lat": 17.92933147010728,
+            "lng": 102.6499947701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "7634a2c4b96c616982c99fd4d3d022aea97ac3f2",
+      "name": "Inpeng Hotel & Resort",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115372611445682690744/photos\">phouvone seangsoumake</a>"
+          ],
+          "photo_reference": "CmRaAAAA2hp17ZJx2BIcULpB_cnHIEbX7nO-HZM65Vm2FyauqLO6ny6X-ey03wc35aO0afIz9LnZIY5h_2MO5foJgvQNYLLdYi-Hz3m-UfMdgro_ay4OS4VYy-vrw4O6axtg7-deEhDPy5Q1UlBZZ-2EqNP1mnZ4GhTjZJ9KcCaRlyAhDKXkQp65f-qUvw",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ2RWm1W1mJDERJx9LA9XNoHA",
+      "plus_code": {
+        "compound_code": "WMJ2+7G Vientiane, Laos",
+        "global_code": "7P94WMJ2+7G"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAN2T4TM965OZdiXFzQpT_fIWvVLzFcTzQTpJndMTuFdr9pcNSV9_5ZL_GTrrNV1w19KEOn4dF5sp0NEsGk23T8xqqPByj9WJlBzU4Vrn7wBNHYedI91eC2Q2zstUuNwVVEhAayzJivdIT2cPrAHFIszlCGhQxYouUB9pawzkeYO3bORjgY2yrxg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Thanon Tha Deua, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.912296,
+          "lng": 102.765366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.91364582989272,
+            "lng": 102.7667158298927
+          },
+          "southwest": {
+            "lat": 17.91094617010728,
+            "lng": 102.7640161701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "90f31f03a149a62fc74b9b786d86e617b5c08655",
+      "name": "Buddha Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111927215927874216988/photos\">Jim Heston</a>"
+          ],
+          "photo_reference": "CmRaAAAAYSFopWoWQ2pIylZQV2Ot5mf65aIqg8MEJZ9kMaO0Lpt04dxRPhgcOCz2DtNHftCTByHYnO98Q_voUd-OF9kzJLl-DV_KdvxinD7geL9vx2aFJeMBWGZ7fJWmBb0RIRYmEhAuWolI5uW5bmLw_JTaAFuTGhQqMUAJUBn_PHEcocY_AWePNI6jiQ",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJLSrl0oZhJDER7XeatIks_uM",
+      "plus_code": {
+        "compound_code": "WQ68+W4 Viantiane Metropolitan Area, Laos",
+        "global_code": "7P94WQ68+W4"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAdvxqTsYwa-6wC4UCpDiR8g9wqnjv49lJNQcpOgPV0TucVzmx29P63tkNwhEtisgeCShmseVSwSBR8rlEQRuIqMs67C-YdkrVdfRk_CsDPEihIpcBU5FQgYQYLSCdVZnuEhAKH2PrQnj3PclrWsDW9DsQGhQRttzjN-oehpVSIUhcUJGPl9lE_Q",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Dongpaleb Road, Vientiane, Laos",
+      "geometry": {
+        "location": {
+          "lat": 17.9880548,
+          "lng": 102.606664
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.98940462989273,
+            "lng": 102.6080138298927
+          },
+          "southwest": {
+            "lat": 17.98670497010728,
+            "lng": 102.6053141701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "1100a4c1be7635aefded34679b04ca840e8a7856",
+      "name": "The Park Vientiane",
+      "photos": [
+        {
+          "height": 540,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104673399359954664718/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAIiCj8Tuqsfx1Rs3_DsWRQU5sY_ky3oUU9aMoYLYJua4R65XAsHszwEHfO3Ayq4sX-5ZrytbI_RP_vXvfTo63XQDytx2WOdhl0YR-wPOnFm5IXeNFI6LebvjIfOkCacaEEhApRvbw3YbgSiOPwzaLctIxGhQvtwI1zniFLs4QxEYKeGiQ4EXdRQ",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJEQjLF4BoJDERKmbX6-J4e8k",
+      "plus_code": {
+        "compound_code": "XJQ4+6M Vientiane, Laos",
+        "global_code": "7P94XJQ4+6M"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAeYxxOrX2lG9umIG9lhBXTGkSVr2kKtFwiJciUBlkR_DQKRIJAJa45K4r1VRtwe70gvtS_36vGbJXzZA7c47zaxR4OMtJCF9WAH0F1Bfdwju8GNi5vGY1NWhHlePxSq-XEhAtLPyAuT6TV23PLt0nVwHFGhRFntAGWTjLo9MXOSPzlVKIlCGqGA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

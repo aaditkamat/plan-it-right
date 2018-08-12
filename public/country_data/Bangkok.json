@@ -1,0 +1,925 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCCwEAAG3jXSg6q8_ONbNTAsK51SxoJBXAH2-Y26q5U21URtXlCju5Y8YH03Hzb76oBBG6KchL9QRLwI460nsyO2Wi4od7yP4zSl1Hf56DNy1RTuWntiTliZEx1kmtnXXpbTlzx-hYyac-o3erL1mVlyC5oUB8DOWTAhL4TVxtzA0apQktHfxq-_PauqcLGzlwmaZPMyHZ5_1yvRN6Bi0h4_2DjJ9hTjHOsVovJZyaV5nXlc0vtg8b7DlI4cernXFNLlG7iKlP6LbLYbzGKcKp6Mq846GE_wTEBdVfC6LLSiDAE0_HNwzEbCyDwkIzNitXuAcDvf7yuUC3t6RJjKmh7y1txj8dFkGCoBYH1aKtC0z9QglYEhB8Mlow-wxjOEI4WUVG2p7LGhT5plNjJ9CoFRV3D3MGe-ZjZWU8cQ",
+  "results": [
+    {
+      "formatted_address": "Soi Mu Ban Suk Niwet 2, Sukhsawat soi 64, bangkok, Bagnkok, Bangkok 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.649143,
+          "lng": 100.512981
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.65049282989272,
+            "lng": 100.5143308298927
+          },
+          "southwest": {
+            "lat": 13.64779317010728,
+            "lng": 100.5116311701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "4427085c00ee8ebbc834b8da58b6475ff100f244",
+      "name": "Bangkok Sightseeing Tours",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 616,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117989191769823917768/photos\">Bangkok Sightseeing Tours</a>"
+          ],
+          "photo_reference": "CmRaAAAAAvSsdASP86KrAmhfzW60qGEtswez8myZoz2NBYTnoFSkiAVQQuNEi4aqAJ83Eht_-utfF5BrLw-zdTIcADeUf2sl8W1r9Z9KCazXaikONpyTvY1LC5yfxjdu6mSPy3AvEhCz1QNOm-l71ymhqTF9FubDGhRJlWWBeiSqisnXVNMFGu8Ltu1lhQ",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJ3ZWEGQyY4jAR4W646g4-8LI",
+      "plus_code": {
+        "compound_code": "JGX7+M5 Bangkok, Thailand",
+        "global_code": "7P52JGX7+M5"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAA0yKopkfNkOwkYdNaRzV6zozDfKHv5bqHGdT586pXfCS57mmEVALanbwcEr6JxgiHyWOYKKpWZ4jsQaQv4_ZCUEA19EmpT_yLK3je1sam0qaJBpJwqiMOv_4OhFGHkbrEhBSZOcGaZ2LglxlyIP_cCDnGhROTbMWUv_A0PFopXV5IAXLL0b4vA",
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "158 Thanon Wang Doem, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha Nakhon 10600, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7437,
+          "lng": 100.4889265
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74563332989272,
+            "lng": 100.4897426
+          },
+          "southwest": {
+            "lat": 13.74293367010728,
+            "lng": 100.4864782
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id": "1c417c9b9638b8a2a19d258fd6f8bc68b9a934d0",
+      "name": "Wat Arun Ratchawaram Ratchaworamawihan",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108832311912656639299/photos\">Samart Amornprapaipis</a>"
+          ],
+          "photo_reference": "CmRaAAAAOPPudm_tbnHcOZTHZTZUo2qq_lgAqpTJB4qYq0k-TnXjXfWx24dXY8O7-FZc16o0tq0-D5q4g04zNuzHV7izZ6Q-rb9CMucSu-o3gqdwuTTOqVbRNa2SQk3_yDt4jKzKEhCCMNXGcIqK-vkzPlOE3tm5GhTsUqXW6YTw3SyIKido14y4O6-5vQ",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJaSv_6gaZ4jARnbiUVn6Z_YY",
+      "plus_code": {
+        "compound_code": "PFVQ+FH Bangkok, Thailand",
+        "global_code": "7P52PFVQ+FH"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAJlQ3bo0WbiYHEGW_BZyfspge0GjP_JRqGHgMTd4wT3JOiH0NTa1Z9iVaKnICcYNLNUWj6FyyMJkLyoBtG1DQt7aZo_d8pH5LbLpf44wyUeLlOr5Ex0qGdCp-oWplGvzXEhBraxuvPvc6mWydhQLodUjLGhQXzNljRGHGSyvZeEUP2lxSvWM8_Q",
+      "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "6/1 พระราม 1 Khwaeng Wang Mai, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7491168,
+          "lng": 100.5283841
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75044052989272,
+            "lng": 100.5298724798927
+          },
+          "southwest": {
+            "lat": 13.74774087010728,
+            "lng": 100.5271728201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "9b3391e27aac5b869853e2505815477a612abd8f",
+      "name": "Jim Thompson House",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101834804559921986103/photos\">krabi andaman</a>"
+          ],
+          "photo_reference": "CmRaAAAA3U4tSqCPE43ag6-Jgfbd4KC6xNSmZ-NLwPWSgCQWmrFwGQ6SV1EsfOst78KcAqVBHrYPY_TC6W_hX-rT19h5ljrybvZ3OwQXWa1VG_XwV1QdLW2-ViIEISyY6b6D-4omEhCRSPfRmWcaIRoPHtZ6M2jiGhRjNKtQhcJjWjMeWNiNi62UqmTPFg",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJWVT7hDKZ4jARGJOhe21RhOk",
+      "plus_code": {
+        "compound_code": "PGXH+J9 Bangkok, Thailand",
+        "global_code": "7P52PGXH+J9"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAQYlflaVUQGmfDOR8SpQb2nFaByEs1Uj9ygc14wITFaReNbTYboywxTwlsFhLDzi-E0rhoZ5UZGMO8wMgyi3Kump4UrQlSGXPDxBvmlofoBSKhB444wWzqL8LvsA7DfJ9EhBmZFHEueS5HYY_bphbtPwXGhToJECH66FjSuUxb_Oem--uq1h_SA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "951 Charoen Krung Rd, Khwaeng Talat Noi, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7377012,
+          "lng": 100.5135898
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73901237989272,
+            "lng": 100.5148153798927
+          },
+          "southwest": {
+            "lat": 13.73631272010728,
+            "lng": 100.5121157201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id": "87a3cb2ab6e7048553cb8bbbe874a5e4d9600dc1",
+      "name": "Budda d'oro",
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102680484116965831887/photos\">Eduardo Kuri</a>"
+          ],
+          "photo_reference": "CmRaAAAAUvO06jUWaNqaxmgVSZjwn4IvSVLmwecvqFWLaAe8fsneoQq1fCB3Y2G7zt7dgBXZtIkfGzJW71J6ciJ-ZaYxzzc83lM27oZFEmazjJGS-k0OXJFP4eNXfSjDIAzqHW3AEhA2SIGPoBA3fQ4RDnNmMiGDGhSZvEaIgV4NJZus37yNlfLabQ0gkg",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJWaoiBdmY4jAReVIX1maq_-I",
+      "plus_code": {
+        "compound_code": "PGQ7+3C Bangkok, Thailand",
+        "global_code": "7P52PGQ7+3C"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA-IeRflAX7h-tWoIYCEm4aMj8OIjFzFoT_6EcB78Jk4OeImhPFrpFw18-fFSUOZ8NDubyK0dNdOw4CNI7XRZkyyI9pqBpkICUm7fFXVP1proEulBH9icsxJBZW9b8JOyTEhCstNvaEhqbyAyZE5adNlOyGhRJme1bYa7j6fsqoFFbKgoTvX_xzw",
+      "types": [
+        "museum",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "28 ถนน เจริญกรุง ซอย 70 Khwaeng Wat Phraya Krai, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7111621,
+          "lng": 100.5091692
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.71232407989272,
+            "lng": 100.5107081798927
+          },
+          "southwest": {
+            "lat": 13.70962442010728,
+            "lng": 100.5080085201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "384883251294fb1223c0759a1fa1892033c84202",
+      "name": "Chatrium Hotel Riverside Bangkok",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1125,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114651807483951450085/photos\">Chatrium Hotel Riverside Bangkok</a>"
+          ],
+          "photo_reference": "CmRaAAAA34-98Yk6W7XqoFiUWSU-4zajBEG24RdF3ht9JiWeR5zAC9jIX3DXpSlYOkUBTwX4Ql8e-h8mpaDWpvMltt2QIv41Egw6jnyt7R7L-isA2ahpYbwLjUkleu_NF5WQppL4EhBNxf-Ns4LzxJdrKdUpMA3pGhStwHtPzLdWixgIHc4geb_MYDgcFw",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJvaruo7-Y4jARyI6OZRkhHqU",
+      "plus_code": {
+        "compound_code": "PG65+FM Bangkok, Thailand",
+        "global_code": "7P52PG65+FM"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAszCRJJQGl9veifJvJe4SRUhpJjEvJdsuLGumem2SJnvrYuLJ3nDLT2RJPwKMFVV0OYIdUBTteo0uMzwRbxx-6htgQN0T2efmb6NnQuPQlZ38YVg0F-qMF_rmARRP5p9uEhDcfE82YkvUNSdQP0bHqDbIGhSX9BDvCM0gYwtXz2aE-RZCQNoYRw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "989 Rama I Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7463917,
+          "lng": 100.5316815
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74759447989272,
+            "lng": 100.5331178298927
+          },
+          "southwest": {
+            "lat": 13.74489482010728,
+            "lng": 100.5304181701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "c9200e5d3d2ecebb7505462817172c66f271f528",
+      "name": "Madame Tussauds Museum BANGKOK",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106545473308373732568/photos\">Rushan Gajanayake</a>"
+          ],
+          "photo_reference": "CmRaAAAADNcQNjv9qr_2EnIzXKFOm5IS3eiBxq_EhvBIZOMg6PmjOq7W2ClOyDtoQxfQn4HeHXTlzSaoxN5CcMJdlgw_fi9vqK5vyzyzImDWVRw5w9420hg0ddDGlqAG8SSmckQoEhAoRSnXTRDPFiMTqTuKjBr3GhQoHQliZuZekLrxazWbeIE5GacnFg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHQcCZM2e4jARaESgxhA9-HM",
+      "plus_code": {
+        "compound_code": "PGWJ+HM Bangkok, Thailand",
+        "global_code": "7P52PGWJ+HM"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAgOtZ7wnmyoCriDuTtDqnVGt0TDRPidcNMRoaUO8NCjcvYE0VWlHzCkU_JhxTfVJzaMZVrVIBptNPz-ae6HZmxmg7GRXkg9_4eEWqmsqwspXIicbvziCrk5JFOLO_Mau8EhAVqpiqIA4Bywh9w63PHEhbGhSkXUa_L01xszEheK1AxhMCh_l2Aw",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "991 Rama I Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7460298,
+          "lng": 100.5349789
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74897805,
+            "lng": 100.5359642298927
+          },
+          "southwest": {
+            "lat": 13.74504705,
+            "lng": 100.5332645701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "59370109017a26fd39d847278b99a22d13380514",
+      "name": "Sea Life Bangkok",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117124834148039936027/photos\">Brett Ferguson</a>"
+          ],
+          "photo_reference": "CmRaAAAAXLTcVsHv34dPgGl7VJ2LRwizzQr5ulR_NYVBVvQ2BOkiso_46pHTEHVvcqK7nWJUpTplmM_0uvHR1CkdSCTnkQ6PfwgXA5i7lXx4n82B_HVgXBH8g5YpmeAYybFmMVWbEhDtLrVxypxN4r98wQRC29JMGhRw6QWVguhba9qhYALI6MThUv5Dqw",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJH4I85c2e4jARUMYLeiqfBd0",
+      "plus_code": {
+        "compound_code": "PGWM+CX Bangkok, Thailand",
+        "global_code": "7P52PGWM+CX"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAQP6HVh2uUbBsu2lmNTx0GCoZYXuV00feGGDgnDongerH5Z5s86vwUoKovAKVSahYgqyx-Nv7xRP-kUcb5HVnJCsMH4mXEW3syqT-1gCzAiIrCq9d1Kqp17fd6dBmCo5REhBmkfCeoLRw0pxlTXuuOOknGhT6W09wHtGVziE5ZFQ_AdzyZwmHfA",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bamrung Muang Rd, Khwaeng Sao Chingcha, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7517968,
+          "lng": 100.5011524
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75319732989272,
+            "lng": 100.5025512798927
+          },
+          "southwest": {
+            "lat": 13.75049767010728,
+            "lng": 100.4998516201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "823b394fdfd17767ceb5fadeb6330d651843dfb6",
+      "name": "Giant Swing",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108706733385050525788/photos\">Kridtanabowon Chanthawet</a>"
+          ],
+          "photo_reference": "CmRaAAAAiOOX69tut0hgwbcj6l-5UGWsn5XqI8nb2SZZEuX2_Fz9JoLAdCMFFe4z_1Yq1LKD_vzIGoENWKorlWPVTP5y0GQbMM1s-Jw4DScbetind7TcLl_jfvKWGbXE0cC48GybEhBBasq3z-Bk7B8IvwGFxqE6GhQmZhTNVCGcEfRsBhc8OHW96H7grA",
+          "width": 1896
+        }
+      ],
+      "place_id": "ChIJVQsINhGZ4jARdouyvbBk3B8",
+      "plus_code": {
+        "compound_code": "QG22+PF Bangkok, Thailand",
+        "global_code": "7P52QG22+PF"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAVXr3B03-Wf_kZUV_PsJ2_mv2ZFl6doaBkvQ7bMUu-Hn0r4Vkxl0I-V4QETbpXWikhBNMbRL4ZdnwXWdi4V0WMHd2re80TIEeN-AFsYIIKzIbNW7WSSzobE7cHcSUtt3UEhCjnpCwRX81jKjROAbFBxvrGhSKO9X66iI5sgfoPl0HRSNgqog4RQ",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "499 Kamphaeng Phet 6 Rd, Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10220, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.851893,
+          "lng": 100.56256
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.85344832989272,
+            "lng": 100.5642533298927
+          },
+          "southwest": {
+            "lat": 13.85074867010728,
+            "lng": 100.5615536701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "4ce60031561b280e4eae8bc5918bca5e55b975a6",
+      "name": "Museum of Contemporary Art (MOCA BANGKOK)",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100207436896681074449/photos\">hiro hase</a>"
+          ],
+          "photo_reference": "CmRaAAAAhQyThTbZwE26lAJKK_2GLhJjglK1fhbXYcAdIhbeL7UNSATA2XoHjj4GtjCh6-W_jSWQjIVRulqQeevJr_swnCD9HG1T-x2uoiE8XhYGNq0nHghmDH70LwEZFIYfljc7EhBV3X6Sd2V1e2cQ_WTTwFEAGhQoihxVz_h6fw7jl0z7SURaINISqg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJR5NzOMOc4jAR-zcXjSL3h84",
+      "plus_code": {
+        "compound_code": "VH27+Q2 Bangkok, Thailand",
+        "global_code": "7P52VH27+Q2"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAJq6y3thf1OZqDDoPCfP-2_vfpoCrfS7KBqAU4jmqYqqFRmT1wub9OSK-YcuHwcBjGyGNSGL3IcpQ6iAF-UbDth3Tq_Hz2EfwX-JFAI5W6ol4BOs0BocfAZE-FYI6d-YDEhDWVQDkGxybN7YIYX8468xEGhRfiJxewzEx9pAOkPzQ97LUGcCj9Q",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "60 Lang Suan 1 Alley, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.73897,
+          "lng": 100.54335
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74029147989272,
+            "lng": 100.5445163298927
+          },
+          "southwest": {
+            "lat": 13.73759182010728,
+            "lng": 100.5418166701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "01698ff13381f0e345e6db0222484bb347c637d1",
+      "name": "Centre Point Hotel Chidlom",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103075893248706665435/photos\">James Law</a>"
+          ],
+          "photo_reference": "CmRaAAAA6CIp0_YsZrY2tsrCeZSTxAPmzSAlgiLHOaGweV_mansuW8ZKWNp7iedl9vf7gkqet5FtXq05BkBdEeLXKJV15L662IAZvBF0YDeeuy-hjQPAAbbsny2dC8TeKZTH_VvIEhC82NamfsGxGe72HHrgdlHOGhSJIWpeHS_iwX4JwIsTUzX8dRdCjQ",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJxbvmmtme4jARACnSVFICemI",
+      "plus_code": {
+        "compound_code": "PGQV+H8 Bangkok, Thailand",
+        "global_code": "7P52PGQV+H8"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAetkqEY1KfcF1x3QiMgPCPL6Hl6XIetgDZWmfCbFcGySzymOpTFEbRiKcfgd3tASG-P_LqVTP99nLKMyb3m7hbn8pq8QzCH8c2uweME4VHuuf9LWlRNFzvBzle6bYsmH1EhBbspdtZ4IdQ_k8tOo37naDGhRiNiGr2uKm_Shx1OsHYqBYaGKGmw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "2 Sanam Chai Rd, แขวงพระบรมมหาราชวัง Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7465067,
+          "lng": 100.4925884
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.7478136,
+            "lng": 100.4957854
+          },
+          "southwest": {
+            "lat": 13.744938,
+            "lng": 100.4896634
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id": "22e427ae19963a6667eae64904d62c771c0b3115",
+      "name": "Wat Phra Chetuphon Vimolmangklararm Rajwaramahaviharn",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113636572599914833171/photos\">Ekkarin Chanchitlekha</a>"
+          ],
+          "photo_reference": "CmRaAAAAJIAeNkwXtCVpWJwbxCaSgHVM1Vl3AuhRJDUKHo7jv6_nXVRFW62fzGBrGmf8WASuMw_3goLkN4cuillRRvuifkBKnb_kOUEBrn-U0bbo7d12JWM5m1ohxqyEENlUU30bEhCKx3LZGEzaUncEbCBzzEyuGhRLjepZrMnpW_EpvlIN9elQy71HcA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJgcxFcQWZ4jARLsIR9Qia9H0",
+      "plus_code": {
+        "compound_code": "PFWV+J2 Bangkok, Thailand",
+        "global_code": "7P52PFWV+J2"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAVQaqfuDc8FIy3WAeLFgLOnLcxVsPifstBXiaQab0NkY2jKmll2K_ArsVcdjN4xCikkFk_As0V4d9-rB5EapSuFIrXV26tcqGyIiyaenNzYPLeFFxzKjRXYAN9f3WVwceEhBi12BvmAnZNdnb48eTeeSDGhTajK8M0K1gVklOA0bKSDjvqnvTTA",
+      "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7443885,
+          "lng": 100.540377
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74574187989272,
+            "lng": 100.5416861798927
+          },
+          "southwest": {
+            "lat": 13.74304222010728,
+            "lng": 100.5389865201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "77c39e6516bb106f4d9869e58e0ab60e314c880a",
+      "name": "Erawan Shrine",
+      "photos": [
+        {
+          "height": 932,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109219704433069586430/photos\">Willy Thuan</a>"
+          ],
+          "photo_reference": "CmRaAAAA5bL_kLIeNHPJP1TXQ8iBbKqW_tWUYBJmEvxud7C7spJyeutJ1Oja-bx_DrdGF_R-RXK3AQ-AEQWNuegt6W5n8wchyFV6VaNX830rw-mlO8-FjSOm1oCzR15BKkzvml8oEhD_sR8dWGrpAMLgpuU8HyiGGhTGcwkLOgWKeG_47vtw7O3bvAmWcA",
+          "width": 1400
+        }
+      ],
+      "place_id": "ChIJcdjtDNCe4jARVBbi7rkb-jA",
+      "plus_code": {
+        "compound_code": "PGVR+Q5 Bangkok, Thailand",
+        "global_code": "7P52PGVR+Q5"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAABc4biSchXxE0yGjfrLIWbFW1dmjod8YPNH_g550E1oCpSljsHiD32q2jc0wCcjnZCf2CpZSRcOCFWjzOUkHOIbVEe_ap0TPLFVERoAVDHVxLlX34MH8Wi7LZlJ8bvJybEhDN_wyz_j9WRViKqB7frJVeGhSCu15fEu0OX-knD57Tg-C1gaZHIw",
+      "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "2 Na Phra Lan Rd, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7516435,
+          "lng": 100.4927041
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75339522989272,
+            "lng": 100.49487385
+          },
+          "southwest": {
+            "lat": 13.75069557010728,
+            "lng": 100.48995925
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id": "694db869fdc8e2f58586a9194073c7ffb1060103",
+      "name": "Temple of the Emerald Buddha (Wat Phra Kaew)",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1770,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108435139279976449628/photos\">Saksit Nuchjirasuwan</a>"
+          ],
+          "photo_reference": "CmRaAAAAA32N8ebq4WsZx5TqawsE-ETZqLYwi7HsdqFk2TmXBUL6hoEraHehrzy_z8d5SYM9vnAsb6jJ8f7O9RVGbshPyYYyy5MopZLpp31QUepZSPM_tDcqBkWZat5IqIPkn-K6EhC5BWjjIqvmpcHhcZzl9e9SGhT00V-lEfhVd1vYuNZ1Kb1Z5o-LvQ",
+          "width": 2368
+        }
+      ],
+      "place_id": "ChIJ5Wl37g6Z4jARiP4itarBPDQ",
+      "plus_code": {
+        "compound_code": "QF2V+M3 Bangkok, Thailand",
+        "global_code": "7P52QF2V+M3"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAgmu4mNlNgoAnd_1zWI0k3a8zmJW26pEu0oleHpCiWZMp3S_DBJ8KPN-RLYYNzSQUoHxW0OxIsfUbVjTcWzFJ8JQKt2_HrgQGUgp_hKMD4TiTY65z4EIFa3FrVaT4HOnkEhCDPTdbnV1FCW6HIxk7wPIcGhTQVT70b-nHlEfedeSP53CPbdfsrw",
+      "types": [
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Na Phra That Alley, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7573948,
+          "lng": 100.4923092
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75878142989272,
+            "lng": 100.4938378298927
+          },
+          "southwest": {
+            "lat": 13.75608177010728,
+            "lng": 100.4911381701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "141f89172d5b699d2e4de45191a25ba8c1da0d48",
+      "name": "Bangkok National Museum",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110736648846523814280/photos\">จ้าวพระยา บ้านนอก</a>"
+          ],
+          "photo_reference": "CmRaAAAADdWDbxfjlgCPMMZt-mBwl51umOGqt-K2oB4shFW8eB0NEEZZuKixOgv30E8Mry0eYjt0qjH1l14qL2UpFTdRL5FShXRV5J4hSWDONJNSTtM2Hnc_ojcaq3ikEG2ZrgghEhDfSH3cvpzHFHEp2b6RJ8bdGhQLYNkhMvToLm4kkqOO-c5H5P6pww",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJTU_r5gyZ4jARFs-4Me1GSHY",
+      "plus_code": {
+        "compound_code": "QF4R+XW Bangkok, Thailand",
+        "global_code": "7P52QF4R+XW"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA5-ae9LIDYK8Jh4xyd1_wdq4b5lqhGTmG97FUJwPfLg8Er6HMPfCRe-QrafdKs_qLg5r7Ls-Skv_dxOSvInQVdeIwkJYTJcGwpe1VxcqOJRZADQKXKcsHF_HvD5TE0M-cEhBogkW0LtY5lMwM0XoJx9V4GhTFgQhOEEessKPtawN3zsAYDX0eFQ",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "อาคาร สิน ธร 130-132, Witthayu Rd, Lumphini, Pathum Wan, Bangkok 10330, Thailand 2 Wireless Rd, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.73581,
+          "lng": 100.5455761
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73715982989272,
+            "lng": 100.5469259298927
+          },
+          "southwest": {
+            "lat": 13.73446017010728,
+            "lng": 100.5442262701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id": "807f1e207648e9185c22667ea2c40b725cefd734",
+      "name": "บริษัท เอ็นซีอาร์ (ประเทศไทย) จำกัด",
+      "place_id": "ChIJ-R8pxNie4jARbeX7l3CE__I",
+      "plus_code": {
+        "compound_code": "PGPW+86 Bangkok, Thailand",
+        "global_code": "7P52PGPW+86"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAeMFT07Nj0Y5Y7MI02-KnjyqOpoWvkGDtlMCBBqv7DNWJIs8u-jIIPLBZWb9pgmHkT_c_gQIllypryFpvMRTL-eMG9fnslO9IaqD8ql981Sjp47zXzlvDO125KLU2F8NQEhAjtdzRHugKbmo44x8PXW1fGhTRAV4ehm6sEO6Z0nxzwgdlITCeqQ",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "71 ถนน พระรามที่ 5 Khwaeng Dusit, Khet Dusit, Krung Thep Maha Nakhon 10300, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7702204,
+          "lng": 100.5163477
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.77138557989272,
+            "lng": 100.5180555298927
+          },
+          "southwest": {
+            "lat": 13.76868592010728,
+            "lng": 100.5153558701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "1e6a0e5a39da1b0029726a51daa9f31a8de945fe",
+      "name": "Dusit Zoo",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 802,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105502968947029006542/photos\">Anusorn P.</a>"
+          ],
+          "photo_reference": "CmRaAAAAvmXK3KUGPjrOlp9_sPDg_ZiBa9SDrrFgjdLOnk2tv-DakTiKjI0vBiJUh1Jc3n6RyTlha2BP7ESR9HIUONWAHv7Omc6POva0cyTlRctbirU_OCXvgel4oa4krGzo31pgEhAmaHpcfSVPGC0nV4f7BUenGhQ1_Sw6FBPbNn3HfwguEklSIAdx5A",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJG9bRt1qZ4jAREbS4diRB19Q",
+      "plus_code": {
+        "compound_code": "QGC8+3G Bangkok, Thailand",
+        "global_code": "7P52QGC8+3G"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA63vJCIy-WLJUKVEtPA74rBJrKet7sk0jspUEm5LINQ8gdULwi--Rq7lxXPiuu5-tJrDu3gk1SZFFTGog2gP6EI2zkl0aUoW6BBZ3p12h2fT7fLx_FBaIns6Xsot2rVaYEhDEaZM22TpCDleyYvU-z597GhQg_nY-4bBHwNHv3bCg7sHTVk-GDg",
+      "types": [
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Unit 227 PhayaThai Rd Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7325564,
+          "lng": 100.5313135
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73390622989272,
+            "lng": 100.5326633298927
+          },
+          "southwest": {
+            "lat": 13.73120657010728,
+            "lng": 100.5299636701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b40092c8e3486f51670b2476c52218960359584d",
+      "name": "Bangkok Food Tours",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102530968863547653183/photos\">leon j</a>"
+          ],
+          "photo_reference": "CmRaAAAAjUzkU6QaV4gsQT4jg9pPAmywDT2GTbrwhkqkooKAEqTcxfrb7FbZXhqvCSWoZWVqu6vAnCJpw4DVKNwY3QraDQZLbQtFLdt88ReGUNr9h0siGJSgt8yHGwR8pwW6dzLBEhD2jRQJnOGcCK-niA83QZ5EGhTNcyg06ljxwxZTDRmYhZR3u64DMQ",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJmSZII8SY4jARri-gCgtDbfo",
+      "plus_code": {
+        "compound_code": "PGMJ+2G Bangkok, Thailand",
+        "global_code": "7P52PGMJ+2G"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAvMaVe5qmFmxkw4kaNiPMwlhESE1qrIwSiM2NKSmv74a2dPLqzts84LFynRgDcgwxTjCQnc7DWXn-BXVsIxFr8bcsN4dBweK0AjLzgmXMvtagP8lZVa_YozzqyFfeSg2iEhAXA3L8PMBsaF_0MiEqGgdcGhTCWXBGcs-BBkQbsPlqjrZoicDcLA",
+      "types": [
+        "travel_agency",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "567 Ratchaprarop Rd, Khwaeng Makkasan, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.751596,
+          "lng": 100.541828
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75295487989272,
+            "lng": 100.5429424798927
+          },
+          "southwest": {
+            "lat": 13.75025522010728,
+            "lng": 100.5402428201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "6fa72e1f0a3394aaf5b458d6b5cb9e79e2443466",
+      "name": "Centara Watergate Pavillion Hotel Bangkok",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1745,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106061479862796412240/photos\">Centara Watergate Pavillion Hotel Bangkok</a>"
+          ],
+          "photo_reference": "CmRaAAAAOEXQ5i4SGSeXcr3xXCWULUNDsW84AoIP4_a2lLr9VpPfVyVJsS7H1N0ZhiKwfqS2_cYMGtPfxLp30-czMZVzLZ2angwi9QAa-_OyFJWoHkSoW9n5E2NrahfiXAffahYREhDMJHyz4gCzBJTFkgO1P1YXGhRZuBqfjNb1ujaFNcmb7t0LVgsoqA",
+          "width": 2618
+        }
+      ],
+      "place_id": "ChIJP83yBsae4jARWiFRw2oJrJo",
+      "plus_code": {
+        "compound_code": "QG2R+JP Bangkok, Thailand",
+        "global_code": "7P52QG2R+JP"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAAdukc5_-ImQ-cohlRWo3FGF5zlZl2Idx6wwDWpbnGqQD32HIJOq7CroD2FiQdwd_58itZLvt03vfWtKgpraKXqlbPt2bJ8SfuQNI6X0zhhyk9Ezrz1YHaJgm8jU9OD2MEhAhUwltH8Hn65jsi5OgRYlnGhRso9_hrIMg0gN87Z83uSuHRb6sXA",
+      "types": [
+        "spa",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "36/91 Soi Sukhumvit 21, P.S. Tower 27th Floor, Sukhumvit Road, Klongtoey-Nua, Khet Wattana, Bangkok, 10110, 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.741386,
+          "lng": 100.562378
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74273582989272,
+            "lng": 100.5637278298927
+          },
+          "southwest": {
+            "lat": 13.74003617010728,
+            "lng": 100.5610281701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "9558524d19666798296cd524631ce3a906dd08b2",
+      "name": "Meeting Point Asia Co.,Ltd.",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114744040575823389024/photos\">Crabmans Bangkok</a>"
+          ],
+          "photo_reference": "CmRaAAAADlUFyu5Y7Hl26CchzIOJSFg2muDCcYKVIQF9c9oaxl0_u1oTbL89sySrlkXqfPcifPAdRPr55EqRiSn4aSBEve-cF5W3BdYeOkAYV0IovWQ5KFq6KiqHdR6p64ewKIRdEhAcn-a9AOb4UGeYojYdvlW6GhR0savUyQcryfMy_WQz2ZCwnw5mgw",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJHU2R2-Se4jARyesdmAopZWw",
+      "plus_code": {
+        "compound_code": "PHR6+HX Bangkok, Thailand",
+        "global_code": "7P52PHR6+HX"
+      },
+      "rating": 2.5,
+      "reference": "CmRbAAAAV_XBH2EDyxELi49_4qApytY2w28oytF0991xqKngk8TZZFTIQVHjnvIikxzfL2VRcQ1VhR5f1nvWrQZSUdUCXMK1XZ1by7onnYczxnnZuo2KuZ6SoQor0u50ilT1zrUNEhB06LuomazHEaBQaC7tOgPhGhReMqhcNThXY7SPVJWO2VZFYj2GXQ",
+      "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "2 Soi Sukhumvit 19, Khwaeng Khlong Toei Nuea, Khet Thawi Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.737174,
+          "lng": 100.56053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73883757989272,
+            "lng": 100.5615297798927
+          },
+          "southwest": {
+            "lat": 13.73613792010728,
+            "lng": 100.5588301201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "75719f7077de6d7b5e4827ec5ede636218b9a225",
+      "name": "Grande Centre Point Terminal 21",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116528131140492985900/photos\">Grande Centre Point Terminal 21</a>"
+          ],
+          "photo_reference": "CmRaAAAA9fB9qHRzuU55W2U0kUEo8rCur4teYqPGbSXEwzQSKBd-Cws1SbLYT-PbMWYqnNrsyfyoFohUGWZ0WVk1ilnUgPqLHo_RS9TZSa_TpFZtHLuYNNAvPXybN24hf-8X3FPJEhCEXq9roarhTXop6T-zfbudGhQxsiCBcBuLPXhS_xL3oEkc-HfOVg",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJpR0RSsSY4jARHHwN3-qBOdk",
+      "plus_code": {
+        "compound_code": "PHP6+V6 Bangkok, Thailand",
+        "global_code": "7P52PHP6+V6"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAjjLzMTmyz5kS-uF0Z6lQ_IGZThSfb1vZ9aILRoRQb1nWA7yOWAGxFIJXU-J7AMqNJWW_fpSgYp_1z5icK-IB3GA8obFDxY_rWxKXct79AQrVZyR7Or-omVLW7ywFsEugEhAOJRm7dnuY8a3S8oCMMJ5ZGhRDM24-SRhgxYRTgWxucD4wM1rrKw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

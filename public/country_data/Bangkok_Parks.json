@@ -1,0 +1,947 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCAgEAAOEeVqoC8_JasXUJpyeo-m508Niv5LiX_Mm4ufO3R0lGlUPPZhsLnstyTSOsTRhI9Y9C9kGI8u7DtzUhj32wYTd5SrKO4V5BxdImwFFGVR3GI8IdubU5p5OybRCe_vfpLiwokMv9451jAVG6ksnOqbKdBjxYJS0IQzGlDgXV-OtqvY5eYNSwmrXjOtinxA3H3xlwSuEcFdtd-EW_Fo9cO-xYG98F-FxLJHUcoc6kwtcLgzuE5ZJ_6wlvRabTrFBygbBfR8RayjC4pPtcQzCC835skHVc2Bc1vH-r-qmaM6_2YVKmftDT1zaVRT2u9OPDSBXx6eQ_4gWq_GHCC1FUIo8zgvTl_OkO8LBEwHJkx_kVEhDygiNfBDWOJgcjzbenD-PAGhTOoV6LAtALMkB5yQVzF3MVZKv4Pw",
+  "results": [
+    {
+      "formatted_address": "สุขุมวิท22-24 Khwaeng Khlong Tan, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7305133,
+          "lng": 100.5674383
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73319525,
+            "lng": 100.56945875
+          },
+          "southwest": {
+            "lat": 13.72831505,
+            "lng": 100.56579615
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "58a0a2de6f61eb34c60f815efff728ae1cd6ece0",
+      "name": "Benchasiri Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109940484212686103557/photos\">Jerry Lu</a>"
+          ],
+          "photo_reference": "CmRaAAAAzD9Ib4iYyuxUnTYxkAkoKeuai5k_CJbMSb1uvhD2FIfMRGyx2OX_qJ8C0dwbIMfxd2VaWsDj9VuyvENlSBtbonRUQdD9z-xK5WG7HNo0qd9fBmrkPc3ZgAJW3bpPQ6vOEhBxc8K8Q9tc1m3DBWlRj2KzGhSzWv_joFtUtr70PgutXGyFjcZZsg",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJt9HTSwKf4jARsDoLPbMAAQ8",
+      "plus_code": {
+        "compound_code": "PHJ8+6X Bangkok, Thailand",
+        "global_code": "7P52PHJ8+6X"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA5DNTb-gDO9z5u2MCKpePpyFJOYk4DsAXQEgm5Z1jGP9O_qLSeh5aopuiFh2B7lPHvWoM_eoseBGbGvvHf9OWL-4TcE-T-wtXl4YnIHor7i1IW7H1rOsgtrkfblz2q2YKEhByu8nzLy8z_twBRT7oUKr9GhRR7ttruO0jfwUwh-Foz0GkGawuuQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Ratchadaphisek Rd, คลองเตย Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7259376,
+          "lng": 100.5587785
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73678225,
+            "lng": 100.56110635
+          },
+          "southwest": {
+            "lat": 13.72179365,
+            "lng": 100.55800255
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "e580f4edd743aeedf12bc687e76d5c5559d3be58",
+      "name": "Benchakiti Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103382591075733584314/photos\">suiren chun</a>"
+          ],
+          "photo_reference": "CmRaAAAAcLnY8DUbouggnktFoqbk1K24OcFBlLkM21Smc-l5pqWbHbHlGaB5MddBnfPyOcKb9qp8td2rcQf-ZZokeWfzovOkNbvOnm0fGI-8hx50BA_OmjhAXJZYv0Dk-D7u-5HmEhBtaiEJQqOG18rj1kBt7w3PGhTUIOzsTWkYnofzWgLuDSUj6ID7Gw",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJmfMfvBuf4jAR9rugvZd5Lyc",
+      "plus_code": {
+        "compound_code": "PHG5+9G Bangkok, Thailand",
+        "global_code": "7P52PHG5+9G"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA9nn5mAn9cnV3qPHKBgVZXoWcejkEJXiDgKM-Ie-qsXkZHUqzpu29ia0S9zjDZPqBQr00tlm3SYC_1Sz3fbaNm3Gy57a9yM0TfGZ3u3RwQCnUBlS-rK8SZl207mwvGsrdEhCkcrQuc1XPOmOcGMpcJzuCGhTLte-D5NSKE-X7DFu1sRGsV-NLeg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "192 Thanon Witthayu, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7314058,
+          "lng": 100.5414396
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73805425,
+            "lng": 100.5499274
+          },
+          "southwest": {
+            "lat": 13.72294925,
+            "lng": 100.532947
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "0536d77622654aa16a4a23fc93f10a2f50b6148e",
+      "name": "Lumphini Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113161563834807159116/photos\">Anna Iatskiv</a>"
+          ],
+          "photo_reference": "CmRaAAAA4Vbem_4yGLbJFo9w4_n6mbB6ZPZO505d3TNIo05aeIgNtU76gPauGMs3EwcVQCOfaJbBokK8a1okNQkTHg_oSvtX-Xj4Jb0cLhXvaSyYaPNPVm38gr9vLFeO5fmaDZJWEhDkfoucKc9b8PbMQ0cyzlOaGhSHyeFmVeBL1zcziYcSNKR1xNdopg",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJG7BL7Saf4jARNmn5AQiyAaw",
+      "plus_code": {
+        "compound_code": "PGJR+HH Bangkok, Thailand",
+        "global_code": "7P52PGJR+HH"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAv7IT-vvhX90KEE1E0MkeEkBNPlaeJJO1iJKI11-pLrd48V5V3GEn8FxDF1DWY0YT2gfHCueeKu2sEqvhBzqJLsAx9UxFSp7M4n8h-Y6FyZdJBouDEoY_scA8RtNPnCEJEhD7XPceZePSIruxMC2DJTFMGhRgkB0gyQw15rlBZH9Jl5zsecbHgA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "649- 665 Maha Chai Rd, Samran Rat, Phra Nakhon, Bangkok 10200, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7488815,
+          "lng": 100.5026025
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75010327989272,
+            "lng": 100.5044680798927
+          },
+          "southwest": {
+            "lat": 13.74740362010728,
+            "lng": 100.5017684201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "e2d322b4913c4ef133b162b2ac9cc91cc4ccd80b",
+      "name": "Romaneenart Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112407919959278921592/photos\">Christopher Snyder</a>"
+          ],
+          "photo_reference": "CmRaAAAAA5jWScy-gZNatXDdo90bEs49Sy2C-cCygbgoj_zTkx9qf6xIxdS3XmgAV4tyekNwfN5T9CkwEmZ8PknIFEyC-ivIqoLvMbwZ8hcn68XRQknC6DccheICYZtd8acri8JTEhDlMmV-srzZIuMo5jhEOBcHGhRP5Mbd92ywNeNPuefrDude3rVYGg",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJH0VOPheZ4jARqJGe0Cs1YFI",
+      "plus_code": {
+        "compound_code": "PGX3+H2 Bangkok, Thailand",
+        "global_code": "7P52PGX3+H2"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA1hgjqKEE3hKs3LPPJjy1iqiSz3a4RJGbkNnrO0cSSv9THVGwcCRaMYQnt-edMGVH6UvcaSw_JjpjHqeJmMx-0wQVa2BlNNcMGiCSPwXyY3dsSbt_xkbcXVZSq4y-qCBJEhAgJnNzUa6k2GWD0AN9wJHrGhSieSColTRI7EP7Lpy-fGR1mXmU4g",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Lat Yao, Chatuchak, Bangkok 10900, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.8095707,
+          "lng": 100.55491
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.81092052989272,
+            "lng": 100.5562598298927
+          },
+          "southwest": {
+            "lat": 13.80822087010728,
+            "lng": 100.5535601701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "72197625b079fa9278fcbc0f4b10781c20ce250b",
+      "name": "Bangkok Butterfly Garden and Insectarium",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116505913085257394815/photos\">เดชา ใจดี</a>"
+          ],
+          "photo_reference": "CmRaAAAABFdRCJ8cNPHJqcyDTKRhYDkEsJus1gEonPo49-ZlLR4umZK56Onq2veQU4jM5Jh720uipOq0qXCqv8P7is-4H_mLS5v0SIvq5drY8Ovz1_01I7f9BQyGo7g3A11VGEppEhCDcYmdq_lYjl0I09qXXe9GGhR_pQzR6KAlIWCS50T1iVhrnEHvCA",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJN1kUQ1yc4jARjpGEPYyF0S0",
+      "plus_code": {
+        "compound_code": "RH53+RX Bangkok, Thailand",
+        "global_code": "7P52RH53+RX"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAwL9ADIMKivz4pZ2_pzJQo-eRq6GdTYT4rLbcpO-T6XCXuNU3vOL6L--uGciPPSqUICiPZvmu7CQ_hH2ftZb-RdmdeCnMq8IAh7bvchX0p0kSWQINhYJ49SlEnWlLVcp6EhAQb1NhKoxownkYxLYF78jJGhTnS0RAKpnQhVjZa78i5GC389mWdA",
+      "types": [
+        "park",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Chatuchak, Bangkok 10900, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.8075119,
+          "lng": 100.5505577
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.81129985,
+            "lng": 100.5584253
+          },
+          "southwest": {
+            "lat": 13.80014965,
+            "lng": 100.5448285
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "fba28787436b8cf429a063811c49ff4ae2b39383",
+      "name": "Queen Sirikit Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111505712770331303110/photos\">Oat Thanupong</a>"
+          ],
+          "photo_reference": "CmRaAAAAl_H0R2YGl3Xcvoc7pi4wy5gXkFokXL5vaEPC37kIGbE6HFn6c9A_IoaLCt5f481PHxFSS2HPVx6pn26TzF-Qj1iHs0dzSto2vKrWHDo1Fnp0pRVx0vjVUQ_oI0Rw0RODEhCtq6VkOosRa312aRpw4ephGhTX5aUUlesvfH6KcnZvB8tYfEhuUg",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJiYe3uWuc4jARYAJGPbMAAR0",
+      "plus_code": {
+        "compound_code": "RH52+26 Bangkok, Thailand",
+        "global_code": "7P52RH52+26"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA3i9VfnsZhnP9lSyXKYJ5xwJQ-jVUNdjZ4hOxc2NQfVebWtoGkilXcF1xifq6a9yJlrk6d7AG7EnBGuNeQ_ZETnCKzDQVttw4PjCOS6n8_eDG4OWNISQyMziEUg-LE8SfEhDZ_7UChPIT3NdRtF-RhjVKGhQOnwT8kmzQK09cGOAbM4lWp5_LRA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Between the intersection of New Road and Rajini Road, Pra Nakhon District Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7481435,
+          "lng": 100.4950017
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75024765,
+            "lng": 100.49715135
+          },
+          "southwest": {
+            "lat": 13.74636465,
+            "lng": 100.49303715
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "7da068ea90e59115b9feacbdf0ad32692daa10e4",
+      "name": "Saranrom Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110369956250783837780/photos\">Alberto Fernandez</a>"
+          ],
+          "photo_reference": "CmRaAAAAwlZfQ7p1LcrPGI4G-YYi4w68_w1D_jucL-2LQAFjhsF1egfWAEn2l37ZzezQHZAtu3b3oraVS9TsgQ63dcmglYJ2KQWwmWY09rxzJ3GUJjgNHo_wye8SVG8gW3LRndVSEhC93G-lPVTg4UuSLKU-TbQdGhTtks9enLBsdzUpGSiBkpWPWXAWkg",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ29xTHBCZ4jARW6fp8aK8I-Q",
+      "plus_code": {
+        "compound_code": "PFXW+72 Bangkok, Thailand",
+        "global_code": "7P52PFXW+72"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAArKnsofsGeebOZDO4eFxW2oq2jpSRclDK7TQRgR9uV1qNclwSHG0ua_JY05q_iL2S3fx2g_T9JheB8zpm0WS_uP57tRYpqbfSz6Ex69PI-xa56nKD2DQJ7sjvpSMaM4DxEhBprdiYVfiRseN9I0g0AHw8GhTtp1ssmB-dRzx5HyPzWr33cy4ANQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Soi Ratchawithi 3 (Chai Samoraphum), Khwaeng Thanon Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.761547,
+          "lng": 100.5406864
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.7650145,
+            "lng": 100.5430187
+          },
+          "southwest": {
+            "lat": 13.7583237,
+            "lng": 100.5387123
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "8364f7923c33f82ae29cb38c227666b1ba7074a0",
+      "name": "Santiphap Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111667773402201567871/photos\">Ирина Боронникова</a>"
+          ],
+          "photo_reference": "CmRaAAAA-f7W185f0_wAV119CK3MZQyKjNynI7FP_jKoqND5Rre2QKePyPZvP8jMo2jHVvr1okom41PatPjchJQ2Lt0jBKDWZ-UOcbo5Xkoej4FBbWllKrQaPoGhkbhS4-UsVjdgEhC6hZcMmM1PURTlwQaLb-nTGhSamVHZ9pv3YLEtQHx_LDGenpkZvQ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ144wX7ee4jARIDsLPbMAAQ8",
+      "plus_code": {
+        "compound_code": "QG6R+J7 Bangkok, Thailand",
+        "global_code": "7P52QG6R+J7"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAHn0rtc9-alafbKN3aNXx8tiNNq-RCMH399AaxYQQz0xxAhK6XJu3JNAYkexv0JYzFClkZLQaK9xD9h3lsZhYzIpguOFAd9n_Iln8uoWpRLNFi9QcMMxGXhELT2b8goO4EhC1oBNNevNMHSKSTohlA_cDGhSHtK2W5BCBjkQH3q7L8FmJ1pzTNA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "3 Soi Somdet Chao Phraya 17, Khlong San, Khet Khlong San, Krung Thep Maha Nakhon 10600, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7366348,
+          "lng": 100.4994605
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.73811617989272,
+            "lng": 100.5009857298927
+          },
+          "southwest": {
+            "lat": 13.73541652010728,
+            "lng": 100.4982860701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "350a871d485525f76d54cf89c38bc0b844eda9d3",
+      "name": "Princess Mother Memorial Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101105484284238693223/photos\">แสงเดือน ศรีพรประกาย</a>"
+          ],
+          "photo_reference": "CmRaAAAAK9-kS-ZZqpT_TgUBKlHsVGp7j8k7dafPPXp-_15UdHaeXbpcKcQglz6upMeYVlEB7FYuY9KfpXhDFkMxSTMHLYZ7cT7CeFjNw7oTA744R8uEe907QlKSRBbqrbyCj5TrEhDo4-S3UjKFsu_bpqjeqGQIGhRT6jp46XHKIeNV98IRkXdeQf6QAg",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJF1sbjx2Z4jARYDkLPbMAAQ8",
+      "plus_code": {
+        "compound_code": "PFPX+MQ Bangkok, Thailand",
+        "global_code": "7P52PFPX+MQ"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAL-OKAK4sXeSqHL-XjIphCy2mjJmbmTdVS90vCBKnfVp_r4XpxqRL5plzRHHfnF7H42lleiRLY21gVLY0HYFP7JWvrw4lHWrtX5yU1wIvbuopYrRPfm8EIrn9w_-6oCmcEhBKmumQFhHcWAa8yeJUuqtEGhRZ1s3nA55N6lC2ixDooGWyYK_kmw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vibhavadi Rangsit Rd, Chom Phon, 10900 Chatuchak Krung Thep Maha Nakhon 10900, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.808235,
+          "lng": 100.5559269
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8204957,
+            "lng": 100.56085345
+          },
+          "southwest": {
+            "lat": 13.7959397,
+            "lng": 100.54983085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "58f4c18da634eb97f46908f45d548f9bfca861f8",
+      "name": "Chatuchak Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101251894925869385034/photos\">หนึ่งสกุล ศิริษาห์</a>"
+          ],
+          "photo_reference": "CmRaAAAAu73HJ8uTxx2omqCKwUUNAn9JkvVNn7FGffpVl0V9Zjdai_j4ohypHNJlVP6m4tmjWRedNy_xmrko5uF0DtvtK5QXiceW2z716GBhYQWq4nTZf-JeC5alZpdcjgZKsrsJEhAtfY6_HZzHXBpRQn1mpc1IGhSx6ANSmiFlcYOpWm10vcyb2Z5Qtg",
+          "width": 2992
+        }
+      ],
+      "place_id": "ChIJnZuu10Oc4jAR0DkLPbMAAQ8",
+      "plus_code": {
+        "compound_code": "RH54+79 Bangkok, Thailand",
+        "global_code": "7P52RH54+79"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAxq1Xv6stlVOGkHlK5J5bhwh7cmPSNt59Rdj89M2sdS0v-pQkwAT-FVP5YbqSOGMdLBF6xEfflRrrAE1vGk2pgCQYt9ueyfGJkVC9O3IasGOU5daQU7fSsLamzcOIQn3lEhDWlIq-Q_TFDRTmz4K6zW2YGhQBcnfmfbiqW90hAyhjqW-yc48-aw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Suan Luang, Prawet, Bangkok 10250, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.6875339,
+          "lng": 100.6632941
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.6965318,
+            "lng": 100.6755266
+          },
+          "southwest": {
+            "lat": 13.6745058,
+            "lng": 100.6521222
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "567280267fb4c622e65ae69ad6c1bafcb26aeed4",
+      "name": "King Rama IX Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114049533268733317284/photos\">Napas Ngowabunpat</a>"
+          ],
+          "photo_reference": "CmRaAAAA9Tj8fRXklyJsT6LwYA-uPYX4GzuhPoHLQbmG8PqrI_evDfwHEfMtYy4hiCuU0dTMH5G12VHuAY2dXaLPz2oLDnebmy5usEhNEQU-s54g6izY-mFV_cx0GkRPclqgI2QrEhDsmZMG67gztKrsy-Im_NO1GhQgoDSE-ZM82NOY_wseGdDLxcv5LQ",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJu1mpMZRgHTERRNTicTdIHxg",
+      "plus_code": {
+        "compound_code": "MMQ7+28 Bangkok, Thailand",
+        "global_code": "7P52MMQ7+28"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAURxpt3CL3Ksts1uiKntW68m7siHA3GSly-aPIVjwL5uL2mUp0GT0soOVGrG60Svb_ntTH7jO62vGrFSjPfBZMjYieIuGUDu47yv0SPbKgOil5LyzbkhBopVtYE0a6mtrEhAlQaV4km6Hkt6gCOCDiELcGhTQGfqud7xEGY5D0hC6ViyHJzvphw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "ใต้ทางด่วนรามอินทรา Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.8518598,
+          "lng": 100.6415831
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.85320962989272,
+            "lng": 100.6429329298927
+          },
+          "southwest": {
+            "lat": 13.85050997010728,
+            "lng": 100.6402332701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "38f77649413ba9e7f7bbd0f4aa706029fb1f1a50",
+      "name": "BMA Dog Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117802642439082971673/photos\">Rob Lacey</a>"
+          ],
+          "photo_reference": "CmRaAAAAhzCW8tsuVwrpELDBKfUxRj3vm_nI7-zIHclvyGub7Y-xsOTRqetDAcKrisvsUwTjxte7vKIKwx5T4J7J3mnIEwjX2Na1mho1cxXi5KdccZasespvPUxgy1xejqLcqXu1EhBA-wDWbJ-OWSPJ_GYXL2_iGhR6Rumow5JDhE9jV9ecISNqOGJ6WQ",
+          "width": 3984
+        }
+      ],
+      "place_id": "ChIJGbhemrhiHTERqcYDiyvXKes",
+      "plus_code": {
+        "compound_code": "VJ2R+PJ Bangkok, Thailand",
+        "global_code": "7P52VJ2R+PJ"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAiSxUHfRJARzYm7IUDW6ovXK9iKA5lplyJJh326TeOQW7o0sbuOg1YozykF8_7VNRo2Y4oghqJleDLtzEAS8y5_yWPSU4TSw2K5VRUv7cjWmR0PVQ2nbSMz-E52ZkwxOBEhA6dq7QuWx8jyNMkqysDaTaGhTzlpQwDbQ94oWfNyUpUOuBT6agrw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "ถนน เพชรบุรีตัดใหม่ แขวง บางกะปิ เขต ห้วยขวาง กรุงเทพมหานคร 10310, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7424661,
+          "lng": 100.5906198
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74421607989272,
+            "lng": 100.5921802798927
+          },
+          "southwest": {
+            "lat": 13.74151642010728,
+            "lng": 100.5894806201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "824526a2eff6eb05981ecbe51482b1e1547a862b",
+      "name": "Somdet Saranrat Maneerom Public Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117695817899343966473/photos\">Songkrant Muneenaem</a>"
+          ],
+          "photo_reference": "CmRaAAAANtpEnlC4syalKi7xVMWqLh7rnr1ockKnu19VEb_T6XwfNKjuZHXXy482b3HhE08CG2PGVlY-2kFK3NeIJF-hZYzT6FfEK5FHa8sg5LyL1DT_NLEmDPyBaWnYBCfOX8imEhBRIyUxQhlzj0F1Puuwx737GhQRh7j5G59A3sqw61beAqjo9nZFrw",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJSXK_Wk-e4jARTw0I5Dk0jOw",
+      "plus_code": {
+        "compound_code": "PHRR+X6 Bangkok, Thailand",
+        "global_code": "7P52PHRR+X6"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAdr18F0V_DgKfDX6xKtrfL_IpvIoCbGF2nYUZTZMN92KUiH43R2MeiyScSeWuFgt22mSSa4PCPVPLIddO5L_nKJr9TXCf4sjjBvxdeB3uBSA0hdGjLOUOCSr9RrGV5uGjEhBfmRvdyUwEwLRk0jAGeePqGhSfE_ESDzuMbExCSEDOElEp3VN8sA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Chana Songkhram, Phra Nakhon, Bangkok 10200, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7640651,
+          "lng": 100.4952614
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.76541492989272,
+            "lng": 100.4966112298927
+          },
+          "southwest": {
+            "lat": 13.76271527010728,
+            "lng": 100.4939115701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "6bbb8abecbca5afb7247d8118f1784c59937b486",
+      "name": "Santi Chai Prakan Public Park Suan Santichai Prakan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103713241147085326602/photos\">Takkawat Sukarawichak</a>"
+          ],
+          "photo_reference": "CmRaAAAAq2lBa1xcrETW49yUm9KZ6iN26_WbZqrikn6Kwx5F_nqgNgVnFNurFDIvy7FMPSv7WBioDO2htWeGcrUC7s-SCdvaeYzRCM6KeEG4O4mbpidMjJ-cpWboN4-Z69y0J1e2EhDof4FYeCxaz3ItKkummimdGhRKP4b2yUuDfHJ1eH8yyOSzVaqXrA",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJ_0J6BXKZ4jAREKhaPbMAAR0",
+      "plus_code": {
+        "compound_code": "QF7W+J4 Bangkok, Thailand",
+        "global_code": "7P52QF7W+J4"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAo3qudeHjP5pnsxy-vjNxCbycm4haCzYh8jfR-yhPyXPxP_u1erghtVkUE_YvzP7dzc55Y5GddmT3xTcljRd3pJECIkNr0_2EH9KSm84JaHQfrHME8EAyuJ1Kd8HyDP2OEhC5JOuSjid4G9nKkskiWLUdGhQf6Bp0kdm4eAwL3-qt6-_voZgHNQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "33/153 Chok Chai 4 Soi 52/1, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.8148485,
+          "lng": 100.5968705
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.81619832989272,
+            "lng": 100.5982203298927
+          },
+          "southwest": {
+            "lat": 13.81349867010728,
+            "lng": 100.5955206701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "948ef007932930a50bfe5e4a6dc4d6d495361daf",
+      "name": "Dog Fun Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100420807989800287350/photos\">Wanida S</a>"
+          ],
+          "photo_reference": "CmRZAAAA0kc-35TN4OAJFMjjHYB7Sy5qSLw4cjFfrAYUE3EPc-KJAQF9kNE3XYLkEimtMC_4K5Xq-VwRVc_2SJCndSx6MIJ3-PL8jBGW1P_jrBNjyV5I6Omo1_o0A7S0T6atLCnPEhB9uO25PMzqeHuRXuvumw3SGhTvrZOgv9-Je8rp7utLQ4QwtAD7qA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ5cnKfqKd4jARo1vWxZl-ag4",
+      "plus_code": {
+        "compound_code": "RH7W+WP Bangkok, Thailand",
+        "global_code": "7P52RH7W+WP"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAyu_a03DziGrVp-YQzfZqCxMlObvG7ML-CifTnSGDlp4zG3iMjnA8dsYdJZ3BrenpWZ2CAD0l8b69rRjmlHMauR-4z0RoREOBU5qeJkhoCNJwUc_yw9wmFN2mRRSv5gErEhAPS_z3ZmfZZFIRi0TKJRH6GhQhXkGJu8sgzWugC50RqNw6lExpFg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Thailand, Thanon Phetchaburi, Ratchathewi, Bangkok, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.750147,
+          "lng": 100.5316916
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75149682989272,
+            "lng": 100.5330414298927
+          },
+          "southwest": {
+            "lat": 13.74879717010728,
+            "lng": 100.5303417701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "cea6d91be3545bf85bbe205a2d97b44ed3f34cb5",
+      "name": "Chalermla Park (Graffiti Park)",
+      "photos": [
+        {
+          "height": 2232,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105792532679045241883/photos\">ANDRE MAZELIN</a>"
+          ],
+          "photo_reference": "CmRaAAAANiWyLj-TjGLQWCxAchePGIXM7oi-HZpxafRQn-Q4GskfeRvZ10TXng5P7cplTum8Sz7Yc7xOJg7vQ-2leZavyfSvYmWONoDJR64hRZdrcA4gSM59Twk2SB8gKBGg0tvfEhAYDBWjGMcfhAZFkHl1n4HaGhS5CwZ75NhblXhyA9I-4Z3FkC9eAw",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJE5F47cye4jARmnqGlcPLhXI",
+      "plus_code": {
+        "compound_code": "QG2J+3M Bangkok, Thailand",
+        "global_code": "7P52QG2J+3M"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA-fBWmtADFsCV7CnrKuuE-W8izGFBADaH3in5uR5ZILQ4oM07ZrRpfrhcYGv0NVBbXAIyoDYTaCxyrQ2EQiG7R6Uxctl7Xfb36GXrezp69XvN1zLviu2Ps_I7j05VKLU_EhBvGNkoOnJXq3N7VLa5TNCEGhTxjrgOaRMuME-07Zk2lYNv88XwAw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Chatuchak, Bangkok 10900, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.8128693,
+          "lng": 100.5545288
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8191154,
+            "lng": 100.5586857
+          },
+          "southwest": {
+            "lat": 13.808795,
+            "lng": 100.5504853
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "91d4f58462163cf669dd3537e7dae6aeb37679e6",
+      "name": "Wachirabenchatat Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108975904225182345695/photos\">wittaya nawachinkul</a>"
+          ],
+          "photo_reference": "CmRaAAAA5hi-Ck3-VEsnLt6hyAqAnkPluu24UOHIkLAPThiQG0Mq7VfaXdv3Hd_ZIWZeDJzyuQVIfBrg-wViY3YVMv-5DjSUHMLz-_0344ZpaRMm7Jy-yC5uMdnJF6qv-C7A5rYvEhDhsR3iq4dgej7J95ob_BnSGhQCwz8VosjUkWp1ihzzB7913lKwQA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJTw-JsUKc4jAREpXc3JmuyAE",
+      "plus_code": {
+        "compound_code": "RH73+4R Bangkok, Thailand",
+        "global_code": "7P52RH73+4R"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA2ecUYBG0dCHIORxzC8vblG5Bdj98zFIl-386xUF9LR6jcWmmxem6vb_rjYs5XcJOr1Zwz_W1IvhzMuuibhHbR9lWeQWRyngZszyMyHLCS-0UP3hnj_S1inMU68ELKDBjEhC5Ba8FJsBDPSR2kBeI8i5XGhQ7MtHfWJ5qBNPcg3f46xzNKt6lbw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Ratchadamnoen Avenue, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7547441,
+          "lng": 100.492854
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75646567989272,
+            "lng": 100.49521775
+          },
+          "southwest": {
+            "lat": 13.75376602010728,
+            "lng": 100.49107475
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "c0e43ca5099f541bf07584afac8ff336ce914878",
+      "name": "Sanam Luang",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106615673916691436710/photos\">Sumit Menaria</a>"
+          ],
+          "photo_reference": "CmRaAAAA0xIjY19W6cgMeC0cKyY_IonBYQjH5MCbk6eL5kxxYXIm6fyDLOrRwx0pUQu6gKO-5nPneEfYBiltGVJa6UG2DDZb8A6672BdM1ffdD7Wba3nrCCqrJx8dlUz0mcfeoyFEhBUUvxZtjQ2_QRPFnzlfJRQGhQBVF8vEr56jpu9VBsB7FOocf6Ssg",
+          "width": 4898
+        }
+      ],
+      "place_id": "ChIJ-WOptA2Z4jARRFoeZFcz_Gk",
+      "plus_code": {
+        "compound_code": "QF3V+V4 Bangkok, Thailand",
+        "global_code": "7P52QF3V+V4"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAuV9zHxNW-LsjCXwJWUuaAhU1_05GLgBnQQKVZlrHSuuWS6Hi3qJ0AZZp0aLjNhrqdaLmDyYheOtdC5IW_k-_dU-QTYPchVJvlFJHef4QMPXNM9Tn7U07AOxr1zIi7LHAEhD-haN7yPZ40ge0MQ6ssyCDGhQVsWQa5cxAihsMiZDjTL9BKRI5gQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Nong Bon, Prawet, Bangkok 10250, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.6874792,
+          "lng": 100.6610744
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.68882902989272,
+            "lng": 100.6624242298927
+          },
+          "southwest": {
+            "lat": 13.68612937010727,
+            "lng": 100.6597245701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "06eaa140de1c84918e755358df2aaa745cb32112",
+      "name": "Suan Luang",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111074806001975993290/photos\">Gert Losert</a>"
+          ],
+          "photo_reference": "CmRaAAAACA2kpiYYHNRUqc75kYwAAm8xObwc1FztglefjqpcuWeEH6Jnt4CIOPiDqU3Ej6Qv3oJKMgvWUknFV5nbk72Djp21BEz_3nEU0actHsIKJVQ8RrTM9Q5NNQVZs6GCnuXAEhBd0bXaBMQdLtBcrzMB52jhGhQyAANHJPKCgeYpPwoRNyKjyo1Zfg",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJU5YR7X5gHTERFEjcQWWdmak",
+      "plus_code": {
+        "compound_code": "MMP6+XC Bangkok, Thailand",
+        "global_code": "7P52MMP6+XC"
+      },
+      "rating": 4.8,
+      "reference": "CmRbAAAAK_kubcEbkl3vBu1yJ9KCpGGLMLwQ_Muaj2nR7svYNWwQeYn2bsdFFC6x1TrlXtYslp0mcZ28-meJjAQZ37Ha6indXaG9wEC8hA5K9InskESn0iIkW8-mZM2VEXlHL7H8EhAuT_XZ-PUG3KImRNvhPakSGhQPyzjKj-jhKDrniVxSxvZ5uXafVA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bang Kachao, Phra Pradaeng District, Samut Prakan 10130, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.6969043,
+          "lng": 100.5643836
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.69825602989272,
+            "lng": 100.5654274298927
+          },
+          "southwest": {
+            "lat": 13.69555637010728,
+            "lng": 100.5627277701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "11e83dc99cf65cc89e6d79ef17bb8e2ae3c06a0f",
+      "name": "Sri Nakhon Khuean Khan Park And Botanical Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105352111904208565284/photos\">Luca Astolfi</a>"
+          ],
+          "photo_reference": "CmRaAAAAYa-e_-9wes1iP32M-csO_C5vyLPZ8qoXnf9aD-S6iR7lqhnVKJMDXtN65VuMK3S2LSn4cxtQqaBewkjAmyi_Tlo1EyuQPxU2lBRiZsgAAzkk5QacBSHjyW1P8nRWmXBaEhDIgI52U-G6ylncqLEFdZLmGhRSBPbyrkSOzSd8E2WyTU1aElxFaw",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ_1wg6Xqf4jARwu_tBPmKbmU",
+      "plus_code": {
+        "compound_code": "MHW7+QQ Bang Kachao, Phra Pradaeng District, Samut Prakan, Thailand",
+        "global_code": "7P52MHW7+QQ"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAFH1wb59R3VJv7ttPbfxsnf5ZJ-9vfLf69EigAo9xLs5Ka0sKTADDRPUn7lhkdC8K6orAr8eNyIyNTBIV-8AbrzdaAmhbCbO7_ExOMOG_o-Yz-Z5RuDyMz1M3kL_7YyioEhBYELwxOCOoXGTvQdyvGVsnGhQWksDu95d_QyM46ryVWEfgg6wkQQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

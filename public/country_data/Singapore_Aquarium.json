@@ -1,0 +1,940 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCBwEAALYGgfU0kJA5CjQDSAItnuq32TzNNEIEMs_Y3fwwNj1He85BWCpNGnvMrWyg_lVMiA8oz1EZ-6sljTlkUmPLOX1pnM58qBFlCn-oPFSnNMfnT8XxG44c27NREtRnVaUULoB5S3-k8CRToP6BO30OKE8T0LvlycLeVl_DLdx1ffnxzBDnwh1HfrBdyNKQz9ErwidTNTdMlc50japBTaRhCjL-KhbNP4jO5mjFG3tnu2HptBJ3tl0ButEtIOysYZn59kL7ZZ4bRkmKXgsPYf-nUreNggs8eFd8M6-iWddmnCE3-GNPfVpnCqZhT-cs4mWwFY8S4rEPmBJC0pahwK1Ym9vDBsovq0hnWf4bVlzWUmEIEhAKh4GNt5fypfpfclq8N9dMGhRkC0QB0xLCKu7xGwXGF1EICXkQSA",
+  "results": [
+    {
+      "formatted_address": "8 Sentosa Gateway, Sentosa Island, Singapore 098269",
+      "geometry": {
+        "location": {
+          "lat": 1.258305,
+          "lng": 103.82047
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.259654829892722,
+            "lng": 103.8218198298927
+          },
+          "southwest": {
+            "lat": 1.256955170107278,
+            "lng": 103.8191201701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "ed998595072cf2a911be243b0be29291d7a801a5",
+      "name": "S.E.A. Aquarium",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102462549336503735001/photos\">Simon Ler</a>"
+          ],
+          "photo_reference": "CmRaAAAANCbsnlK_As7PhcGaFzm5MPCbhCpR3hosVF1927wpCS0gb5Wqbh2x0DozZI8NbHvtq_zBCfCuISuCP3T1NvyIBfXe_CAMW4pdSLDWAkIWFK_Jl4RttS4QN5PoppvmRj3eEhDXubwYT_o-kJSLB_wGCXmlGhRIHYICcb7Gt9HgB__1DI1SeV6w7A",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJj-3Cq_0b2jERJv2MBkSVsPQ",
+      "plus_code": {
+        "compound_code": "7R5C+85 Southern Islands, Singapore",
+        "global_code": "6PH57R5C+85"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAANGvUxEHKscooS3fkLpXmER5QSW-EezaG2AVwpUJ8GvKGaf5jDXB1qhcZjPuK5f8GvmiOOVaH0gapjQKd2uk2jeND5qjd1jf_C3fs8s0D85oxWWOs2TDPbU8iYwUDmvWNEhAQO_2CZgk1h3_1x0APWeuAGhTPZuKKuRQtNdMyCxBeNtQHjXVm0g",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Redhill Lane Block 78, #01-03, Singapore 150078",
+      "geometry": {
+        "location": {
+          "lat": 1.288453,
+          "lng": 103.818436
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.289802829892722,
+            "lng": 103.8197858298927
+          },
+          "southwest": {
+            "lat": 1.287103170107278,
+            "lng": 103.8170861701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "963b0767606c8ebe5a55753dae5ca19283192096",
+      "name": "Aquatic Avenue",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103308920940385826805/photos\">Aquatic Avenue</a>"
+          ],
+          "photo_reference": "CmRaAAAAf8HYYbyVUiRi3VDYwCslWyWvW_JgwnAWrBkT0XdBvVuTp6mgxfB463LdecONPQpVJZAj9xMMKY0CTNOPlvD8jGHRDlOb6OTQuCJln9OiAvojb4t48nbR35XtMxlWcWqKEhAAIOPhgQoNzjAXaksixkAoGhSn0NrPPp7nn_m1S7kikjfVy8tyfA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ-ZvJ29Qb2jERTVGO0a3TV7Y",
+      "plus_code": {
+        "compound_code": "7RQ9+99 Singapore",
+        "global_code": "6PH57RQ9+99"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAVp_-o-XAZy6vJC4h0uTgT0vc2JEzbHagoqDcT7TyMftyFsh_RlFdw9kF1giLfMd5e4e379AnH9a1-d1C2pfqgxBv_Qde4oJqKwY2HsgQJXYLudAoikPIhYPLeIUTFWUEEhAmxPkCuQNzJ6pdpmUB2sToGhQfEn5BNYcP776cSzB_XDUDnKmT5w",
+      "types": [
+        "aquarium",
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "21 Seletar West Farmway 1, Singapore 798125",
+      "geometry": {
+        "location": {
+          "lat": 1.3911056,
+          "lng": 103.8665868
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.392530629892722,
+            "lng": 103.8679466298927
+          },
+          "southwest": {
+            "lat": 1.389830970107278,
+            "lng": 103.8652469701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "6b9c209b5dbd8652e78fd37c69352e81702aedcf",
+      "name": "C & B Aquarium Pte Ltd",
+      "place_id": "ChIJKfQbFIgW2jERqBudEzWO8rU",
+      "plus_code": {
+        "compound_code": "9VR8+CJ Singapore",
+        "global_code": "6PH59VR8+CJ"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAMHEZAMDh6pR7rJpdxhInT0IwzMEY7_JvC3I_OmuHnGBTMopUiq5l23va4cYpHRGmBrxFvjjc9ZYywZn0LkbRif3a1Bm8R_eM0VoBFjgy0ho8mFtOsil7e5KBHX7aQNJ9EhCkR6X1TbYmGMVr-uwm4NthGhRkF8BEvHxxkwEAIUiq9kG0R5zTNQ",
+      "types": [
+        "aquarium",
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "61 Jln Lekar, Singapore 698948",
+      "geometry": {
+        "location": {
+          "lat": 1.3798968,
+          "lng": 103.7226471
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.381296529892722,
+            "lng": 103.7241080298927
+          },
+          "southwest": {
+            "lat": 1.378596870107278,
+            "lng": 103.7214083701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "7c575c0ef559c4ff02b2f33576166323dd84c23a",
+      "name": "Jireh Marine Aquarium pte Ltd",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107484563964943855130/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAfUYb6rQMfxf_Cq_oGD2byY1kwMDR1fQU9pXQu4copGNDiJBCm0hzjErLfC2ehL2CTcA3RXjpHCXr6ph1ZGaFhAjKklytt5Q2GGIdb_AXrCgqDJYjJmJYzPoyC5hP6BWfEhAtaP_sC4gdPEFKzYbl6oLOGhSfuFW3RzC8qByWOWZPqhEEtz2gZw",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJsUr-FCIO2jERLdGqYEmgdJM",
+      "plus_code": {
+        "compound_code": "9PHF+X3 Singapore",
+        "global_code": "6PH59PHF+X3"
+      },
+      "rating": 2.8,
+      "reference": "CmRbAAAAWlp6B1ZKXXnKWMovsu38AVWBig3lUncg-YMKn46knGb8cqz6_EEoO3l21vZszUmsC2an7EYxVvD9xrQd7uTjH6ZS0G8DPZTaz74cDXMcy7kdAnlUauuJy6QqutYedioWEhAxevbD7c5-L6-MWMWYgus9GhTgHT1pFnfdnjOb4nJFl-n6zgWg3A",
+      "types": [
+        "aquarium",
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "7030 Ang Mo Kio Ave 5, Singapore 569880",
+      "geometry": {
+        "location": {
+          "lat": 1.3779581,
+          "lng": 103.8754017
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.379716829892722,
+            "lng": 103.8767287298927
+          },
+          "southwest": {
+            "lat": 1.377017170107278,
+            "lng": 103.8740290701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "6c6243b76c13a3c87b93bb4d4f77e174bd5ef95b",
+      "name": "Reef Depot Pte Ltd",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105615381300752831556/photos\">Reef Depot</a>"
+          ],
+          "photo_reference": "CmRaAAAAAERCOpOqWZXUDDZ1rUkTuOJBvteX2jlWxwlOUpmCr08NlJEN_MylnascC9SEICINEDGEC58FdaXSOBBEOEUn9zgTqjRKIB2H-Qa3rsjxCsDrWKAdzxqtfK7HHM0kS7WqEhA37JqUxXHpoIT8P-cSqxWIGhSZFPgX3rqf58auBSagRE9BTcLs8Q",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJU3YxjFsW2jERFUWXf2qVYng",
+      "plus_code": {
+        "compound_code": "9VHG+55 Singapore",
+        "global_code": "6PH59VHG+55"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAiFeezSnWem88BD7H8mXLZlmiFVCtrjR2Ct5mjiPl1Ek7DczpdkcKWgSX3doyt0nmCzlyK4fDq5gSAJnTDRrpuLRlQ9hv5KfZ6wZaeEaaLS0DSgqgOat427gsue_PXEOIEhBl8JqvK7waeC3575jZ8KWuGhQR3u7rg36AYiwYWuS-Xkl4jxM41A",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "26 Teck Whye Ln, Singapore 680026",
+      "geometry": {
+        "location": {
+          "lat": 1.377558,
+          "lng": 103.755584
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.378861479892722,
+            "lng": 103.7565260798927
+          },
+          "southwest": {
+            "lat": 1.376161820107278,
+            "lng": 103.7538264201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "24760f4b60ef33df36fd8f0de514611c4b37280f",
+      "name": "Ah Hock Aquarium",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110182566807640344261/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAALZsfQPI9daQM2zJwMMHSTfkkMtpnU1r0xNaKz_L5TEaqrd49o6BfsEpE0_6uGZJMycFPL5DtO03OuajOmeAaZU0rPQLe1Cu1GHch0YC1kkjWB9f02p9uApSR56eYQHcUEhDuR1GgxC5Z4KRn7_O2uRuZGhSgcEgrltAr94hsaPOdQF4uJ8XjCg",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ2X_lIrkR2jERVzXB-Ji8Pk4",
+      "plus_code": {
+        "compound_code": "9QH4+26 Singapore",
+        "global_code": "6PH59QH4+26"
+      },
+      "rating": 2.5,
+      "reference": "CmRbAAAAUw501OSM57rs5trWEsoKo9iKtl6mDehYeGFdn51lknHocnm_XuCQmIgUiHAfqCxBH9dAfTxnQqVRFzWk7c56CS8IEHHrD2r35_qk2qk1D_fE643II8G6EPsui-3jV-w3EhCtnKLwjQQ0Zpdh-SiIqbVPGhRY3B4IT8dHL5ijEtDNqd1NZeYl8g",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "8 Boon Lay Way, #04-11, Tradehub 21, Singapore 609964",
+      "geometry": {
+        "location": {
+          "lat": 1.327472,
+          "lng": 103.753546
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.328821829892722,
+            "lng": 103.7548958298927
+          },
+          "southwest": {
+            "lat": 1.326122170107278,
+            "lng": 103.7521961701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "856ab1cb2581485502ae6395ed9e9f6efc2b32ce",
+      "name": "Reef Systems & Services Pte Ltd",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1023,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100644216955215358687/photos\">Reef Systems &amp; Services Pte Ltd</a>"
+          ],
+          "photo_reference": "CmRaAAAA3adIYGZweFB4cBxgyM7Zng-_z8tIMMDC4St2kpMYpMmPrCKy52WuwUSyKi9Evy24TwJ8Ndj1sOESGRNLHpTdXvL5LRff6AR8E18KAQADoyDrIXOZnrlkpe83yx2u2KbyEhBJGcdu7sZt6UoaZ214Sj97GhSBFHnzbWk-Gvzuyu5nXd26ZlyeIA",
+          "width": 1022
+        }
+      ],
+      "place_id": "ChIJDf-1XXUQ2jERhwRyMNTE5xU",
+      "plus_code": {
+        "compound_code": "8QG3+XC Singapore",
+        "global_code": "6PH58QG3+XC"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAATsEh0TUoFtrWEJ2Ls4HCxtjixEzSRQxm76x5f00yuXAw2KJ43LkVHlPiPUMl43tknPX3pjttn6aog5VnFQ5wjQvdxw3AoVmHaJnmJ6TOXVg1P7lU0iBERJHdStGkIgrxEhDABffdB2vgbIFInYvrN5mRGhQWZwl5Bs2Ni5pxAqUWzSyS2JtOUw",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "166 Woodlands Street 13 #01-529, Singapore 730166",
+      "geometry": {
+        "location": {
+          "lat": 1.434018,
+          "lng": 103.775372
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.435367829892722,
+            "lng": 103.7767218298927
+          },
+          "southwest": {
+            "lat": 1.432668170107278,
+            "lng": 103.7740221701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "eee241b9ef7f87dd6364295deb08cef0c70f1f26",
+      "name": "Green Emerald Aquaria",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101794522041573923249/photos\">Little Ong</a>"
+          ],
+          "photo_reference": "CmRaAAAA8z2zWUs3A0MCm1wFZlQWYbN4RuJO0EFbGTv2lLWV1-KZ_6pgyhIekfkBTEShi_Wyh2Sy75aDOHa1tUWVyYQRu5eWUuWviobIpzzT6uXxcsy8BeLUSMny7XEaD91Gr-TaEhAEcg0iume9K2k_9hD2kuUdGhT7nYCD5iboz15hwXXILc6szcZSUw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJQZdrs6wT2jER-mtwl0_Mvio",
+      "plus_code": {
+        "compound_code": "CQMG+J4 Singapore",
+        "global_code": "6PH5CQMG+J4"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAoV4GCvAHTW0OkQVpCf24s0-FVJrh8G0wfzqJZzZi6NMdML_3jed47Np-sAZt8dWPbWE27VnpGc-M6g1nAqtTo8vV92Itp1aACtk3e6U2LTIa0YgaRln9AwNJ3l2ULs-HEhCD7VDJbHU9rMsaGVct81O7GhRDRUop0sS_k525jYMbme9wx_mLoQ",
+      "types": [
+        "aquarium",
+        "pet_store",
+        "store",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "5038 Ang Mo Kio Industrial Park 2, #01-427, Singapore 569541",
+      "geometry": {
+        "location": {
+          "lat": 1.37231,
+          "lng": 103.862587
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.373757929892722,
+            "lng": 103.8642499798927
+          },
+          "southwest": {
+            "lat": 1.371058270107278,
+            "lng": 103.8615503201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "1da8d18484bc91bc2e900141500cc46554ac6904",
+      "name": "N30 Trading & Enterprises",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 692,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118011334514613749560/photos\">N30 Trading &amp; Enterprises</a>"
+          ],
+          "photo_reference": "CmRaAAAA-BS9GuInq83Igp57DqeZ_plqmOE64yfHk0xp2yFWUK91m1t9kFVh8ioTyI68fmfluWaUx0Jhh_Lt7SJCmjAYJwEdxjXfAiQmK3aBlThdRPsXkQY8x3LS6SJOYNWQ26RlEhBPZLT4JOE1w301Yvf2IC2-GhSqrj-tHEhEwtGw6GeRXyLrOsdGJQ",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ09QwAJcW2jER47E3CfimkR8",
+      "plus_code": {
+        "compound_code": "9VC7+W2 Singapore",
+        "global_code": "6PH59VC7+W2"
+      },
+      "rating": 2.6,
+      "reference": "CmRbAAAAR9xAT_27zxRAX7r4nHtcCK5O8B5V5iIIJa6Ub0Z3TVhcsvHvc1zCSn6WA61asuGbIleob4TAo-gUStRgkfHnZs7fjRQKPC0-9-JQZlaL3UzS7EKzlw8alerRZH7jAVTSEhA8uuQ0sXrCG8KMILqGpv5HGhTrpeGpyDUjcAqRnJV9pO7PdincSw",
+      "types": [
+        "aquarium",
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1 Thomson Road, #01-340 Balestier Hill Shopping Centre, Singapore 300001",
+      "geometry": {
+        "location": {
+          "lat": 1.3254885,
+          "lng": 103.8424023
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.326838329892722,
+            "lng": 103.8437521298927
+          },
+          "southwest": {
+            "lat": 1.324138670107278,
+            "lng": 103.8410524701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "df52a94d1ed840018288a6d689661c5cde18bc5b",
+      "name": "Na Nature Aquarium",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106133031634180724575/photos\">Na Nature Aquarium</a>"
+          ],
+          "photo_reference": "CmRaAAAA0ftw65HP5oitO7mdSfZmo3JOg2oBAd6azALWNyakR27QucluToFUfBZS2R7u2PXlOeoJ1njKCUPf8Hf6QRIVyQm3P-yZizJRV1qd7EqNqyFjpggS68luAxftFft8FNy4EhDIzmGhKnRGKfNQAf7-3bx6GhRHLx-zM1J777RU-tsw42mVE_thpw",
+          "width": 5456
+        }
+      ],
+      "place_id": "ChIJUfVqN-AZ2jERzFLps7vMNyA",
+      "plus_code": {
+        "compound_code": "8RGR+5X Singapore",
+        "global_code": "6PH58RGR+5X"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAXD0i3tSCtaR3gyZEENTiC_95NqbHDWpj0fA7iESxd_XEAWYi49uz7bWYCSOCGIQFGDsOZwdHu8anVlSIVrFp-J-m9QctR0noPd9XyG3WPVcNRcT9J89Cgls4IqtlMdDeEhDzFFFY4COZ55f3no0kc759GhR_RFzO2n8JRkYNh6SEMImcRYGz0Q",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "176 Orchard Rd, #B2-02 The Centrepoint, Singapore 238839",
+      "geometry": {
+        "location": {
+          "lat": 1.3019817,
+          "lng": 103.8398259
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.303331529892722,
+            "lng": 103.8411757298927
+          },
+          "southwest": {
+            "lat": 1.300631870107278,
+            "lng": 103.8384760701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "a9a2bf2d1413652ca5d7d18a10982b9797d17c99",
+      "name": "AMB Aquatic Hub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115308798084538811761/photos\">jin kisaragi</a>"
+          ],
+          "photo_reference": "CmRaAAAAo7VhHfQBSB9LrTz4BLP5wgNQEeSotvWunEh9sYjnSApmaBHweMbYFcQ8HEzTfMR0pzKr2nsLZpNDONWt_RM9W9Tjrbnopj0OjWuXC0jJoHBHp2w4l5pUHo5guKy534EzEhChmpPjFNGp7jkgWyKN5Rm8GhRfCnOWAF6DoX6Izm9076t8gxN5kA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJoyM62ZcZ2jERbZm55UsHOoA",
+      "plus_code": {
+        "compound_code": "8R2Q+QW Singapore",
+        "global_code": "6PH58R2Q+QW"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAA4IeqfycROqvUhugwTgW_jfsP_yfRZ2G85YC5hzmCzSlu7D-I57OoFfMk-DWC4miuwwXe4vMhEVNd-Xqa8Y9rLUidzk3Iwqix8TYAQ_hMK_i8DYpnyTyEhgc5YdGgm8OcEhCx13A3s3D8a0fFU6pYzBb6GhQzdEf9GvxKS2isBupDJQw2gwBU1g",
+      "types": [
+        "aquarium",
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Blk 328 Clementi Avenue 2 #01-194, Singapore 120328",
+      "geometry": {
+        "location": {
+          "lat": 1.314081,
+          "lng": 103.767078
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.315430829892722,
+            "lng": 103.7684278298927
+          },
+          "southwest": {
+            "lat": 1.312731170107278,
+            "lng": 103.7657281701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "872ffe6ab46493231bf2c66bdf0da62dd764a19c",
+      "name": "Polyart Aquarium",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115854823827993351818/photos\">Quantum Aurora</a>"
+          ],
+          "photo_reference": "CmRaAAAAuvBj4hHguO9r3NQ6pzYxdjzIIwtQPZukZWRuGnXOaShekObznJH4tJIxDVu9minp7pX3-xMqsLTzVKCzN2Gahc0vK04tb6b1QatozgjiV7Gxtf91OYMMX1lStK7mRB6iEhC_xY7UZfnczZaCxAf8YhdQGhQhAGIk8hq50OYabIr9O7x-TUztBw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJWXw3jI4a2jERG2QJsUx-Vko",
+      "plus_code": {
+        "compound_code": "8Q78+JR Singapore",
+        "global_code": "6PH58Q78+JR"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAeXZe_ofzrgfD6paBj9RBJ6HdcmoPriIvdzoQMj_XZms-2bjtxUng_ryp3XzYXqlmEHOGXT-ShS91T6BYdIVIEZNspBFqCEHoMuarR-gPk9HkZwcwNbktboQyOuPgqzvjEhBsyYgmbf3aEBP5HVZXw3sRGhQFSIgd_rpdAC1eVwNrHwtF_WdPKA",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Blk 22 Havelock Road, #01-699, Singapore 160022",
+      "geometry": {
+        "location": {
+          "lat": 1.2889837,
+          "lng": 103.8284881
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.290333529892722,
+            "lng": 103.8298379298927
+          },
+          "southwest": {
+            "lat": 1.287633870107278,
+            "lng": 103.8271382701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "f881a3d38642d800b8531147e779e146645844cc",
+      "name": "East Ocean Aquatic Trading Centre",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 401,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114150641617784804847/photos\">East Ocean Aquatic Trading Centre</a>"
+          ],
+          "photo_reference": "CmRaAAAAzxqNVp5QC3J6nZpxd2deHgZn1U2e35Bm47x7uu0mJt13PIz7YnWyw652b7vcbJUwKGW2g-l7BgFFgqJRy1fvdNnd9Iz4SXdV42gDXOjSLfQh-uQ6vk7jM2yK-ATLky1AEhBbXNfkwfn8WtwZu0c8YWVwGhToY4vSJkxIA8otRrhuScmpzE42gw",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJV4_4mHgZ2jERHXYHokyxCZA",
+      "plus_code": {
+        "compound_code": "7RQH+H9 Singapore",
+        "global_code": "6PH57RQH+H9"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAV2RUC5cWazEaQkXu-PGK8prRL1AGLhYOebas4RGp4ZIOY25VkoiLJp2U9cHHDYpy5HUF000WXOHFYo88lpcyxpivxa47s6MKrDop-G_pvN8lxfamd_ZrsEYHUhzuKOBuEhCNl-V5F7FUG6zb7duCdXXdGhTbFmW4LiLRp7gWmEe-L8B052VyIw",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "291 Neo Tiew Crescent, Singapore 718903",
+      "geometry": {
+        "location": {
+          "lat": 1.4443836,
+          "lng": 103.72907
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.445733429892722,
+            "lng": 103.7304198298927
+          },
+          "southwest": {
+            "lat": 1.443033770107278,
+            "lng": 103.7277201701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "3a81683944ce4bc8967ca54dee130793e431c58a",
+      "name": "Sun Pets and Aquariums",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117346192614307548989/photos\">Lycan T</a>"
+          ],
+          "photo_reference": "CmRaAAAAMh6n4J53mUTTmKOSfDVpJJir488vYEqTXbknc0ZQQfD9t7UYU2MBJHz8tetczDjWGopIRkuAxCnbZ-m1njsEf2r1TgYNAAVujkZSvA3LjB2mrThSsnUNHbNgaQnfULv8EhCW_iz5f8gTCq0KdyKwYD7mGhS5UXr1ZdCvQGvRlj_PSUpfXxdjmw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJz2QXC4gW2jERIxtzDIzBdCg",
+      "plus_code": {
+        "compound_code": "CPVH+QJ Singapore",
+        "global_code": "6PH5CPVH+QJ"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAIw9tg7K7eTDVJ9vA_9uGS_mWTXsYG3D2lWI7yj-4_ty3jeDqyK5v_bZca_zUWe0LuBiD9Jfhz-6NmsWzyk2o0NPg4Y_d-Z5Mhmd2YdQQBPC9LTGP6V8z2eNvz4DNjoeSEhCpJZG1aXW2tqhVysFj5ZTaGhSgp3HNpHH6wu7bby660bd3iXJ-dA",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "233 Ang Mo Kio Ave 3, Singapore 560233",
+      "geometry": {
+        "location": {
+          "lat": 1.367585,
+          "lng": 103.8367064
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.369029529892722,
+            "lng": 103.8377752298927
+          },
+          "southwest": {
+            "lat": 1.366329870107277,
+            "lng": 103.8350755701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "9e979ab444105275c76aa4921fd341c1ea6e13f5",
+      "name": "181 Aquarium",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101271516934747617975/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA3HkaBmNvf_YBtYAGrY-GKKGRY8Iet9ceKpBQMfH8e05Y3c6yYBnnZnHrdoyN7ilaBzBQ2HWyl2bTRx2DLO4HbywGOrUY8LrgG8EjA1AjGgmZx6U6ehPGN7tDe9z6rG_-EhBmv1m9qzV5nMmTrZaKQj-kGhT-RWLzUKnHzevnwcvUdiEj55ac4Q",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJ6WtnctkW2jERvf5SYJuuoBg",
+      "plus_code": {
+        "compound_code": "9R9P+2M Singapore",
+        "global_code": "6PH59R9P+2M"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAsRq7pUhUMMRXj0dh-aU_vA0obK-zAxfHlPnaB77Nf4aiN6wOp5ZFsR9A1UH0EfCkazex5oL2BuSx56Qf545YkYiHIFlZU_6EUxF-MzIV2Cis07vkYj_eM14sb1ZoBqa5EhC5MNyHWeGGOA5xNfXMXhfLGhQbjsSJ8s53utQ9M_0no77caGTixw",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "865 Mountbatten Road, Katong Shopping Centre, Singapore 437844",
+      "geometry": {
+        "location": {
+          "lat": 1.3039101,
+          "lng": 103.9011299
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.305259929892722,
+            "lng": 103.9024797298927
+          },
+          "southwest": {
+            "lat": 1.302560270107278,
+            "lng": 103.8997800701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "c78d610042e82eddfc5e7541d6c8b55640032710",
+      "name": "New Katong Aquarium",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 949,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104664467728787457403/photos\">Saad Chinoy</a>"
+          ],
+          "photo_reference": "CmRaAAAAVVzNZ5RMKoYMkuARXCVKQ7_nQH6YyY2f20LqEjCnFXSxF4KTEYPFOsSCLd4mdQLLRAxOnih7yF0lb48U7sqycwX1bWxY0NeexyxO1A-SUPFd3znhAR6952mH70u_l_6pEhBP_VIksdCjR0t5AKxayxtSGhRgk8n6y8Udwn95HA5cKC1RtOeojw",
+          "width": 1265
+        }
+      ],
+      "place_id": "ChIJrQBsGxQEBBARww9Lgqz2Kjg",
+      "plus_code": {
+        "compound_code": "8W32+HF Singapore",
+        "global_code": "6PH58W32+HF"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAsywAy_QzPRsvycXRDS6anbeyBxIXcLI0puxKe6QHYqoxV1E0pG61xnCRLYT-sfREejgeebv-6erZT2kj6Ve9pBjn2vc8izkfTQqBKCAhx25fGYNrEi5-0hRU_Ukp74amEhASxVTuHXYH7G_PSA7iTgSWGhQpN_p_itdz-ne6CGGfMyBcdR7UBg",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "618 Yishun Ring Road #01-3236 Singapore 760618 Yishun Ring Rd, Singapore 760618",
+      "geometry": {
+        "location": {
+          "lat": 1.418761,
+          "lng": 103.835519
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.420110829892722,
+            "lng": 103.8368688298927
+          },
+          "southwest": {
+            "lat": 1.417411170107278,
+            "lng": 103.8341691701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "b7b644c43be842d19a2d4135242920ca77367f48",
+      "name": "That Aquarium",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111045037563903240230/photos\">Zongneng Tan</a>"
+          ],
+          "photo_reference": "CmRZAAAAkD_OAMisJ1X9nOv4QL4mm78Vzi7dDzwaU8YV1O4jDw_qzTF3I7F3LQhE7NdZVNUcISUkbCha8pbkCDmAPDm_tCfQ6VlIjrY6WZHiQc34s5lyiolP5M1PdNKmB_QUTZlcEhCQ_iRXzqH47mOWrwTOp4KFGhQxh7EefJKfDMcnfxAAlR2gpPkj1w",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJewaP5BIU2jERUjsvUPiCJSw",
+      "plus_code": {
+        "compound_code": "CR9P+G6 Singapore",
+        "global_code": "6PH5CR9P+G6"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAMXW4Yq9IyH36ksWZPIPEgpQDsPf0fEmmhmwVYkPp3f2xl7_AWLzQGQT6VPqcmz1w_MIUGTqNXnBvnWcbYshInrqo0DdGz1KbyhVdlQz4_pnF5a03SeckYuxRZBXH6ejrEhCKyiGvQlTz8DZZwLXz82BwGhQ4G_l2BQCY933TYd6X-RuWq8gjaA",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "34 Jln Selaseh, Singapore 808449 Jln Selaseh, Singapore 808449",
+      "geometry": {
+        "location": {
+          "lat": 1.385237,
+          "lng": 103.8726881
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.386542929892722,
+            "lng": 103.8740921298927
+          },
+          "southwest": {
+            "lat": 1.383843270107278,
+            "lng": 103.8713924701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "a217346d6ad1f1ddcd6b9253c916081a91a64ef7",
+      "name": "AquaMarin",
+      "place_id": "ChIJRUpRIWEW2jERUdcykaxF3Tc",
+      "plus_code": {
+        "compound_code": "9VPF+33 Singapore",
+        "global_code": "6PH59VPF+33"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAWdBbrZcaorlRkNlyZJL-I97gP-jvr4sdwEQHLyDLA-rhtmbcZNpS-kmO1Ib_kES1Frv8-EzqiR08ivDDL_R37-pGCkzQBbz9vzUffd1lyovzjpdfHyq90MT_ZwFd2NZVEhCSuO-2BlFvPyck94q7ytX0GhRObyzPGpRgpZo6XC4Ep7NeJRPBbw",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "217A Jurong East Street 21, Singapore 601217",
+      "geometry": {
+        "location": {
+          "lat": 1.340526,
+          "lng": 103.7383974
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.341875829892722,
+            "lng": 103.7397472298927
+          },
+          "southwest": {
+            "lat": 1.339176170107278,
+            "lng": 103.7370475701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "0b61dbbd729a3606571fcb86b7b8ce82bfb7c4e1",
+      "name": "Seven Star Aquarium",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101745730428257281490/photos\">Rajamoorthy Karapaya</a>"
+          ],
+          "photo_reference": "CmRaAAAAAaUw8XGllQmI9n2xCv3e09Kr0lfRRUURwJ3fpmzUd6YtfhU2d3P4vgi0xT21WbFwFPoycwYeCesNPbQMtjXEzB73ZKAYlY4xvTR7A4xAC8_aVrceVEgftk78sKmWIIj5EhBaVC6d3fBc9K49uR2zF2sZGhRhy3ORe8dC-CB5eKVf4vpG9BhvZw",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJWxHvMRoQ2jERqdYcd2AsqKI",
+      "plus_code": {
+        "compound_code": "8PRQ+69 Singapore",
+        "global_code": "6PH58PRQ+69"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAWb_YGle9K4MHgVhR72HT--XbzRKpT7j1RQMyenQkrEoJ5adIMbNxFu6t3YLk9ZNSccSrGtvJN5LGEBsJ2sTnddbX_c2hXjeOxFxEgfZ2orDopfAjR3ruxTW8HjuZ7RQGEhCQZltZN8JaycP_L5pnGjbLGhToys-QjxAfd_MBShjJIs3k12FOGQ",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "8 Chencharu Link, Singapore 769197",
+      "geometry": {
+        "location": {
+          "lat": 1.4143728,
+          "lng": 103.8243294
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.415726229892722,
+            "lng": 103.8256670298927
+          },
+          "southwest": {
+            "lat": 1.413026570107278,
+            "lng": 103.8229673701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "3348695e53b1e67e576e87e8b00269b771724d11",
+      "name": "Nanyang Trading Aquarium",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116438099716975631225/photos\">Dexter Kuan</a>"
+          ],
+          "photo_reference": "CmRaAAAAcfprCfJjwu724osHbq5Qzfxq0yDt56i9iaRDd0--XZGpZ6SWT9pyCGEG4FoWrwxOG_ql8quYh3lFjsKlfwz98--8Gr7EreaRW9VQFYLIg5cabE5IcPh9R53m_E4ctIbnEhC-OIby9zanwZi0tjjPdfdlGhR1RM5MOGurobbleYIURZ6Ag4Rirw",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJefF2pmIW2jER3VyrtsTcC88",
+      "plus_code": {
+        "compound_code": "CR7F+PP Singapore",
+        "global_code": "6PH5CR7F+PP"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA0bIqf37q8Pn_9mf3QfgAFzFHPRVTtf159TgeSXsrNYWSR2mvZ454nrkYhKN5OtETW3Rwc4JnDXAzjfkBjHlDS7ROrn1N_LK29lSPMvEw7FML1wwoQHP_LM9XMf1EEusoEhC29VCXgLMqg7uE_znY3mBdGhRIq4j4To69ouoWgsJ4AaFXjp0WXg",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

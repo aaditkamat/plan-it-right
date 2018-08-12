@@ -1,0 +1,942 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCCgEAABUrWKuqdi0ur-iSWKRRGwTlBVFnZyz_sCDcJYNxQ3Ncn18uE4SqiqyC3qhXO30oD5dRBtipCOCelp4m8MRDlsV8-VwNgvP92Ees8UvCltCPCa0LL5VXryZX8Uu9qtlvuBITXy504-ZEY7fe6bfgqa2XDFSFTovqOBpjrJfFVxFusGz7H14vltLhesbEMqnvGyAOfS0F7_ZvuEcZA9y3ZsXuuU6UvkZiUXV6B-1B4LP2P3GElz1AW1cbnhPKIaNMefJLWAiFhJsKAAGHRyL-GIPXInRNMLk54i1NhGC9z7IhdIPlmrD8C4o6D6PxrDWYigzZHncvmzBOLSzQZT7LSFvoc9iFipIjCtmElbkVhbPcEhARi7lCE0nPOJLDxCQZj1iAGhQX3SjR0SN5e4s7VCTt3QoZ23BG8Q",
+  "results": [
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7352074,
+          "lng": 96.1211792
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.73655722989272,
+            "lng": 96.12252902989273
+          },
+          "southwest": {
+            "lat": 19.73385757010728,
+            "lng": 96.1198293701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "474a94df6967818c0782d87ddc2e6bb6b550621f",
+      "name": "EDEN GARDEN CAFE & RESTAURANT",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111232531054833588978/photos\">Tanawin S</a>"
+          ],
+          "photo_reference": "CmRaAAAAlvulACTPx7PD7EiQ1JXtjr1ykoegMEHpbGRn9hLdbA44Ik2eS64LxHffm4rKQdaKAIM6vhoB4R8R-0QW3SHUoyhHrmAB2eu-g7FzZjHU-crX9eaa0RRLGiv5M5igkblJEhCXqlK0ceRLyicbNB3KdEx5GhTpeOGcCC7eH6hbFKxofSwV78KboA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJr--lgDq8yDARhUVpwZgJxcA",
+      "plus_code": {
+        "compound_code": "P4PC+3F Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4PC+3F"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA5hHUB7qdUtf2iI8Cc4HF8djFw69bAgXv2clZF4oWO1ewuhMDglJzrIWuoZa8GNTyJx58YhvGqJvIZb4bWxeqIu6yzajvGE4RscnU69dsniidRevPHQQIZ06SLgw5M_8MEhAr5UM_-viZvqBLXMVE7YW1GhQjSImdm-atBioBBk7rs6Fvc1fMOQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.730649,
+          "lng": 96.1055174
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.73199882989272,
+            "lng": 96.10686722989273
+          },
+          "southwest": {
+            "lat": 19.72929917010728,
+            "lng": 96.10416757010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8f7f550545885daef3924105021683b9002cf3dc",
+      "name": "Katsu",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113973432276117985197/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAhNhuGQScWkvisHxiFl_vKOYMmI1SAEWqBfAKHV3aaI2FSjnXA5eq_CteAwsdCaghNAigS2YrWYv1mDuhC_DtrXCnr_OoEQ5rnkojKzNInaAqi-_0s55FSXNjPHOmZ709EhBeGduzrgCrkku2kr5jzIowGhTTCmXTa6mqh75KGPKWMqYuf_xJug",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ2emuusu9yDARzpehLrp9xF8",
+      "plus_code": {
+        "compound_code": "P4J4+76 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4J4+76"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAKmAE_SpYGXT69YX1Dto0yB8NNF2z49G_m8Ck3AmYY9AsR1l0vSaJCmgROrZimAvSvz7YAgLrgrYlwDBbtUtuqDkcy7tCmZQGbAl6k3QepU3EsbQhq4AB_MSHp2lv1IRQEhCOXKrBK-lG8Vw6bqJRQ70OGhTqpjaMZGRO7uXoC-iXXlXzmRLk1g",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "B1,B2 Thapyaygone Market, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7397766,
+          "lng": 96.1175813
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.74112642989272,
+            "lng": 96.11893112989273
+          },
+          "southwest": {
+            "lat": 19.73842677010728,
+            "lng": 96.1162314701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "cfedef118152b2f83ce4a77bd16d6c8c944326ae",
+      "name": "Shwe Yin Chun",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106824472668579993659/photos\">myo kyawswar</a>"
+          ],
+          "photo_reference": "CmRaAAAAitjIShqbzsaEK0Awx4yRkmsh3obUVEFSi1h_e2SG9hQnD6Znyb7Cu_MBHlzfrdu74lHHqreAiOjam-gBPX9KstHMfz6peJxbddmu_e0d_BSx96t5Emi0-FOD2fYQP-EFEhC1I3fwIoWh2WdKF9XTsv0LGhSTzWdEaQ_W3iR2gRCPJAAnes8UqQ",
+          "width": 2336
+        }
+      ],
+      "place_id": "ChIJzV4HSC68yDAR-TqTbR3hc74",
+      "plus_code": {
+        "compound_code": "P4Q9+W2 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4Q9+W2"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAvn7l85CLv_k8nFxeLmUaIZPPlzbL25c2vVdc9eN-HX0_V2Iv6kCHM2e89I23gUBASE-chYXgv5RvojlHNTyGjeFqN1VsafogBAc2ZKhKmH3tvr7EAXaMn_8WLS9XndsUEhCUq6weUo71jP1vTalA6_AYGhSJmFsgkidcN9zXceLFLAtydQl_6A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7381053,
+          "lng": 96.1205217
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.73945512989272,
+            "lng": 96.12187152989272
+          },
+          "southwest": {
+            "lat": 19.73675547010728,
+            "lng": 96.11917187010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "9e9858c293c680c034495b8b9edca956d8367159",
+      "name": "Maw Khan Nong-3 Thai Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115049701703610101787/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAUE2xwOhXqsc8rDT-cwOgc7vEgXF8kLCS_xT_f6_PkA-vxW0z8wV6Gf9pDtN3bPmnr9ztlnVfXTRPJfXiPRYIOJyEC079gi1eyObQATSdLdEWCb60u-hbrflVYW9g2Em5EhDlGFoszDaMfVrW9lJclu-RGhSV1d_Vjdz-u78AQWmgBguImJAMWw",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJXx-uAzC8yDARBrdURUDuYYw",
+      "plus_code": {
+        "compound_code": "P4QC+66 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4QC+66"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAzIbJ5QOai4dCy2wqkBARncLxafRKcKyWe5oBi6JohbA--Y0PoPcl_-qg7Qmr7pLV6actJio0ELXuyN-v5pOJ09WgGr0qH86ZsPvYzDxe2upaPLaCU3CXLbvKktNNKATkEhDLU3Hgnc49Kf3njyiEj06HGhSQzktipM4rlIbnXU3sh25ZqiTpIg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7285924,
+          "lng": 96.0888549
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.72994222989272,
+            "lng": 96.09020472989273
+          },
+          "southwest": {
+            "lat": 19.72724257010728,
+            "lng": 96.08750507010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "602beb16e24615fc80bdc480a735dc2a11aaccf0",
+      "name": "Bawga Theiddhi Restaurant & Catering",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100545966804475582390/photos\">အောင်ဇေယျ သိမ်း</a>"
+          ],
+          "photo_reference": "CmRaAAAAskiZ-ft1kkbHrR1GO3JcNWW-N9KW2DXlgNpjsJS7WOBj7iLWKuc4OtkGwqoPktID6k4cyKQfqhR8FdIwPeT2-Kna7nVQCYecUyukBnq9cpWwJJpCs4apXQQF4Pqal5HmEhDLSuikwhRuafu0ibR9dCtdGhRoG9jtGvBKc7JB5MkMizMK6STZ_A",
+          "width": 5984
+        }
+      ],
+      "place_id": "ChIJuYhkoeq9yDARCf-cniwP1Mw",
+      "plus_code": {
+        "compound_code": "P3HQ+CG Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP3HQ+CG"
+      },
+      "rating": 3.6,
+      "reference": "CmRbAAAAtUcrbicV9IsU8lpJUNedenJ3SGPvw5008N8TEINSVH0bs5FNt5gbj3SyJZGHevOrf8-2qtWDoykGU_X573gZv2j5jF4QH5zTQgSRAdju93dbJrfcvuJvBSUyikRPwtQjEhAFJrclh32zP8aLtQAb4jOzGhT6gwcrlUiHCb4f3D_9bRTFFvjU4Q",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7310413,
+          "lng": 96.1070127
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.73239112989272,
+            "lng": 96.10836252989273
+          },
+          "southwest": {
+            "lat": 19.72969147010728,
+            "lng": 96.10566287010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "727976454a609bad389013496c384f6467be1296",
+      "name": "Ngapali Taste Rakhine Traditional Food & Seafood",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101278558292549474234/photos\">Hari Dass Kumar Ratna Kumar</a>"
+          ],
+          "photo_reference": "CmRaAAAAm22buoZ1nowXEg3SWwfUQ_AF8z7EV2SJE1JOzlhKDiSvZxTcoyBlKy6yJ-jn4RqKpeTdR1MYcmdSpnCqMsojNVTR1K5-1-tr3Ocmj3d7F0tktW3U-VMJTW1Is3yoCVfKEhAsrJ0dYCcTy7J9zvSnsu5aGhTpB3MPcs9u43l63OMjm-7-5FW4mg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJEVLWosu9yDARIcDH2HY55oU",
+      "plus_code": {
+        "compound_code": "P4J4+CR Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4J4+CR"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAMC0M4pfPPocRK8JA9i90n-C4zMJWLysYjlbDIiRHUnkx5AMp0Z1NT7UHTS2VdxAUitROIT2N3hUEuPRfDafsoB3lCEKE0EoHuGC2ZnKAj_a-SfziZwZMkmu2dVMddY4aEhBrwtnz3UhrxjtVY5LYmbcbGhTnWOIivnfrqtNdFjDnnaYwxcsnWQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Unnamed Road,, Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7353623,
+          "lng": 96.1179142
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.73671212989272,
+            "lng": 96.11926402989273
+          },
+          "southwest": {
+            "lat": 19.73401247010728,
+            "lng": 96.11656437010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "2fcbc7a3154d26c6eb4f0c23c94de5942c88f500",
+      "name": "Shwe Taunggyi Buffet & Hotpot",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103712610040488328139/photos\">Kyi Khine Zaw</a>"
+          ],
+          "photo_reference": "CmRaAAAA0rCFTwe-npp3u19IVEG8MQzQCfCYPJJmJ1z445Fqdya_F3Bm_pqeLCmoXw6QdGrPlgBzaSRJTlIx7or39U7Eq6DyMt_6fSVLHWBm5ISNG41YQpyFQjhiRtWSI92cSLqhEhDahEAFC25yL_MUUglxtHscGhSJElO9cJVJ4Ek97DhgvfhXELJiAg",
+          "width": 4208
+        }
+      ],
+      "place_id": "ChIJ1QceqjG8yDARr_egzTHjEgQ",
+      "plus_code": {
+        "compound_code": "P4P9+45 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4P9+45"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAA5Wkzc3MUnhbFCSPBDV1tvUQLGv1wvp0Y-dfdxO65Z_AghPg9UvvE-JEr4WncCy8vnwKYBxxV4_LBGNBJj1GdhqSlQrxOR2jy2jQFsfuZjWE4Wr12NB_qb-GS_kaoDxVnEhBu1rb_cAadEWdomSVcUXAyGhT0oG4NQcb_WtLnm9VYHpi4d3g2AQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Unnamed Road, Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7408284,
+          "lng": 96.1173094
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.74217822989272,
+            "lng": 96.11865922989273
+          },
+          "southwest": {
+            "lat": 19.73947857010728,
+            "lng": 96.11595957010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "d0f4fd80914b02341bf97ce0d47774ec81a5cbf6",
+      "name": "Top Mountain Folwer beer and food station",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105536252774369396491/photos\">Nyanlinn Htun</a>"
+          ],
+          "photo_reference": "CmRaAAAAMPg60OXyqdDuwzgtjHERHflmmxZy2lpSgdGDUDZBl3nelcaiB1NsxQ8d1nIxdhjOAvJ-NMcQPQ2nWrxTKxvsZXobrb_Trv-8PKBZVw17XU7J2ZhD7zlsMc27oE5oGuRQEhBw_AU6QkYBkhYGrcNk4U4gGhSNMp7dkm1syitvhgR4jRU4BC5pPg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJVeblWy68yDARYH9lG9ftSMo",
+      "plus_code": {
+        "compound_code": "P4R8+8W Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4R8+8W"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAVgoA1hhIL-ExWBzRsGCxJZTals345o7KJcxEfJVo5XlnfCpf161n_NWhwueQBHtL6qESFa-G-7eN7Vfd50SpTkkinfs_PJyl4C8rtCy3QT_bhft-zA-cLK-rwTtqtRRhEhCMuL4LAR1vfMGvKp8aiYkyGhQvyQcr0YZkZnnuf8-W9FBPXktYSw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7498785,
+          "lng": 96.0894459
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.75122832989272,
+            "lng": 96.09079572989272
+          },
+          "southwest": {
+            "lat": 19.74852867010728,
+            "lng": 96.08809607010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "14dbdb2ed14bc8c54c1aa8f1c933a32e0f20f261",
+      "name": "Sin Phyu Taw",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112801221277779490705/photos\">Shinsuke Ogasawara</a>"
+          ],
+          "photo_reference": "CmRaAAAAqtWsrwtTJ7EGs9DgDIyXnvj1_IZbDvZa4h_LSkajhuYgMW25wag_5v2P-9ILtsmpc9TwZSXOPMqZnRbhcTTzXX7GuW5aDHkmZEjJgnJMCZ4vnzQVS8q9R69ZxO5pdObyEhDrfFxbhkPevZw4T4XgDkc6GhSz-tJMxUMCZyC6d5-mSR4s4e5eDw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJfZu15t-9yDARwCmaOf4p2P4",
+      "plus_code": {
+        "compound_code": "P3XQ+XQ Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP3XQ+XQ"
+      },
+      "rating": 3.3,
+      "reference": "CmRbAAAAdHPNV5vahmJb1--1BmF1e8IFYydQ2TJ9IHn3cOxvagou10hK_aWVP3a7Wss5bI_NuZHEuFO1mV6cwudzplkIL7r8Ec6jUPZaz2cYaW9_nr2Z7XDplanC9oYoEiQp6x7TEhDp1u8y06_TKMk-8ufrkPfxGhQ6ShTOdkghGv7shiuWuAa4H0EBeg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Unnamed Road,, Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.733556,
+          "lng": 96.11601329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.73490582989272,
+            "lng": 96.11736312989271
+          },
+          "southwest": {
+            "lat": 19.73220617010728,
+            "lng": 96.11466347010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "3a537a1b08ed97812e838e04afd6c7b42038925a",
+      "name": "New Cool Groovy Bar",
+      "place_id": "ChIJCWttXDG8yDARAiGd2Fv6aDM",
+      "plus_code": {
+        "compound_code": "P4M8+CC Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4M8+CC"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAUqU05ajiMXqCdfAsiE1hgI-n86gVez-SaDTRLHuXL1PIlvb_0DnBAC2DQbv9CeZMWL0hMIf9kgRd30j3Z39l-uI_ZXsJUs7YEKl1xbvmyrJKvEG95qP0LgesXH_jksdFEhCZuSVsFM0nAySGM_IajvRfGhRdFJ7UtO3dToHyKvKhDtWEFnMv8Q",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7570319,
+          "lng": 96.06507169999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.75838172989272,
+            "lng": 96.06642152989271
+          },
+          "southwest": {
+            "lat": 19.75568207010728,
+            "lng": 96.06372187010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "2b97d9d677ec9d741e475f6227b3fbaafcfbcf07",
+      "name": "Fried Chicken Bugwe",
+      "opening_hours": {},
+      "place_id": "ChIJpQ7P2f6VyDARWXrKZ6SJ7YU",
+      "plus_code": {
+        "compound_code": "Q348+R2 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRQ348+R2"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAA9pFN0KB46Nf2y0tca7wfZvqiiEqsi6enNRHu0e0x5M7fW1Hb87glJPlt6P_Ifk8E0-d4DbYLZCarfH59v4abBQN8jmYs1BUGIPb2LNdXuHGo7W9TPYVL6HcEi_5s7b98EhB8wF64A7LX1cAj_5SIQyitGhSKgvxFT2iEcKcT8UkW-DjlZ2K_zw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Aung Nan Mingalar Road, Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.748307,
+          "lng": 96.09354169999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.74965532989272,
+            "lng": 96.09489157989273
+          },
+          "southwest": {
+            "lat": 19.74695567010728,
+            "lng": 96.09219192010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e20f324be73137801855d8b2633d922d20be4bfd",
+      "name": "Taunggyi Hot Pot",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117490839847054590655/photos\">San Lwin</a>"
+          ],
+          "photo_reference": "CmRaAAAAw1RV2iqqlKEOCrhImFcHhrKo5hoVsgtymbPSK7_bRUcIWLYp71uiEcjrGGogO3bb0lsPl_2suP3mkRYEz5nALbiAP1MRWQAzhrJtRp-xXtScpISTDMgswj7uH5n3_t-8EhBPE2GD9Ohl2HuIR6aK0EjqGhRhfwnnnjtclu18KW1pX4ox6vTy8A",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJj6CFJt-9yDARx5jYIMBJhn0",
+      "plus_code": {
+        "compound_code": "P3XV+8C Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP3XV+8C"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAVfCN6W5yTlCp0kmInnw0TEidyw0cgdDCMUAYyJi_2Hc244QnTPTGKrz-xRDBoFQxhQYcpeS11GIZdio4pmljysyYdFOW3yvJkNcJzTVJGxmlIiI1qgtsyvAyeYqT8kf2EhDFPNYIszbb8Hu0ywfEJlr0GhST_-R2dMjn7ivWfOsOvZo88O3biw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Padamyar Street, Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7446698,
+          "lng": 96.0918925
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.74598492989272,
+            "lng": 96.09321262989273
+          },
+          "southwest": {
+            "lat": 19.74328527010728,
+            "lng": 96.09051297010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "af54c61282d6bd322a59b8d3908b497108937b48",
+      "name": "Mingalar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110975952741827477367/photos\">Aung Law Ha Shing</a>"
+          ],
+          "photo_reference": "CmRaAAAARU5I3fA-wjiCrUDGE5v5bdoIdnrqJ8qjuK89fkTSxXJOKi_e9iMDCIpvrl8toWz6HWlwyITJuo-V64JzUcbVbPXbbJa-W0LpO59ptyAwzDTT67Su387L_cnQLLdNNqAtEhAHAaKkFSg1FpsF_csozBUFGhRdEgSedQdjqcPowDpzd82zeXIZYA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJJRSELNy9yDARr-JHdnc91eM",
+      "plus_code": {
+        "compound_code": "P3VR+VQ Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP3VR+VQ"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAFn_pCwkMkInrgLk_BzBvyVb5c5yJC3DJ7h-ucLAZ22ltYQtEP9cmkMOlEbJSVnkPXNRdbhourCkSNiwHIsAtOXgr4LoTH85SQiBpcv-5ke8rKS8FyG7K_R-CiS52vasnEhCDX27QaVF9XXBaf9e5m5pAGhRG-6v6kxK2p3Q2Vh39jpz1al1D7g",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Yaza Thingaha Rd, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.697284,
+          "lng": 96.12393379999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.69863382989272,
+            "lng": 96.1252836298927
+          },
+          "southwest": {
+            "lat": 19.69593417010728,
+            "lng": 96.12258397010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "5f1ec9756f421671610d466a3681d075a8782702",
+      "name": "Tai Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104865022742094523489/photos\">Ni Lwin Soe</a>"
+          ],
+          "photo_reference": "CmRaAAAAfmyei9pATBKyo-cCTtcQTrbbOQRRPpCts48-enxALQWEpIz2TurY6p9nAUsNkQOeYnMfG4gE5CPYD9Q6ZaYqVs6_YjutB-W3bXoxoP8AqIPFIXseGu-3CjY8Pp-BDGuQEhBT4jStbaEQfmIaYHF-pywgGhRZCP5es2pYwAAXUmX44xg2ISDOvw",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJKcim0Pa8yDARoCeqjqKxS6I",
+      "plus_code": {
+        "compound_code": "M4WF+WH Hotel Zone, Myanmar (Burma)",
+        "global_code": "7MFRM4WF+WH"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAKENWX-47hutyRORBqt-35UkeRNMPMaObBRo6_QNYjv8wJDVzL1Exfed7awK53qr0LKWVuZtCDuaRf7cHXmdAG-8KbUiACdMXXlU7r1Q9V_j9haLD8uecEIiUWRk3VSGzEhBeTy93JIpTO-1oRzgL0QRLGhRT-CWOpE7_RxquDiEmoihtydgY4g",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7400985,
+          "lng": 96.1172256
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.74144832989272,
+            "lng": 96.11857542989272
+          },
+          "southwest": {
+            "lat": 19.73874867010728,
+            "lng": 96.11587577010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "3add00398561ef1944ed9ef0c69dca4b9c6e4176",
+      "name": "Kai Li Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114689544581160034856/photos\">Thar Chaw</a>"
+          ],
+          "photo_reference": "CmRaAAAAnRDVVzVtjxJmt-T8gbqtVrMwWQRgedoUC1dt-lpzCYQlRl_ZboRjssrrYf0diTE0nh6BcSJHeUz04_-2Wun9WV5MUhXaz3A_kWul-SGWJvczGNWKJHjyfo3bCX8aCbY0EhDJGSMzpMG1u74Vr85p5ZWSGhToUTtKSKPumfn9Pd_KcpCKSUs3QA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJyXBRQS68yDARxKtETSRFdD0",
+      "plus_code": {
+        "compound_code": "P4R8+2V Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4R8+2V"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAvUkKCDFF1ISh1n0oxz_RG3BOHY3HH4Lz4am1VUuHdMaadTjFS8QJ705TDTVTo1dbCGoYVVDMuSWHxEhl2XyADYXosfUrCUC1w3G-axkO_ffQUv-8Aa_sIa0cAV9957WOEhCrToZ51bM93RPFb53TxG6NGhQ1rU-S_kiHPNdh9xU27MlkPv1doQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.737767,
+          "lng": 96.1200272
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.73911682989272,
+            "lng": 96.12137702989274
+          },
+          "southwest": {
+            "lat": 19.73641717010728,
+            "lng": 96.11867737010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e16dcf96a1f6540c96b11a96ab5fb2bd2c2b75f7",
+      "name": "Jade Restaurant (ေက်ာက္စိမ္း စားေသာက္ဆိုင္)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102937874623620098044/photos\">Hein Ko</a>"
+          ],
+          "photo_reference": "CmRaAAAAIk6uW7Dcl7g4VnI-L0XUvwKdCyyx5qX-G3l3n_LNLHY25hdJ0fyznx_idwCjRhlgedwzw9H7XkpqHNDuOJmr2RV_wZ_KpqmO6ytlh4FRNKxLliyr0cCWn7YTKcx_FlfFEhBh3qhWICH5FNeIJUslBBqRGhT5F3-9xFWuvdWLftzfiObRwit_LA",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJ29uwOXe9yDARLL1qkbaUwx4",
+      "plus_code": {
+        "compound_code": "P4QC+42 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4QC+42"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAj7X9B0wNHvnZJ0ebGbjFkdxjELSdfjR7JqYeGitvW5CxYunXR3j0L3GJKlH-4JltWzlDBgxYWCAlLlQqoAw4yKoEr65Outo1Fs7bWS6TOwRqrJIS_UbXF9XfDcV9k5XvEhAJwndCBv43KXqO2lSnwbz4GhSmwVMk68ts-hCH5SOBh6AGthPvVw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7352828,
+          "lng": 96.11440759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.73663262989272,
+            "lng": 96.11575742989272
+          },
+          "southwest": {
+            "lat": 19.73393297010728,
+            "lng": 96.11305777010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c6dd08ffa3b6b752ddc5fca6f978f89c14510220",
+      "name": "Peace Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104759770559137701123/photos\">kyawmaw oo</a>"
+          ],
+          "photo_reference": "CmRaAAAAqGrbeXbfuIG1Ais3QBVE--v0k9V5HrmqG-dGkoxQ-gBeqjuXYSQv6tA3xA2KDHMoJhjee0w3sP8__Vt1LYSHcYQwA742bZOQXdGAXTqevU1LCmPsalgoC_PnIsE7L9rmEhDfX6cjskpg5xLa6k2bHu1_GhT3khqR77rLx6FSapvY9l-zNvvgFQ",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJgfTkyjO8yDAR1YbM-lxJDRA",
+      "plus_code": {
+        "compound_code": "P4P7+4Q Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4P7+4Q"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAGZot9TS-ITGpakxTanrXZtXwxtqc6NyY8bggaTS3NjW7tCX8pBYgMWV2J46CpM1UpUdqS10oPS_LpNr_25BXLkRjKPKcAYXqUWnRqXLcb2M-d8LESsyClxkAG0txgwKhEhCL2638z-XZwpRINqugfNIwGhT04_l2vHT0h_-jtUz3br0sKHkQYw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "(Taungdi), Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7335616,
+          "lng": 96.115119
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.73491142989272,
+            "lng": 96.11646882989272
+          },
+          "southwest": {
+            "lat": 19.73221177010728,
+            "lng": 96.11376917010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "865f5bac13bd06e836e55d3c3868d303bcb4b20d",
+      "name": "ဓနုဖြူဒေါ်စောရီ",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104759770559137701123/photos\">kyawmaw oo</a>"
+          ],
+          "photo_reference": "CmRaAAAAe0_dymsNm00Fig3BX5D3bh0bfS38E3AKn2mlM2TN_j4jv0t8PLnkSx8tzbR1z3mN_MuRwuwGfzj-aMJI3yQmDaGHfyvJvs7nn5SWx3_R9qva05_cza-CgVrpXZwZ_wmfEhDVtIe-Zw9f_eHyRZoHfgLPGhR6jV-wYdv5jD-tvQMGr6dXryQyiw",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJGxuE5jO8yDAR46P4SFM1KSo",
+      "plus_code": {
+        "compound_code": "P4M8+C2 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4M8+C2"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAH9DYl_i7HphTRZzdq8Fqu36pQ697FOMgBfHA8uclFfR0ZBlHmBiy8Q7KcrL7KlCfwEa2m1eB3dvSan6Nu9vclgcop7QoZpXzBwIkRZck3jLAdK-nqWbu1wQDyLtIBbAsEhCyFpTKLCBRSDLkAarqwhVuGhSgzeFtWGrbq8XRyMeaYyGX8VHQnw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7401692,
+          "lng": 96.11757829999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.74151902989273,
+            "lng": 96.11892812989272
+          },
+          "southwest": {
+            "lat": 19.73881937010728,
+            "lng": 96.11622847010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8a99bcb0ace38ff6467ec4c352843c567427aeb3",
+      "name": "YKKO",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112013011931440311986/photos\">Sai Mwan Lin</a>"
+          ],
+          "photo_reference": "CmRaAAAATogP7dMvXNL89ErN7xvUE9Cr3dc70A_ehuNVgv9gu6JkXJouUYXtkXJzkGxgbNhSm5zW-v4_HOOZ_aOIB1bptKGHJBIrlfWq7vR0in4NwNsWXY1tr6dJXheTp-bmnFU9EhB5DfW-RVBoNv8cpi1sP-ZyGhRlwKjcMMirSt0LhOjw6xtubp-wJw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJp4RmTy68yDARVO_oeQ5X_YQ",
+      "plus_code": {
+        "compound_code": "P4R9+32 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4R9+32"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAATzOT4pQJWun3xCxoWTrPI1T0Ju-ddA7grdDvmk0Vey3sjkTRW-TTQ56Md7EFM1qZwnviPbu9eplvvAJEDJt0yTnnZtk5D-q7rcK72-8CABnJMlAnGiaje3YfQinf3rHCEhDsFv8iYJdTkxUf2kAFcaU0GhRCmMr-dbsuUQ_umAd3VbckSgeTWg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Naypyitaw, Myanmar (Burma)",
+      "geometry": {
+        "location": {
+          "lat": 19.7393781,
+          "lng": 96.1227929
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 19.74072792989272,
+            "lng": 96.12414272989271
+          },
+          "southwest": {
+            "lat": 19.73802827010728,
+            "lng": 96.12144307010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a89f820de417f08fcde9970a6cf2d838879e797f",
+      "name": "SKY Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115848126874069082641/photos\">Yan Naing Soe</a>"
+          ],
+          "photo_reference": "CmRaAAAAvitMfa2hxUshR-MJJdSPMtT7f4D6MCXehSdjOMhUGhluP1kidM4-d_5gs7dO47Pm7XAh8SUMowGbCq7tidzafHB96h-A_UUu5HalFlGix29bBKKHOHrrtGyEkzT8PebpEhAo-H4qvrXnPYgtsWdaA-rrGhSkigsZ6AWr8rh2FuVj-RhYiwReCg",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ24hTOiW8yDAREiBEaxT9S2s",
+      "plus_code": {
+        "compound_code": "P4QF+Q4 Naypyitaw, Myanmar (Burma)",
+        "global_code": "7MFRP4QF+Q4"
+      },
+      "rating": 4.8,
+      "reference": "CmRbAAAAl65KYoid7hwc3bTBHKF0GjdN-jL9ObeHkArBk5IbyRYFOmrBMIJdduk4NKfEQiJKfQQ_5JJN0cVFbVxXqUtKZWjt8uaL-fPfPnrBnskTThS6fPJlHw_OQMAPciWUcLnyEhDMUc41NBxl5WqOfTpacesWGhRlhyizYM_DYHvXmb7oKzB4SBcGBA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

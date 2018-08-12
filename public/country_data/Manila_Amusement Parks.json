@@ -1,0 +1,863 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCCwEAAOhXyPBV2B9So_7SfB8ngmTdS2ubjYVhfj09zAi3rAKd7oQEQX_spv_LFqf8umBpuhIpVVGKuPARigx-qhhiITIKtQSzaCCRMq8px-SGBjBwkjxKfJoOjHAas9Z1tbLg1oEI_i1ruZkNqy5llkq6LiFZlLWZUbdveZ8r1CQmlZST3jV69oqWb6vBNHWqx-pskjg3r-NRFhWCVTROVtsH-kY_HE5dS3mFsdFfOEfoEkVmsNqr48_3OjYV1gmSGqf9_AFcr7k211ElcnnBYy_vN64URZ1twvUAGSrYR8US8Pz2-2gxRvAb8ymXgaC4TxSgVapEk6haw8TxJgsK0ehIruRwQ_-5PJL3eqHngVisYyRbEhDIlnsTcG2Hto74F9X8KuG7GhTOkbiIpZ7tvkSOW7UM-q7yTpREMA",
+  "results": [
+    {
+      "formatted_address": "Diosdado Macapagal Blvd, Pasay, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5518082,
+          "lng": 120.9847069
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.55294837989272,
+            "lng": 120.9866772798927
+          },
+          "southwest": {
+            "lat": 14.55024872010728,
+            "lng": 120.9839776201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "5e813edfc2287ecb0b76e97e98fd2150860017b2",
+      "name": "Halloween Haunts Scream Park Manila",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102214686572230034201/photos\">Joanna Arceo</a>"
+          ],
+          "photo_reference": "CmRaAAAAE82EQW7kZrYB--PGZZ-dcagNUfqqeL06qcoAh7JDp48BiX0BStacFylw5vkWI4QUtHj8nIp_XilOVj-TK9dQHXh-dB7gCkTUkthX4O_620orZRIVl1TM2aKloljQ8OQFEhBcBTTmLriaSGW_R651wJ_MGhTLAtmIROutYyX2YxnxOlqYLShOOg",
+          "width": 947
+        }
+      ],
+      "place_id": "ChIJc6Y74N7LlzMRqY6hEgT6xQ0",
+      "plus_code": {
+        "compound_code": "HX2M+PV Pasay, Metro Manila, Philippines",
+        "global_code": "7Q62HX2M+PV"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAFIygbfJFWje5ucZTK4zt1TsQYJGd-IhxfW-0y15rE7YokuPelE-xME0n6KH--kPq9564x-dkw4pK8jZWtWeQs8eAWAZXY57qjHREjMVKYoDH9M5M5QW4kScfUGN8BBiYEhCrttHpcoQ_XFPBAZ8GDXwMGhTUVLDGPNhjFy-KwlaRv2Ozi_1efA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Vicente Sotto St, CCP Complex, Pasay, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.556588,
+          "lng": 120.985213
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.55810742989272,
+            "lng": 120.9864663298927
+          },
+          "southwest": {
+            "lat": 14.55540777010727,
+            "lng": 120.9837666701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "00ca14fc45c6f912ce6c6383bbdd7adf9df73a45",
+      "name": "Star City",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113266696314334513596/photos\">John KIM</a>"
+          ],
+          "photo_reference": "CmRaAAAAV3z8DOrW5n2xl1VODa_k_fdevVQpoylKnrRKQHfufTh3cIiEZtxGvmpCjrys9EI20wnFYNtzqJ8jjmzj7cGZMJIA8SIKYUr9WO7a-Zq-q2hkGZxpRT1vzg1vTkvjCtuWEhDRhxedY-8JO08KfjAjHk3aGhSquGQcc-74NWu8mjtdpYQ0zpEFKQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJO2OyW9jLlzMRYewVuNPw_b4",
+      "plus_code": {
+        "compound_code": "HX4P+J3 Pasay, Metro Manila, Philippines",
+        "global_code": "7Q62HX4P+J3"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAqMxfDWg5oHVnxKPisjQT9eM-mtiadX7MX95EDZeFk4S4OahFRR28C1uDFjnqS8HcwPW96nhOD8hZO6q8LXmQD2T8qJNvFlsaYjEaWWJPnLqieltpw-HtKDoEkNMRf64HEhBQZq4DrIQQ4j4y-o0zhqcAGhQ-SglucBfjrVUvfM1vKMBU8VQO3w",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "339, 3rd Floor Yupangco Building, Senator Gil Puyat Avenue, Makati, 1200 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.562525,
+          "lng": 121.022878
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56387482989272,
+            "lng": 121.0242278298927
+          },
+          "southwest": {
+            "lat": 14.56117517010728,
+            "lng": 121.0215281701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "845a5a5d54087762e47d6ec70568f1cfa69072fa",
+      "name": "Zoomanity Group Theme Parks",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 414,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116276263227071879781/photos\">Zoomanity Group Theme Parks</a>"
+          ],
+          "photo_reference": "CmRZAAAAif_R12MVaOfuMvcUJtijcgHD2HaVK-3q2f8Yy0n9ktl1k-0fZUJsrP6J7uddRuKEYXYbk1dhxoikamYhcB81VUr5iGd4Fpb99DuUobus2zyGdV4jPiHUAH35TFBpVwr7EhDQihlSoR7f8DwxW54jJ1V7GhSF7wGnUXN0VIHvowV_PIBq77LIEQ",
+          "width": 620
+        }
+      ],
+      "place_id": "ChIJiTsk8AfJlzMRJ226XeDdcb4",
+      "plus_code": {
+        "compound_code": "H27F+25 Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H27F+25"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAAeOYFS6J_iWZ92qUSbAcN5GHhCLaTELxhr2-nv4ehy0BSdlu_mVF38UhJ9qfRyuaWtSGsCrsspLveEESfEfTqVXYVyplxQN_xd0GauL9SIde12A3xY-NR9u1f1tR1Zm_EhARHqE-9B-izearAyV2shd7GhRW9T95Fj3Qj4uI2YgUGhfuTjkraQ",
+      "types": [
+        "amusement_park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "BDO ATM - SM San Lazaro Business Center, Yuseco St, Santa Cruz, Sta. Cruz, Manila, 1008 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6180558,
+          "lng": 120.986112
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.62002497989272,
+            "lng": 120.9868092798927
+          },
+          "southwest": {
+            "lat": 14.61732532010728,
+            "lng": 120.9841096201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "731729433ca58ad444b41753e478ee98eb6ceed7",
+      "name": "SM Storyland",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106440601783393012212/photos\">Apollo, Jr Tiu</a>"
+          ],
+          "photo_reference": "CmRaAAAATQPNedcqadxhKwl-vICRA4n14HxT69cureRe3LF0-q8Y2_Ub5IboEoFx7AIleJRVf4Fx6H3Z59cUeZpEZPOB0P6zdUBspdm7-0SvA2nFFz5Y6U9gjZEOX4fnKp8OiyZuEhDTtVMfOTRPWPM9Qj-QpNk1GhQCR3yaLRdum4enGGherkl_DzN44Q",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJV3vPa_21lzMRRTU2O8_yE4Q",
+      "plus_code": {
+        "compound_code": "JX9P+6C Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX9P+6C"
+      },
+      "rating": 3.4,
+      "reference": "CmRbAAAAKhNbx4Kj7jAJChYhJOo9gQfgLiHDbvYEKJC12rC0yqz54dbDo1saIYMHAPDoTTILhupXzlWKOQUvQxVWcf6sd1uOtjAGg_qoCAEDGUOoHo8lLny-c9uY2kh7AFFQ4PETEhBXx4KfICx3Y4RGSi8gKuiKGhRP0Ts8CT9L5ram-FiFWMvMieWo_A",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "666 Behind Quirino Grandstand, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.579156,
+          "lng": 120.9725498
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.5822745,
+            "lng": 120.9757739
+          },
+          "southwest": {
+            "lat": 14.5781165,
+            "lng": 120.9714751
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b6c79398ad2c4b0b4d5147f696099f21794a9c56",
+      "name": "Manila Ocean Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110989650998707415201/photos\">Robert Reid</a>"
+          ],
+          "photo_reference": "CmRaAAAAot7lKq1IRsYb0Xv_wRLfQtSM5_aAPD_GgL0sbhA7NH-DHFu4HJ6enNlMubikjyevGpbZiIIV6vo9wWwwr94N_5z0oGz_IfUGLtvXzf5QX7sL7qwIwOcJSRvkGdIBFlCwEhBIslHwDEHXa-omXAJdm2HEGhSstpZnW_hYQeH6fKHL9bX10jsB1A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJDXUM9QPKlzMRDOajr3iHEoQ",
+      "plus_code": {
+        "compound_code": "HXHF+M2 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXHF+M2"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAG7pVAJNVMZYoESWcfKstvctES0hX1vYrwo--bQoZNtjypmDakXI8U0N6oVy1ipXY0W9Z76jnaIYf6ovctqVeFnNM3gERuooa7FlPYHNUrhLzgPHoziRQNzKnirY9l0uzEhC1XPfVzbQHlufQFXiTMV3aGhR-kC9ldtO5cqhr85W3T6AkXxKUgQ",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Pasay, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5548493,
+          "lng": 120.9869665
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.55619912989272,
+            "lng": 120.9883163298927
+          },
+          "southwest": {
+            "lat": 14.55349947010728,
+            "lng": 120.9856166701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "abe2e6fa1b0bbd1510e56caed97153eedee80a2c",
+      "name": "Boomland",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115338279981022433314/photos\">David Montasco</a>"
+          ],
+          "photo_reference": "CmRaAAAAAQN46dHiVAoU6TJgzO0PHcB9SRS6oShu5BYpuzNdqptOAJGj5fARfScufDcbyqw3vTpY1AyP8hq_50QXZNlDWlFlX28xQ3AmPXyxkB_sEsiRBkxEr7c0B8Y_IGBM9X_OEhBY4pmKdWvyqytQmH7Wpa_OGhTMDdlPwbiQewlLbyiIx7-z1cp-Ew",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJuUtOhdjLlzMRLzIZSj06JaE",
+      "plus_code": {
+        "compound_code": "HX3P+WQ Pasay, Metro Manila, Philippines",
+        "global_code": "7Q62HX3P+WQ"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAyL_8t7y7yKk5rH4R8bwNzoUdL2QaTrpKMHUqAR3pojRCvbtnDicsgRNMGeNsZtqS85u-kVSb5zdAzUSXFKxlcKQn0AnGTjL6cRoktmeCm3oNOc4dJuzTQM7zx7LOCbRaEhCup9l6UdKfLriqWqkTK_9aGhSZsOnQQ0S3Qo1LXFPFRZvSlzMibg",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Ever Gotesco Plaza, 1958 Recto Ave, Quiapo, Manila, 1001 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.601859,
+          "lng": 120.986991
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60333822989272,
+            "lng": 120.9884073298928
+          },
+          "southwest": {
+            "lat": 14.60063857010728,
+            "lng": 120.9857076701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "f52f5a2c8eb73cdebb4432eba1fe8dd7bf27db50",
+      "name": "Funtime",
+      "place_id": "ChIJd080hgLKlzMRwSAHdvhIoUo",
+      "plus_code": {
+        "compound_code": "JX2P+PQ Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX2P+PQ"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAagnsCJ0xA4YYT0zqqLt_DGEvDNMuSLrsG4AJ39Esqxkh2crYuxa8nuDnVYpYlDLv11mrIyWUBsxJuqSHSav399lXpwVcrLc8F3lPFEzqPR7pBiUYKN1xhHmegtY5GckaEhCQxExx1hr5CzJX6li8R1AdGhRM7DLGqzJY6b4KLhF_gpnC07t9RQ",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Manila Ocean Park Pay Parking, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5792608,
+          "lng": 120.9723691
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58061062989272,
+            "lng": 120.9737189298927
+          },
+          "southwest": {
+            "lat": 14.57791097010728,
+            "lng": 120.9710192701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "fd44c20cecbd0670413ca3dbcf8a64289b70235f",
+      "name": "World of Creepy Crawlers",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116091421712289343724/photos\">Redhee Pacheriwala</a>"
+          ],
+          "photo_reference": "CmRaAAAAeApmk6-rIzUWQYDY5wq0JETWRf9Y1OUvJjNAQyEddtWF5iZyPr7tdtYPh2x3zfpr0AQwvWU72ZocDfTCAHjBdwbP9hAIFRq2QXemgkocUBySSxF0ks0wYAGzm-gMfgX-EhADJIP6Gn7TgYjp4UnltMKbGhS9r-vtEQI4QJFmQ9xAqDha8fl4ZQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJNTqC7jDKlzMRnsHADdrjjeo",
+      "plus_code": {
+        "compound_code": "HXHC+PW Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXHC+PW"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAA-ibPa76UNpEj66yxWimd8AE_1wmkdPnztOhTzd3hqIX2GT7pIUAutfgMA_NO7kio8Dpxm0C8RaVC9GF9eCfLeszc-ual1482C4x9CzIZ43WpJMvp_xGyJ6NtqpxNpbTnEhDFqlwnSbZBV8KrVXejlKXlGhQk-4l5rlVF1PZouPjlfTbx0y1cww",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Kalayaan Ave, Makati, 1210 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5659411,
+          "lng": 121.0279729
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56695467989273,
+            "lng": 121.0292024798927
+          },
+          "southwest": {
+            "lat": 14.56425502010728,
+            "lng": 121.0265028201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "7bfd7dd38afc9e903ae824aafc844b5044e133fd",
+      "name": "Mystery Manila",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107442189456789865216/photos\">Kenneth Quirante</a>"
+          ],
+          "photo_reference": "CmRaAAAAb-jjbMYcvyoFA1KjNF2kunZbCrnOt_ZZAsA_Pj0lXfNl8Km8RsDSHrPwv-KoVtyDJ0y8RH3IEtR7-hud0ahFfzdbceSisvOMrfgrqBPNwNiCh_EOODxHobjfOzeiPExgEhDcpmdgdyxicV9jSWXtQk2sGhSqy8qVHQzwl0Hix8NC6M6Cc-b1_Q",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJxddlfqnJlzMR4EH_hGdxk_0",
+      "plus_code": {
+        "compound_code": "H28H+95 Makati, Metro Manila, Philippines",
+        "global_code": "7Q63H28H+95"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAzDuNRvKi8Y__1P2KBlvI_kK2Rg-2G16eO8Uwx16_4rMX5hKeJXEOEziFpnDELh3KF6NynrqA3vDFg76dBeUosYyvDZ0gyYd2DG1BAH94OvQ597J_hMecw1i6QdxS__JFEhB4mCZcQcr9--WCxVBvMrNMGhRAC_jrV2bMq0_G0dfb1ShbJI9a8Q",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Seaside Boulevard, Mall of Asia Complex, Pasay, 1300 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5345474,
+          "lng": 120.9792006
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.53589722989273,
+            "lng": 120.9805504298928
+          },
+          "southwest": {
+            "lat": 14.53319757010728,
+            "lng": 120.9778507701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "a3097726aa6ee3987c08229feb0f38fa51ce3b89",
+      "name": "SM By the Bay Amusement Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116427994425390258674/photos\">Chia-Yu Yang</a>"
+          ],
+          "photo_reference": "CmRaAAAAm_LlOhaq5d2Jav954_83D_QzZO37gjcB6BSRExqSoPRM300O3-ygx4bwcpwCtpP7kiIzCMln2cXmWYeLm43O-EQH1rGECrQaqfU2mQFzntCRfFqsqzxnaX-jdLgovloVEhBloZqSa2vJFS_OqDM9o7ZCGhQUqPiu0Vth13Gf64WTqhmNx5CEqg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJwwTf_nLlzMRElZyCkZpCf0",
+      "plus_code": {
+        "compound_code": "GXMH+RM Pasay, Metro Manila, Philippines",
+        "global_code": "7Q62GXMH+RM"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAH0VUTcrefYcsUyipAEBHnZUwsYG5Or9nl6rFc9VeanxyBx_Ghuzr0fdaLAPn_Kws2tk9xa1UNtnlfAi_1gJKhHD8M-cOdujHE35rib20G2wZt6nWJDD3XQMywXjx0AUgEhA_kiL_OvxtfIAwqal5LWZzGhTsf0y-mdXVKr2tI0RwQntOePhoIw",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Parañaque, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.524765,
+          "lng": 120.9916019
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.52611482989272,
+            "lng": 120.9929517298927
+          },
+          "southwest": {
+            "lat": 14.52341517010728,
+            "lng": 120.9902520701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "7537ce6d11f4b7b9abcd336fe4187dd848b1ace3",
+      "name": "DreamPlay",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118004160366421967894/photos\">k m</a>"
+          ],
+          "photo_reference": "CmRaAAAA2P5zrsRWGhYLqAj57XJ7ig2Cj64ea1-4cNHhwTt_dB-ifJLtRJCvp17NuKZGUXJ4ltsXO0Ih8BllW_9dTDgyIbFUBrOcWo54gOhe_0CEKVaM3oGLvNzUftMGO4wiWp1pEhDMpjV3sTc0Ni0YQISX5lkKGhR3qkwcDkA4T11jc9BL0JSMziDKlg",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJ104bFKvOlzMRCp3pPbTWMmw",
+      "plus_code": {
+        "compound_code": "GXFR+WJ Parañaque, Metro Manila, Philippines",
+        "global_code": "7Q62GXFR+WJ"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAbsiacpxL7qlT0JkoMiIyw8NnsLW-oDKC0RZ3RhfNF5Hl5p0NfLfDr_goPXiCOSI_nCsDuhLuPppITZnc82PTkfbnVVuPClWN86cYuJdB_sQzKvwsqfGD73AS0Aiox9TfEhAoK1fSV7L8rB5Un3xkdOV0GhSRj5d9MVNKvD1YJmXSU5pnaOkCNw",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "9th Ave, Taguig, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5497074,
+          "lng": 121.0508311
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.55101362989272,
+            "lng": 121.0522922798927
+          },
+          "southwest": {
+            "lat": 14.54831397010728,
+            "lng": 121.0495926201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "5069d4342a103d2f64d2c3599004837319238c7f",
+      "name": "Active Fun",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101984822692808908205/photos\">ann mayuga</a>"
+          ],
+          "photo_reference": "CmRaAAAAlckyE_YJsmrLPqCG_aXOgLxcfULe0T60aV93E9wVEK7y8izc7XCW0NPOe4OfLHqn5ZaLysWauk6RscG28dDzRqATy44301ny-I2NM7jcPGabN_SnapEPFfoVor7N-jYjEhBcrUAVl1LUVQY6oPVrxXgNGhSaDkISccNLa2an03UZFCxfm0luqA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJL_rYHfLIlzMRgDN3nOuLU_8",
+      "plus_code": {
+        "compound_code": "G3X2+V8 Taguig, Metro Manila, Philippines",
+        "global_code": "7Q63G3X2+V8"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAp1Com-DgWqSLZbxEH1Gk3SlXn_ExHAcMTLgUhfqLZRfAoGdSCuNf5qBaavADrLz5JoD-KCgZqMitL4Lv0aGGWBkTlfZz7PRRulImVPFtxKBwjAD4wQ9AW8pjhpEXHHo0EhA0JCCd0pYpFeIbVT3TUazNGhRzHXsRNBWq08SeLVYf36t_GUcdzQ",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "577 Padre Rada Street, Tondo, Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6062172,
+          "lng": 120.9689566
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60756702989272,
+            "lng": 120.9703064298927
+          },
+          "southwest": {
+            "lat": 14.60486737010728,
+            "lng": 120.9676067701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "10a1886c774bb25ffd0424db3a7b8b443921fe94",
+      "name": "Roligon Amusement And Foods Corporation",
+      "opening_hours": {},
+      "place_id": "ChIJk966gzrKlzMRENrb6j-t2Ho",
+      "plus_code": {
+        "compound_code": "JX49+FH Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX49+FH"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAE29iC-YnoEQ5b1XrQ-sV3cvCpes_lEOiVgQ9ytU1obJ6pg14XWki6fNWgFMZNAQ7ddKv011hoghRkiiH_fDtmw_DxaLuoiktTApbFxYARpZKoFbM-P1yHsMDZUdqZI2eEhB1-7N_t3dKTcTMXZio7lUmGhS3PKzrnwl6wXjZYqf2b0QCRX0sYg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Diliman, Quezon City, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6533918,
+          "lng": 121.0480225
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.65474162989272,
+            "lng": 121.0493723298927
+          },
+          "southwest": {
+            "lat": 14.65204197010728,
+            "lng": 121.0466726701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "ac39cf52c7af5b40eb15bb5d4592ef34e53f33fd",
+      "name": "Circle of Fun",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100888726049418374277/photos\">Vince Garcia</a>"
+          ],
+          "photo_reference": "CmRaAAAARihT-LLK6Rce0OwJlutBfUaPS35SCqQqalLaFX13on6I3Iw1vfY4nKx-eEpxzf73eAEPyP4kvtGJv7pMbS5kRKI9-dx1omq6wGkWdKIZYhhsulBeDB_0NtmrSarfD_ohEhC4eS0NfOhlL1Y4LXDKBPwhGhTN58Z8xKg6TSYROWHREl8Vk1iB6Q",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJKeIIzxG3lzMREPRXb7ccU40",
+      "plus_code": {
+        "compound_code": "M23X+96 Quezon City, Metro Manila, Philippines",
+        "global_code": "7Q63M23X+96"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA2c8s01Uq-ZDOd0j_QV9baLxUn4wNsIEhP45mBguKPH-9GjIG_pT12yYcj3dSJ5CZgITiFV0aSxvbrtQrRBdmxbU_zsZEpm-tBpx8BDixah1f-GZiHKjG02lg7oP-E4qjEhCxaqydx3kX0ED2hmQkYv5FGhTmR4wbgHJGsxNTKCHYvuQQ8b_MWA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Evangelista Street, Quiapo, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6010208,
+          "lng": 120.9834136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60237062989272,
+            "lng": 120.9847634298927
+          },
+          "southwest": {
+            "lat": 14.59967097010728,
+            "lng": 120.9820637701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "1467e3112075ab4058ac559d4c86787ffb4469bd",
+      "name": "Val & Vhon Amusement Center",
+      "opening_hours": {},
+      "place_id": "ChIJpSFAPwPKlzMRaVGUzVsBP3w",
+      "plus_code": {
+        "compound_code": "JX2M+C9 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX2M+C9"
+      },
+      "rating": 3.5,
+      "reference": "CmRbAAAAfIfw27_4rdsxEFjfgyluYAOHi7pGuetdf0lWr3D2c8zTP-IiHtPSib3aJYUz5HZ0k90alx1UemDwh5Y3O_UuRNkBdpMCu3gRE53fYiQcODNcNEsO_x7K-J_6ARQgzr6AEhAtcs6Xzoy-EOo5TVME199uGhQ554liNM6OqlzYiy_tLJ0UZsCmlw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Pagcor Ceo Hyatt Manila, Del Pilar Street, corner Pedro Gil Street, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.573055,
+          "lng": 120.982817
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57440482989272,
+            "lng": 120.9841668298927
+          },
+          "southwest": {
+            "lat": 14.57170517010728,
+            "lng": 120.9814671701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "7159661edf26d921086eb5b496e282279be8f222",
+      "name": "Philippine Amusement and Gaming Corporation",
+      "opening_hours": {},
+      "place_id": "ChIJHQ1W7CvKlzMRsOin_qTl2cs",
+      "plus_code": {
+        "compound_code": "HXFM+64 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXFM+64"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAASOwZhEBrrvx5ONOV-S13oTl8RWutBTILYFUp0vwzJzQGawocdjU_rgQj0SFShEsWaXEoXVJ8dfuof9wCf2RYln_ooIt3UlpMhTD75GiFv-TY5nnJo3170za-WozqbTrwEhApWOy90-Ozz1TCNYO0L_oVGhRhK7MSM951GDhpz7UJDF3WMkSLeQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Pasay, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5359897,
+          "lng": 120.9791728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.53733952989273,
+            "lng": 120.9805226298927
+          },
+          "southwest": {
+            "lat": 14.53463987010728,
+            "lng": 120.9778229701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "cc1beeaaab4df9dc732c62bdf049d2fef40b7db9",
+      "name": "Drop Tower",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118321328159012167697/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAApQrR4T9IyA2t5ejUz2Heaw5x5Z-zyb_iH_1T3Z-OA3AdA5X2FljVmP95j8ueR6NEpCajtEOnryvn4sfDcJTOBKKXh0iRgA00fXxJhuxZPClagi-4MwYey0QFp9H_SGYHEhBk6sCOah32y3UMVj_PbSTwGhS-reIkG32-G8JXuf4Df9TtovRSTA",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJCYNnAPvLlzMREfRcA837emQ",
+      "plus_code": {
+        "compound_code": "GXPH+9M Pasay, Metro Manila, Philippines",
+        "global_code": "7Q62GXPH+9M"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAxQIOe2aHwNNkl2qG94LAPvUfmGmD0DkfDPRqoUnWr2VaEC3Ry0O-UexPnqgcgwEBn4mkWx8kYeX10Uf_YDvPqd0WY6Aqx0KSDbPqShW42-DD0n1jbtSDlKy62xP8HgV-EhDrGqZsOaihoGkI5nwhXNvNGhRuMKCNjh-g9Xz_qZ-_FQWhumfHkA",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Highway 54, 2nd Floor, Plaza Building, Standford Street, corner, Epifanio de los Santos Ave, Mandaluyong, 1554 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.584694,
+          "lng": 121.05529
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58590327989272,
+            "lng": 121.0567106798927
+          },
+          "southwest": {
+            "lat": 14.58320362010728,
+            "lng": 121.0540110201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "74f49eb2d667c778612d86f9e8d43c8ba90e00f1",
+      "name": "Manila Sales Office - Ocean Adventure, Camayan Beach Resort, Adventure Beach Waterpark",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108852214557727887342/photos\">arli estolas</a>"
+          ],
+          "photo_reference": "CmRaAAAAL6d6KmVNtXylJn1SwTCjJEDv8ICy55IOpFE2BFUjvXvnCeRkvT3P39viPwhTKwRsmMqNGDE8PgrsPUH_DmkPMQNq211eH8N0_GaOZhIz--2Pg52fT5J6DO5np3NjlMM2EhB_A4huAgKRIo7EODrnXFinGhRKPt8TFO5GfekpER_Oa97RQJ6nKw",
+          "width": 1285
+        }
+      ],
+      "place_id": "ChIJU1SS5j3IlzMRE9HyHRi0GY0",
+      "plus_code": {
+        "compound_code": "H3M4+V4 Mandaluyong, Metro Manila, Philippines",
+        "global_code": "7Q63H3M4+V4"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAUd084As6dbwl6mldBhVJJqb3HChW4CrNsHeFB00_DYmoEcDkitFJjfO_sPqv8CZUthYgIk86DJdfsY3ixjLzkO93rIxZwnP4riO67vyb1usa7sBOkTe273PuigzqF21eEhBLhAPNPquNgv27ZNZ6zrYiGhRznk5oLwgUL5NvUS-uMwlsxpdA-Q",
+      "types": [
+        "amusement_park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Unit 124, Balagtas Villas, Balagtas Street, Barangay 15, Pasay City, 1300 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.559862,
+          "lng": 120.992534
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56121182989272,
+            "lng": 120.9938838298927
+          },
+          "southwest": {
+            "lat": 14.55851217010728,
+            "lng": 120.9911841701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "5c5075ed33805cf7596250e814bb63b0acc246ef",
+      "name": "Ashok Amusement, Inc.",
+      "opening_hours": {},
+      "place_id": "ChIJKz6aYnzJlzMRJz3AG9gUwqk",
+      "plus_code": {
+        "compound_code": "HX5V+W2 Pasay, Metro Manila, Philippines",
+        "global_code": "7Q62HX5V+W2"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAIWTZl2PDvGtHvkZKae2RiG1XBX9BkMx2u7emmF1QIiZDq_QRuM-ur9sNxOEvZWnBuSROMKIBmIwQdozFu977FNlCFg04MhoMTw-AUIgIakF1_e3Si-JcPPY3lF1Z4dZiEhArDKNNr3VTNEzjW-asf3igGhSncuHqYUCHqeOpRVfB4WUACMaALQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "3rd Level SM San Lazaro, Felix Huertas Street Corner A.H. Lacson, Sta.Cruz, Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6183807,
+          "lng": 120.9854824
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.61973052989272,
+            "lng": 120.9868322298927
+          },
+          "southwest": {
+            "lat": 14.61703087010728,
+            "lng": 120.9841325701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "1cadd0e1ce2fa70389b736b65d8384863961f79c",
+      "name": "Quantum Amusement Corporation",
+      "place_id": "ChIJU3icrv21lzMRAV1SXKLrNEI",
+      "plus_code": {
+        "compound_code": "JX9P+95 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX9P+95"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAjoxwQ1CKHVHuYEbRDY5Zo9STXxnzwVbZtSdSToID4BgLnqWrp7EbjSLYX7cANDEiXxRX0kLLW9OFltjN-AdqFqFkkky_2PWs2_kzrepaIKh3fFA1ANm_WScWQuZ_dgiFEhCX3IIhw44CbniUpDEyAl2eGhS6AyWzOrm1a7BjMhgscIBsEY8ZjQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

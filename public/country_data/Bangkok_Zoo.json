@@ -1,0 +1,241 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "71 ถนน พระรามที่ 5 Khwaeng Dusit, Khet Dusit, Krung Thep Maha Nakhon 10300, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7702204,
+          "lng": 100.5163477
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.77138557989272,
+            "lng": 100.5180555298927
+          },
+          "southwest": {
+            "lat": 13.76868592010728,
+            "lng": 100.5153558701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "1e6a0e5a39da1b0029726a51daa9f31a8de945fe",
+      "name": "Dusit Zoo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 802,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105502968947029006542/photos\">Anusorn P.</a>"
+          ],
+          "photo_reference": "CmRaAAAALVvIpGLMhW6plXWFjgZk02JHjUT5PKJ9nwjHvxFKfC5PjstrtGLAoOiOHT6khJ-OM-z6EV6R5oLVYVuTxh6DmpAHf8u_0sFRjSvuT95TKtYPom1TR4o3Pl6r87nb3QlaEhBTCCd3bYoXk3B5-Jh5Q-tbGhQ0uqT0ns2H6K23BWcGUFe_6kb32g",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJG9bRt1qZ4jAREbS4diRB19Q",
+      "plus_code": {
+        "compound_code": "QGC8+3G Bangkok, Thailand",
+        "global_code": "7P52QGC8+3G"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAf2A6rKNLSNB1tCPpEMcvKZDYQ35UtyrIgs5P1fXbGfLu5_JGxcmVsU7u__VLMg2MYTnpJUO18sYu9TzzU56JaBPsyz-bLVDlIsBupCrCwnRbs7MKk8asyNahSiC8LJGqEhA_IZL0Gl889Igf1WGBnrkuGhRxsSNj9BegvAp_hHqs-_nYtNmwzg",
+      "types": [
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "99 Thanon Panya Intra, Khwaeng Sam Wa Tawan Tok, Khet Khlong Sam Wa, Krung Thep Maha Nakhon 10510, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.8654912,
+          "lng": 100.7034101
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.86727037989272,
+            "lng": 100.7084855
+          },
+          "southwest": {
+            "lat": 13.86457072010728,
+            "lng": 100.7017183
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "4f58a3d6336ad5b4a88b83b26a2f7ca2ec01c84d",
+      "name": "Safari World",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1328,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104802652655513458951/photos\">dhaval vikani</a>"
+          ],
+          "photo_reference": "CmRaAAAA4pjLB4_GZRYe19s4EHJ5xMgxsZgbaNCk5-LG8zgQy6tIKnx1FF58X0GR4ucr5rnJx4gC9dLdBhkvQFx4r4vVPTjWvlihEQAnjNjBYQgijFygen8YuI9TWH2goR-ZkpaQEhDa-qtB20L-MDX-Vjj2qeyWGhQ1iENKUvm1-PEI39ef7uDSbtOXEw",
+          "width": 1994
+        }
+      ],
+      "place_id": "ChIJu3Kvbk1jHTERxDQviagK6ig",
+      "plus_code": {
+        "compound_code": "VP83+59 Bangkok, Thailand",
+        "global_code": "7P52VP83+59"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA589Iu7rg_vnlsjkGpyTX_lYNxrKMjKsiktubzc98UZpWZYtbkMdvhFob4phtW67mxPm5XrzrhXLlIZdfuODopjphOoZN13qWbuSNHFXlPNSPoqztPMICP11aj1BsddmuEhASJWoeiQivyZBkBNwAh92sGhRpLRRS6h7IXY5sv0zwvhREJzCB0A",
+      "types": [
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "10280, 555 Thanon Thai Ban, Pak Nam, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.5720566,
+          "lng": 100.5976763
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.57340642989272,
+            "lng": 100.5990261298927
+          },
+          "southwest": {
+            "lat": 13.57070677010728,
+            "lng": 100.5963264701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "71d17ab240acd7ec61dc08ba7e8c592dd9af6acf",
+      "name": "SamutPrakarn Crocodile Farm & Zoo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117903560778653151294/photos\">ike s</a>"
+          ],
+          "photo_reference": "CmRaAAAAGYYsfcxfXkuDhoT1tzYUbmNMp10a1fwspeCJ9LCwI3_qLwaeMui3VjmONVqaOOxRbbqr1d4tJ1KtJqIJK-8NtX1bGzeWEMh8OuINh7wvE3jsS4gSlCBWzBvmP1nUnrhAEhBtq2ugGBotpq4c4Flow5m8GhQJ8BLqWeg2Pr31u94edfNYDLxvzw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJrelJAECn4jARZflb5aM7BR0",
+      "plus_code": {
+        "compound_code": "HHCX+R3 Thai Ban, Mueang Samut Prakan District, Samut Prakan, Thailand",
+        "global_code": "7P52HHCX+R3"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAvjqhkVwWLw6IxoMavaQYf1SOyn0FIB4PIxIXIDsTTCxrGNeaop6Lrx8nyf5Dd3WOunIK2rGXNrTzwFbA2_5UuSJOi_Rc1Gr1vMrB5cPxZWYrc6F2Y9GD_IrRfA64GJAZEhBHBSvSlY8lGanu_Bb8B_fAGhRbnfSWHSZKR8bE_zNCbJquzNzxQw",
+      "types": [
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "991 Rama I Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.7460298,
+          "lng": 100.5349789
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.74897805,
+            "lng": 100.5359642298927
+          },
+          "southwest": {
+            "lat": 13.74504705,
+            "lng": 100.5332645701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "59370109017a26fd39d847278b99a22d13380514",
+      "name": "Sea Life Bangkok",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117124834148039936027/photos\">Brett Ferguson</a>"
+          ],
+          "photo_reference": "CmRaAAAAcbbUztkn1lfeu51Fx-rti0ljaewtV7-fVfLlFWavnTuFM7lIdTheMFd3ugIEX9UfyIn_G04Sc1YMAl56KvH_uGNB2dPhvCbpSqpYl7-OJk-F5JGNAueUZCOMrFL8nB5bEhBO43tPeHUPNvGBW7-pELILGhRq1otSe8EZA-sVi4RefaKs8n90EA",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJH4I85c2e4jARUMYLeiqfBd0",
+      "plus_code": {
+        "compound_code": "PGWM+CX Bangkok, Thailand",
+        "global_code": "7P52PGWM+CX"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAzGcsFGe89HsfWBYFSASjSHdlCHNn0QZ0RTHr66WfZooSKWOHZINNOXS9Y5ed9JcL7ifYZ4ewHTNFkcJwnWD2OwYxYiz_m8NUHPiYBHuBK8aj9KPW03MqthBhF7Yuoz96EhB-cd5gXhbY10S3DQIKUMkEGhRFawoHRxXUkBXYAGwmaC5b5jP-iA",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Thanon Ngamwongwan, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 13.842573,
+          "lng": 100.575718
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.84392282989272,
+            "lng": 100.5770678298927
+          },
+          "southwest": {
+            "lat": 13.84122317010728,
+            "lng": 100.5743681701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "f75902a0b0492b4fe8156d0c6a37535384be86c6",
+      "name": "Bangkok Aquarium",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108975904225182345695/photos\">wittaya nawachinkul</a>"
+          ],
+          "photo_reference": "CmRaAAAAjSTzDvT7Nn7asuleVY1qBmInnRnDraPBZgFDCn9r1wTyzV2ukPzmQlKptiUNCozJrJxO1EDu0_Oi33gxdYbMssafZHUtOkC2XsFbwHMOV87jwV7CEb28-P1wWDdLh0B8EhBScSFURwwAf0KlD__0hjSkGhTQyYhzDgzZySAHs44gpj8qauRiMQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ3ewtFB6d4jARqjqcAmeyJSo",
+      "plus_code": {
+        "compound_code": "RHVG+27 Bangkok, Thailand",
+        "global_code": "7P52RHVG+27"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAQt4rhf894T98io9RfD_beyW1Ywjx4IOmyWWHaBX9d9OpZCHSAUeqQKZo3O0iczqxIVv4XJ4dGEQwJMwCUpFuoCRZq-1ojhoZM3DTvuzSaQTLZpTQxEU0gsQgL3LKu68CEhCxjH0Fk_FtBqmscHkuF-35GhSO7CXqbAkaq5vG0KLSLerYMW-wsg",
+      "types": [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}
