@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ebc68e3-519c-40ca-8ead-a77560074d3b" name="Default Changelist" comment="Make changes to the planning algorithm in the trip page.">
+    <list default="true" id="8ebc68e3-519c-40ca-8ead-a77560074d3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/country_data/googlePlacesAPIdata.sh" beforeDir="false" afterPath="$PROJECT_DIR$/public/country_data/googlePlacesAPIdata.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/itinerary.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/itinerary.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/itinerary.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/itinerary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/result.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/result.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/london-trip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/macau-trip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mexico city-trip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <list id="0fba737f-c0e5-4fbc-9890-85b6c8c1faab" name="Add photos for background and map for each place" comment="" />
@@ -213,10 +219,9 @@
         <counts>
           <entry key="css" value="18" />
           <entry key="html" value="28" />
-          <entry key="js" value="2809" />
+          <entry key="js" value="2700" />
           <entry key="md" value="288" />
           <entry key="sh" value="65" />
-          <entry key="txt" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -224,17 +229,17 @@
           <entry key="Bash" value="48" />
           <entry key="CSS" value="18" />
           <entry key="HTML" value="28" />
-          <entry key="JavaScript" value="2809" />
+          <entry key="JavaScript" value="2700" />
           <entry key="Markdown" value="288" />
-          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
           <entry key="html" value="1" />
-          <entry key="js" value="5" />
-          <entry key="json" value="12" />
+          <entry key="js" value="4" />
+          <entry key="json" value="9" />
           <entry key="png" value="1" />
           <entry key="sh" value="1" />
         </counts>
@@ -244,8 +249,8 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JSON" value="12" />
-          <entry key="JavaScript" value="5" />
+          <entry key="JSON" value="9" />
+          <entry key="JavaScript" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -257,8 +262,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/result.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1043">
-              <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
+            <state relative-caret-position="67">
+              <caret line="134" column="27" lean-forward="true" selection-start-line="134" selection-start-column="27" selection-end-line="134" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -267,10 +272,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/itinerary.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-437">
+            <state relative-caret-position="60">
               <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
@@ -294,29 +299,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/itinerary.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/country_data/Phnom Penh_Hotels.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/result.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+            <state relative-caret-position="667">
+              <caret line="257" column="9" selection-start-line="257" selection-start-column="9" selection-end-line="257" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -333,6 +320,13 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>map</find>
+      <find>Verif</find>
+      <find>id=&quot;details&quot;</find>
+      <find>length</find>
+      <find>session</find>
+      <find>data</find>
+      <find>createPla</find>
       <find>ctr</find>
       <find>time</find>
       <find>getRating</find>
@@ -356,13 +350,6 @@
       <find>planItems</find>
       <find>refer</find>
       <find>Sugges</find>
-      <find>days</find>
-      <find>PLANITRIGHT</find>
-      <find>sightseeing</find>
-      <find>data</find>
-      <find>Noiz</find>
-      <find>getData</find>
-      <find>Fantastic</find>
     </findStrings>
     <replaceStrings>
       <replace>formOptions.city =</replace>
@@ -373,8 +360,8 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
-        <option value="Aadit &lt;aadit.k12@gmail.com&gt;" />
         <option value="aa" />
+        <option value="Aadit &lt;aadit.k12@gmail.com&gt;" />
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -428,14 +415,14 @@
         <option value="$PROJECT_DIR$/public/form.css" />
         <option value="$PROJECT_DIR$/public/form.js" />
         <option value="$PROJECT_DIR$/public/form.html" />
+        <option value="$PROJECT_DIR$/public/result.js" />
         <option value="$PROJECT_DIR$/public/test.html" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/public/country_data/googlePlacesAPIdata.sh" />
-        <option value="$PROJECT_DIR$/public/itinerary.css" />
-        <option value="$PROJECT_DIR$/public/result.html" />
-        <option value="$PROJECT_DIR$/public/result.js" />
         <option value="$PROJECT_DIR$/public/itinerary.js" />
+        <option value="$PROJECT_DIR$/public/result.html" />
+        <option value="$PROJECT_DIR$/public/itinerary.css" />
       </list>
     </option>
   </component>
@@ -605,7 +592,7 @@
       <workItem from="1535246933558" duration="250000" />
       <workItem from="1535247215359" duration="335000" />
       <workItem from="1535247566276" duration="1053000" />
-      <workItem from="1535251308230" duration="14602000" />
+      <workItem from="1535251308230" duration="13035000" />
     </task>
     <task id="LOCAL-00001" summary="Add destination to page header and remove facebook login">
       <created>1532593552928</created>
@@ -754,18 +741,11 @@
       <option name="project" value="LOCAL" />
       <updated>1534001863338</updated>
     </task>
-    <task id="LOCAL-00022" summary="Make changes to the planning algorithm in the trip page.">
-      <created>1535268641489</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1535268641489</updated>
-    </task>
-    <option name="localTasksCounter" value="23" />
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145849000" />
+    <option name="totallyTimeSpent" value="144282000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -799,7 +779,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4824734" weight="0.62489897" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51752657" side_tool="true" weight="0.62489897" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.54615927" weight="0.32174617" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49753347" visible="true" weight="0.2813258" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49753347" weight="0.2819277" />
       <window_info anchor="bottom" id="TypeScript" order="12" sideWeight="0.4982382" weight="0.32847682" />
       <window_info anchor="bottom" id="Console" order="13" />
       <window_info anchor="bottom" id="DB Execution Console" order="14" />
@@ -890,13 +870,13 @@
     <MESSAGE value="Added regular sign in workflow to the web app&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
     <MESSAGE value="Added link to reset password page.&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
     <MESSAGE value="Add length of trip selection to  form HTML page" />
-    <MESSAGE value="Make changes to the planning algorithm in the trip page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Make changes to the planning algorithm in the trip page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add length of trip selection to  form HTML page" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/planitright/node_modules/@google/maps/bin/run.js" />
     <entry file="file://$PROJECT_DIR$/places.js" />
     <entry file="file://$PROJECT_DIR$/public/browser.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -9465,6 +9445,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/country_data/Bangkok_Hotels.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/country_data/Bander Seri Begawan_Hotels.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -9474,42 +9457,10 @@
     <entry file="file://$PROJECT_DIR$/public/country_data/Singapore_Hotels.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="126" column="57" selection-start-line="126" selection-start-column="57" selection-end-line="126" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/itinerary.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/result.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1043">
-          <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -9520,24 +9471,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/country_data/Bangkok_Hotels.json">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="767" column="13" selection-start-line="767" selection-start-column="13" selection-end-line="767" selection-end-column="13" />
+        <state relative-caret-position="235">
+          <caret line="126" column="57" selection-start-line="126" selection-start-column="57" selection-end-line="126" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/country_data/Phnom Penh_Hotels.json">
+    <entry file="file://$PROJECT_DIR$/public/result.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="29">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/itinerary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="667">
+          <caret line="257" column="9" selection-start-line="257" selection-start-column="9" selection-end-line="257" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="134" column="27" lean-forward="true" selection-start-line="134" selection-start-column="27" selection-end-line="134" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/itinerary.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
