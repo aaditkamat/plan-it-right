@@ -1,0 +1,932 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CoQCAAEAAOCqIyoaiD6jhWLuerUTIp3h4fdeSPQsXWO3z1eorkEiVhkz7vOsTeBnXEIGzhtwcSKMg92BHjPDy-9nt2f222GlnYHekHPRvQnkv65pi7KViPp1s5lTSM8aKAHCh1QF-pypDev0jqoT1zf9bH46FAs0CK6_uFZoYND-NpGG90NJC3bleJb0COmNcpKB9OMCfj7kTHICkZI9A8MuvSkYsL-tpEUFKsah-aorud-ePLaO1zRi1VAcX9k9DTIv1U396AigyBe0bXRUr_WZH1g4DadZPXV1whoWqWjdi0Fbgf23pMsmlHl8yMMy0mY0GSyGldjpmUrA9f5jfAQWI0f7MzASEPjeseTNIasQ6G5FFMPIL8YaFGvXPb3ON_WzM0RJgPKQ1eHdTbb3",
+  "results": [
+    {
+      "formatted_address": "1 Rizal Park, Ermita, Manila, 0913 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5828555,
+          "lng": 120.9741255
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58420532989272,
+            "lng": 120.9754753298927
+          },
+          "southwest": {
+            "lat": 14.58150567010727,
+            "lng": 120.9727756701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "75d70ca844751e8a5700231612c9308b966a70dd",
+      "name": "The Manila Hotel",
+      "photos": [
+        {
+          "height": 1214,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100644406009894921702/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAU_HlxDBZSpMFg-sLHn_DJnrhPw7Uujzgv-iE5WBgGA4sEq3ctxbMKk-RlR02iu1O6otjGsxdiwsTRkg34UUmcAy5RiSEbGJWcjq-l4lVnU-BXoxd9aRzlyg1KAzkG48WEhD4trmCBSyPqV1q2pez38N0GhRAwoD2qCrmTbHz8bt4E7dYZlRxNA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJAZSB0RzKlzMRzN7o3wBezx8",
+      "plus_code": {
+        "compound_code": "HXMF+4M Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXMF+4M"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA4ZaTfOR0Xfs9hsdC17mPK5LBt_2LFEtb_byQFXfZOiMCocfxyte8BP5P9vTf0D8N4LrFGMlgGX7QFEQiIGKq9m7FqIcZWfFMiTBXqfUEdUe27eOQ6Tg_OKD6USw4FD9HEhC6uPiLrej9AuSwsMyVnrW-GhQh6PJr9DZ5vdMSf19QqRwe_a5XiA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Gen. Malvar St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5726914,
+          "lng": 120.9845093
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57400352989272,
+            "lng": 120.9859725298927
+          },
+          "southwest": {
+            "lat": 14.57130387010728,
+            "lng": 120.9832728701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "86fc7964dc0843ae8dd6d1e0314a3853e8ec5053",
+      "name": "Pan Pacific Manila",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109083169191114746581/photos\">Pan Pacific Manila</a>"
+          ],
+          "photo_reference": "CmRaAAAAX9g6R_l1pQeYKp-K-egFAk5vWhttNeaZtDJs-beR1QGVnbM7okbe1GlaAXeKYpfRMTiZydXgoqcu-DAjIEt0UNCz6qUIFj34fzv-45pDwdgjHLOI4tJFqXFruF5Pgj0vEhB19t4OoZ_FhaYK8vOYa63uGhTnpx5IBjSnMUFcqANwt8BiE7ec-Q",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJnQNstivKlzMR3cCz-PKES4s",
+      "plus_code": {
+        "compound_code": "HXFM+3R Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXFM+3R"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA-XuHovSMnOkiXPn7_PF7U8quAiMVTfrdRHgnUYdSYbWCSsBPcwUnL4Y5Fgic0LbOOHm5wOpyKw7qcYa37DfyjBYaQ1ndbsXKqU_VIVprIo14tlsux1Q0zrEqH3vnbohpEhC7-wckeSR_2e2artdDfZUzGhTEKmIWiAPDfp7gGnRZeW1AnlmoPg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1118 Roxas Boulevard, corner United Nations Avenue, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.578863,
+          "lng": 120.978367
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58008927989273,
+            "lng": 120.9797209798927
+          },
+          "southwest": {
+            "lat": 14.57738962010728,
+            "lng": 120.9770213201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "7ce2ec02bc65fe0501ad3feda44997c1b5b40198",
+      "name": "Bayview Park Hotel Manila",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108791001773747301811/photos\">Bayview Park Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAXKdRrRc6GCqUxQBS1wdq5a9mTwo-K9Iscc8BHQgxhc4IDfs1pAo-JzmI3s4-gBfBz9T8Yj7YtHDqJ6t5MPab4OQqs4UHrV4JQEMzVtQibEiHHHeIaM9EB4di9bjWHXbTEhCvm0bylaF_wilKXY_k6C6HGhTVpthyIkUsT7vrd1Kp1eVyioKlcw",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJrysumC_KlzMRImuMiOrIX8c",
+      "plus_code": {
+        "compound_code": "HXHH+G8 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXHH+G8"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAA4_XaGsZ6S3Vl7IzXQi3sA0_FB9iMvCKpgbwvaINa-b4LJ1GbnGEXO3sdZKOUAhm_p651r8E5H2tM5IlfwIjt6sUGFhGRii0Dj7mox5phB1xBFMi5KoWFY9N1PvacSnqtEhAMUTyH92jk20_nMZyQC0wuGhRBdIRDfp9_o4f5_1KBGkhJifkniA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "599 Ocampo St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5614732,
+          "lng": 120.9909162
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56271477989272,
+            "lng": 120.9921968298927
+          },
+          "southwest": {
+            "lat": 14.56001512010728,
+            "lng": 120.9894971701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "085e444697cd528de89dc4a750e9564bbf4c2b19",
+      "name": "Century Park Hotel Manila",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 660,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104780756491867272314/photos\">Century Park Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAA-7Y0hznXBSE7DAUK-HFBARkwzdFv-j1K1_Hw-jqy_IzsvZ2jZfTYJIYzOJPAL_a5uHl9AGcsaRcfWnXrcooZnqJ7Oi163TqZ81r3MarHIYzqvtL4u0VW9cPyCiRLUFOqEhAF32ZdMWM11XJ5e-094FglGhR5Lb_hrICXKMiMwgUB8NbWLAdo0Q",
+          "width": 662
+        }
+      ],
+      "place_id": "ChIJhT7OSXzJlzMRpSp5Wwp5rIY",
+      "plus_code": {
+        "compound_code": "HX6R+H9 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HX6R+H9"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAA9dm1tKydZbzUqTf9KKFh-v7wEf3yEgvLiClbjPQfzINLPnLuomZmphEytMpsItpXet4z2vNbtqea3nGe2urVNecgXTItGy0rtVp7qc16SRqds4HOo8P8lKnHiqDui5n2EhCawOiitgRzmszfXlk0GJjXGhQlL4SZGG8wUCA3luPAIIOlHXEqLA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "925 Doroteo Jose St, Santa Cruz, Manila, 1003 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.605428,
+          "lng": 120.981649
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60681117989272,
+            "lng": 120.9831479798927
+          },
+          "southwest": {
+            "lat": 14.60411152010728,
+            "lng": 120.9804483201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "588b2060381eb5e3df3ddefd27baa26a97eae0f8",
+      "name": "Manila Grand Opera Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103847997882185349847/photos\">Lyn Chung</a>"
+          ],
+          "photo_reference": "CmRaAAAANa500PhTdIZAAZPPkr4_PWP65EuIuagE3Xqvlbn3-uQfxr8bpHcl5rdwtFw1VDMX8LUKBMdz25cY5uq0-PqwOlv7wvoS-op-tQ82clVCw1Bmz5xptZf0ny2xd01zVhq-EhBHih9FNFMbUrF72lVkpHrxGhQbAzg-OM-OOo9vwyQHEXUlVdsq5g",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJIwr8AQTKlzMR2tYLCUkDCfU",
+      "plus_code": {
+        "compound_code": "JX4J+5M Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX4J+5M"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAPI2eFoYUQQefxvXur2PttlDDZthgrC1JPAbary0snUFeMB3LoGOplYCSl93Xk5yAHQT41XwB9KuKDmXYvX0jJTxk-4fhc8RPdI4NBFEmezZ1XoKEI1q6AF7MSUX9g0kLEhCIUKS56LdbwSj0S3vS0_PwGhT1mHnfdNFbxNdAkH1unVprR8hcVA",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1850 M. H. Del Pilar St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5704046,
+          "lng": 120.9838467
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57174007989272,
+            "lng": 120.9851062298928
+          },
+          "southwest": {
+            "lat": 14.56904042010728,
+            "lng": 120.9824065701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "12e568f0fb15c675b8fb3b2edc01ed40c127aff4",
+      "name": "Hop Inn Hotel Ermita Manila",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1986,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106613742815988983489/photos\">Hop Inn Hotel Ermita</a>"
+          ],
+          "photo_reference": "CmRaAAAAXeUIMI04x8HX68toQFmEooCfVdbzzYE5pGV4ZVyOr34ttRip58OcyTrelhIuMYu8QtOfW2lsezL3lDfa1-_RnWI18-w1kGWozKiwK33rakxm9hUbNt_1uI3uZwl48o2dEhCj33214hBbn2cgMFxHgiLBGhSmCHzZVphWom2D_tdwds0Hy_dsGQ",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJR4HeFivKlzMRZG4n0IR5Cs8",
+      "plus_code": {
+        "compound_code": "HXCM+5G Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXCM+5G"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAr9Ic6PkHb6VA3taatE9LsyJfQBWgFtMYQhbYg8TWew1otI9Zz_s8R3kuhNIr5ppBbqzwCjGtsVeknIX98fTsINzwsUMAmtpvnCwGBxYzCASNfx4xIkkIzFl-lSoKfxlEEhCiViSTF_4_nqbU55ZtaVyYGhQbQOQQERpYS3MhH9ZUiYSqlYWZbg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Roxas Boulevard cor. Dr. J, Quintos St, Malate, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5725634,
+          "lng": 120.9821696
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57390502989272,
+            "lng": 120.9834588798927
+          },
+          "southwest": {
+            "lat": 14.57120537010728,
+            "lng": 120.9807592201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "7298f35583a0117b30dc83b714cca4c56b9e36bc",
+      "name": "Diamond Hotel Philippines",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114443163351792076956/photos\">Diamond Hotel Philippines</a>"
+          ],
+          "photo_reference": "CmRaAAAATjCDhkFViNTiZ3Q0ZRHEF03o8QLidFOv_ujyu57JSrliPlSb8cGo419zWdlmQHviMiHF7429uAbJoLKHrh8ZYxPBPaTf8gfr7mDQY2EhWQErBQWmr8CKXQg8Uyuq6uK_EhCJdjpLdxwxpWl86jk_ynbpGhQ8QgZi0tZPD7SdNfmU569xmrO24Q",
+          "width": 1115
+        }
+      ],
+      "place_id": "ChIJHXJDhyvKlzMR83_6sX4bAsc",
+      "plus_code": {
+        "compound_code": "HXFJ+2V Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXFJ+2V"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA-aKTZa7jeSqoFh_IpXF5jI6JrSUPqujZF0sDE2gsbRkbWbfh-UFDX3sYCTZQ37nMDnlUr_wai1LrUGwznwg_Z1mt-Vlizz40S3MyPYI9qFrFrZdRRu95x8QlzSw-hwgWEhBB7CRNzN8J2eMl32EwbzHKGhRwPG4ymbvFrEFJCwgQ4cIDqIDn2Q",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "770 Pedro Gil St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5754205,
+          "lng": 120.9872368
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57686312989272,
+            "lng": 120.9885434798927
+          },
+          "southwest": {
+            "lat": 14.57416347010728,
+            "lng": 120.9858438201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "cf919bd2c29d39d948ddb1ba5a0232361b1c95f0",
+      "name": "Hotel Kimberly Manila",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103637809345040724761/photos\">Hotel Kimberly</a>"
+          ],
+          "photo_reference": "CmRaAAAAEho1p6949vKL4gZzsptorPFp72Ml59q8tHSM03H1TSs1kkIkxtz--4OnPVqwlMSSC2gP65IbO27uhnVNnE67caFPyvbeVNC_CdT5VOeXqQXYNpkV-gSsxECI5jdPDpzlEhDCUs3cHSEonX0izokWTLLaGhR9iI7DPidqV3fixGSldxQCZdtEGA",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJfTYH2inKlzMRedjGNs-THns",
+      "plus_code": {
+        "compound_code": "HXGP+5V Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXGP+5V"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAf8WHoB5_jjLEqsmk2B-EPJT2YoGmrbslbZ0O-0QbeW_yzCVuEL4TxsOG9Ws3qk5bho8iOWhYuwqTCHI93bXEOd-7ZAb5sVFmFNAbL0iq7RJ9EiQJoyIs1XF7If2UhoeUEhAg3nQxqyreJAtfZVo-pX72GhQEaBq1osyYjWknVcEWak4ufPr25Q",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Ongpin St, Binondo, Manila, 1006 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6000762,
+          "lng": 120.9749855
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60144812989272,
+            "lng": 120.9763346298928
+          },
+          "southwest": {
+            "lat": 14.59874847010728,
+            "lng": 120.9736349701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "d6a5a946b969c67799994b0282b9bd5b11a68ed0",
+      "name": "Ramada Manila Central",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107583768584912630761/photos\">Ramada Manila Central</a>"
+          ],
+          "photo_reference": "CmRaAAAAji0FzVCR1tSxG6NzoIhsSgXG99taU_FbkG-7mS-00pBkN4Q2Qb-w0r6GpL08oB2u4sM8k8ZWZxSgdRd0YSwhYDfh8fd3XclDbpV_95ecuuqTUXxDUaBTOnBjz7stf-rAEhAgeVIVRbhnWbiDKqz7tbwhGhSpTRSbYMtuMfnQFosa56QmQJSmAA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJj4_hPoPUlzMRYHRTbAMbPYM",
+      "plus_code": {
+        "compound_code": "JX2F+2X Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX2F+2X"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAlfXIn-LnX1LX4wwIxSqgkCvgwdUbLkmlliuPCUrpkvgwX_sUBs7JdadjRFqvGmgb8wNMrSxjd1LsxoBPzhzyK7DcozvDhQqdb4C_Q4OzJ0iFqoW0tBBfijNdN9MQnqucEhCS4zfEEJIrZ7VnWdpIpO0cGhT7vEi5ENnEtzZBc23zF69mf_bJxQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1166 M. H. Del Pilar St, Ermita, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.57801,
+          "lng": 120.980153
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57937452989272,
+            "lng": 120.9814019298927
+          },
+          "southwest": {
+            "lat": 14.57667487010728,
+            "lng": 120.9787022701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "6386b5786d3447d84daff2622fbeca6e24822efe",
+      "name": "Best Western Hotel La Corona Manila",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114454277912960973286/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAApaQqQcU6Jz8EEYSSZCjaSTR6ZpPWGphd5StKZDPflRUY7LMa8e37xP4sonOUJqsyYGywlIPHI7Jhw_EOapxextCzXZX66TqQg6tbBOLHMyRh09KQsq4fKvl5MV7HPRkKEhDABvSjiNLsZZaMOdbERX2EGhQqE3vVz8laKqM-fU7SrTROvYVrWQ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJGUnFFi_KlzMRs8aUmFuWNck",
+      "plus_code": {
+        "compound_code": "HXHJ+63 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXHJ+63"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAiFDBDQrwfQJx_BXq1IWJ4Vf5jKsAM28J7SOIt4hJoyOxGN41u5pB1BEre8iUDuIrqKSHKOwu60Z4sbe-aKyhP67GNvBGE0L5D5DxxuhO8ftd_Yl4tx7DqJl3VDIonaOREhC4slvvFl12BmqqpYlvF3ysGhSvJW7ZtPttJ9xzAKvPqC1RNe7_qA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1315 A. Mabini St, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5770452,
+          "lng": 120.9813672
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57848922989272,
+            "lng": 120.9826220798927
+          },
+          "southwest": {
+            "lat": 14.57578957010728,
+            "lng": 120.9799224201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "1f5c3f79a1775d2e3e39acc0655b3591c9a8af99",
+      "name": "Citystate Tower Hotel",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105359459498195849982/photos\">Nishi Bun</a>"
+          ],
+          "photo_reference": "CmRaAAAAdoJhkKqxq0PFrrkjpjKLppVXazbc4gwiFBSuOLzOwPKAkgSBtdmER6uqCQvexgA0L255CKZx8ra7Zto4z4fuINx68O5-pjB1WN2537X_We0v-UJbxqQRQurZIZUaxNlmEhCkDFJ2cEPLbaKHaC8ErpYgGhTLIjGKz-I8JqhmbRXgjXmj5TBK8A",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ41EUiSXKlzMREYSK0hBt5gc",
+      "plus_code": {
+        "compound_code": "HXGJ+RG Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXGJ+RG"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAA_tSEGVK6IWLHwQm-Vx6ix_uTqW6kjb-WI0Zgh5m5dEtTksSxPVA9MHRW9IvdjFHomNbrUx_IKDjVq-fWufsPqa9CLEMRompW0cAzpAwKNdBUn8Fh-jbFb6OYvYh_WANJEhC_WRUK5onW3eET4ByUHhWgGhSZ_Nbbw3HytE0BcWPKvn1TnMj3lQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Muralla St, Intramuros, Manila, 1002 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.589979,
+          "lng": 120.9788685
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.59114707989272,
+            "lng": 120.9800464298927
+          },
+          "southwest": {
+            "lat": 14.58844742010728,
+            "lng": 120.9773467701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "ee948f2d074d308d803e086b4d7a9ebe623af87c",
+      "name": "The Bayleaf Intramuros Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 341,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112493137646694218471/photos\">The Bayleaf Intramuros Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAA9vtxGkl8SAOSC2W6i7o6ArvsBPDccRAB5qLvdABvyo1jRqhEbxaiSBN6jjoQBWzJGI6rtVaQG7iCBukU7lGJTQBAwRHUW1PuORUf1-BalCO_Nw9NakocQkTzOKZto4m_EhBLCA-9p5CwyNfwMqNFqwG8GhSDa9QrZzKeTrIoESI5vRsaEmCetA",
+          "width": 512
+        }
+      ],
+      "place_id": "ChIJ1aWEhiLKlzMRAGeLYooZUQM",
+      "plus_code": {
+        "compound_code": "HXQH+XG Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXQH+XG"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAu0N8AYi1MSZUgW1_fKO3zwRNkxw3X149N6yMyZe4xh5f9ID_AcBl9orNQify4KCgXhNacKvaP6-EHqN9ZlUHF3CBlLX-lmCQa92WUmKOWp6cGzpa5Anz_Q8gfwY92FgFEhBXPb5M4n7lb3YW3HVTVhHjGhSAvTSS0vzf-FInlt9fKxWg-_9HSQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Behind the Quirino Grandstand, Luneta, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.579181,
+          "lng": 120.972295
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.5823427,
+            "lng": 120.9758344
+          },
+          "southwest": {
+            "lat": 14.57812709999999,
+            "lng": 120.9711152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "ab506e9d50a2e50b932030ae728d830fe7f89424",
+      "name": "Hotel H2O",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102645395770920896524/photos\">Edison Sy</a>"
+          ],
+          "photo_reference": "CmRaAAAACrN2rpdZwMbGcdKR64rnMiFNvx0C4Z2WGdcVh_cZHt0H9MqWsjDF8HZlBpnLahermlHJzBh3jheWBoWJOZJdGwV5HVrXQZ-tGT-hNkkSpLzVlWDZcSuxPYButd8Gtm8TEhAs8q1YqYaqGmYxQCxsti_zGhSXO2iHMZsEhffQ9DamZzY480NIQQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJV3SPAjvKlzMRg2Zgh7wY0h8",
+      "plus_code": {
+        "compound_code": "HXHC+MW Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXHC+MW"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAC4O5Pw7NMjcdOWW4sT2PDqgIad8YX86bwoCXmsV_LpLMfWcGhdIAS-G8mXd5OqtZxEXdjbXKtL_tifAcDdOlQbB3zlL9efHDHyGG7u2IRYCLhsS8l-45W0JxXdnjj10mEhAyYmPmfWFKZSwAoQwrtN41GhSoH5PNPkKGzZrdUGMfg1iq_DdNdg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "352 Zone 35, 1800 Consuelo Street, Consuelo St, Santa Cruz, Manila, 1014 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6175328,
+          "lng": 120.9873913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.61902317989272,
+            "lng": 120.9884817298927
+          },
+          "southwest": {
+            "lat": 14.61632352010728,
+            "lng": 120.9857820701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "d7306cc617d767dea4ab03110d1574f03f78adae",
+      "name": "Winford Manila Resort and Casino",
+      "photos": [
+        {
+          "height": 2352,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105550731333612873803/photos\">Annie Gee</a>"
+          ],
+          "photo_reference": "CmRaAAAAysUgG62FB3ZvEKOxDlpDW8eMSbWa5o9jvC0FhDfirpWb_lJN0YI2PbH049Sy8O7CwqMI-y4gZbJJlpfeKUxaE4H246a_CFWidAeeNWQpQim3q00pLN2tdP2ZWOAE77SfEhBmtmOpEfC16aJrjij1DjEsGhRtDMNsNEgAB8TdHtLSr6wQQLbeZA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJQdBvY_21lzMRGPD_gl3whDY",
+      "plus_code": {
+        "compound_code": "JX9P+2X Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX9P+2X"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAnSRuz0f0v0813jnU0UCBxAYm_dbVNX5WMuLxQGmdUxWiU-JRsyFfV1nVUl9DxacKbyMc4tMro0-9fvxKFjslFbIIDHfFioKEU2mU4ORzuUNzLv6DTeloYr5yo-xFPbnPEhCTe67O38nL-Tt-92fzE-OJGhT9Ch2iwkoLJignyPd-KIUc-ApAJQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "2108, Marcelo H. del Pilar, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5665149,
+          "lng": 120.9858349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.56783027989272,
+            "lng": 120.9870804298927
+          },
+          "southwest": {
+            "lat": 14.56513062010728,
+            "lng": 120.9843807701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "f286b512ddc1df46dc53196d31a735f48f8ba628",
+      "name": "Armada Hotel Manila",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105647250932972342140/photos\">www.damoida.comᄀ ᄀ</a>"
+          ],
+          "photo_reference": "CmRaAAAA2Kc5EDeFcMUf3WK-MIQsesgjcMvlMVMackB1ztbRFTzJcC38SjtX6BMskyPipPEPoj88qenH3-cWccMYHhwYHtvnRQPYyRQXK1og-iSR9R-2LX1tFYYtHMBsNVqDKdcwEhB9LYq60bQlC6SNsLootXsYGhR8wti4dMXSC4S13dZPMF2u-nytPA",
+          "width": 900
+        }
+      ],
+      "place_id": "ChIJmUXfBNXLlzMRx3aCTkwmEoQ",
+      "plus_code": {
+        "compound_code": "HX8P+J8 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HX8P+J8"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAANImmrnrzFlLttAZzc9O74hhwu6HrlQmSZF76IuPxA_nuYL_jPTqgetvnQIIU64rmcQxjYNTzpq4Me2qAxxJasXHMvZHrX72srG1lQ7RLXFWJ19vNKtLUD2FmgVoixy0BEhATljKY-663sE89_K51fnaeGhSkwKlvfDYLZ7fOv7gdId24Cz1VQA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bocobo St, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5810259,
+          "lng": 120.9809847
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58234897989272,
+            "lng": 120.9822787298928
+          },
+          "southwest": {
+            "lat": 14.57964932010728,
+            "lng": 120.9795790701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "69e653537b508cf10de6989e56d0a0a71a8d6a29",
+      "name": "Casa Bocobo Hotel",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101177722716949816142/photos\">Ihron Soriano</a>"
+          ],
+          "photo_reference": "CmRZAAAAM94bP1Sb6Za1W2MPQQcvipPaZdZxsRni1z7DrB9yhp0C4kBZ9XcZqfeRyovNOsynZTYsOkHZviVaYV2A9CkcRKKK2y8yyUd_kH_ShVPg3bUWbYUCLWCPzUy7Vpj1axZOEhBMWZYxsUr0bgKgdVFE4AdfGhS92mz4cdb5Gzr4YJ9HO-uWJYuyaQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJqQBDwyXKlzMRCTrzTzwFcPU",
+      "plus_code": {
+        "compound_code": "HXJJ+C9 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXJJ+C9"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAsTtNb4q5SP_mc66SI_FPlVclmoS_W2O89k0daj9zxHlPcg-9n8cnQ317yQxbF_EJo91ZTRMNBlWeCrq7CsoDJORloEJXS2ypEQpMk73s_5v4QSXwahuvwKrqzuSVk5w3EhDAapTwgiOka0QgzhuuRPShGhR37NDyQk0VdpEBrKjPH9NI-Wnk-Q",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1158 A. Mabini St, Ermita, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5789226,
+          "lng": 120.9808224
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.58025087989272,
+            "lng": 120.9821237798927
+          },
+          "southwest": {
+            "lat": 14.57755122010728,
+            "lng": 120.9794241201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "367bf08648e3e2b4728d82029b151c1110ea0d6f",
+      "name": "City Garden Suites Hotel Manila",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109881716635718863429/photos\">Jan Habana</a>"
+          ],
+          "photo_reference": "CmRaAAAAEaLhCVR2p1L6htt3fwYBDePEqFxhgcV5Co-3Zq4_zZNvR37kT5xNQkfKyBvdaXB9yDowvKRMjFVXbHk4OGHAdH8DyFKQismk4KkNN_h2AHqwBcoppSV5AWGxPsT5AFk0EhCgqcsnksIs5A0DzG1L_7kHGhRn7LD8LMcVlSa96qBnT7-Z-MgkAw",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJOQ9bWC_KlzMRZCKSFs-9kPg",
+      "plus_code": {
+        "compound_code": "HXHJ+H8 Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXHJ+H8"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAgh6rVSvEKb-OhF6CmPTy5x8QsvKv3XsX5AzS1XQUrqVlh-zcViEp8z5xTDZsFqkHmUKzLIon6VPcr4lvf6lRWjWJENIEF9-6TbPIL-QWPlw_nZN276JRPyIq01d-WgjqEhDR4FNhMLq2_P5b7k4HiKqQGhRPvUfQ5rJVVpLAYFb7sQcrsfLm9g",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1740a A. Mabini St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.5712055,
+          "lng": 120.9845444
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57249012989272,
+            "lng": 120.9857792298927
+          },
+          "southwest": {
+            "lat": 14.56979047010728,
+            "lng": 120.9830795701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "7c01ad29bebe30f78848fcf6c70d7ab9408e48ce",
+      "name": "Red Planet Manila Mabini",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 637,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109806682893215262641/photos\">Red Planet Hotel Ermita</a>"
+          ],
+          "photo_reference": "CmRaAAAAAiG_3jht-Ztom1NbrG3txtw-V1xlHGD9yOBwAOWedsroxO68xTQ3nk4FN3qB1yaEJ2B0XMFs4jvLQDQbcva7OVFgapfrijTwiVvr5HV9ajsvGunKzt-fC4zE293c7aTeEhDIA7uU_IkzNmgrr7d-qEgNGhQ1zqUPBUzmmSOGb_K_BYO1xmt0lQ",
+          "width": 637
+        }
+      ],
+      "place_id": "ChIJo-xWASvKlzMR4xVvyBCg3w0",
+      "plus_code": {
+        "compound_code": "HXCM+FR Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXCM+FR"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAE3zxV5199khprzNwPJRRQSsIvIP9SooERYxU_Y28QyuJeUWVYOlMR_OBy0fjwTnZtM1p6h438d9B30UiYDk3MqtHKdDTJzVuFgjcl02i-ZbqOEYqVLdxoqR0CEI1u-fMEhBy8z1W9SMl6ut3jGbS0sp4GhRa8WXeHEn_zPL1SI3xhq2osm3Apg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1638 A. Mabini St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.57324,
+          "lng": 120.9835812
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.57455607989272,
+            "lng": 120.9848512798927
+          },
+          "southwest": {
+            "lat": 14.57185642010728,
+            "lng": 120.9821516201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "8e4adbe9f3bc2d7916436a65db42dbf491181f38",
+      "name": "Riviera Mansion Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105647250932972342140/photos\">www.damoida.comᄀ ᄀ</a>"
+          ],
+          "photo_reference": "CmRaAAAA85xIeNtkShNCyy1D2LDC1xNydJmdPT7dNDfC0ga01LxynWZv9opYvqGaXCToV1F94_HURaT6M2gPxcdTMzOeS6FrL7YbcyBmyCdpzJBKNdu9QVYW0kj6VEznSiMvjSVuEhAOUMKkHNI3UOTF5I0dEavhGhT3mZZscG2rGK5N3PKxfPJ3y4zuPQ",
+          "width": 900
+        }
+      ],
+      "place_id": "ChIJ5UghwivKlzMREfiRW28bfuo",
+      "plus_code": {
+        "compound_code": "HXFM+7C Manila, Metro Manila, Philippines",
+        "global_code": "7Q62HXFM+7C"
+      },
+      "rating": 3.8,
+      "reference": "CmRbAAAAE0jZIjNaqRWgCS6NK6F8RU2M27nHR4EtlRzT_J7uYLP28sfpjVg1cZV-O4qfSCQgHohdpaFQ-U3a2r4Zxcr0pAV4WVTPJVmwFUH1dJG71yvXDoH9JNHJmJpn5CBxl_ljEhCc7qD8eDPaTvCxRbMVDtSPGhQdAMzX535q_ON7At9WaIs2BaCf6g",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "665-667 Quezon Blvd, Quiapo, Manila, 1001 Metro Manila, Philippines",
+      "geometry": {
+        "location": {
+          "lat": 14.6016556,
+          "lng": 120.9845533
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.60298837989272,
+            "lng": 120.9859540298928
+          },
+          "southwest": {
+            "lat": 14.60028872010728,
+            "lng": 120.9832543701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "bd33279d27821c91745f23b8c037708b496fe781",
+      "name": "Sun Star Grand Hotel",
+      "photos": [
+        {
+          "height": 2173,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102645395770920896524/photos\">Edison Sy</a>"
+          ],
+          "photo_reference": "CmRaAAAA2LdVILtQjIKkkNvhHpWT1acztDI8GqGNR-6_o0TWjjRjH49CLtkoFfXwHEUU4Jq2bTF-mhUBQf1j6Lly9PyOIZg3bHAMLUkx8Fn73wge3eeqBqr_tT8yPYuPVKCnM9uvEhD42Q910W06Gf_4_btuHfwoGhSJdQdRN-pSu30nXP2R-NGvl2p90g",
+          "width": 3863
+        }
+      ],
+      "place_id": "ChIJsXRcHAPKlzMRqZTNwTkmveY",
+      "plus_code": {
+        "compound_code": "JX2M+MR Manila, Metro Manila, Philippines",
+        "global_code": "7Q62JX2M+MR"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAlqcT1hUlW9z7CMVnz7318U6TK6HVhqi8JM4-YbKx3KK2pD30G9DBItASw6b2VH9DhzqiBW_94itpiWSy-3D1ujj4hFRuFEtbUo3WYS7A-H0d7XRJsllESPe2EMSLSyMxEhDbO7wcghYK8PcuO0GcHp2jGhSMEvuhzE7dAQMY4glT79DkD-o8bw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

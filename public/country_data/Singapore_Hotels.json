@@ -1,0 +1,930 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCAwEAALzivcuhpu2HzX791nlz2FqJeKODYb_6V1TOu1jM_no0ipoGr6V_T-ui4m6ZOd_4h0BHuFEwBM0uPm-IohjHr6eVqvottUTaqETcNQLae2NW05kVsn47cdzcvAN7Ze2kGk6UPK0wPKdHQNtLN6bo1PgkgxoCisPBuriURMjNbSHtdhk-o_eA6I1WpoKOKXNfiQv0FdNAt5agkgmzwbXAH-NKRzilVkIWPmOU6-eD51jqTPZQ150rE1PhjU1cIerNtAWe_Rt-6zMCZLA9WrbGpmEY3d-DqpViQDCGpB5Y035A10CUNQ6vTYkbIka6RythMtmp_Ti-biQ7blnantfbJtgMuztii9gW1LcOZY2VB4FeEhDHQIHHX4xfZUzD5Mi1VXGIGhQJbtIJeLlVr2Zv3RtGR6KVotuzTA",
+  "results": [
+    {
+      "formatted_address": "581 Orchard Rd, Singapore 238883",
+      "geometry": {
+        "location": {
+          "lat": 1.305891,
+          "lng": 103.82942
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.307442879892722,
+            "lng": 103.8308600298927
+          },
+          "southwest": {
+            "lat": 1.304743220107278,
+            "lng": 103.8281603701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "1307d60660a871667497b1a6ed1c063c575e7fa4",
+      "name": "Hilton Singapore",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113058946087057049795/photos\">Hilton Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAAtb-r-7nQgAhETRhefigD1CTkOkDLElAMKOWCJVn2LoMgRKXEoZYI_cD2XEl8OXtxx8cE27yv82nu5aZxid48Lss6aex0fV0661qlbT3OS4i2QQTRkW1XQsnKFiToB4CkEhC3AOeI6S2CsgKImzX524uZGhRkBHxA80oK1aWVOszsqcMG9WAvsQ",
+          "width": 787
+        }
+      ],
+      "place_id": "ChIJFQYC8YwZ2jERDRaSlDO1Q0k",
+      "plus_code": {
+        "compound_code": "8R4H+9Q Singapore",
+        "global_code": "6PH58R4H+9Q"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAfOFi0OXLnxs4xpvnPfNfai46AnSPG9nAX2teETgJr-MYhEB2pZcZ78L1yN8aXDyO_2B0zH38TMzGtqjQHu9SKCIQk8nGUGpL4F9RJg58FRoBrlvxHQhTULG01aHpxWWIEhB6xSrProTyqR0oUX3YgCXsGhTMQ2cmApIkn-POG5EzipWTUaXQvw",
+      "types": [
+        "spa",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "165 Tg Pagar Rd, Singapore 088539",
+      "geometry": {
+        "location": {
+          "lat": 1.2753354,
+          "lng": 103.8435764
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.276674329892722,
+            "lng": 103.8447695298927
+          },
+          "southwest": {
+            "lat": 1.273974670107278,
+            "lng": 103.8420698701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "6b09fe11b6bd9b0d1f9d38a3a4fb3c8e7c246f3b",
+      "name": "Amara Singapore",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1235,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113446576631978744393/photos\">Amara Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAAjW-FzK9-gC9h0ptqoICEbrRQ6HTt00OGqg9nKm57-eSJFWAXIM7ippOoIBqsELP_0-L1u2TunDQUEzgLsT6rEdZJ_ODdKg4e87G-QR6cgvHh_SV3odfEm4XyLMieCrI1EhBfLqIjnYX1Ikc-w5iNIxaBGhRNpfrVZLixT4nF6w1ewSQrUKBGbQ",
+          "width": 1181
+        }
+      ],
+      "place_id": "ChIJrXZUXmsZ2jERdZPWv7o3QHA",
+      "plus_code": {
+        "compound_code": "7RGV+4C Singapore",
+        "global_code": "6PH57RGV+4C"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAA6JWN1VTQFFZcQHkK1RinkDh9cCJTKfn4WUcWKyomxR0JOu_LeMJyAPYYiJacZ9MImRWeFELnO2f0XRVRGsksVyhPPFJXSUnp1GxVasDVZPdbrfWGQhGPMsqfCg2_EwlbEhAiqVte0pWUkz_vGXoIY6jVGhRjPjXjWXB6NkCGYR-A5AWv3odaZg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "7 Raffles Blvd, Marina Square, Singapore 039595",
+      "geometry": {
+        "location": {
+          "lat": 1.2921635,
+          "lng": 103.8587395
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.293307729892722,
+            "lng": 103.8598321298927
+          },
+          "southwest": {
+            "lat": 1.290608070107278,
+            "lng": 103.8571324701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "dda68eac7c50d6d067324e5d54cc6e18bdaea3ae",
+      "name": "Pan Pacific Singapore",
+      "photos": [
+        {
+          "height": 981,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104466188267991634699/photos\">Pan Pacific Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAArjxN9dm3IibXR9yPqURLVrss5iyxy-rF6I7O4_ppM0hP4euucV-hf6k9VaumXiaXbiIkG3uy0XNLH4I8djSMy5Cur60ZjYq3FBrVH-eviSkK-H27dmpfctOD1JpFEmyPEhCG4rkgZERu9G_-7x731o2eGhSc1UfV0MnfSniqCgiYW8HW7UvEGQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJsQvJ8KgZ2jER9PL5Qty0i9Y",
+      "plus_code": {
+        "compound_code": "7VR5+VF Singapore",
+        "global_code": "6PH57VR5+VF"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAIp73AmshvtqvYMqmNUXDMNmYhg6Q1bXvgwoloWmmoCseZw2scno4KVLZ7gmufPo4mCxXIVUz8Wlc8kbYSxmlWi4DOiHAXy1mS-BLugoJLFQikaoVxEpxsuqa9t255hX0EhDXDw9YVi1eHKQJmUnOwaGSGhTzrfxhgiLvUwbO3pxOW-aM3q6CAw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1 Cuscaden Rd, Singapore 249715",
+      "geometry": {
+        "location": {
+          "lat": 1.3046611,
+          "lng": 103.824931
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.305940829892722,
+            "lng": 103.8263606298927
+          },
+          "southwest": {
+            "lat": 1.303241170107278,
+            "lng": 103.8236609701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "079fcd3c1db9649f6bf4709d14cc4cb90f91fd91",
+      "name": "Regent Hotel Singapore",
+      "photos": [
+        {
+          "height": 1428,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109902172729674655129/photos\">Regent Singapore, A Four Seasons Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAQoOc9fNAS2MYo8A4fcOYYOQXOGmFdNIMWIEn69Js0EsOW-fZaKTjSgXWw4a-1lNtMyzbhQK5muzBDrDQ7PeHLW_7tXb24N5WnFmz1McJjnXajxl0KgnhbWwzySG1sHk9EhBdLN86W5q_P4J6pr4o2SPKGhRSLtRRdLfV3kwVr8UXaD8XFTL8hw",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJBZofrosZ2jER0MORa_XKmU0",
+      "plus_code": {
+        "compound_code": "8R3F+VX Singapore",
+        "global_code": "6PH58R3F+VX"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA5WQllmvL0r5oEf4WTaP6zj7huJ7Ao3cdLww4AsldCuULsduOW9buUbfPYgf13pziFbMz0gQdLZZDl6RobqXN1Ptrg1aob8UPu__6Eklo0eqLEPJLmbOu0-tyIKo8OfWQEhAg6mx-CJKEfjTpSv8Dza6SGhQs_hGVAuP7yRkDtosdQ9bADCJ5Zw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "366 Orchard Rd, Singapore 238904",
+      "geometry": {
+        "location": {
+          "lat": 1.3064411,
+          "lng": 103.8312429
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.307787729892722,
+            "lng": 103.8325914798927
+          },
+          "southwest": {
+            "lat": 1.305088070107278,
+            "lng": 103.8298918201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "e52f794b77b43a564e704c70b8c1e6c783ef9579",
+      "name": "YOTEL Singapore",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5258,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109096289094309890838/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA4jOtA6jc_ENl-lydEpQ7uqz2w53Z8341Lr9L49_6oddF7-tdnCPXBMd0t6bsgbovwkpEF1eUaA7H-hvafXhYV3o3HNNbvU-EC5ZAkrkVWWCfdTZ8vXWt-eNNUBB9-mpaEhB1OazgxouJ_m4JjmtE1zpeGhSkn4Qg1A8VtX1C7kBtUW4_uo6lig",
+          "width": 7884
+        }
+      ],
+      "place_id": "ChIJdeB0FI0Z2jERfMMx7jtAfsg",
+      "plus_code": {
+        "compound_code": "8R4J+HF Singapore",
+        "global_code": "6PH58R4J+HF"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAnjZrM5D1C1LEBY-dqf0shthb_rU16gCTOqEsbCo8LfMF4lSfiO7WFTpdnbMNJYMRbeZxMZ-iNAYOn2e6ixYLJbh2ADOMch2LHzvqY8pJw7D5LMvZCkuzr3efntBJmjE9EhC1Xf0q8Y1664NZiZrCwh0HGhSPwWiDUY-S5ee_UMQPR423QcWQAA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "76 Bras Basah Rd, Singapore 189558",
+      "geometry": {
+        "location": {
+          "lat": 1.2959559,
+          "lng": 103.8528189
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.2975874,
+            "lng": 103.8541985
+          },
+          "southwest": {
+            "lat": 1.294377,
+            "lng": 103.8513037
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "763985adc56150d3a04a828725b5850f54663b5d",
+      "name": "Carlton Hotel Singapore",
+      "photos": [
+        {
+          "height": 578,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110693543847355349422/photos\">Carlton Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAB27vGGxh4_No6YEJOTGemFMQzC3oZS7QRlchPz3_dvoV_mJBWybqrPu8CoHKB377O9-7sYmt9fCON4MGOhoW7IutOCUOYdnwEXBRgPfUzdNrLvyjOpJckcgHfZoJPHzvEhDmvV_R5UqT5Fun1ivp1S5SGhRJ_CHaFhKM-pnUWJTRWQ1I6Wy-sA",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJoeV2WKQZ2jERvqFd1_XG4jg",
+      "plus_code": {
+        "compound_code": "7VW3+94 Singapore",
+        "global_code": "6PH57VW3+94"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAmj8YcIUfwWTY0jiEnZRu7LhKadVMDOwvVn3WOX234VyGPnyNih79dvSO07XwjrF-zEsz32C-1Xyhu6AKzm2k-iUZkCt42n9IyaKAwbPfEcwLMBbSBG-E4yWznkrDXJWDEhDhsvPNcvPW4PBgVY30RCHlGhT7Of_Cx0hyb0hv3o1959z5t72xRQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "29 Tanglin Rd, Singapore 247911",
+      "geometry": {
+        "location": {
+          "lat": 1.3054897,
+          "lng": 103.8260742
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.30695465,
+            "lng": 103.82789625
+          },
+          "southwest": {
+            "lat": 1.30400605,
+            "lng": 103.82438085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "59a9d8ed749d910e163d7689e4a6a2cd1e92ff63",
+      "name": "The St. Regis Singapore",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3069,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106672049536614406231/photos\">The St. Regis Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAAd6upzgGG5kdPamabFPgZfcX-tfZT4JNigflYi0kD9_5fki11dmbRAkYsEOBZtK_pmROkvn9nN13fR64GyH-i4XDKI19GQJtntG-ItO6awulHRjgJVl4PKgqkcYVZT1uqEhCi7JQzCCovGkYDYWwM9s1JGhSZ-Ihla118CZdfr5371gmdCcjMmg",
+          "width": 4300
+        }
+      ],
+      "place_id": "ChIJb9RocosZ2jERYG-hayjKLIo",
+      "plus_code": {
+        "compound_code": "8R4G+5C Singapore",
+        "global_code": "6PH58R4G+5C"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAY3z1VuJnkZPW3PhItZxcFgwpAk87_MqftIRR1S_SFy8hLMBVZt_lRr9AfozhrO2SaUsrDVv__uBUXuQpJUkEeAROISGadE054NpJAf-jY7n-dneD2muQvEo4SqxZ0DWREhDVt6WXgjwbtHWPUY36S-MEGhRh7UU_-rwFY6Wfuzl8_NzHwB2UAQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "20 Merchant Rd, Singapore 058281",
+      "geometry": {
+        "location": {
+          "lat": 1.2884639,
+          "lng": 103.8459259
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.290001879892722,
+            "lng": 103.8474249798927
+          },
+          "southwest": {
+            "lat": 1.287302220107278,
+            "lng": 103.8447253201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "2ae3501347cba266f6d5828ee5938da86eb4a769",
+      "name": "Swissotel Merchant Court Singapore",
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101990229713558816171/photos\">Swissotel Merchant Court</a>"
+          ],
+          "photo_reference": "CmRaAAAA8iOgRLfE0e-pjQEmBpxYdugC8KoQ2VBThujRNef1dtlquYHlg8ed4fHh5vrhv94do-BGnAZsOHkNKIfhsmCAMlrWdvi3rTPyWFZvB6doqBuwFNIWOGin5eMGBzkrAlI0EhB9CUQLOHcR9mGzcNmzmm8-GhRNl_iwVIl8JRgeCJDl-6Hw8tmebQ",
+          "width": 1279
+        }
+      ],
+      "place_id": "ChIJjS4cuwoZ2jERCTeN-k9LUIE",
+      "plus_code": {
+        "compound_code": "7RQW+99 Singapore",
+        "global_code": "6PH57RQW+99"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAA0lmqt4RnSlPD07tC6pUfUcM4sAgiZJ7PIgNtz0Nyy6GPm3SJE14Tr045k7ueu8Uy_O8p1Snt9QtNvtmOoIdV-KTmctVc9Hd3OOMEytBcQk3u3fY69qKtNjzHVFPogF4EhBQHZ4NZcLuCVDQh8gSUKrmGhTGoW-aleJgXf4RrLk8_TCSz-Mz3g",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "7 Raffles Ave, Marina Bay, Singapore 039799",
+      "geometry": {
+        "location": {
+          "lat": 1.2907544,
+          "lng": 103.8600906
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.2922345,
+            "lng": 103.8611520298927
+          },
+          "southwest": {
+            "lat": 1.2887393,
+            "lng": 103.8584523701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "c6750bef8202d39ee8f5ca9fa3c7dec86eaf5a10",
+      "name": "The Ritz-Carlton, Millenia Singapore",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1125,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117523299628564325119/photos\">The Ritz-Carlton, Millenia Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAA_0iiVNi67WivPRXrcSYFzRwokTch-LJfEBnDDQlnDx0gOZTAorYkepIRHzo8hyfqMQVaAgHL4PM-4WGYYgJrVZx4z9vDk-N9gEg8I7kwS-AxqxRDe80pMuh45pxRUDQOEhA8nuG0TL4Pv9ZfenIrMzqeGhSbo1-xcce6NsfoOky-3SvewZh9qA",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJOek7q6kZ2jERX8_FX0BTcq4",
+      "plus_code": {
+        "compound_code": "7VR6+82 Singapore",
+        "global_code": "6PH57VR6+82"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAACxkYLvWu_oz7f86DRxphtYBcIFXJ4eSMEf1gopdIQOo8vUN2OuJYS-lJRV2lizXJZWstTQFVm5adD_hKR3d3alt7Uwt5k5Y8R4dqTG9uL4DSTony5uQ3DQMInSrt5b0EEhD76iiQj2torzWMXbiUuq0cGhR5GBvqNDS643i4vaS2cJGPtyUQZA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "1A Cuscaden Rd, Singapore 249716",
+      "geometry": {
+        "location": {
+          "lat": 1.3043785,
+          "lng": 103.8239344
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.305563529892722,
+            "lng": 103.8253599798927
+          },
+          "southwest": {
+            "lat": 1.302863870107278,
+            "lng": 103.8226603201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "98f58aaa8787fbadd4d3b6e984803d9342d40369",
+      "name": "Hotel Jen Tanglin Singapore",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105796547477148239192/photos\">Hotel Jen Tanglin Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAAb2Xc9jqwBDoTkIlQW-QR5FdsiN_a_LjHH2LAnZ6nz3GaZ_GCr-lkc5saAcQodkCBv-cSCPUKXvvHgC7xL5ePPSIvbFe7-_biXon-LIttSsKmRGbsjnSe0tGMY2C3QwJPEhCW0UmA0kq-NjfS5FsUZmuPGhTqWd0U2PTDyVcQutU21AUWNHgP0Q",
+          "width": 4076
+        }
+      ],
+      "place_id": "ChIJdY7JN4oZ2jERVg6-qPEGJ3U",
+      "plus_code": {
+        "compound_code": "8R3F+QH Singapore",
+        "global_code": "6PH58R3F+QH"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAyNLwLYlv9V-h1oumah8u31A2KDfH9XSA87mE_CavL8eXD5HKDBZ8u6U6H-4wOYS3pwwc9rA68gkqtMqZmijgt8evLBWf3BpB9CdZNfvx0Frw6nllG2J23h0i5OgLikKvEhCYm1AkEZyhByBLnIctBaFHGhQd7QHSAauNDaLdC5fA2AbSrrprfw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "100 Orchard Rd, Singapore 238840",
+      "geometry": {
+        "location": {
+          "lat": 1.3007654,
+          "lng": 103.841536
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.302010029892722,
+            "lng": 103.8438547
+          },
+          "southwest": {
+            "lat": 1.299310370107278,
+            "lng": 103.8403511
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "bd24c8506048d4924edbb775afb0ced18e9de68b",
+      "name": "Concorde Hotel Singapore",
+      "photos": [
+        {
+          "height": 4072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110192968845016030183/photos\">Le Meridien</a>"
+          ],
+          "photo_reference": "CmRaAAAA1uMxNHHeWrc3fq6-BSGlcoldkH1YL5rxySvItyZVb4VNGgJH1Fl_LS_VXMmLVOdVjhcevFlSzGNIgkOPphvuBpz-k-SJcUDgFoUq5PtvwyVNXxCMPQXX0Vfm2qTqTS4AEhBMAVC9caDRbzdPtiMNnjpIGhQPrETVSgtwRZymf0FY-LX-5oiAHg",
+          "width": 5208
+        }
+      ],
+      "place_id": "ChIJRe0Wq5cZ2jER5qoN9Q0znq8",
+      "plus_code": {
+        "compound_code": "8R2R+8J Singapore",
+        "global_code": "6PH58R2R+8J"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAA8D1B_JA7WhmR0yfEO1jUs0x72dS36B67ZjkEAKeHUOGsXeo3uXEIEX6JY2I5ON_F07qBMWVZoQzYCQ17AQO8HvBrI0HD5y_hm8ssRYqLIYQ-orPQbPpa4PPf3BN9BjbHEhBDU2fanGSmhW0Zn7LRuO02GhT8r3K6DyUH91bzBCDYiGoPMcpyKA",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "320 Orchard Rd, Singapore 238865",
+      "geometry": {
+        "location": {
+          "lat": 1.3052151,
+          "lng": 103.8329675
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.306464929892722,
+            "lng": 103.8339512798927
+          },
+          "southwest": {
+            "lat": 1.303765270107278,
+            "lng": 103.8312516201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "0f944370766667fedc1053dc5ffad0900b586bff",
+      "name": "Singapore Marriott Tang Plaza Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105247420154205298238/photos\">Singapore Marriott Tang Plaza Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAA3VYoSSrt49bKaFsCpZAk0U0WL6wQTnbgDbSQH19Tly__kaBAuxnP1hVw6QDcLFi43iQpPS_il1v8n5xGVvr4DHb8UdAfy-0YJpnYo8AUuvgB98U3hF6Q7hmUcmQ6XnsnEhC8paZUwb2_T5CmF1NcbAv4GhS2_4IcrgTJI_ZeJaXS20bB5omtJw",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJ7zeih40Z2jERst1twFSmrzc",
+      "plus_code": {
+        "compound_code": "8R4M+35 Singapore",
+        "global_code": "6PH58R4M+35"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAOgJz_dgMy350CCE3UEy6x9wbdnOX_hmm1MD4nOK9L0TSIISRopsY6J4d8_4JXTVRP441-3HrS7i3mYF3u-ed4_jf-sNo43o4RNIngOV_XyPnjyxFGxfhVFPoqEtnsuwtEhBo6JfajL1gJAf7YNEl4N3fGhQeGDQH3xUqenbSZpMaJMfqCstbug",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "9 Bras Basah Rd, Singapore 189559",
+      "geometry": {
+        "location": {
+          "lat": 1.2984853,
+          "lng": 103.8493524
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.299947129892722,
+            "lng": 103.8506792298927
+          },
+          "southwest": {
+            "lat": 1.297247470107278,
+            "lng": 103.8479795701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "0b4d25cc4a5be2d979e6d1d8c295b9087a49a383",
+      "name": "Rendezvous Hotel Singapore",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107385756640539535220/photos\">Rendezvous Hotel Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAA18uK7dIZ5mENpQ-J9xezkI_kgdN6KKGP5NZSoxwayyfRmqHjBr6jPJwlyYccwgnOF8sJ7CBIuppP1aINL18W3wrgFdkPhHXmMrhOhgBX354-q6riNJiPpcxyCkRFq6I0EhBhwUtPVsF7jEV1gPYNL8ICGhQ1v_EW---bVltI98WYp6lduNp_PA",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJPevdorwZ2jER-r7lLFI-Poc",
+      "plus_code": {
+        "compound_code": "7RXX+9P Singapore",
+        "global_code": "6PH57RXX+9P"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAArTNiYoJOfDJ-hA8MOIHbbow2gsk7jvg-VEgnCH6P2ka82uyGglh4W1Nn1lzBtFKQbUwESSPyTHuW2YmTVkjlRlaZSaxgIUhyG6Jfvcq7IWiaoNbTguKFa_NzrS14xi5QEhC0QmSUgm12qm8iiy5X3z9_GhS7RDv0cAocKgFxzx_0LL4Kqh2x9g",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "177A River Valley Rd, Singapore 179031",
+      "geometry": {
+        "location": {
+          "lat": 1.2913726,
+          "lng": 103.8448496
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.292561679892722,
+            "lng": 103.8462470298927
+          },
+          "southwest": {
+            "lat": 1.289862020107278,
+            "lng": 103.8435473701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "2978389fd815ddc076854d95990e07bbced99621",
+      "name": "Novotel Singapore Clarke Quay",
+      "photos": [
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104405369732400261496/photos\">Novotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAKy7pE52jMHw9gFPJJLXKIhsyneYLngN1uxHiaFEXpgCMaW5W4dK_A2JitVEbMAdsg9yu8XbLWUVD1ZkuPbek1yvsDijrcnuidulXluNAFwTXJPbINuYWhh-oE-CaX7SnEhCnrLqp94QL72Yzae6-bUs8GhQGO6fYDpieLIDG7dBsUiBDbqpZNw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJQe6Vf58Z2jERgk-LZRHzmc8",
+      "plus_code": {
+        "compound_code": "7RRV+GW Singapore",
+        "global_code": "6PH57RRV+GW"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAma3557unK_Vq2XLc8EhIH1SfSmiX0gso8CZDsRPQMltKOTJacsSggyUVQbadVNFky96gRCua6RD6oq1bGmwioK9miSnZorGHEeFqbcG9wOFirzy914gAFsLV5ybRsBwjEhACBxpYigKVKX2CMmPmmCqNGhSlm1Q9YkmWzfPGIy_tzAQGE_1f0w",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "333 Orchard Rd, Singapore 238867",
+      "geometry": {
+        "location": {
+          "lat": 1.3020052,
+          "lng": 103.8359339
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.303539229892722,
+            "lng": 103.83826745
+          },
+          "southwest": {
+            "lat": 1.300839570107278,
+            "lng": 103.83467245
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "b78b8c928eefc4c41462c94f53f061996b34caa1",
+      "name": "Mandarin Orchard Singapore",
+      "photos": [
+        {
+          "height": 700,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112065318945196203475/photos\">Mandarin Orchard Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAAk3yDXYclkrn9J3mm7IU4pxOwFtNQXpQwBkiRFrC2ZArIsPCa1ijNIkfsmhgxVM60W2V8xvyXjs5nBEQSxeNjbxjvO_f67GcZe0DDoNg-9-cmhIr5fUNJXBKz6raKBmgaEhAyL6ZiVCN_aKdzSs9TQFI9GhQTpSy8s51Gw6XOTuVmHbLMaETtWQ",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJ-ejNCpEZ2jERGuHxSsq0KgU",
+      "plus_code": {
+        "compound_code": "8R2P+R9 Singapore",
+        "global_code": "6PH58R2P+R9"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAYPv2AUVY-JNVnPkxJALRjdthkFfTnf-9Ti0fAZWb9rI2nMwAJtzNa9CuBE6ksiULFFBBnWjvkHo6nH1WRWdJcgyppIpkE_uL5n1mRgU57mWEBCAP75hjfePvoWjbJo0REhD3XhAw4Wq_lj3mIkBGVYq0GhR2GdBxpmnEp2g4XW3F9ijE8AFI9Q",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "122 Middle Rd, Singapore 188973",
+      "geometry": {
+        "location": {
+          "lat": 1.299523,
+          "lng": 103.853104
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.300777029892722,
+            "lng": 103.8546349298927
+          },
+          "southwest": {
+            "lat": 1.298077370107278,
+            "lng": 103.8519352701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "f35e4e410a6b3fc31aa5ef9f78b104922782c254",
+      "name": "Mercure Singapore Bugis",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111851504134469613564/photos\">Hotel Mercure Singapore Middle Road</a>"
+          ],
+          "photo_reference": "CmRaAAAAbYKj-m3Z5Ui8Pvvd8yNlZYrqfiBrtS3OJ4ZOKR40GGiKHX2Tutg8_AkgToh7TIMwRRZTiBTYZxZUvHPsOJ9nA0QGBSCclB7iisr-d7B3Sk6pbOeXXUrZwOx6cK6S4UDqEhAR3uJaEJ6KZNiqdiPIz0O4GhSHjnIIif0wYl3ef_KqJQxC4J5xJg",
+          "width": 7360
+        }
+      ],
+      "place_id": "ChIJOXYMIrsZ2jERu6Re6K0xOvw",
+      "plus_code": {
+        "compound_code": "7VX3+R6 Singapore",
+        "global_code": "6PH57VX3+R6"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAzSqVxdZBPi8Ox89-ZKTK_7ztN8ahr3AQBrJghhvGbATVT9FpFL25Ky9a0yDEZz0LV1JtTMG1pgLeVOKCjUJBatDDxCbViGUHeIBOIkqqaftxWcBvrdZk6SqJ3ybvcLMWEhDJIMJKqboKXgc2pvbagRqfGhRji8nj2PLZcuDb7UCN7ttP9ce1bw",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "35 Robinson Rd, Singapore 068876",
+      "geometry": {
+        "location": {
+          "lat": 1.2799835,
+          "lng": 103.8497456
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.281491129892722,
+            "lng": 103.8512312298927
+          },
+          "southwest": {
+            "lat": 1.278791470107278,
+            "lng": 103.8485315701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "029286d6dfca26d40ba22de88f8393823646f61c",
+      "name": "Sofitel So Singapore",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100913069930292087315/photos\">Hotel Sofitel So Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAALPhV6Ko0PE81Fd00FPVd3VduEZqU006WsFJ03GQ_0a2Ltb55ZkJ6r3_jVI7WPZYs564ajqdFkipIs3P0_q3wyVYGNPw4dny5tCamaSEdDjKXoKgEbjnpI5MVVCLC0roxEhDf9pNIbjjLZkGnF4wmxyVgGhQ52-VfuZRCCpLynd9ujvuy4KSC6Q",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJi1zf9g0Z2jER1XU6X90povg",
+      "plus_code": {
+        "compound_code": "7RHX+XV Singapore",
+        "global_code": "6PH57RHX+XV"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAjw8iHRPiHlisvqKkbPucfqOG8ZYRrcQlsprsRKuaiE-oyYcC5jlAuA-J1X17q7jcqG40kPBx3yQKENDeh8EKEL0Mety_6eujOE3XhnzvN_NrQH54jgGP5x4QfszgI9CKEhAFMIYGg2o2zXU1DEHlnpnRGhQQbVTHH73FA43w6Kk11m5PoeynVQ",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "317 Outram Rd, Singapore 169075",
+      "geometry": {
+        "location": {
+          "lat": 1.288878,
+          "lng": 103.834491
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.290212779892722,
+            "lng": 103.83573935
+          },
+          "southwest": {
+            "lat": 1.287513120107278,
+            "lng": 103.83302675
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "376345b0d12e94ab93b098a928533b00498cd316",
+      "name": "Holiday Inn Singapore Atrium",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112587579131931182121/photos\">Prasun Chaudhuri</a>"
+          ],
+          "photo_reference": "CmRZAAAAKfCGfVMUBI_n-wXNoUIAVb6B3Wqr4T9wysk7jWfOronktcNpR_VAiCe1sEruhT7FqmZUzQSXKdqvAlJ00CNwk__hfZjsNkN9yfhx0iv_JzK7gKv8LYgc9Mgq-md56P_JEhBSPOfwD2E__I_INHmqW7QaGhQu9NXlS3d0QQZLhcu-3uZewlcXiA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJD61Z2XcZ2jERdnvmimcagTY",
+      "plus_code": {
+        "compound_code": "7RQM+HQ Singapore",
+        "global_code": "6PH57RQM+HQ"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAArJFHSc_L7S5jvwQ4qzBZawW6o3uALSU2IZOzqcrJHxv1jvcT4GAEq7aq0ASS23sRZK4fK9H4XAhGby-YOiQQyxaOLMSPLzHJGqW7OduFLPatkCmMMegd4A-RHYvJinxYEhD_W4CLZXHLsPxGzxvQakmPGhR6OTMcYnbgzGHCQISiWvFQycZAJw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "39 Scotts Rd, Singapore 228230",
+      "geometry": {
+        "location": {
+          "lat": 1.3118244,
+          "lng": 103.8364761
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.312971429892722,
+            "lng": 103.8378581298927
+          },
+          "southwest": {
+            "lat": 1.310271770107278,
+            "lng": 103.8351584701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "b58a4eb8f396434ddfe2f06d161aa92ac06f3b2d",
+      "name": "Sheraton Towers Singapore",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3839,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114828350601838322499/photos\">Sheraton Towers Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAAYWilB1A2zQGuDMMdqpTNklYAlFe7SnHD2ieFjnu0qZp1iLwli3eL8PEgr8g4iE4aCzElACXWnboVhgjT5uScnNnfdYEQP-yrbb2is4-_5ZktX6r3ntunGutTb0ArkUFEEhC2pUIZXlyT7VPoD72RAj8QGhRKE1k8vCllxa8LapJbKjo3ZGN-Hw",
+          "width": 2557
+        }
+      ],
+      "place_id": "ChIJQeI7N-wZ2jERnpSwVQl2b00",
+      "plus_code": {
+        "compound_code": "8R6P+PH Singapore",
+        "global_code": "6PH58R6P+PH"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA_sezs3clKHyhCmQeWSTT81OJ2vhwJLJczY7y-ciRDn_z5dFchgWbCeDZZPwovybagBg-miKVrmW0M5tbQtKOWeIV9R23KBh4MzrxzoEJzjY06KeopdNe0V9xUer9Hi4cEhDXYpohQYfkObvDATaOucUOGhTrXnSH15cQIqCSr_CgPAKOi1wToQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "12 Marina View, tower 2 Asia Square, Singapore 018961",
+      "geometry": {
+        "location": {
+          "lat": 1.2782749,
+          "lng": 103.8507719
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 1.28012755,
+            "lng": 103.8522678798927
+          },
+          "southwest": {
+            "lat": 1.27695255,
+            "lng": 103.8495682201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "fdb03342bae5845b7f34719868e1e1d3cdabc81c",
+      "name": "The Westin Singapore",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109819768333974678735/photos\">The Westin Singapore</a>"
+          ],
+          "photo_reference": "CmRaAAAAJbQWuvzZhkbRBUsTjuhtvnFIU7ZmoTMHa7w9Sj0DYznDYDG9W4RaqM-d8QQxVOO0fUMvkGTdfkZ1TaYvIR2ty4VRfoGQduA_tnlqkm-6qOMrO0YjKnyttATJmku4i97lEhD4rhueQh7AxObhPEBo9lYQGhRi2eoK7TscwsUawvSVbMvxyCZJsw",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJWbwoihEZ2jER8DDLCxrd38o",
+      "plus_code": {
+        "compound_code": "7VH2+88 Singapore",
+        "global_code": "6PH57VH2+88"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAGfyzLyDKSvKqWz2F08KbolK99ffwlGQOSwQoC8IVXb8cnA0QeUhMPkKorZrRXugvSaQrshM2TcOpXJKud0Fg198iIE-GTDVXBD4MdW1bvBOYj432lqLn62iLrhYLXoDJEhA8zu_wKxyyQBdYKMMfxipKGhRVvl9RtOhKbUe-qVjihoGkI3LKDQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}
