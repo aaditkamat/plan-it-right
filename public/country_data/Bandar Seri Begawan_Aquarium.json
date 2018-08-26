@@ -1,0 +1,90 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "No.20A, Ground Floor Bangunan Awang Haji Ahmad Bin Awang Hassan & Anak-Anak, Gadong B, BE1518, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.901117699999999,
+          "lng": 114.9271769
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.902467529892721,
+            "lng": 114.9285267298927
+          },
+          "southwest": {
+            "lat": 4.899767870107278,
+            "lng": 114.9258270701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "4f85a41fc45365eac71230440222e38ce670a318",
+      "name": "Ilufah Aquarium & Trading Co",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJn4ZczUn1IjIRi1ISYgc9M2U",
+      "plus_code": {
+        "compound_code": "WW2G+CV Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW2G+CV"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAsiEX-3ElH2aE-L93ucpgC1ZrPfGAAx5uM2J8tgktHA66OWh81YadGr0k_DBHwjD7s1_kklqCtB_wZ8tFm0jd4atn52avktxQ9bSEUPhLYMdIiNaGujFF0d2dij76czosEhCF0OEBX8yh8nX0yY7aWsUzGhQ5fjsX7bVc3uUzzv75R32McLPkew",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9078127,
+          "lng": 114.9172594
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.909162529892722,
+            "lng": 114.9186092298927
+          },
+          "southwest": {
+            "lat": 4.906462870107278,
+            "lng": 114.9159095701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "0ffe1350c0e73d79392a8020c2703797f08e29c8",
+      "name": "Perusahaan Kecubung Sdn. Bhd.",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106141673233594170227/photos\">adyl ellmi</a>"
+          ],
+          "photo_reference": "CmRaAAAAvECnG3XyAH0F0xkCzcFq6fzyqtFr-AvSK7bK8BmM8DaEFerI-e_BA-COk8yHZmCP3_Wvc0i3feeMhXD6LRPgb5JJhDraqnep01tkd8DvBiHrkAuo8u3-iFLaCuTZD7tbEhBQ-_hXY1UHZtsZdPYU0PAoGhTbeDVXug6QyprAsp5RFswtNfjc6A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ75wdvET1IjIRKcIyGKrugsg",
+      "plus_code": {
+        "compound_code": "WW58+4W Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW58+4W"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAZEovLO0uoQLHtIA-nt_lBXRhXixGgWzooF1cwxdqebNyQltn_N04C-8SN3G5A83CsLVutT2OM3Y44BlnnyyRAuXjw-dPSHfM3sx29BCpDKzr5TPdG5hgWLJjaeRU2-zMEhDtdbN46eF_hkeo5fQOOyzmGhRU4l8XiiANaAw8gsQMyOp6Id5L2w",
+      "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

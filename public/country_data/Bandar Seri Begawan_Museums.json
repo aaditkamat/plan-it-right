@@ -1,0 +1,254 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Jln Sultan Omar Ali Saifuddien, Bandar Seri Begawan BS8611, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.892839100000001,
+          "lng": 114.9414803
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.894226079892722,
+            "lng": 114.9429157298927
+          },
+          "southwest": {
+            "lat": 4.891526420107278,
+            "lng": 114.9402160701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "319e210a6423a93962633330c6206d1c58aa48c1",
+      "name": "Royal Regalia Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110971245530030418761/photos\">Erick Jamat</a>"
+          ],
+          "photo_reference": "CmRaAAAASTinWBhHS0J4SQVaZoRaajTOVtKEnPH6_MsrijNNwtvHQ4itCdtavrq4QpGTlqucVIiOb6GbZ6InW4un0xViTdBWBR7tkeOtaURAK2tGgI9V8MvSzXoR0GeX9mQ6FTiwEhBLmdG7ZDE-M3gjybf3cUcAGhSTZcz8aHcX3lPxeks7P2tdrZJ-Xg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ7S90ttKKIjIRk8z8gr0W4qo",
+      "plus_code": {
+        "compound_code": "VWVR+4H Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWVR+4H"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAUgeGrS0ZxwF8MR2FBgHkat56FJaob5lWbLTG5R2XDoCpTZxOQGRz-E2c__XoFSMvI_NW3k6EPCmVLl1yy0RbAAdYN3HUFb5aaYsDXokjhaBFb3Fwb_Yl863uWCx8oSzfEhBcF9GIWEpcJaLdvSAugzRcGhSqIEUfW9IsAw4FBvmJrZRmQ-4eSw",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.902435200000001,
+          "lng": 114.9013237
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.903785029892723,
+            "lng": 114.9026735298928
+          },
+          "southwest": {
+            "lat": 4.901085370107279,
+            "lng": 114.8999738701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "5a5966fcea9bf5bb12742e69d0c163815dea5eee",
+      "name": "Museum Of Tissues",
+      "opening_hours": {},
+      "place_id": "ChIJpbS-VPhfIjIRk8NTdRph6EQ",
+      "plus_code": {
+        "compound_code": "WW22+XG Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW22+XG"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAJ_qd6gp2BGFIaJoNYuZoCCC6hnAs-h2ukxQuwCPBrELxSKR7VrWCuHOK9bGJ5z1rnY_RH94Bq8LY3rmyklnnSnrdq04nfDkMw4ekIAtclWH0vD6SU-VUYNxQrIlIiLmuEhBCJverNm_6mjKXsqffaaTIGhQWQJuV1Ym5HMdoZgblNy_CMbAixw",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bolkiah Garrison,, Jalan Pertahanan, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.927376,
+          "lng": 114.9360639
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.928725829892722,
+            "lng": 114.9374137298927
+          },
+          "southwest": {
+            "lat": 4.926026170107278,
+            "lng": 114.9347140701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "55bd9a8c114d0e309e3d692b8a22a9ea7e27c575",
+      "name": "Royal Brunei Armed Forces Museum",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJv6jEMQn1IjIRjIR75sj0avE",
+      "plus_code": {
+        "compound_code": "WWGP+XC Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWGP+XC"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAA_uTZ0ZfvBrApRQkmIvQ_TcKrvS0jgZGcYQA-F3oY47dj1vMV44cr7unq5aPudkPn7DXfUxhs8mjvXQdrQtGmFqg6L1riUQcLdk0zJEJqFi4G6LYzw88bhtH8GS8LqcZHEhDTRI2XDvmaNsblA1CPFp-xGhQ8R0fyHmJJlHMRpMvaEISO47nWTA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9120938,
+          "lng": 114.9004108
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.913443629892722,
+            "lng": 114.9017606298927
+          },
+          "southwest": {
+            "lat": 4.910743970107278,
+            "lng": 114.8990609701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "177ad0accce67fd0f8e0889b4cca750d930c7712",
+      "name": "Police Museum",
+      "opening_hours": {},
+      "place_id": "ChIJVwXH8PRfIjIROOF2UzdMOZI",
+      "plus_code": {
+        "compound_code": "WW62+R5 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW62+R5"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAP3oMPiuPxe8ySwx3gKyfy_SNjBDooiiJAYLs5LcaMkjPaoSCQjCeiBxd2Au0UHBzuYlspmcisu_2GZ9Y4PAU3DVGLlU8hUO8kF41cbK7sCoEG1DOjzI54nGDJAaJ_EzNEhCsdDgn6RT59YW083wdQJMiGhQntIA6q3L9u33k-AujVEXrdd4LrA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Simpang 26, Jln Pengiran Babu Raja, Bandar Seri Begawan BA2112, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8835631,
+          "lng": 114.9201401
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.884912929892722,
+            "lng": 114.9214899298928
+          },
+          "southwest": {
+            "lat": 4.882213270107278,
+            "lng": 114.9187902701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "09eaf1bfc652fc03d71bb1226e4a50136d92823c",
+      "name": "Balai Pameran Islam Sultan Haji Hassanal Bolkiah",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109349595289465503138/photos\">adibah aziry</a>"
+          ],
+          "photo_reference": "CmRaAAAAzi3iBLA7-AshWP6mY4JSF6aEig6E1GvpFab0I24acf2e4jD4-AL4wMfbRHrggM29CsJn7Suk9Rq0eV5D5f1Vhqx85ENFlYDKjtZZLPoEzvicw7t4T35dx7PQ7gUfnngQEhC63ei8bMMqm_nmjBqymPWYGhSWssE56fXV3ofS2BH2RIHjwmUcxA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJyUQZQrqKIjIR4l0I2tXI3VU",
+      "plus_code": {
+        "compound_code": "VWMC+C3 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWMC+C3"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAA4NideQl0ht7M3GQfWn9rX9QJ7lqURK5HYWqzFrvPAnoaK5mu2AjEkFzaV4qQGcjCZKR6Q6zT7P2Q9RA0OsY0dJ_A0uKA0_B1A4rqhdD4dHfCYBoElALA5J3uR6hM4KcMEhAe6_htK9HkpsRcC1Ms2eRUGhRyNJ9ZzTLH9h8euqT9Jw8O2WA_7A",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "482 Jln Kota Batu, Kampung Kota Batu, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8818364,
+          "lng": 114.9685318
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.883186229892722,
+            "lng": 114.9698816298928
+          },
+          "southwest": {
+            "lat": 4.880486570107278,
+            "lng": 114.9671819701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "d7223dc137739e7cb002af4d36d44e44afdefc14",
+      "name": "Brunei Darussalam Maritime Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116967523325064503672/photos\">Adrick Loh</a>"
+          ],
+          "photo_reference": "CmRaAAAArn0zExW0HS_jAfHxfRJ9opKv3nmCLaYwy3vGW6x0ulrhcfgfvv51ryAcxOCmc99ZYwdPlZzvOVNtTnZNHGLwf7qUmD572qI2RBdyTH7TREAavWjebyiyW3dACqLjQRsZEhCiAixFVUKQobBIejSqJFnmGhSc_OUW3XAeTp1njC4UbfhCrcAa3Q",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJZQ7jFTqLIjIRDnDzyjJD7_c",
+      "plus_code": {
+        "compound_code": "VXJ9+PC Kampung Kota Batu, Brunei",
+        "global_code": "6PPPVXJ9+PC"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAO8_vA9tBhfmd1ztbXi69coeI-sJN7gqygJiEd20wfutRhsvoU9wKhAa5ujavaOmkRqwyZ7B9Mwzfu4pC2SdmLR8Yoa268riVuIrEOyflvnwS1PojliZRenfQ3ZtHmRoWEhCAIffzaazeLNlpGBdQ5KPlGhSPc0vQ7P27el2mJLmJWeKx2LEpfA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

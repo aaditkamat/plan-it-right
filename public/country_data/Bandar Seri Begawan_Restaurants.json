@@ -1,0 +1,970 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CqQCEgEAAOMt7uYhEUtdItpCliMt3uhAIMRKkxHsJLrG5guBNs9ngQ_UaB8rXmHrgouAp8F3oC6mg2zo6RgUDfWAwQzOHy-YGJY3xeagBSwlkgnDEuEqdrJXHGwKrkvyFMh2alcvoba2sCDQiR38EZOqv5AvNRuhbjc1krkhTzSqvAbBs0cu9fZ3H8-uMIWOZvGEI5TdR5uAlkpC0RBFUVZJkz3NxPX5P3RRhYD7I4TwN4nrhkR2CrxaVaNuFWvmbz9VUsSTgfkCEzkSEHN-2Naar0wMTV5ez1QnsMQoJSxGIjExk03TikXwt3ussb7meZO0rdajZ8cb2Bv_RCwvZgifJWC0wH2Y55fYCRk1yssxYc7nJ1AWT3TmORBqcJQ2Dv6FbTjXbBIQkiW5wZInUeei-eNi7Cdm2RoU0zDl60LaCLc4Gx6NVpH-bUrK9pw",
+  "results": [
+    {
+      "formatted_address": "Unit 1A, Heng Thai Property Centre, 22 Simpang,Dato Ratna Road, Bandar Seri Begawan 1318, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8997033,
+          "lng": 114.9180704
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.901053129892722,
+            "lng": 114.9194202298928
+          },
+          "southwest": {
+            "lat": 4.898353470107278,
+            "lng": 114.9167205701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "9bb0ff32f1fab7c919dff4b5186392b7b2610758",
+      "name": "Gwad Basha Arabic Restaurants",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109994843349599802114/photos\">esam hassan</a>"
+          ],
+          "photo_reference": "CmRaAAAAq5ht_Ygi6BeQwtzD6dnBdcNjdgJLCBuiUgO_GYl2kuU4yD49sNlFSe4mTBH_T56ufMKZ3xmoxwtHW4CYFXRaCe5HuI9nX6nXJSe7iow1elKGhEwh6iarJYnuDyzIWxFYEhDS4jo8MIBA8n0KVZwKUKT_GhQXDb9jXNjGS2LGrsMv7siOkTkCVQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJrdO8b071IjIRtcELpVdn5PE",
+      "plus_code": {
+        "compound_code": "VWX9+V6 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWX9+V6"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAACuWEG2dLNA7fNX21Dw1TZnS1KssjPGoCvT2pPL8qimSIHITXzfLPIO_iyGT5i4FuqhVPfc3EWtcRx0OBs3sX5xyDhiVIGHj4P68uz8ADbxFm7l94IYkzoFgn7FQeNL52EhB6zX4d1HHSZwg_SptxYKIQGhTXoSvxQ_3XYps9zQBvl4wEKKa2og",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Rakyat Jati Rimba, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9445993,
+          "lng": 114.9065986
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.945949129892722,
+            "lng": 114.9079484298927
+          },
+          "southwest": {
+            "lat": 4.943249470107278,
+            "lng": 114.9052487701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "d5564d22ed5cdee104e8b380d5b6a81857cf0b9b",
+      "name": "I-Lotus Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115442271423227184944/photos\">Mass Hmy</a>"
+          ],
+          "photo_reference": "CmRaAAAAOvv-_ExC4sBWLjzOoKxioOoGzuFg-YG1y-m7b3juyDmoUuN7f91NvepUH6HlWM_dJpn4uAaJnB8MFUczZ5cEOOQSMjXn9mC1NbGI2pZvZ_XM08tCnSisVDafqq_mnFRoEhC9vhsML17XWznMlzzVdl-CGhTvXSx4XPhjQiOt8g6EA-2izfoubw",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJ6bY8Uoj1IjIR4Dara90NJBY",
+      "plus_code": {
+        "compound_code": "WWV4+RJ Rimba, Brunei",
+        "global_code": "6PPPWWV4+RJ"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAANtqxHiKogP6z8NUI1uQITzgP1z4SLMhOhFYjQpoHCittYBxhsAHioKxDLmM8JZzzLPZkVTO1kQZ_Bn7s8uA9On2afQu_RqpbpUb9KTAet6KGFJljkwgiL13JlAi85bUNEhBufrF_IIPrJaOLT9qPtNwKGhRVnFZilDi-zAgWoi-rtG_CtPkXkg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Kompleks Yayasan Sultan Haji Hassanal Bolkiah, Jalan McArthur, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.886587,
+          "lng": 114.94158
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.888015679892722,
+            "lng": 114.9429927298928
+          },
+          "southwest": {
+            "lat": 4.885316020107278,
+            "lng": 114.9402930701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "2cf1da8040d5f8f175d2b8410ec073a44a07cd6e",
+      "name": "Kaizen Sushi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106439554597973240250/photos\">WaiTuck CHONG</a>"
+          ],
+          "photo_reference": "CmRZAAAAmBUKgAJk3k0eHmOyFkheqgPbt0HYqdRVqev5u7k__defaGBjz5HY8H2JXG6GZUTKxywQeK-SKZheMN_qO_0dhuwK5apknTwZkhdONlpPoexJ1k90f3ae63UwLUJ5VI1tEhAxAt5ghaUQDec1F62b7Jy5GhTQahkp0QBYaWf6zESr8Q38Zl-4NQ",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJzwRPtNGKIjIRV0wKQHMOOC0",
+      "plus_code": {
+        "compound_code": "VWPR+JJ Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWPR+JJ"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAICT9J9tyyLO27t8AYma7TJBL0TPEPZw7NxF6kFs2z5TXW5_gYnath8d8-96vTQWzuUuBBuZm3S3skBQbp91CCBTKw8U4_hOT1pTkZ2Y1lLXMwrzeUUWmWuIV3_oU0dEpEhBma9T1K8LkyHQ-0BnvYXh6GhTZUd_gwjXGdxC_PrCxlJHSLF1Rgw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Kilometers 2.5, Jalan Tutong, The Crowne Princess Complex, Bandar Seri Begawan BA1779, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8865091,
+          "lng": 114.9316133
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.887840279892722,
+            "lng": 114.9329780298928
+          },
+          "southwest": {
+            "lat": 4.885140620107278,
+            "lng": 114.9302783701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "ecc11907183dc01c64b8a1425ea823f1c91259ec",
+      "name": "Charcoal BBQ & Grill Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106394368384764573465/photos\">Asia Ng</a>"
+          ],
+          "photo_reference": "CmRaAAAArzdAXXG78lRlQPNSBOqGVnlUi8726Rb-46q2pEwnPcc_7DQoGMKEgo-Es2IIsJRZq_074YTz83ENJ_21klg9ZNo-BkQSaaFLlOXM0WqHMjWXF0rX5jTDid4_PrDtX8KiEhBtbLmtRhJjEQvkP4pzC4HjGhTmtiKg56q4k8mNy43mH5fn9MDaVw",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJtYyt_ciKIjIRgE9IPgdEhv8",
+      "plus_code": {
+        "compound_code": "VWPJ+JJ Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWPJ+JJ"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAK2cUSnYdfYrDOO5fJJgBrBaTx5nuzvpD4-Uk-jKMnEjkrZfXZi1rTPcOjIutyrpTZBYHQ3FlbHka2HC6RPAbXa0e_EWgtTqCZIzfFgF4zy600818Zqsve7uCQ_DSsBhREhAVP-IDop-iPIyUL-ANCG1-GhRmTRIYOlYuD8jmO4d5_ju_JCCnMw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Abdul Razak Complex Block A, No. 12-13 1st Floor BE4119, Jln Gadong, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.907623300000001,
+          "lng": 114.9171343
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.908932379892722,
+            "lng": 114.9185244798927
+          },
+          "southwest": {
+            "lat": 4.906232720107278,
+            "lng": 114.9158248201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "239d6e5b0e2f9929d3f21ca6f6f4aa402317f063",
+      "name": "Pondok Seri Wangi Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114435466481719010079/photos\">Laura Joan</a>"
+          ],
+          "photo_reference": "CmRaAAAAkLYtrMY2bc4iYr_IyXcckGCUmXM6_D1gyfXxRrqTQ1Q2uwWWajJzFr9g7jlZHMKRLA22MQb25tBNQ4sQ9RhH5Su4mYzRkn96i82NCXKKxGZNcg7S0gDbsW3drpJokosCEhDbxwviE_kLW9jze3wQjITqGhQ-PJpAkxt2Ac69SggS-Vn2Edbpdw",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJy5DEuET1IjIRLGkt-YWmHWU",
+      "plus_code": {
+        "compound_code": "WW58+2V Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW58+2V"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAASY5gFrnzPQo1q0stwke6cgXAeLe2J131623ypIIz_BtAYWkkRK6oqRDBagCcmZmSic1zoEd-lK2Y8P1FQVJIkF8q4QQDJbMDIBF-st589PLjgEoxQmNVysfhqNXlwR8zEhCOfDYEARoSSNUIeE9MZv9GGhQ79bK3p42PLhofbC94-fSZD0Xqzw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9019505,
+          "lng": 114.9268785
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.903283079892723,
+            "lng": 114.9281231798928
+          },
+          "southwest": {
+            "lat": 4.900583420107279,
+            "lng": 114.9254235201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "f6d2a7a6dccf327295fe0b3785d769fa80ff8459",
+      "name": "Thien Thien Restaurant Kiulap",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112503169876898753962/photos\">朱亮</a>"
+          ],
+          "photo_reference": "CmRaAAAAFOajayda8-MRD66mynJcIUrfXhnW5Blut1Xosf4IKDaX22B-lUNsM0hDvJTSSQwjL3b22ozRszMLMtiGcTaenM3Gq-QtkYxvSuX9UjhIZV7_tZJOB28Dze_zyURT0n_zEhA71aeDbjeMfVPF-afv2vv8GhTTWj-U8HSXpSSiA4lkI6WhSDF_aw",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJG1wmMUj1IjIRpo9isKa6wb8",
+      "plus_code": {
+        "compound_code": "WW2G+QQ Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW2G+QQ"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAB6MD1-R0tuFa9vCxfwP6bGIn132PvCmQiBW84M4gL3Znm3X7_GlnCiRhcyasjRaQlvfMrawTv84cbH9HEMUY_zBDyvw5OpU3uVJXqLbhCO83_ic5iQE5ATRe1Hwo0tILEhBQTvDzCFg9H1hxsDsu-a4YGhTcUNFdN0XlE6_AatqM5svWX_06uQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9039114,
+          "lng": 114.9209055
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.905261229892722,
+            "lng": 114.9222553298927
+          },
+          "southwest": {
+            "lat": 4.902561570107278,
+            "lng": 114.9195556701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "18d831e64c30fa5f2b217193df8ac50900e6bc81",
+      "name": "Sorriso Restaurant & Pizzeria",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115697535962692616867/photos\">Salvatore Intrigila</a>"
+          ],
+          "photo_reference": "CmRaAAAAlJFjPGoOr7gek6kKnqlmmOEIu8WVd7ZsgrNuKOMV0FX7XkHoUCftEUqQ8wa2Ps_uVZqImERIUnyK65t36bF5NSbS-ze1oXR3Dc0vA-JtGlzQW6po842S99Ubai4UP4ooEhAHo7QspfWEIfMF8HTt59EZGhRAqveRw86_uUfFHGXOh9xUgE_gcQ",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJN4Pl9UX1IjIReXD2ZdSRANw",
+      "plus_code": {
+        "compound_code": "WW3C+H9 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW3C+H9"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAqFebpI_eTS5X7MuAAxyz7UoPDTDJyRru3e_R2Var-tkBovSZAzlprX4SAiLaeUp8LFkG421VRYv1JBjpA86r-UztG9PTacKsb_Pcwt3FPIUBS8EfFTRxmVFf9pbKsgIxEhBz3OZG8zCsS-8Nz8DvEkdTGhQMRHzzh8cVche3DQ-S69J3Mcgf4g",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BS8711, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.888577,
+          "lng": 114.941118
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.889926829892722,
+            "lng": 114.9424678298927
+          },
+          "southwest": {
+            "lat": 4.887227170107278,
+            "lng": 114.9397681701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "24a77b55267e660016340d7dea8c31b409451271",
+      "name": "Rice N Grill - Pakistani Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115144223715130778577/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA85V--kXGt-cBO7y33qd7We9RMruyLyO4SQtjVdD4qNK9fbeJy7FcJkwdc_JdDdyquciLMzachIOW24k-SJIgdLqirSfuv2JI7V9F3kpl7OWLtpM_CcVqfiZKWxPMfdRhEhCiDq7Uvzi_MZH2j5rVEkNZGhSbhTUszutUW5llHALSb3c1bNUWSQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ-4ZV9NGKIjIRukRO5bcvEXs",
+      "plus_code": {
+        "compound_code": "VWQR+CC Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWQR+CC"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAWz8Wa22pwkzzGbwZcU4Bb4nC-rHJWCI0aTnQkdFPOyG4DW3IlSUVx6kS-p2YQjd29GLbEOLvea7c7OcaR-xOOex8oPmW-Doe9xN5qHwSTXIGH7tPQiOUV39npnP8G_c9EhBVS03DmmZpdqpIP7l_9-VYGhQrC3jRqTIS7m4Ff8g8GeqhvcE_tw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9041171,
+          "lng": 114.9211416
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.905466929892722,
+            "lng": 114.9224914298927
+          },
+          "southwest": {
+            "lat": 4.902767270107278,
+            "lng": 114.9197917701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "79b2b99e89eb7779a09cb866021747439c297719",
+      "name": "Excapade Sushi Regent Square",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103479196722266826347/photos\">Karunasara TEE</a>"
+          ],
+          "photo_reference": "CmRaAAAAp4FEg9cauh-D_hYuUlcWNu__lGZ7TA-2r9KtU_dzYAILjLTFiCcbgZJMJcE6kLNfh1pCS6pZvTSD8O9LZfh8-lDg-7wIZQFdt1f-QS2dWUA23KwlTj6NcbG80F0GybiqEhCurIgb6ZhTOwiHhwD7wPSzGhRy_EuufuIz4NgXRzCenVJ2iVMEwg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJw9TP8EX1IjIR-0HQErn5WbU",
+      "plus_code": {
+        "compound_code": "WW3C+JF Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW3C+JF"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAd1I5eXd8DJ8JIUYvXj8PcGN72XuFhyfLjpF2WfsxkfKeTQCHaMvbWnrn-1exaewN1_ipwFcvQSEktzdUa_YwIuzqeQ4_oe2w3LfmScqMlP1RASULTAvcP8oGwomiEnfqEhDQPiypXf9gNarrBhwESnELGhQi63aljaCyluo4bxRFcK-ECp7YoQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9161278,
+          "lng": 114.9141343
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.917477629892723,
+            "lng": 114.9154841298928
+          },
+          "southwest": {
+            "lat": 4.914777970107279,
+            "lng": 114.9127844701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "1c6d47a3d332ac58cd35687e9cfaaeefbcba12a3",
+      "name": "Aminah Arif Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114554760625868752607/photos\">nobe novel</a>"
+          ],
+          "photo_reference": "CmRaAAAAONnCXTptDP9tdXAUZc8Pt13cIYq5qsKEHXK50n7g6GL5NawkCrLJirv8wA9i95yw_oPqNMGl_mcw70DOI8Sny6V9MBrtlzENGzDKm4F04MYnKwA_8aLEYJ1Yl8SA7-EhEhBvM7fBm53AadOWVMbFBDSbGhQMn0QgCgqzH-EaezMWDmHn-7bMzg",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJLzmhRWb1IjIRawjr3CWU82g",
+      "plus_code": {
+        "compound_code": "WW87+FM Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW87+FM"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAA1EzSB4klmIj0RYjjMavazq-K7k2jbZ99sl2nLIlJhT_CoM7SLaJ_8V1k5BN0sMkNoSUtdkFzGCyJsnhNBmZJ2b8DvarlwbVf9Oa2l8P6lB1Nai5SJTKE2kRq6AMCeDiZEhDoZ6OB-wovFnxaZ9hz82bfGhRasDmo0PCICBfuMYvqy3SFpLTIRg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Water front, Jalan McArthur, Bandar Seri Begawan BS8711, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8862356,
+          "lng": 114.9410114
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.887585429892722,
+            "lng": 114.9423612298928
+          },
+          "southwest": {
+            "lat": 4.884885770107278,
+            "lng": 114.9396615701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "3b34673b6986b8cb9c776cad12a1bfaa93c16a6e",
+      "name": "Horizons Seafood Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118035539122536091658/photos\">sutai nagai</a>"
+          ],
+          "photo_reference": "CmRaAAAAIgv8EWP0e1fZ0EswvwYWck6ImwQCdn044FlC2TM9wQ27DBc7gA-1wE7dAPyHlOvZPx0-Yl6fCnKZsa61LikLGIkkCy2TwR2FyzH2UJpdBzxCYTMJpjauXjaImpyPBhKOEhD9zN6t7h5R5A_0rIpVhHoTGhShGKiyqCgg0OSTr5qnas3lh_LY6A",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJc9RlNNCKIjIRcqzZN86Xw2U",
+      "plus_code": {
+        "compound_code": "VWPR+FC Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWPR+FC"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAjs1QTOFCgDbPb2mOfiIHWHL-TJwgjo22pN2PfT2xiOmBD9B6GYat7S3oFbxubRqq61wXcFCazixe4nuWtomEj0Tqve71MS5kx4MHL_uVFeTmYA8KMANiOlYnY9R_7sRTEhCE5AqAnzf1fmTuwZrTzGdPGhSq3nFss8MOzRfGj9nrPOBunmt5Pg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9013472,
+          "lng": 114.9288858
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.902351829892722,
+            "lng": 114.9304117298927
+          },
+          "southwest": {
+            "lat": 4.899652170107278,
+            "lng": 114.9277120701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "b35b7aec832f80ba4a1e44ee7f330933df345760",
+      "name": "Seri Damai Restaurant & Catering",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108099504271401783922/photos\">Zulhilmi Ahmad Sherjawi</a>"
+          ],
+          "photo_reference": "CmRaAAAAWVOjwTa4zjaANGsJ0bq-SB2POrJc8dM5ydCmkc_zjHmjMNaitfgQc-Qg9NLlNgVbS_fi2qEWqL1U9TLK1SvhukI0PWYTNltg0IICuBXaBPyI_jBISVIi05HuaYnNLxhLEhBqfoiRtbloDPh1PLRhQH26GhTp63-blwC7I1aSUpGhVz74QKvHig",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJyRRJzDf1IjIR4Eblx8J0N3o",
+      "plus_code": {
+        "compound_code": "WW2H+GH Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW2H+GH"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA6qS9u4sAhaYwGP0wzCAvR8G_ygkKW9pdQPuOgNXYg8KCMixe7Ve2NqDrAW84wRtJdWCmsoAZh8En7QvFBnzgnuyMLyJf7j2T-rGEXd1rBi6JdY5PgSXOMShXi1sp9JIkEhCz6D_MXFQbVHFUOOChXxY1GhTuBSoVZvWpV1zwYp8psjMdff54ig",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.915789999999999,
+          "lng": 114.913398
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.91713982989272,
+            "lng": 114.9147478298927
+          },
+          "southwest": {
+            "lat": 4.914440170107277,
+            "lng": 114.9120481701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "6e6ce3189aae7e7828b64380ad8e9a2fda416983",
+      "name": "Ricebowl Restaurant & Catering",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113151932532279483320/photos\">Wahyuddin Wahab</a>"
+          ],
+          "photo_reference": "CmRaAAAAssWzI8RM6vQtNlJ4YEI2GFlu31Pvofu7gXV32wT5hWjv8VsM21-gs9ahau_tqYqol0vGDc0RAmVIG4AF77REj-4xLsBfWRpOHLEK3Bs1Xtm81iXls8Fs0kQNge047eZBEhDPL7fxggbVFmN-E8QT-8BlGhQgk__mwlsreATpJkoyY3JWYtFh3w",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJDfS9q2f1IjIR8A4SS1-VHB0",
+      "plus_code": {
+        "compound_code": "WW87+89 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW87+89"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA6hYKOiSU3XEWWUD2lXh3LLudaHx586dE2qRm4mhXWQaBtBXid1u0IuKo82JTrp-7M0Vg-SS_u0OkYpVaMzmiNUYvo5FYM4bv4SLD-ZDgIWplZFQui-p1cJq1hOveh0WXEhBTNsMwPQB0fUJbNBSpGLoIGhR3bhndr-Yc9FH5qhiFlNHUcZIWrA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Simpang 5, No. 10, Jalan Gadong, 1/2km, Bandar Seri Begawan BE4119, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9076594,
+          "lng": 114.9260403
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.909009229892721,
+            "lng": 114.9273901298928
+          },
+          "southwest": {
+            "lat": 4.906309570107277,
+            "lng": 114.9246904701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "6d53b055d49061c9095b37b74376a88b915afed4",
+      "name": "Chop Jing Chew",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102765980123352858434/photos\">Jimmy Husain</a>"
+          ],
+          "photo_reference": "CmRaAAAAfMqEEQDLO-YyHhJhmTuImDgP9WfJ5fZqNMP2NDnY9lSnjl8UHbbucq-qHtzVd0_xRzHdQJieh9UZvNxSryyUySnKNL2DWh2RfXLlGg6796QtGCliszi-XL1fbI4Bj977EhDFWfNXs1STGPC6YdlXnYBWGhTIwWmub4fBBLFGJ3iXyOqSekYE3w",
+          "width": 5344
+        }
+      ],
+      "place_id": "ChIJXdDEFkf1IjIR7aF_Bkl8mD8",
+      "plus_code": {
+        "compound_code": "WW5G+3C Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW5G+3C"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA6ft5KZDFLcbbidlEIQjZNPwbbN0M7uO-uFW54Ki2z98Cof3DLOfHUb7s9pjAhjso5_i27TiwwCSHi8Nq4Pg8NKdYgRKj7n18sMFj67dwmk85qf6ENK8RZVP-sr_diGkhEhBw4MzBEpdedzZIOPkuXiTyGhQHLCCjp_Q4WHmvEClO8SUQAg1aDQ",
+      "types": [
+        "restaurant",
+        "cafe",
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Unit 6, Ground Floor, Block J, Bangunan Pg Menuddin dan Anak-Anak, Batu Bersurat, B,, Jalan Batu Bersurat, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9162888,
+          "lng": 114.9136619
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.917638629892721,
+            "lng": 114.9150117298927
+          },
+          "southwest": {
+            "lat": 4.914938970107277,
+            "lng": 114.9123120701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "0b546228c63896ce4cc2e9c5858afcde0aa6d116",
+      "name": "Sarang Korea Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110061420805080232857/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAKCdPwwpW3Wy8R3mQ5uEYgsLZ6ETuUFdpaT1yGeYMSAE5JQJCXL5dcj3vo_9VQRc7_2jl7SWtOnTH2V3pKtajvRU-xVEBYur9VUnHxS1GeMpj5HC_70eQl5B5znvR0P8BEhD-S-KpkQc9U-OXjpYvCguQGhQlO6E8FKkWpo-k79A4Zq02KeUy4Q",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJK56eUWb1IjIRRt0jujjMWR8",
+      "plus_code": {
+        "compound_code": "WW87+GF Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW87+GF"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAsaC7WTM-tkqkQOf5IhUubQaZyF7105qutsN_AmW-UT7VLfLG-21yvyIIydcwrZhBZmQeuA3OaSfAVynN1khDSDcduMk4IB0Di3i6OKa0jjfyTGoBe8PrzmEv9utWVetPEhAPK5i_Slyqj2UK-bhVaSrBGhSqYbFI9IyO6VAcy-ogurAjqwgmdA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9006143,
+          "lng": 114.9271219
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.901871579892722,
+            "lng": 114.9284678298927
+          },
+          "southwest": {
+            "lat": 4.899171920107278,
+            "lng": 114.9257681701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a36a24269ba73f786c3762106eda10ef69ef21e6",
+      "name": "Aminah Arif Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113151932532279483320/photos\">Wahyuddin Wahab</a>"
+          ],
+          "photo_reference": "CmRaAAAAajLUhaMuw9Q4i0oIRS1NQ2o1Ua095so29mu-fEdfFQQzRWRBHCbXatc0D8xwCz6e3tZYUaPRKGeUwpmuTglm9yQSbrDEDf3jOvVFhx4AZl80btAGYclqbYRuQu72OMUNEhB4PQaw5o7h9h89TEsVDUjUGhRATJtvwXzitS2TYSu9FzZGyDUnVw",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJB_u-xUn1IjIRN9neNCTgiR4",
+      "plus_code": {
+        "compound_code": "WW2G+6R Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW2G+6R"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAABNNrVzyzlKNkYTlk6oRzxoYTZXQvInpJ89A3XSjIEoHPbI86FwdfEARCQC5-4ieJMD50tkIkYt7g4HWJz9tZ8FNDxdZkoqhZa6cKrwwD-XwTbxX3gXxrJLKbx5oBhihEEhD9HOq1R8UT67K4D9YMExEsGhTe03dSWHUnhFPoj1laFO0brLE_oA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.905500099999999,
+          "lng": 114.9160608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.906841529892722,
+            "lng": 114.9173629798927
+          },
+          "southwest": {
+            "lat": 4.904141870107278,
+            "lng": 114.9146633201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "22744c5500f80daa90e24ffad876b657896dfaf4",
+      "name": "Thiam Hock Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107299341277590082813/photos\">Meng Hock Liew</a>"
+          ],
+          "photo_reference": "CmRaAAAAXXaDic79VfcHW3zC8HivKEJTaXnzi3B1qtxw7V37oliHp6Hhc0NdWZLATgWCvpKRbINHtF3Cm9bVdIJhRy4FL7LYrqu3TdEOLa7TtUDKj6GtvZwNiZVYZI36amyAuiUxEhDbAiIGLn-AtZKaimmxkel_GhTm0at7sj48QzDyS0DAEqUUUPretw",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJC7quzFr1IjIRHgwgD6bYua4",
+      "plus_code": {
+        "compound_code": "WW48+6C Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW48+6C"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAZ-8-p8h0GuPcSQPmvpgzF19MPuqwwj58M3-jFpZuf6U5Cd-VQJ2e-RhHTcy692aeQrlPy9tk4pEx8FlwjaXtJsWU6VjD35U6ku4QmWuEg6FqHsn76L6YacB4dyQ-exg7EhDuWQBiIu_Xpnm4nrZcZ1NwGhSAzX4r6qbe4lHi-v7wKUfC3Z0cDA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Unit 19, Block B, Regent Square, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.903705599999999,
+          "lng": 114.92108
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.905055429892721,
+            "lng": 114.9224298298927
+          },
+          "southwest": {
+            "lat": 4.902355770107278,
+            "lng": 114.9197301701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "83ce033bfc25f45c306dd516fce8ac4dbcdc97e4",
+      "name": "Kimchi Restaurant Korean BBQ",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113084261737044227498/photos\">tyne batrisyah</a>"
+          ],
+          "photo_reference": "CmRaAAAA2GIcDm4Z_4Ndx3LzJmhSMYBj52z6z8wGYCIyzPyILC7NkMu54AZyJyMuLXQZzrlLKm8UbYR4fbjs5BMeizabTBdNtAf14ahMz-00kXGNBqx-Qw0nnAjxy22ynwRYIxG_EhB6fMGABje5xX1mg4zZNMqdGhR_JIZJMGzg5DflceYdW67-p3qcZA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJjer2WE_1IjIR3-bJaHTRdFk",
+      "plus_code": {
+        "compound_code": "WW3C+FC Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW3C+FC"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAjS0WlSwv60HsK4GbXkDi2lw1BfLFYMThahNJI--9pYvKdqmdEZBYRPmTaIQyn2KCwomJhDy6GOKLR4QLY_geDEy-aqm8RGAwqvRxyKzHn5rKqTToXOwlqY4F0rOlcXSNEhCMaSn5gTvPBOihEKSaqY6iGhT82QoZ8r7rDiP0kd5C2Dm_GX7zig",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9002873,
+          "lng": 114.9282793
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.901637129892721,
+            "lng": 114.9296291298927
+          },
+          "southwest": {
+            "lat": 4.898937470107278,
+            "lng": 114.9269294701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8a5f04076c72257cc39104d953d5e8fd2d90bb46",
+      "name": "Big Mama's Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 540,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113117110608206726667/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAADRlyPokcM4t_xy5vyN4Y-oE2m5aPtf4Xh_Gp4A9ALjt0XxtDaA9ddvyNyz47EpbrH5HlVKNbEUc4PFSlOgAv9XeLZeUy5bZHO5JfQEJbb-Ki8MWvxQBflg6AlzPgraB-EhBQKTZi9p-6-dymMs_i93EHGhRIQOiTV2pXzyoQCLLCJ246P8QXvw",
+          "width": 540
+        }
+      ],
+      "place_id": "ChIJVdOkJjb1IjIRsGIv0Q7W0Hc",
+      "plus_code": {
+        "compound_code": "WW2H+48 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW2H+48"
+      },
+      "rating": 4.9,
+      "reference": "CmRbAAAAeBsAy9nQRGxqqX2-BXLY1OSM5fkV5fUDff5tgdtEzGocoSKweWv7mUaQi2XnBV4iSfrEaY98RNlIwnsLoEGhomxl2z2qJPoAcIv_grfSA0dX-DenKSamX8lo8UHo8to2EhB8ZC9EEZ7GoM66VF1F0V6JGhR5elW-bnsYuyNOjZ-KM0GrpM9mMw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Regent Square, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9037751,
+          "lng": 114.9213696
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.905124929892722,
+            "lng": 114.9227194298927
+          },
+          "southwest": {
+            "lat": 4.902425270107278,
+            "lng": 114.9200197701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "faa39c32675ba3d2700e116a7d74666393f2389b",
+      "name": "Ximply Chriz",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106394368384764573465/photos\">Asia Ng</a>"
+          ],
+          "photo_reference": "CmRaAAAAumftjYkDmdAqyDU_fjnSNDs60cvT04Zw8wUQXXs65LGYDsDxUvJEfY80jf0bbU1N3pVhdHMELeV3jkE-Xi3u_ZKSJuvpKiHbHAC3KDiVmcI-oD-I66oneHCgarDvyoDKEhDqN6k-SD9Q_M_wsXLu982NGhRgllzkcapJNjale0be0kGryPDHSQ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJK3vgV0_1IjIRav4hTfxHdfI",
+      "plus_code": {
+        "compound_code": "WW3C+GG Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW3C+GG"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA95LzHRWMfNppWwIfBTJHCU18JDRsXPpr2CBGnVtx7ael3otaySdQMFyb3U8l5_FOFadm-7IFe8wWB6A8k4G5uKghsULhXNihId3UIcLwccnIWz76V85R6PudazouSSihEhAghXpX9ed_8A2pJIoJ5EJ-GhTMFrH-UtULfuDkNE8rVbzSD4Fheg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

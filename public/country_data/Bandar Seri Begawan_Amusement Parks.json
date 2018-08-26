@@ -1,0 +1,411 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9051196,
+          "lng": 114.9165681
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.906464579892722,
+            "lng": 114.9179183798927
+          },
+          "southwest": {
+            "lat": 4.903764920107278,
+            "lng": 114.9152187201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "8b7d3b7dc0647912ab4c3cd5ac3eb5b178a1030e",
+      "name": "West Park Kiddieland",
+      "opening_hours": {},
+      "place_id": "ChIJoxXDSUX1IjIRmTlcwuQFBmo",
+      "plus_code": {
+        "compound_code": "WW48+2J Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW48+2J"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAABANmph_iIqN903oUYmAeUvKGPJuBH5bV4GWSr2lV6sGnr3Ijfb6Mxt_0tWWBrwJeu48f48Bga6nbYLJfn3qLgO8fN0wzLZ_6w9aLZ3B5xwVmTYC_cCR3l7P8QqvKMHSbEhDHSJZZ5-SGRTcyjfm5CgtUGhSPcQEziUsy0yJE2lmoMX7Z0w5Ndw",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jerudong BG3122, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.93478,
+          "lng": 114.834399
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.936129829892722,
+            "lng": 114.8357488298927
+          },
+          "southwest": {
+            "lat": 4.933430170107278,
+            "lng": 114.8330491701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "e6d697d7247950db4dcd4dcec917f20c7c6d1eb1",
+      "name": "Jerudong Park Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101139830890080183706/photos\">Ashabul Khofi</a>"
+          ],
+          "photo_reference": "CmRaAAAA0IPSGukQJM7PgLyqr-k_qTaqmECoWpbJThqVFlZLIW08YQw-1hqJYd6BP3lw31y6AgnHdDSj6suegA5e1EECjkfyvuC6R_NBXNX2ve3LOI1XrcUf3gVbK3mcNHIOcf7qEhAqOn9azPmDDzhyQMHr-hBkGhTIn1IajziLrZTexdOX6cCoKsKyCA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJGfhSf_VeIjIRtxjVemMWqkM",
+      "plus_code": {
+        "compound_code": "WRMM+WQ Jerudong, Brunei",
+        "global_code": "6PPPWRMM+WQ"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAwj_T5jXd58D982vTNND37zd8d56SJNrAtX4aewE-8_ra_HqUvJ4dUMZ9E6SBJ3yphZ0xaotR32lYUOa1b1oKjntF4n_wFPsMpAWQwqpeEDNKYWOz1L-PeC8KU5E51o7jEhAiOSdlaH4qMl9fTW8lerQLGhSmq-kgIRP3SjE_CZL-snqsqesAAA",
+      "types": [
+        "amusement_park",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BS8311, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.900474,
+          "lng": 114.9441378
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.901823829892722,
+            "lng": 114.9454876298927
+          },
+          "southwest": {
+            "lat": 4.899124170107278,
+            "lng": 114.9427879701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "1276b36d44be73756c124012e9f8366172b2e516",
+      "name": "Tasek Lama Recreational Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102765980123352858434/photos\">Jimmy Husain</a>"
+          ],
+          "photo_reference": "CmRaAAAA-_ywTZb5UJKuzzL_0sGyVSjtZm68rxB8mnXhrnjyLj7IkWiwHJVIVy2mztUF9hRjZc05-MQ5BeOCWbF6cxmOAe3vhijlx1Lpz4GX8nbjtwdLMMj4qyOVOl2urmUV4NW8EhBsakPRQaUd5dL9ytzZvH5cGhQ3hrssvihEOphS_YoQ_gRnrXsPUw",
+          "width": 5344
+        }
+      ],
+      "place_id": "ChIJIQ0l4C71IjIRhyUw7VjPbtk",
+      "plus_code": {
+        "compound_code": "WW2V+5M Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW2V+5M"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAF3tX1tprfHuToNl85UBA7EfqAHQVHJ7kUA75F7_l1WG0iHHhVjMYRIIgGcBs0XGQebgnmojn9e-fFl2fSmZSHrizNCt2mdepqgd2hWwSCf1nENjlG10ZQ8SwZL4iXdg7EhD614OzmXp5sLPRT5_JraZbGhQV6Dz_EwQuPuYd7wdnzhFZCzT2cA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BS8411, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8987849,
+          "lng": 114.9350004
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.900134729892723,
+            "lng": 114.9363502298927
+          },
+          "southwest": {
+            "lat": 4.897435070107279,
+            "lng": 114.9336505701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "227c3b82fed7239e623441a9fe757d9bf7fa7d08",
+      "name": "Taman Jubli Perak",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101491398161254448044/photos\">Dan Paul</a>"
+          ],
+          "photo_reference": "CmRaAAAAo2LhJGdS_6dGOLT2BWRlBxGD3RYj12zpX5weaOnz8NMhoiFS9s-Mcgx0dvtaex9uMrWmfNamMPF1pFnDUVlqQcXp5ydsh8jXcqr2k-oM1tXltW5gliJvaMx93tDBfgRZEhAgalqZ8L9J_RZmiIa8tQlwGhRdj400pSX3eWWceMpCUaxU8fYyfQ",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJp6y6RDH1IjIRxSn2OYpXAFc",
+      "plus_code": {
+        "compound_code": "VWXP+G2 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWXP+G2"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAiDHhYNmv_FsL75fCKovqC9pm4sHQe9LXdsuHuTYTUwjdAmY6HHTZtebgB29V7-mzXlURWJkXGRoZIzxcI7I1ZQnGSeP-_8WQ36XxtI17gypRDsucnx_gUfIFnxsAcVY_EhBo_e4fr_JQR6nSdoRx3CItGhQFO1oaVEDj08ybLo2x0FR9x0rxoQ",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Tutong, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8686129,
+          "lng": 114.9108034
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.869962729892721,
+            "lng": 114.9121532298928
+          },
+          "southwest": {
+            "lat": 4.867263070107277,
+            "lng": 114.9094535701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "b655008b6638428db1bc262ebaf1859a26a180a3",
+      "name": "Damuan Recreational Park",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109892121714207233327/photos\">Harl Sul</a>"
+          ],
+          "photo_reference": "CmRaAAAAsuS7b4-ktrEi3aR5GIJmJMHH_DDKiY_GH9jfnCa_rkcQ8b7stD7pJtAhwTNHhLvxKbLQvhhPU8tavxgXmga3QTl1hJEqu6lavhACpL2bhu_QS32h4Cc-SP9tyyyQj_FpEhAX7WM-EXWLlI3u4Ia9Dx5bGhRyomPNkcdnIW1dSv1tWsLZ-B5r8w",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJRyeGnJuKIjIRB73a0ZsANcc",
+      "plus_code": {
+        "compound_code": "VW96+C8 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVW96+C8"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA4KsuOSKW2Nq4REmsuSDm_krDho0sVp5tOQze7caIjqe3hqzxUWMhwA7j9TLcCOHe4wSOkU8RqenmMAfvu7YV_EreySg4l1xCftr41f-7WSzrLlzU1U2fQDbonqcahfBJEhA-vCjV0-vuavl3DXSFfEyLGhTnG1fA6M6TVcJfHGB7AxJWcNXxDg",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jln Residency, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.878471600000001,
+          "lng": 114.9527993
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.879821429892722,
+            "lng": 114.9541491298927
+          },
+          "southwest": {
+            "lat": 4.877121770107278,
+            "lng": 114.9514494701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id": "c313b6ede3d4821f27b137c5b01c609df4afbf07",
+      "name": "Bukit Subok Forest Reserve Recreational Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108156683083336739570/photos\">Beena Khan</a>"
+          ],
+          "photo_reference": "CmRaAAAAbn8wVef3vsLqPQExCEGyCg_S5ypsl2jUIIDO_5FzG4ljYTfCxDDXIhSVNhKYkpBtXeYmt9ixH2N1nry6SORsPqF2vIvfLEI9fw4Ad5YOkDxdyDLvVuYuZRJwpcRHzg0mEhDdJqinLHL3n9dFnAsLvR0MGhSMGqRhKCZLKyJCoO15kFGcYICJkQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJOdd8aCeLIjIRh86M9embQXw",
+      "plus_code": {
+        "compound_code": "VXH3+94 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVXH3+94"
+      },
+      "rating": 3.5,
+      "reference": "CmRbAAAAidJNu8B-OIQ_n0w_GQQPUPtxKihLLvZd58KC83eNpUqDU83FlINJYeFH1mBP8O5IvbnsrJ4ctS_Pk0p5uAybAvdHuDubz3AdvtY3Fz_jElUl66lNUm5xTR_X6QgGGXrVEhCbQFoE_Av8nANyc72zNe9jGhQ39QyOW2gecKbCe9Iz-jaizSfRWw",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jerudong, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9399898,
+          "lng": 114.8358053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.941339629892722,
+            "lng": 114.8371551298927
+          },
+          "southwest": {
+            "lat": 4.938639970107278,
+            "lng": 114.8344554701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "8cc3dfb10e4a849f3a0f023060c6a0e5250c599e",
+      "name": "Jerudong Park Waterpark",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100228464550554932895/photos\">Nizam Saad</a>"
+          ],
+          "photo_reference": "CmRaAAAAov53xsi--iDZbHLnRsiFNwnjGMGKkBSg9loEgc7t9-D6bP8yQd3EWJfd5LbIX0ldmo2xwrEMZdGoMOupIfkhBTqKz6UtYn2Q2RHHuU4erU4xQzPMeNk6TwltnzmY56njEhCXOUKZSaVqs-taEzBxDos7GhRFZYrmdXYTtfOQ9L9KRymlV01fiQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJTUG8gfReIjIRoqMfaXA2OAQ",
+      "plus_code": {
+        "compound_code": "WRQP+X8 Jerudong, Brunei",
+        "global_code": "6PPPWRQP+X8"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAnau-HK_I8wEt8boH6Y9MwxYT04cfmE7WfUcI5ccedQGujytoA0FiSh1fNRzrreOhq-WpjK-ZDwTXTVfyvzHCdemUdb7KBSjTuj14eQfzfSdsecqaXQ6kLMP5N3EY_d71EhC4k8a8TEMxmggmZJbyP9IyGhTK467Wk_K2hQDxgsBhxtWu5lMJuQ",
+      "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jln Tasek Lama, Bandar Seri Begawan BS8311, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9003203,
+          "lng": 114.9436386
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.901670129892721,
+            "lng": 114.9449884298927
+          },
+          "southwest": {
+            "lat": 4.898970470107277,
+            "lng": 114.9422887701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "fe88e57bbe65771551cb78236739a998f51de879",
+      "name": "Tasek Lama Recreational Park",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101893484882593890082/photos\">Alex Cournoyer</a>"
+          ],
+          "photo_reference": "CmRaAAAANF3Q0dI5QKr--kcuNrlLyfoAevoZIBDVt14glAaBFjndLgqka-WiBDpxPSpakr_nVaeLdO1mM3rfLFs7sdbBs_I8MDEXTr85_QS7gW3u854QCyxcDvw0Qw2GL-aQ9dNdEhCJNK3_6TQj_hyrr5g2zqYFGhQijcq2oWx8Ans_zxsYkpjsAb3EyQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ1ZgW4y71IjIRI1nymD2Oxtk",
+      "plus_code": {
+        "compound_code": "WW2V+4F Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW2V+4F"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAZU3xVx2LyRaP-arCtmKZ5NRTJNgjKmkRvaIuYqM62B3cg40hfldlcD5xXmfZ2bm9vVAhbtlOZClZkE0-g8nQbcbkQPAxefwvjM7r80ZnV7pYRG27ARxC2Ynqv8Qr9ndkEhAhcPti5czoeDHBug5A-pECGhQlOmkVz7GQCXNhybf2duJDvyYavQ",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "A6 & A7, Ground Floor, Sempurna Complex, Kpg Pengkalan Gadong,, Bandar Seri Begawan BE3719, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9173287,
+          "lng": 114.9110584
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.918679179892722,
+            "lng": 114.9123671298928
+          },
+          "southwest": {
+            "lat": 4.915979520107278,
+            "lng": 114.9096674701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "id": "6111f63267b96b0ad819c2cc388a1e8409c5f2a3",
+      "name": "Fun Bee Park",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 384,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102537454021613887218/photos\">Fun Bee Park</a>"
+          ],
+          "photo_reference": "CmRaAAAAVEJrxW9OQhCDH3flJKcDS2-E44zwsPNcTsLuOzzEyju2_DpWkfWIUNcIFlAyKqtCOAG-iWCyJcA-bRNAiP4-_czVMd94ReAiGAA6IPoVYrmXG1FqJlZDJtpHztRehrXSEhCtdHkrWNUn4wrgWlY927ZNGhQ4rg0fiEMmWcadMukryuN5eYf9cA",
+          "width": 512
+        }
+      ],
+      "place_id": "ChIJmdD2uGb1IjIRODxO2MkfNVc",
+      "plus_code": {
+        "compound_code": "WW86+WC Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW86+WC"
+      },
+      "rating": 2.8,
+      "reference": "CmRbAAAAt369Vb1DP94m_0q5H4hFfreSNolG_KeY2WM4M48X0TvlQwqxgY7rpKiuLbA7f6wHXc7QyN1bfhxW2bCEofAIr--ashrhgLB4NPGwkPX2wGI_gS8yR88UeTwcvb-12lY8EhCH2PJNNGXeHYDlo4tGZMeSGhQWvz-UdXNglwf298DBmSHp4gEQKA",
+      "types": [
+        "library",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

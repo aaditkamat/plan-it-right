@@ -1,0 +1,141 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "3rd Floor, The Mall, Bandar Seri Begawan BE3519, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.905999,
+          "lng": 114.916476
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.907334879892722,
+            "lng": 114.9177335298927
+          },
+          "southwest": {
+            "lat": 4.904635220107278,
+            "lng": 114.9150338701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "e7e2f5c21c4658a2385d5dcddb6492a09c9b319e",
+      "name": "The Mall Cineplex",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111121274065683498039/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAPTJ-UT-gQP2rpoYbCKGIRJzJZgiXimIIvH2L29_Mbw845WB02hSfPHzgdR6YVPIt7TjUdRvd-9Xlct1iFLYgNJCxrO6L62jO4v8PSwSbS4_fjPztTl9vt71Nzbr-8nb_EhCJSywkn98xmYJDy5Ma4AogGhQweIbs-blfVYBWkEjvLAj8j-JWXg",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJjTihLkX1IjIR6qWnToyNE_Y",
+      "plus_code": {
+        "compound_code": "WW48+9H Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW48+9H"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAATQs75KoZzi8kpsW2VgOoXalzh2-5BGYNCkdyvqsdI1yFOqtRFzpQ-3VOXeLyN5aGSmCg1Qp_E6PSSVEqDOa0IIX2qfwTWjktwW5fyI145LQ8N2gTQNiqkAWLGyrfaKm8EhAqjwqCNdmM2inGxAon1YFBGhR1QxuAseWcfJZgIH_e5tp5wG-6lA",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "4th Floor, Times Square Shopping Centre, Bandar Seri Begawan BB2713, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9395614,
+          "lng": 114.9401219
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.940911229892722,
+            "lng": 114.9414717298927
+          },
+          "southwest": {
+            "lat": 4.938211570107279,
+            "lng": 114.9387720701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "c5f172470ffc69310e028b206c4bd7d8d047b552",
+      "name": "Times Cineplex",
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103906651505980152565/photos\">Dumin Sahiet</a>"
+          ],
+          "photo_reference": "CmRaAAAAkWPXTr-d2KIg36kfI4ryu1TU1GmWRVpt-gn8Bm8XXzybzoy8rMWbfwhMHlW5MnzWdSVSkAr_Tkhus41guntklsHblUSvKRlM2QiMGb0VxvpboB_L5yZuWPIiwwptuLg2EhA2UtF3Fg44VmwGfbbmwdd7GhTTP9P5vmAJOHcbVLAwSvHEM7zYUw",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJA7DeiK_1IjIRjJfuZ1AGy1Y",
+      "plus_code": {
+        "compound_code": "WWQR+R2 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWQR+R2"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAxYA3DOE6VrLY6IDHFwYZxVE2BNb_OdjxR-NHaDDn6nNKRu9k7Kog6CT1FbqawHTraL9TmiiISnCXnyG-LX8vmdRcODrZBDO347BhLvcN_Sj6BVK7uPO1-DrfPIRExSRdEhBgb1hrHxBlUZY9n7wKpR29GhTzVViTPmZUHSWWkG1yyx0wvP3F_A",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Seri QLap Mall, Kg Kiulap, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9040156,
+          "lng": 114.9263638
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.905365429892723,
+            "lng": 114.9277136298927
+          },
+          "southwest": {
+            "lat": 4.902665770107279,
+            "lng": 114.9250139701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id": "4a0e6393af734b30965564fa64ea30722a5c0655",
+      "name": "Arena Cineplex",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100048772944709104825/photos\">Rizal D</a>"
+          ],
+          "photo_reference": "CmRaAAAALtaCFfgOvmliDEdLrtCs59MXVF9lqZSyV2rka5GhLT2vNJtuGYTTu83MMvOnqjp7nu_DYrkNwrOsoM1GVNP4ZdqBvq9_opD-RT33CQsBAty8fg6cL8bErjctphqXSY9lEhB3TtbUHuSNUGdmTtczuzq0GhTSX-4wgPrSnDW6H1tMYcgIg6-Vrg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJGT-x3Uf1IjIR46dfG1yxpJY",
+      "plus_code": {
+        "compound_code": "WW3G+JG Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW3G+JG"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA-bTAZL2nVRMfziJcLIF4BuYdnfqo8md9zBY9Qht7aIN-2vtfy9aGZdm2cjYOwJWxfZ-YZ09Xn369CVJICiMDgvoHdAVhJB1CIB4CzS8WpQ6-2Opn_fo4_LY_AeAmmlsJEhD8xTXlUhVO_Kwz_x1qrdHbGhTyLscZfuBkWuD9kCYEMG2lpbvE6Q",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,147 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "114 Mabohai Shopping Complex, Simpang 99, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9083634,
+          "lng": 114.9429238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.909713229892721,
+            "lng": 114.9442736298927
+          },
+          "southwest": {
+            "lat": 4.907013570107277,
+            "lng": 114.9415739701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "290a051d6314cb89ef715c0c665e072b43844e8e",
+      "name": "Mini",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105328359019813281217/photos\">Peter Shannon</a>"
+          ],
+          "photo_reference": "CmRaAAAAozFii1TOUwxlQ3UDgF2DXPYbXlzSJXeE17SCnGGVM_OcGOxNBUFpwD1MJo8IjARCevMXYZwLejWjMV9mT0DofauQQE_LTIxrW_7BndG7LgvlBNsapvmDalZTzXFdjyYYEhD-urrgyUZ9ZS4pP9Hio_kBGhR6ha67czA6-CGmcubaZ4yM9kfyOQ",
+          "width": 3984
+        }
+      ],
+      "place_id": "ChIJP_TAnSP1IjIRXQalGbT6wMI",
+      "plus_code": {
+        "compound_code": "WW5V+85 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW5V+85"
+      },
+      "rating": 4.8,
+      "reference": "CmRbAAAAD1OmSL86qOeDwBQ9Vvw1Uko1o_69kKQrsNNjNXWZWa7J35zyxGzIhW4Xiw7DMKXJMMbmkLtC9OvcjuluUcfsRIz2fHdtCyL5N4POATy_j6SVVGioRceEv-L3ZWfyPAYSEhCxVoypPOC0tggln4jDI5Y2GhS2N1TtzXw3u2ptPQIIdKpJZCg2kA",
+      "types": [
+        "car_dealer",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jln Sultan Omar Ali Saifuddien, Bandar Seri Begawan BS8611, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.892839100000001,
+          "lng": 114.9414803
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.894226079892722,
+            "lng": 114.9429157298927
+          },
+          "southwest": {
+            "lat": 4.891526420107278,
+            "lng": 114.9402160701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id": "319e210a6423a93962633330c6206d1c58aa48c1",
+      "name": "Royal Regalia Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110971245530030418761/photos\">Erick Jamat</a>"
+          ],
+          "photo_reference": "CmRaAAAAFfmR2snLNzPZ_qetYQabymM3LduNLuOmEiu1hQhVmE7SL-crn5Rp0pcpPsUZnPLqYmuYZjyH-3I_A622VwfX28rE4tGC2cFGOg9Ib-ylm_VZPDCc-BoWLUVeOtapDNQ1EhB-_x8sS5N3vQZ1HlCvCpupGhQW97R47cOB9wfeJztN9jmxUvddDA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ7S90ttKKIjIRk8z8gr0W4qo",
+      "plus_code": {
+        "compound_code": "VWVR+4H Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWVR+4H"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAADeUg-VjNEN8hGtuj-wA5BSwJk8IOrs4Aea9GSJpfGWq2nu6b0rraavGpALsigtYhgZ96PDZTKmf61RVf1qKEm6YM7zm_hcBsqbIczNWPY6svlYDA75X95afRhugOmPOBEhDm2AQWN4Q92NXpaoLiReQUGhR9CD59j2ulPEeFXXdqlRbUP24_TA",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Unit 7, First Floor, Block B, Abdul Razak Complex, Jln Gadong, Kg Gadong, BA1511, Bandar Seri Begawan BA1511, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.907745999999999,
+          "lng": 114.91647
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.909095829892721,
+            "lng": 114.9178198298927
+          },
+          "southwest": {
+            "lat": 4.906396170107278,
+            "lng": 114.9151201701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "8994c4c0dedca4fb7ece875cd4a1e65a036bba50",
+      "name": "Escape Square",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104460341848432060921/photos\">Escape Square</a>"
+          ],
+          "photo_reference": "CmRaAAAA4rpqHBiABkrU_FptUIREfIXj28TBLOsjdCNtlIQBpzhlVOHw0wbxM2HU-5TYbXKn7eMZYdtfb7US06xtcUixUqRHFPTx09f43C2ZmIxVHv1hISxGerjKDarMGtJhiPzQEhAf856DsLswqQElfHFuECDPGhQxXDYHgcWUQZIWw4ta7thw1Gvj1Q",
+          "width": 448
+        }
+      ],
+      "place_id": "ChIJWwOdtkT1IjIRZDp0z3zOBPA",
+      "plus_code": {
+        "compound_code": "WW58+3H Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW58+3H"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAA0lMTzpW4M_T_9vpMhb2RtsFQs4N_tzlLgQ9wfHXsmqqPyIrtGjupm3aUJFX3mzN0mLymGsPFRT9UvoRTHrRhPA_tI16fq_araDYzDCncpSNKNctzRThR6j6v6x-3hQlcEhDbzwIlSc89MEosyEqn1uBbGhQ8xZmqq9PS9aG4S4rfVXvXDPGbiw",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

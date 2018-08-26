@@ -1,0 +1,940 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CqQCFQEAAKA7YrGxlO64iETE9iQUJFZqoNzrudWCKCcA06_iHAZj4GlyMRTSLXRKUa2isU0jDebb23VQ1uDOJu4e2aQ0kI39MSEc39exP8V52xu62IjuXTNCZ-Gj3wvKPBXKf54P6Kav_9MxSCBkLwxVfpAUiIzX8Yl7cZzK_nPRZZIymnWrK5_tAw-n9Zsor2tr3waqXPkY8mbOEvkX19GO_TpLr0JDIpoHd5FO38CnWRWGIayG7yvJemlV2FFZLNq01Utn_9ruHHFBh-ofx4I9bnoCQc6XU57VR0n-a3sOC3mDBzKZspmIx7DiFCkY2j0_dGu2v_ks6kxLhtRlwgAL7CDn8WKB6-ShkTBJLWngMZv0I2cE7Z-fgyFYMOAr_6sC847DyhIQFJLY0_Rp1B_3DTwJzCeM0RoU5Dsy6cnhocwsF8BGiJyL6yiNGrs",
+  "results": [
+    {
+      "formatted_address": "Bandar Seri Begawan BB2713, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.939509999999999,
+          "lng": 114.9396237
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.940859829892721,
+            "lng": 114.9409735298927
+          },
+          "southwest": {
+            "lat": 4.938160170107277,
+            "lng": 114.9382738701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "26f11b3d33132946a399859b32e147c572ac533b",
+      "name": "Times Square Shopping Complex",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117039479517784683471/photos\">Amit Amit</a>"
+          ],
+          "photo_reference": "CmRaAAAAKvSCcu8IikZnQlsqFJKyitx4l9qduWTjBhaIi-lacD0dBuo6ftp_736_J0Ps5e-qPTDFLNimwfxZbAbYlvYZNb-RHtTRffdhqKDTnewfBUttXfcf3aQzLlVOQd2g04i9EhBmDvCH4hDcMx8C0Vnn2WYvGhSUn9J21sW19Cjm0rVGt-_IJKZOcQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJeeh4YqX1IjIROgNB6tbiHSU",
+      "plus_code": {
+        "compound_code": "WWQQ+RR Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWQQ+RR"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAZqkxjoycecN6tW3V1mHQln58YWfEDXISXW_1sqUUhncyhuy48lVaYKy8fThDqISBGPlYwK3aA-_-q9AdipxKNryzhTd0-VaarW2MAddEXs2EYKV54LImlcYq-FTh3uSdEhCC3stGTzUdyftN4UXdEbtxGhSwqWEaFKk0alY082tawlZXugcmCw",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BB2713, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.940215999999999,
+          "lng": 114.9397853
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.941565829892721,
+            "lng": 114.9411351298927
+          },
+          "southwest": {
+            "lat": 4.938866170107278,
+            "lng": 114.9384354701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "47e59376badc0b38f3f642dc1cb2a24f05596af6",
+      "name": "The Airport Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106344606197817286638/photos\">Harith Fadzilla</a>"
+          ],
+          "photo_reference": "CmRaAAAAarvBzrMshjXxKEWP9OF4hoqMlSLFb6XOBkn11oocqc40E9tL6i5yzPXaET4FMzrsg2qPC6uFGtoLyS1V28IIGveAIFUKzEsmUSFvUP5DpbTwuiQ1wXuL9XVT5HL0tMjqEhAYf9V4EqLWLbKfgbc7s_1eGhQq5cQN6L36sd4bjkXCm29g6XAW-Q",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJyx1TX6X1IjIROotAhilY8MY",
+      "plus_code": {
+        "compound_code": "WWRQ+3W Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWRQ+3W"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAApchY0BQPBEyvcKNfZMThfRZET84d9gC5OgBCtHQ1GXLw-D8zrHNKu2QsmaayqNwJdaueSmw_nlILQFMcVlPN8HiQ7pVD-5bgBAtxhChVKI5_rWX29HE5_G2OrKaZk5DjEhBQZjzNK8HbvF2mjzio5PsPGhQGWVSP3iSRRGxBW65av9Pnv3Py6w",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9055786,
+          "lng": 114.9167012
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.906902529892721,
+            "lng": 114.9178799798927
+          },
+          "southwest": {
+            "lat": 4.904202870107278,
+            "lng": 114.9151803201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "c9c0c62e038bbb7ad2b1a5507042a130e63462ce",
+      "name": "The Mall Gadong",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109633807212134825233/photos\">Amir Ayub</a>"
+          ],
+          "photo_reference": "CmRaAAAAwkHUQdyJFVQx5413SvD9XkiGeXkEkG5PukEUVfeOlwJ_CC__oMZqaQgRTHnP3HASkWhCDeIKQtUVIxSoPa0NYEQtcYiGZELSMdFq3XoOvEWmg3BthNddV8WHLSWb5_WhEhBYRdF5OFBe7QnAMfw_IxFFGhRjh7ZY7dFrRrdLRjrhB5z57z1V8A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJH-HwMEX1IjIRXaMNNbLbgO0",
+      "plus_code": {
+        "compound_code": "WW48+6M Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW48+6M"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAA8Bh7dNDVLnqtsCMhUow3y_TeEAwFxD87ekdzq0blD_wKAclEuS0MN7a0BQVQOd0PTCJ749Zo2fhnlp_bhIVOnTiqs_yU8ClvdJeoazvVVz6SzYc8Olsb1VUAZR_P0guAEhA_rgkbL8X-LO0bzLPOyXgcGhRl7v0E4tzhy8zMjHDoyaV7ohxALg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Kebangsaan, Bandar Seri Begawan BA1111, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9084715,
+          "lng": 114.9426914
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.909821329892722,
+            "lng": 114.9440412298927
+          },
+          "southwest": {
+            "lat": 4.907121670107278,
+            "lng": 114.9413415701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "75f54d7e91a8e2f5f5f0100ebb3a06f3ce1c8d36",
+      "name": "Mabohai Shopping Complex",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100459929711509555630/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAfvGurBzZKUCrWlMre5DALIHtPCO1vSz0cJfLenM7QPdE3wqzuYG2F7C28VEZO2D7SiT6Lz-f05V_L6ht9u4K3cbNCQj9uNzwVeuWIWo5_O8GqS7AH66gAmR4DUTurG0REhDbJRp3r9hrGKnY8VSiTtv7GhQi2IlEQR9S1akXPrATlI2Ufl57uQ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJqwiyeSP1IjIR7vVm2-m43b4",
+      "plus_code": {
+        "compound_code": "WW5V+93 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW5V+93"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAATfLKIYcRIR9ChcJdjXvvTGAbE3Lafb8NJw5nPlQa6g5wpapwlx3zYuJDenDlmw5miRF8M_pVX8rIafGyQZbKS2BFuwmFQXbw1v1X9c2XqwGbEoOiNQkUvZ845AHtZNNoEhBalKSAunmM_FFUK44ecIIBGhSzVQyFsurxf9TIkj9Y5L0kJs2Snw",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Lot 71077, Kg, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8950323,
+          "lng": 114.8989701
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.896382129892721,
+            "lng": 114.9003199298927
+          },
+          "southwest": {
+            "lat": 4.893682470107278,
+            "lng": 114.8976202701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "b438add98390da2b6b85dfa571cd329916efd327",
+      "name": "Annajat Complex",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104378099122357463611/photos\">Fajar Anuar</a>"
+          ],
+          "photo_reference": "CmRaAAAAiNb9WdshAqFnW5sH7e9sOaVc9JxOfvZJ1nxSG15n0gG6YMZVjFTqxhlrq95wzjVSQRuX3-mkTQYDiq417UOYSnFHRlwoIDTh98Ayf0mq6EU91W4Af-8l0NO0TUU-dOpaEhBoHtRIYLi1YhdXNzweatxlGhQ4sP0j5KKtrs3iAWbUCcx4C316Kg",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJ01lkqABgIjIRDSCosrRFwTM",
+      "plus_code": {
+        "compound_code": "VVWX+2H Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVVWX+2H"
+      },
+      "rating": 3.6,
+      "reference": "CmRbAAAAdMMI8y8GbB-stpk4WJpkGnanaIWHFPQCdQWySSo-dWJw79ZpOdDTMX-dYTGTL6ylyFoFaez5oK-6Oc9hT-uwXqXsIXOaEVEJoEPnmSMVSJ6aBFTqwLoU4sfJW0BzkhHzEhDdIRNCOn-RAlnUZg_rvBLiGhT99MG_xldHBhVB73PgAj7WeZ0A8Q",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jln Muara, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.946856599999999,
+          "lng": 114.9607541
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.948595179892722,
+            "lng": 114.9618744298927
+          },
+          "southwest": {
+            "lat": 4.945895520107278,
+            "lng": 114.9591747701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "604fea2b7b3e5a98197f4d3843abf2e0d464b8a0",
+      "name": "Hua Ho Department Store",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110875074768375076911/photos\">929suharjo .</a>"
+          ],
+          "photo_reference": "CmRaAAAAQHSHFXaVMsA2HqEyK6RqnobXyxHWOcVfvHjRHN_yfz_RrR69cdEA54WmXMUkXSaFaoc8qAyReZyJksK6m3iUv1m_Z5mKDTlyM0Rmiwy5_o0TAvJQ6IBqEnceUpTYALRQEhDfOKpr0XFboHfhOxPwYVe6GhRPTjAsCTJxflvO7pwGJTwvLgGoaQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJz2144Uj0IjIRykb4i61RJmw",
+      "plus_code": {
+        "compound_code": "WXW6+P8 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWXW6+P8"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAYveK8tyjpdy-k0gOvPu0CXY4jyFP7MKHHow2cpsoYfTGzKhRYhYRms6GNMrGwHXe3Dtpt0P8Bw50HIClFjfMkV1ska4tmkAFOSPACqZ7_F3mgufWdVSvy1Xv0MZNF2yYEhA4WtJFtGx_YgxnwVDIPOxaGhTDoOYpnntLfhhmQMvDiqwS5L_pmQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "58170, Commercial Area, Negara Brunei Darussalam, Bandar Seri Begawan 1518, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.904099899999999,
+          "lng": 114.9266641
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.905449729892722,
+            "lng": 114.9280139298927
+          },
+          "southwest": {
+            "lat": 4.902750070107278,
+            "lng": 114.9253142701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "677789d3dd278e6b1c5fe175c574dc38a933de0c",
+      "name": "Seri Qlap Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110098114062288569742/photos\">Zulfadli BR</a>"
+          ],
+          "photo_reference": "CmRaAAAAscAKB5t138iRblm5rpvft49lNpBJe7Qubk9B9rNPcpdbrlcqVwzpxTyrx5PYZX7ngaVYVSLguTSrP2GONSuYkCwFoUrGwSLtOrce2e23tiWJTakKTRd3KBkdOHave0PVEhAujDyD_qsiKIDM6aRXfyv7GhQb_bHfpJjvyHSobJvW_yMmXuBXlQ",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJzRA15kf1IjIRAzII3PoTsA8",
+      "plus_code": {
+        "compound_code": "WW3G+JM Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW3G+JM"
+      },
+      "rating": 3.5,
+      "reference": "CmRbAAAAtjjM_I54sX4_VF8Ty7lpkkfrBZEUd5KWBsJ4etDuBuaS-qxbtvvI-OV1bd9pB7udHHeIYCMSeOFoQWEvaZXWpcSumL8zIsYSgT2Bor-1aeuepE-e-86hz7TsCBaDpc7EEhDk6Ua5FP_oP1oCdQZkOzJcGhTa-5-66TX3IzzdQoDL5WTEsaJlag",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "13,, Simpang 15, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9086722,
+          "lng": 114.925536
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.910031229892721,
+            "lng": 114.9268289798927
+          },
+          "southwest": {
+            "lat": 4.907331570107277,
+            "lng": 114.9241293201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "f9253eb876344cc27a69f178c4eba0e65398d6e6",
+      "name": "H.T. Tire Shop - Bridgestone Distributor",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104603779438388787426/photos\">shamshuddin kamaluddin</a>"
+          ],
+          "photo_reference": "CmRaAAAAnvL8gM5SI3oyHJ7QLImug3iKOtIL7IQ4hY6gyhd7wUqfbjESFKAAe0eOkxdv0aGwrDiY6R1IXXmSqtWnCJYnHWasWal-i-7qzGcMmq5hX3lzmpwZVUX5TCeS-ww42zRdEhAEzGion2Rl2Ilw8pcHS0z0GhTqIBW7twFL5MZx1maml2oiwuP6bA",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJwdl_0UD1IjIRj1bR2esmCQE",
+      "plus_code": {
+        "compound_code": "WW5G+F6 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW5G+F6"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAzmpPaWdAweam65VZcjIJrg-z70XHAbP80v4AZS9G_9yR7dG7bZS1AyfM5NnGX7pDuBD_gTRv1ng6BGsv_dgCxzsPbNYJ60JFJdXMtLrZDUkam2G3r0J6Nxsg5FaiI6jzEhCAhlPh8QUu94j0LgXMFjS7GhSYvGdvJBaGdUEDdKxq7jNjiFgF8g",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9070995,
+          "lng": 114.9155974
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.908310679892723,
+            "lng": 114.9170866798927
+          },
+          "southwest": {
+            "lat": 4.905611020107279,
+            "lng": 114.9143870201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "9f754ed7d6156fd8ccc79e21e34bcb1144e60184",
+      "name": "Gadong Centrepoint",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108160725241496056349/photos\">Amin Matdon</a>"
+          ],
+          "photo_reference": "CmRaAAAAjIArGKgcdNSGH2srr6Lqf_uIRohtcKcMFrUsBR7Sb-OtmqlmJJZlL_7oMjS3N_FF133ij37bw65eghH3A0SH4xliCbaeeHdettQ-5DGmTQQoHdJ8ZUXLyuByxUUuZJvxEhBDihqQEJba_Eh_4CHGH6mdGhQPOniixH3OK-SJrLMvR_sze0h52w",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJs72kMVv1IjIRwVlLYngueU4",
+      "plus_code": {
+        "compound_code": "WW48+R6 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW48+R6"
+      },
+      "rating": 3.6,
+      "reference": "CmRbAAAA3ILgCArsKyAOz933SFUP6Ha83KmtzDmhlzBblYxszIoEhfxP3QjJWxmwud52-oOAIFQPImZvFy9qhVuKmOo_qo9yKC1JJFm-emgf76O53zBPpBz3wu-rvD_DiXIvn_ssEhCh4h-9-B7OLb-VzimlHBb7GhSV3tr1XaragKVCHwgAAg2paaoNAg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.943420100000001,
+          "lng": 114.947885
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.944769929892723,
+            "lng": 114.9492348298928
+          },
+          "southwest": {
+            "lat": 4.942070270107279,
+            "lng": 114.9465351701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "7f49b630866cccf3c58063a767c190660e6ed8b2",
+      "name": "Buner Textile Mall",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104076290790344648253/photos\">AZARUDEEN SHYAM</a>"
+          ],
+          "photo_reference": "CmRaAAAARdAMfsoEdwjEOJro2rFBnDTiE3xCKyayF_vvfN-nLuld3lVExfABfRCRehrxqMMy9pCYRZJFFv_XU-vA7SCTq1MZJGbtlSdeXjTLiTw2GaKMtWFlmB7xCO7GPsUG2URoEhC_03rRWTu7RggV_XC2og8EGhQ6VH28aTEEIyX1xmjfVFZ_KcdOoQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJo349srP1IjIR1p-KH7ytkZs",
+      "plus_code": {
+        "compound_code": "WWVX+95 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWVX+95"
+      },
+      "rating": 2,
+      "reference": "CmRbAAAAEpDTpGgJI6oxBkmaOJMI3HWOFPlbs-cvo4q25o6w5wZn_MC2jtxbnTxd0HT0ZPPi3-7lyekHSFTwcz6XH9nVjCfpcem-SLiWMEmThTLf6gYVk5j11UhwPm90tC9TDGc_EhCMHiGVKn2oNUGfeGfjKXSiGhSjb2tEnHikSNcytymAMe7CZwz0-w",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BE1318, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8963127,
+          "lng": 114.9208908
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.897602779892722,
+            "lng": 114.9222140798927
+          },
+          "southwest": {
+            "lat": 4.894903120107278,
+            "lng": 114.9195144201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "b6e87d0c5e6fe28b7d9ca3e60af038452f83824c",
+      "name": "Kiarong Complex",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100010412633104589519/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRZAAAA6hr6dlX1o-xpTfQjQ912qEvOZAzqOyyG_71TBMr2fU8YT0i71XuXa6mF91vgIJ1_pKW_2do4YxlV9OafjFnyKp3NCkZUyyFVCXLLU3DFcc5QFeNghgni2en_OQOxTw9bEhDgQ2DDHdVv2Vw-89vu9qT_GhTaZDwnoKadzi4zDQeAZ72_kckyDw",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ3694jkz1IjIRSClLmvvAfCA",
+      "plus_code": {
+        "compound_code": "VWWC+G9 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWWC+G9"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAKHvD7WV2bpqZ4CLTbpO7XK3UCwiXRDUvHrGLBHjj6EFTYYCA6SmrpCozYjZb9rGFmb8NiLwCOb1yH8W-OVvpYpPHwUuMEBJz5Pklb2HcQhbHSSOoIFBRP5UKS3gXg6PKEhDbdyyffSrBnDUxnHYrx3jKGhTba_65XNpLOVkRyJiPxYwpPsoD-A",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BB2713, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.938874,
+          "lng": 114.9398553
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.940223829892722,
+            "lng": 114.9412051298927
+          },
+          "southwest": {
+            "lat": 4.937524170107278,
+            "lng": 114.9385054701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "ee7c2ebda28ef1de15a808f29b044a0cf88c7da6",
+      "name": "Citis Square",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107653356562531337370/photos\">Eiji PSO</a>"
+          ],
+          "photo_reference": "CmRaAAAAbzInnfik3-VydW_N18EVDXcaNVpSvvJo7AQOfOPCDLRHieqqyI_6YmlWrDf8dt6BvgOMUI1aJsgK7l3Drehd_wuyCg0SCzACAGtSe4lLqZWw-awVXSKa1UzSnuFGPS1SEhDipD6_ptsdg2zNze-hPx-CGhQvMeuX1DlfA1IQ2LPJQhMwsOE0dQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ68s-gK_1IjIRLyBu8DnbtJI",
+      "plus_code": {
+        "compound_code": "WWQQ+GW Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWQQ+GW"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAASNz969onkExlVqQsTX66c3JF_CGjaPEfzjteUZm1UiJceROXKWg7XUL7h_5K2yc5yEEMcvayba4_sB1MycTor3A7v-eNDaPWJdp8-lRDuR8Fj-sTMxnTz-EGeontyqVYEhAreOotaWFfqv-C0Egw_g8TGhTy6ds0VA_gsmPz5alNHKvy06Rz0g",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Setia Kenangan 2 Complex, Kiulap, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.904403299999999,
+          "lng": 114.9218094
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.905753129892721,
+            "lng": 114.9231592298927
+          },
+          "southwest": {
+            "lat": 4.903053470107277,
+            "lng": 114.9204595701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "e8e3b591a0eb2771be1a1b8f4f5c4846680bff4f",
+      "name": "Setia Kenangan 2 Complex",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101142167622835188674/photos\">Ross Ri</a>"
+          ],
+          "photo_reference": "CmRaAAAAbhAWUvKt_pJ8TZS4dYJcGARWxH404a2H66B4jq0wffV4A2CByyF3sPuZE-CdoCfgx6HqNWulfdk8EiQzKUcPb76bU6IFPMiHZDC7TiQJyiPMbTAKI6_trPn-Uq5LfClPEhARwjcv_CxlQAO9n9DN_r4mGhTOjJpaJFTnAewWacsQtDNSkOYhSA",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJ48Ql40X1IjIRb9W9bDj6iOk",
+      "plus_code": {
+        "compound_code": "WW3C+QP Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW3C+QP"
+      },
+      "rating": 5,
+      "reference": "CmRbAAAAxFoYFmumnz7LmqPL_Sp4DeYpuzx9g8bC1N5WBcdrPAAGoUpTfsF57vUCvmGnOsrI87bbuCJHFEqjfKK_remEhxx4JdZf_LPdKUNPDVV5FOVfAs2bg5A8R-q9hGYmzZnKEhD-rDXqXZSUpIGbnWd8NHqyGhTBasMn-ueIn8alk6l3iKkzrddnjQ",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Simpang 607, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8806959,
+          "lng": 114.8898348
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.882084629892722,
+            "lng": 114.8911753298927
+          },
+          "southwest": {
+            "lat": 4.879384970107278,
+            "lng": 114.8884756701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "cef6d6f2b79a96db9d3e90e4dd42ee8f15ec547c",
+      "name": "Ong Marble Trading Company",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109056328059676827705/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAABQuUwbbWxedkj9YWfPj-wF0UInWiLp-I0ph1BPcBUkaYfhEWNTuMndb_Hy8sz8SN4VK1rYiZVvdrQzmPqb9BV9ufZc1AqxP6SeSf44cNx_g_9jUW-fLcrE6MrKc-dRNQEhCkLcjpqKGzDWdnCRrpNm--GhSnzG99xb2kwgiXha4eu2AqsxsXgA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ0RdDLxdgIjIRI9fHAqHauZA",
+      "plus_code": {
+        "compound_code": "VVJQ+7W Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVVJQ+7W"
+      },
+      "rating": 4.8,
+      "reference": "CmRbAAAA07xEZ9w2rFTggxcVi3w72Grsbjnn-wbb823MlzvvDEy2yNkr9lRiX33Qkp5iG6Uw4_Apsw1GNuZaL_5Hu9LDhUuYJvc95pjKDKO2WIsq2wVcisQE_i4HIri-im4sLveZEhBbz8cUQbX_ZSwpO_MYANbmGhTvWCFb4oZoBl3R_E0K9ubSyjQkpg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9164802,
+          "lng": 114.9114233
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.917830029892722,
+            "lng": 114.9127731298927
+          },
+          "southwest": {
+            "lat": 4.915130370107278,
+            "lng": 114.9100734701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "344e284e171b340dda45bf457d4949c7488f8526",
+      "name": "Little Soho",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116172776343455212166/photos\">Kamarul Dzaman Ajimain</a>"
+          ],
+          "photo_reference": "CmRaAAAAZoUAkwZBGhgz7v7T-DJaNHA2hJrZeGi-O8Ps0Nmmzt2i4I5JubX_Tu_aQLx8YTtEXgbumT6H_SbxRbv2ljJ2nHJL1CcolMK9lSiEmcC-v7Ed3ESwioknCF_Ir8rz8dACEhDeA6EDJScq4A4pA8GgwhQvGhTPd9ceGI8CNI7FwPo5xBRBldJi4A",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJn6cNw2b1IjIRBhkNi-Ij2zM",
+      "plus_code": {
+        "compound_code": "WW86+HH Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWW86+HH"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAN4dk0_gQTRSlQbaUQMOw5CyDlfSWv9J25PR4zUQrS-9RA4dg9vUu0XZsp66nR44NHAp1MI_LRy8PMbdtJBoKuSFiHDCOzlVjkqj5Y6nsf592Pc5yaE8BVXT1Pip3vMq4EhAsg1h5z2S4grjPBGD8sEvuGhT199SnlmSK6z7-6ECCgKxZJ2V-0w",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Beribi Rd, Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8882971,
+          "lng": 114.8979274
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.889646929892722,
+            "lng": 114.8992772298927
+          },
+          "southwest": {
+            "lat": 4.886947270107278,
+            "lng": 114.8965775701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "d0230998047e2ba63925abb47b6d539dd19bceb4",
+      "name": "Bribi Central Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106564408402965854310/photos\">Musa Manggai</a>"
+          ],
+          "photo_reference": "CmRaAAAAxZztL97quApcJ-hkh4fAcFZtsrmqXsB45sNSPRiFrTRxNPtZVmNrj0MrONmIiR8mtYjzY0bBKaZDHdxs1l4M4tF0U7xCWkzaklZE4hRXNroSIj-ByoEBf3VLaL9CXFJ6EhBhbjDqmT5gjeO4l1GkfLoRGhQVBef-g4ZCVr4xOOEd-dvjczzfCw",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJP_2gfgRgIjIRsq3KXMoT-lQ",
+      "plus_code": {
+        "compound_code": "VVQX+85 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVVQX+85"
+      },
+      "rating": 0,
+      "reference": "CmRbAAAAuOOtDI5jRakKyvrpO8ufrsHumxbUHoJoCg3krPIMrAoIPlnjaiGpczz_kyVE7HlF7gJrEVsTwNzQBG4M5AbkAurRIvPXmyUb1MQk82-6xwHiItZstzUuHND61TlOIXU7EhCeX-m89zvoEOvhRZzzCst0GhS3-JhQzU8M3_Y5y7Gk2sm08B_3TA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.946611499999999,
+          "lng": 114.9608175
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.947961329892722,
+            "lng": 114.9621673298928
+          },
+          "southwest": {
+            "lat": 4.945261670107278,
+            "lng": 114.9594676701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "4e9b35c418ce63af489f622acdf466105ee27d52",
+      "name": "Fun Blocks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117758707989056807387/photos\">Hj Rashidi Hj Abd Hathi</a>"
+          ],
+          "photo_reference": "CmRaAAAAI7RWFBLv1hYLtaH1Kdzg_fX1HmxhHwUvBNuXoBUJeXnf5wHVKUGrhqgqf3u-JlnNqVWZ4lDdgxsIp8ECCRy042HHIKDKKt-QCpI-wWteqiEnMS9s36Ksd4oG1idTQGj5EhCWh8DMcDltseYpuFZNndisGhRVrxBBkskK-2zbPkXsGvEeF18p7g",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJYaqw40j0IjIRHi_tYWwGUEk",
+      "plus_code": {
+        "compound_code": "WXW6+J8 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWXW6+J8"
+      },
+      "rating": 3.7,
+      "reference": "CmRbAAAAWXS94j5mVYaCNg-B-rcHq4yvjWhNP53IXHprqM09IosfvNCSjqxz2Oi1EgA8iatOgusqFvP4xS8m9pT3AyTvjOvfb3bs6tuAQSHkFDH3Ctc9SuY1Z-sriFGDYDpMLpLoEhAhD3QVUWhQgAI3hFahgjvKGhSQBI1C9emzOeBYRU-OODvkhvcffg",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BB2713, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.9394024,
+          "lng": 114.9381374
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.940752229892722,
+            "lng": 114.9394872298927
+          },
+          "southwest": {
+            "lat": 4.938052570107279,
+            "lng": 114.9367875701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "05099562f58636d2ec1d2cabe833583f039f6459",
+      "name": "BT Hj Uthman Complex",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109890654765812388868/photos\">Joe Yii</a>"
+          ],
+          "photo_reference": "CmRaAAAA3qo2kR4SeC1vW5pwaG6CykCjnKKT20CVqwli6dYRXT6EsyyzNdRfk-U0SJUZedIpEp5bUgdE3JgSi9qlipye21t6rWotVMuI8TJ39oYTV6QmzaesCtNNVsxy2bZOPaLDEhAAjSmCArZYRtyvrf6UHXQWGhTon7raAm2gP3K2RqQqlWjQHfZV8Q",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJneJ-EqX1IjIRaK-mRB5zKQ0",
+      "plus_code": {
+        "compound_code": "WWQQ+Q7 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWQQ+Q7"
+      },
+      "rating": 3.9,
+      "reference": "CmRbAAAAmBzBGlHw2y8rKf7tRioL_hu4r3s2Q-IcjVO9-snt99pahYq84_t8fCmVoRnTPDF9weQOYT52388OjrMuLN6fvKbU-wgI-ZzDxZQxBGoTdKdW0vKcg0eXrtSiCvRH0LvDEhCN2H8EyFjoZPBj-d9n_-ViGhQ6oideYvGzacEquIbz7gIp9oZl8w",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan BS8711, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.8874846,
+          "lng": 114.9408408
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.888834429892721,
+            "lng": 114.9421906298927
+          },
+          "southwest": {
+            "lat": 4.886134770107277,
+            "lng": 114.9394909701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "abb7a33111fe895d9d15e7f9f918ddb798b2d132",
+      "name": "Bangunan Yayasan Sultan Haji Hassanal Bolkiah",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105585616580258564898/photos\">Akihisa Higuchi</a>"
+          ],
+          "photo_reference": "CmRaAAAAR3m6aFB14Xz_GvXGJBmSqWk1pfGIOh10SsOJAJKTATo3ZBW8uYMc7ygODo4U5UDFGLD46kgKjL3kB6S3PJBX6Sr2cclNQdVmlWO9wUgPS0ysZAqBVI6vLv8F6ArWlShtEhArI0YKwHGViWHiKcRsxioCGhSv2zwqpFk49-keG8Tie-aGu8yw1Q",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ__8_wtGKIjIRP3NMPxezDko",
+      "plus_code": {
+        "compound_code": "VWPR+X8 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPVWPR+X8"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAANrtRkk8OdlW9xcVSpUET5Tm0PnUfJDUn-0PRBdzSrddCN-UpXasAsnyMmxj-wJyl3btYTgzpY5i5R6tVBGKTu0gX_BHBRuQYxMtDnamd94QSbry9eQW-2WOEPWL6c2dUEhAvafQ0uLgDhBAbWfpQPB43GhTHS5CZQABHdX-F5-jkzpp0Ecjp_A",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Bandar Seri Begawan, Brunei",
+      "geometry": {
+        "location": {
+          "lat": 4.921289199999999,
+          "lng": 114.9155356
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 4.922639029892721,
+            "lng": 114.9168854298927
+          },
+          "southwest": {
+            "lat": 4.919939370107278,
+            "lng": 114.9141857701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "18b11c0546a80210fdc44d1ce600f874a1555ecb",
+      "name": "Latifuddin Complex",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103504327036930439982/photos\">Sai Bongol</a>"
+          ],
+          "photo_reference": "CmRaAAAAcCpjDuR5QBirmNxqXoVhLTltg-P2Mg0LU0m_xMDrDb2z15VULSsvJjhFOozR4O6IyO9vwXXnQaZE5xVaMte7rcd-cgBfs8ZSXuxK2kpfSCnLl8zLQgJjM7-7DRLMBl5qEhDHIFjCVjCG8qXD2MLoUGqpGhRzBV9bRnpgZtMy-zLXOV9S-pV7Yw",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJt8XXZGX1IjIRv9xVI2ltjeQ",
+      "plus_code": {
+        "compound_code": "WWC8+G6 Bandar Seri Begawan, Brunei",
+        "global_code": "6PPPWWC8+G6"
+      },
+      "rating": 3,
+      "reference": "CmRbAAAA1nB3ASBHfJta7imkhgGL-wfpcGcc2QJ5COr7cS8dLMyFqx5r2zDtEz4Q8Drt2PyYZtLbVZacdSZSW5-viBC6-8IgUdG4EAh2l_dOR3E6DVMWB6h7UhSva8D8o9MARgiPEhBEWbJ9p56R43wyBXC9_4UHGhTdebmLrFlQNsKzMrMMZ80ByxJ73w",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}
