@@ -14,12 +14,12 @@ var getData = () => {
             for (option of formOptions.additionalDetails) {
                 $.getJSON(`country_data/${formOptions.city}_${option}.json`, (data) => {
                     dataSources.push(data);
-                    $.getJSON('demo.json', (data) => {
-                        test_json = data;
-                        addContent(formOptions);
-                    });
                 });
             }
+            $.getJSON('demo.json', (data) => {
+                test_json = data;
+                addContent(formOptions);
+            });
         });
     });
 };
