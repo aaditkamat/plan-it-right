@@ -1,0 +1,943 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCBQEAADSVmYiJSLEYTddtTjQLu8vGJJRe3sEKT3viX9zdt_-DPa3LtbqOvrs_jb3zI34U9y2Bfhbt57DWRB0JV9Kuw0Xfk7-iM1deaKqfnwmypprFy-dSd6z4emOkJoweGpgAqJG6lEih27Yg2TKmHGr5n5MhNOlUnyR5zInHcOTEBMFUX85orEWVBLGfKhcLxJFWZswpCVVVPvKWGzedxlLoaiLyXPXQh3jR_8wFK-nntrXeispwoWT_00ogN671ZC79V8Bx8MAw3RaAnrNCVNEHcO7TB1jWA27ft9Q8OvFELVIO5xtHgtpzTK99-__-UfQRghJYaFsFzeJMeg-u_a0FdXbxiHQpzQssYyBOm7ZtnJL9EhDzTskKOCmTMF3LoxeMLSefGhRxNzQSP_IPcaSyBWuKCMcDZaClmg",
+  "results": [
+    {
+      "formatted_address": "242 Trần Bình Trọng, Phường 4, Quận 5, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7633838,
+          "lng": 106.679169
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.76487057989272,
+            "lng": 106.6803535798927
+          },
+          "southwest": {
+            "lat": 10.76217092010728,
+            "lng": 106.6776539201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "44c6627cc32941e678018d538a1e1625535d83b8",
+      "name": "Hotel Equatorial Ho Chi Minh City",
+      "photos": [
+        {
+          "height": 649,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102348415521456831866/photos\">Hotel Equatorial Ho Chi Minh City</a>"
+          ],
+          "photo_reference": "CmRaAAAAQChHJepr0-b5_Rl4ZsG3FXGxDpEQZAbamCNnIMEk23uQcEnu0J1kuwkfuQzFqV-NeMUtdUiRfUyMtris4-65CVbfx3wo97zL9nTQy71cwI2o9bi4PJmKziZmPunJXgxDEhBgBbg2Y8h6-y-UZ-wMzXb-GhQ4Cp5r8aiOYtnDT9nrx8BhG1vFFQ",
+          "width": 1155
+        }
+      ],
+      "place_id": "ChIJBUZZeh4vdTERjcZTglYc-B4",
+      "plus_code": {
+        "compound_code": "QM7H+9M phường 2, District 10, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QM7H+9M"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAZzlg8FqysnIVxHseUMayZ6D-OJJMT57NYxVMso6REJrIFOxgeSULHhdqaJNilX4fvJHYc69dE3JyJIqOM6li1x-PXZnjSS8dm0fntWDZuAOmex_06YTT6TFHmWHGF-KoEhD8LdukbDIu4jwMvqIhj9LTGhQ3w9Ppkh7dZDm3c20rcPrrFQQ0Ig",
+      "types": [
+        "spa",
+        "bar",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "7 Ngô Văn Năm, Bến Nghé, Quận 1, Hồ Chí Minh 700000, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7808558,
+          "lng": 106.7067648
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.78206937989272,
+            "lng": 106.7081585298927
+          },
+          "southwest": {
+            "lat": 10.77936972010728,
+            "lng": 106.7054588701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "0206b2e83c1d6b5e91f3aaaa21318944a9260281",
+      "name": "Ho Chi Minh City Bay Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113253985583611218414/photos\">花田謙一</a>"
+          ],
+          "photo_reference": "CmRaAAAAMdPhqAT68eG87b0q4d88Gr00Zmr-QqbCO9W-bK5aHrB9nIGX55JVf8x_E8EGDwH1XyQvFmZ3vnuT3t52W5Yew3joqfGWaQN5HGlphqAZLB6wYGCezm05itUgkBmbpAhREhDLoJ7_JGN-1AbGj1AJj77JGhTgxzRntlnzZS-qHsxncwO6uDnv0g",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJy9atIE8vdTERPIHbhrsdS8c",
+      "plus_code": {
+        "compound_code": "QPJ4+8P Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPJ4+8P"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAccf8D8iKCqvZHL9RZ1MBMpn48y0w_ZEwVCop91R5ASI1zTf6bjEsu9CdLS0rRn_V0GnYQCrfQyLzChINL4_wmfKY1g-23JjbgEYCl-7CpQoTtIB2JPaZNjPksnuazj8wEhADxeP_Wwyg64l_HlNop6JJGhSQ8Q5nTpfEp6Lwux6UuUPvuEbfvA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "141 Nguyen Hue Blvd, District 01, Bến Nghé, Quận 1, Hồ Chí Minh 700000, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.775606,
+          "lng": 106.701218
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77712382989272,
+            "lng": 106.7026234798927
+          },
+          "southwest": {
+            "lat": 10.77442417010728,
+            "lng": 106.6999238201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "e33381550bb3d406b4867edb9e12ccfd9fc4b5f3",
+      "name": "Rex Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 553,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117183309632930580228/photos\">Khách Sạn Rex</a>"
+          ],
+          "photo_reference": "CmRaAAAAT0JH7JtqvLvazkVNy8fjt-BLALLzQUMFjWgH32_KhHF_gAOthPbGhWg5oDwLvVX_y08hwnXffCr38X7SnQmJhhYmoag5Y_msYp7aBjZ7-12AKT9tMAuwZHGnyG6H55jUEhBoERxLQI8rYaVpdlTIVCkpGhQQyGIhkbnN5kpu1BZpK4N9aelojA",
+          "width": 1654
+        }
+      ],
+      "place_id": "ChIJ25VPnkcvdTERSLUZtdUn4co",
+      "plus_code": {
+        "compound_code": "QPG2+6F Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPG2+6F"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAbh-ABeaAZyFDu9NbxUUrDDyTx1KRAzEyEqLbNPgZg7GIHOzGxMo9z4Y1QDGS5AT4qC6REN-Ru86kGWHcElv2O79ZxLmCnVfdKTdwVM9uyOiigRIulRT-sSv8cAzJBJ2aEhBcym7-_Oa7LKDxd4NNWA8AGhQILOzCHF-9iD3H044Wms7Iuwx0aQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "59 Pasteur, Bến Nghé, Quận 1, Hồ Chí Minh 700900, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7747312,
+          "lng": 106.7007249
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77606842989272,
+            "lng": 106.7021318798927
+          },
+          "southwest": {
+            "lat": 10.77336877010728,
+            "lng": 106.6994322201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "4531b733264d1dd27f6420ff0555742f721830b3",
+      "name": "Liberty Central Saigon City Point",
+      "photos": [
+        {
+          "height": 521,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101949834225244932758/photos\">Liberty Central Saigon City Point</a>"
+          ],
+          "photo_reference": "CmRaAAAADIzC52lHNXwFluT9f67OmfVh69xBsbUaa3Yk9YsZ4hanuQ63bFXbJNCEAnwXP-m35P5-N6jmmRJEo-LNkd5E3EuFDAEQeE5XSHoT9UDZXxZ9FLMchFgPrTA9HUblA7DYEhBqzxSEkPTHNo-xSs8Yx9sAGhRvEiv87ONU9hLNxfFLpt9kzyJNSQ",
+          "width": 520
+        }
+      ],
+      "place_id": "ChIJsYxZbkcvdTERYJLrWBMLcnY",
+      "plus_code": {
+        "compound_code": "QPF2+V7 Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPF2+V7"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAU41WKDwJKK8csK40tiwNjh0-uIR-gfi0d14fzJeEgTXWxp82BK4_K6Zb0AKGeOyxaCa3EonHFyxATdOp7lno_eLZUZkOpfcQSJ3gep9Ls04nhdVzIJANwNlKsnhNPiprEhDoIA9z4fghSWcacBe6vQHqGhRSxMlq5JiugpuKv4U234nEDpDg6w",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "88 Đồng Khởi, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7757556,
+          "lng": 106.7041003
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77704477989272,
+            "lng": 106.7051916798927
+          },
+          "southwest": {
+            "lat": 10.77434512010728,
+            "lng": 106.7024920201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "223d1180c22963e8386a8f71a08a572db68aa0e3",
+      "name": "Sheraton Saigon Hotel & Towers",
+      "photos": [
+        {
+          "height": 576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107816516945967896571/photos\">Sheraton Saigon Hotel &amp; Towers</a>"
+          ],
+          "photo_reference": "CmRaAAAAhHTLwwIBD5AHve_dGzwmkA2Czi017N3YBL0ub_UaVHUjAGv5K29ABa0s63E0vq8LKuLG600xoBByWrOc6dxJl0lJ8snP5eYifeUOvEs2DZ1gFajGXVEaMq_Yc6t2zXSaEhAtA2uDax_hD7qJTueOFGVyGhQKvSrOezBsuIE4i6Jd20Wkh0tBaA",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJA0evAkgvdTERLNUql8b4ipU",
+      "plus_code": {
+        "compound_code": "QPG3+8J Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPG3+8J"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA57uM4mKN_x1rc_ix3smQUSagbcwYYEKeGEJm4OqLYjAgXI5D96AdSGiQxDcw9dv_z9AfMU66hKExCdi2BFJbdl-fWVvBli_dvTGuwQ-3CklCuLHaVw1AH38LllMQZlVqEhCf46Kv_q8s5PflPJLOmVykGhRXncGkjH1bclSCOw0DfV80PENDew",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "202 Hoàng Văn Thụ, Phường 9, Phú Nhuận, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.8008989,
+          "lng": 106.6708071
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.80178917989272,
+            "lng": 106.6721318298927
+          },
+          "southwest": {
+            "lat": 10.79908952010728,
+            "lng": 106.6694321701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "9221f65eebae8e7fdffbc6de5989464bcd158148",
+      "name": "Tan Son Nhat Hotel Saigon",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112190504833739448835/photos\">Dịch Vụ Chụp Ảnh Lấy Liền</a>"
+          ],
+          "photo_reference": "CmRaAAAAi9HykhLQsAP0BwsTreFAV0HeWpBbDgxWLfGedDkRDREcDVtbS-eWx2xug-l33P4Ov-D9Xf8bWFDOriPpYFjz-3f8pl8IPB0XQu1P7aS50ETpntsXJLxuHg1B3jnI_fUSEhAjWbYNS63NgnkPo0GMlopmGhQ8lYXP0zun8kMP6UXwCIsXqnCMRQ",
+          "width": 4256
+        }
+      ],
+      "place_id": "ChIJFYwgtygpdTERjY_klIt5qsc",
+      "plus_code": {
+        "compound_code": "RM2C+98 Phường 1, Tan Binh, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28RM2C+98"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAuTqgtPG0i6xbzTkL135DQi1oGx-y_qE1q8mVahrJIZ7mO1A8kfLojoO9fTxkIRhAuk6_p43pgZUWbYTjLvfY-9YPElhiGM2FtN8YDcHa9v-IO08kjyew5UU9y4CYKbyEEhAzHK0fPNqw-dZ2W1BX5paqGhRDv100ZLoK-Td8BrvkV1pgXHH3vg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "253 Nguyễn Văn Trỗi, Phường 10, Phú Nhuận, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7961839,
+          "lng": 106.6730501
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.79786147989272,
+            "lng": 106.6745491798927
+          },
+          "southwest": {
+            "lat": 10.79516182010728,
+            "lng": 106.6718495201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "92742729c58296f37c586e6a8f07e41d34dc262a",
+      "name": "Eastin Grand Hotel Saigon",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108754811305617731048/photos\">Eastin Grand Hotel Saigon</a>"
+          ],
+          "photo_reference": "CmRaAAAA4GO49CJWQLq8J7Yd94TdfhcI-mZIBrYK8hztBh4CRSUNRiqXkPmGjWKhhZN9E9U5rLSizQO0jDGlUaSN0cNNkwwY8RHLh0owgvmmmW9JN34na5e_Kf3ppdv4Qr0KWWXrEhDQsYB_P-CUbsQXOQJXUCmKGhQOlfmewxIUep_Lb0N2uPFFd3pHsg",
+          "width": 6048
+        }
+      ],
+      "place_id": "ChIJXzbGaSkpdTERJadAGdVQo6I",
+      "plus_code": {
+        "compound_code": "QMWF+F6 phường 10, Phú Nhuận, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QMWF+F6"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA16nXeLOGCiP2J8CT1ZM--GzHd9iYrSmi0dl3MhQuqYQ42KSjHgMIjZIa_odqziI96wZVDauqaft_busRAij5F8O_ZcHCYDT4-KHz5DfeNswpepecirSqoLM1iWFAZrV9EhAMultZNcV56sApMD3BU0oIGhSrAlCm_3eoPzLuXDlKpCToJzNCag",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "17 Đường Tôn Đức Thắng, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.774102,
+          "lng": 106.706214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77542687989272,
+            "lng": 106.7077076798927
+          },
+          "southwest": {
+            "lat": 10.77272722010728,
+            "lng": 106.7050080201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "3d47852e06969098f82cc24a13870f6a9bcc3268",
+      "name": "Liberty Central Saigon Riverside Hotel",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104403713468187019430/photos\">Kunno Jayson</a>"
+          ],
+          "photo_reference": "CmRaAAAAYvlYEhY-6GUZK8zVzwDUjeR6kEp03u0KGBe3eJuHcvMf1TtPhp8oqXguGHkOvTENhUoob0GNuqyJbxRSvVVLv5VMQtYQk_aMgiKzE4YbtSC7OofqNSCAeVQBsByUV0KFEhAY5C2CsnCf0KjUWt-naUjIGhRdcjRhvCQn5AN4XqUi3D42Mr1GQQ",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJ964TI0QvdTERZk66I7cQohI",
+      "plus_code": {
+        "compound_code": "QPF4+JF Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPF4+JF"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAWg0TWAgbxlni1sdlew7VF-A_2WeuObhnLwTtxH2OM9-g7TgvDVSYIXx9iHJA3mrUCyuWltHqQbA0SfSzdUUu59bY-xIcF7EnS6rjv3JHdaXfabCWMjOjnsh0u_wMkHANEhBfmtAwECjeJgOBrxoWCZgOGhQBZnpSzV3Mip-ffq79NnKRA_F7dw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "63 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7729061,
+          "lng": 106.7041423
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77438527989272,
+            "lng": 106.7056059298927
+          },
+          "southwest": {
+            "lat": 10.77168562010728,
+            "lng": 106.7029062701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "87f6289a9701cba70a3190bb3ea2b8b9466a6e67",
+      "name": "Saigon Prince Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101958253514204511404/photos\">Angela Vo</a>"
+          ],
+          "photo_reference": "CmRaAAAAnd9qAlU9Xym-TVcDS6RaL0Ex1U1ATII4jZV-sdqL2-btoEJRUkMShsi-pC1XHRxLtBb144ViA68i4t2DueETf7ze9S_X5I_YYVfZWffDJno_cv6muZSkyAzFoPySKz1xEhAn9f9noxGW2h0QpsYQEKQTGhRjA9zSWXT4Vq459VmlmE4C7ow9lQ",
+          "width": 550
+        }
+      ],
+      "place_id": "ChIJ2ykztkYvdTEREtoFqwHhXnY",
+      "plus_code": {
+        "compound_code": "QPF3+5M Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPF3+5M"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAACgwVWzZ8Xebqs3RlhUiu00z0EwJqhtz24yBUD8IizZuvgHmGU5LuGQLwpQnAsTP0zEFRvMCrJOttQ2AUMxvkNyjcjy4JvVtneLMNTHSGOyaO3yVRTMrnpgZvGjnTAInwEhAYUzU6--xxqbvwD47oFcXJGhSEbWay858xHBp3RNmmXgBO2IWr9Q",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "39 Lê Duẩn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7812397,
+          "lng": 106.7005025
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.78269637989272,
+            "lng": 106.7020644298927
+          },
+          "southwest": {
+            "lat": 10.77999672010728,
+            "lng": 106.6993647701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "c23d7b62eae7de91bcc62ff3c1e3749654e7777b",
+      "name": "InterContinental Saigon",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1355,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108148511751985718027/photos\">InterContinental Asiana Saigon</a>"
+          ],
+          "photo_reference": "CmRaAAAAYfCehTvoW9ouw7HtW9lzi2-u1nbHxu_PyB_HZjQxC7YqP6YPFJTrNdTNMg3WP2O-ahVAqEConfzBm_4ZIJ8gHLbdmMwmiNn6ZY6X1C0mvPq8RWi9vwsJzPdrbfH2xGH8EhByHxyrbaPnyIPWIh83JTCLGhQ_nIfToB9cVGwOYHDOvwvuqwbQuA",
+          "width": 2153
+        }
+      ],
+      "place_id": "ChIJVVWlM0gvdTERYuAU8XscL0s",
+      "plus_code": {
+        "compound_code": "QPJ2+F6 Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPJ2+F6"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAAuLpoRXs-f2wP9t__yygVldY8AvPMv_LSkwkDBnh1fs0_a86C6XmMpBRvrFkau3ZGWHTwbB6JDrKasCindYgr-GNYCQX_cRYUZ9gYLaOidx24ga8FVZMG1t3IIHwMLSjPEhBF0qosRWGq7b-7ddL6RygVGhQ-9RBwF2gjkMTOMzPUj2jtOZ3cIg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "3C Đường Tôn Đức Thắng, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7799161,
+          "lng": 106.7074135
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.78114167989272,
+            "lng": 106.7089082798927
+          },
+          "southwest": {
+            "lat": 10.77844202010728,
+            "lng": 106.7062086201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "4b4af97c6ab26f6eeaa5c7049ccfee5232e3f638",
+      "name": "Le Méridien Saigon",
+      "photos": [
+        {
+          "height": 2334,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114659038969941997423/photos\">Le Meridien Saigon</a>"
+          ],
+          "photo_reference": "CmRaAAAA1AcKk4jCvA5e3tHyjlD2o8ZRMvs9e8T3__OlLwYYU33a151C7vPiOHulM1KaTO4p8IYbwi14oF5oPYVjXq3ixmI4ovXjWCX6GrBWyTsK_0o8cDJ7KgKi94UHHDzMXh4cEhBkZFaHh7-_qlGnbb1p7TAAGhSlKlf_YlWHzyoA_lGmsWcTVuQ01A",
+          "width": 3500
+        }
+      ],
+      "place_id": "ChIJwbgTGE8vdTERz3h0y18gFm0",
+      "plus_code": {
+        "compound_code": "QPH4+XX Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPH4+XX"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA14lzo-DGAkQCMMO-ri3LWQnaxxCqm4izSe9sCv-MKlzXgBdOStK8YU2Mz9LNU49i0HJgYoD-DliWT2kQKwplP3vGOJFyoK2hesf0Hi4WBHv6WuJZHaiJOh73JP5CgFztEhBEmkN8gXWJPZnlgN4Wo3sYGhQsQ5L-nhvSLC884eZtgtGzS3DgBg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "148 Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh 070000, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7642317,
+          "lng": 106.691786
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.76568427989272,
+            "lng": 106.6931652798927
+          },
+          "southwest": {
+            "lat": 10.76298462010728,
+            "lng": 106.6904656201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "9d8a9624e5ad99392103632bde161b4a3fe2b506",
+      "name": "Pullman Saigon Centre",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105309106315491807747/photos\">Pullman Saigon Centre</a>"
+          ],
+          "photo_reference": "CmRaAAAAhnikEnXZtZ13Z9jcv-37CaqdfsEz74FzqA1qbdjs3P1xmQYRExuQ2h4MFtoCGMwLvLNNC0x7SWuQgloqRNznux5Qu8B7FHnFqhI-DsPB_IFUQclOE3vzlNJDwc2V3-BeEhBV-JTYx-cnxqVDAnaaIPcyGhSAH6NdQcFlrCj3CjSc32SyXb3Pcw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJk_3V7hYvdTERiYmhSgvmA88",
+      "plus_code": {
+        "compound_code": "QM7R+MP Nguyễn Cư Trinh, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QM7R+MP"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA7NAiGtHhIsgEaKpN94I0hDk6zFWCgY78FxXv2nuen5UXbmTyGBVX1hv0z-XEHxb1L4hsGBH55vixiwRpn6FOKcR8V56mdcJEq2rfGTFVSiUPaHg2oBkP624OnGFXq8A3EhDAyayjyDTbjok6HWK1BTc_GhSNXUlVQvJVN1Fqn8d4thQErCE8oA",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "179 Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh 700000, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7735897,
+          "lng": 106.6987941
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77504297989272,
+            "lng": 106.7000722798927
+          },
+          "southwest": {
+            "lat": 10.77234332010728,
+            "lng": 106.6973726201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "4ec50c4c18b3e53b0fdc7ae467afcf32fa8ea1fa",
+      "name": "Liberty Central Saigon Centre Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2232,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114946723847398806639/photos\">Liberty Central Saigon Centre Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAl3sL352XeqpMGdXSR6l_W2qeIJ5bRyLUeYc4fvjg-xyziwTNq0rtQYOXZn47UuBy9IXV68jg0cBnIXQyqGBXnddew54JmY0LIbl5UEy1EfcwFRFiCtsRlQ-UIFZHN4UEEhCDTLsqQkp6zE8pJjStFMDJGhQTAyj9fq66eCF0tzKf1RBm9GNNJw",
+          "width": 1394
+        }
+      ],
+      "place_id": "ChIJk56RuTgvdTERnadZWYFYbVQ",
+      "plus_code": {
+        "compound_code": "QMFX+CG Bến Thành, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QMFX+CG"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAALYpJViIbY133dRcgRH51S5QcuQ0y9PTrbEOYK0fcOCZOg2_cSatyg_K_NTy9Iy8QJLzc3l7iSe7JU1WkXu3nYOeKlDh3AIur6R5BqrV4-mYxWQZiBpnkH6-3YRQkX1LsEhAoAGkHAWSwX_xDEYJDDZ56GhQ7QssVt-kaPqiyF01SVm2OdJkUfA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "17 Lê Duẩn, Bến Nghé, Quận 1, Hồ Chí Minh 070000, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.784207,
+          "lng": 106.702673
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.78562397989272,
+            "lng": 106.7036735798927
+          },
+          "southwest": {
+            "lat": 10.78292432010728,
+            "lng": 106.7009739201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "eb55fc72e93a1e9e04ef63bae11f3178b1d3cb27",
+      "name": "Sofitel Saigon Plaza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104327030776082992674/photos\">Sofitel Saigon Plaza</a>"
+          ],
+          "photo_reference": "CmRaAAAATMbQtSPRDwGlkDuOTFBG5aanTv5il8zcW8rVVaDxhh5ipTAQ6_5H5yiMk_VcTa6o1q5oae9pJ_7XLF9ykV_A7pRKiGStRhD_FeRz83LqxkEyWjz76QoiEi8EhUi1M47DEhD3BS4IPxYoSAkltbyW1cahGhSezahRvd_WKBzxbTdh_1R-cF47DQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJpV-7MUovdTERS3tmu3Rt9kw",
+      "plus_code": {
+        "compound_code": "QPM3+M3 Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPM3+M3"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAAHdImhS074VFOckHkOQWlhS5IctGUEfNzlZS7IcXkKQiDaXRTBEKYJNfU60sDmJmSpV4Moz_3p49sxQsIQvONW-Yehq3Q7Y4GRrTyLxNVQICsdSwF709enLi8EAxlaU0HEhB0KGsCunYHf7CCeF2U9J7WGhTmpn9j0wqefjyqpMl1EZ07U2NPVg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "56 - 66 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7744449,
+          "lng": 106.7036785
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77576897989272,
+            "lng": 106.7049929798927
+          },
+          "southwest": {
+            "lat": 10.77306932010728,
+            "lng": 106.7022933201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "5459aa1b8bffa9da8a83cf4f00b468c9201f15ea",
+      "name": "Palace Hotel Saigon",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111310870458795705864/photos\">Robert David</a>"
+          ],
+          "photo_reference": "CmRaAAAAokpQkfUmI40FghelFmhBgj8wXnVUo6Lv98A--2mDyEMjwjt-ieSRV122Z1RpeOnHK_9QgF06Z8Xg9bkB0AkVX9WTWOiOMs84TCH2t1v4IhwfPkhKJGcm9HpsyVeLry8SEhBdFqtB7_npbVJNq41_Y-q4GhTGoJ0ZxP9LA9ucMR478sJrqjOTHg",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJQfIXwkYvdTER0Hkv7Bela_c",
+      "plus_code": {
+        "compound_code": "QPF3+QF Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QPF3+QF"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAij3euDP-mf9i6Od9NBZXd6xRaN-ow7EYiG4x5NpYJyq4mgzwPSxdvfieyqeIP1Vwg2Xfoy5ciIwIdEgoMNRhvUcLNYJTBpi9MpIm4YwidcxSSK58NVNJVkkRCrDWhNI-EhCgIX4wKpPeurOZtgCAC2CMGhQa_nHEwUpI9QRg9Uap4OSgy50lnA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "302-304 Đường Võ Văn Kiệt, Phường Cô Giang, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7622066,
+          "lng": 106.6961687
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.76347867989272,
+            "lng": 106.6976154798927
+          },
+          "southwest": {
+            "lat": 10.76077902010728,
+            "lng": 106.6949158201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "7ef714b1d2fafc62e463c73722a6735598f08dfa",
+      "name": "Sunland Hotel",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109858559372023731083/photos\">Jiri Urbanek</a>"
+          ],
+          "photo_reference": "CmRaAAAATp4sJCvDTbtSoXqokKIfMSdCzbogKZyKDUHdegdqLDTzPjwGwUHtAd9hRmfWFawANfmz-hssTMZzz0cD1k6ZuULR7zVPvR0KsBaOq_GoWWE0FprrIxXG0TWx3T0wOJMXEhC2pM_KCdeQ0gpTwC8LUwEoGhQd7ZlAo5opLkZUoXUAq50A_IAvqQ",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJo62nhxMvdTERPlNzUFV-Qno",
+      "plus_code": {
+        "compound_code": "QM6W+VF Cô Giang, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QM6W+VF"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAtw3rMHLsPopfg7LtwBzVuFJtO7zm6uj_xcCiA5ir5BY23UhTGcGkD4fLXDPwwdX7n6GojIgtG07kl1Bab3nVPjXSWa0p2jILuM77d2JIBx5--O7FVJKdRPJaJ8E-lH70EhCjA5j287rsgYjITAeQ5eBUGhSEWLvv4njXeIqXhH8xwm21CaUVIg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "38 Bùi Thị Xuân, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7718765,
+          "lng": 106.6900185
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.77312897989272,
+            "lng": 106.6914758298927
+          },
+          "southwest": {
+            "lat": 10.77042932010728,
+            "lng": 106.6887761701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "5c16627765388c23ed800f353fb9a16ab6a1f73b",
+      "name": "EdenStar Saigon Hotel",
+      "photos": [
+        {
+          "height": 572,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104570752371088558584/photos\">EdenStar Saigon Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAArVRV1bpXs6pXlmVFV9r1d1cDm4AvC5vnjFEB4pwdfhk82gYO4vzmGLnub0pdvVLR6xX8_MCJchWE_w0wyYB6wGkOd8nwugxLRaj5w_jRqdCfdMbFUcSHQxS8ZfB9UGdgEhDQ4TWH7gJGCHYHRQlp8In6GhQblv-sSzMTf2HXg6VPZSx-rbsYag",
+          "width": 850
+        }
+      ],
+      "place_id": "ChIJj9nZ7TwvdTER3P_cpq5lyP8",
+      "plus_code": {
+        "compound_code": "QMCR+Q2 Bến Thành, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QMCR+Q2"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAZmA30cbLKLrqB6u3c8MO2uj0V37LcRAPoCVsiVLNsKaTnZ--LVc7ghQzvpM71Y-F31I_HZX9yEGwMXUon69vsEoReVSX2tD_eN3o4Mqeb5zuz9mmmU2g1ZO86N_68EDiEhCbM5PSiGieje3ak7jFiC8YGhTHXvET_jCrFmbT5NCOEQ8oTAuyEg",
+      "types": [
+        "gym",
+        "lodging",
+        "health",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "275A Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7678982,
+          "lng": 106.6920327
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.76935692989272,
+            "lng": 106.6933303798927
+          },
+          "southwest": {
+            "lat": 10.76665727010728,
+            "lng": 106.6906307201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "8d1360b7a78fbfdd732e08611674307c910e44c9",
+      "name": "Vien Dong Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1728,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114511439420691940222/photos\">Vien Dong Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAf7ZyyynY8eeJhekJ8ywv-LRvMnZD4UHiyGed_C1Ex4O0o7ACp-szabFeIvIh3f5c0CJTYQZ9KkVC8GM3Iz9jMREoypNg04XEflBugjfYqO73sHBNXGNUhahoeA4Ay0S3EhDA-afaoWRSz_Wh1VwiosLWGhSfozHRwQb6YOD11VZ4hL2P_CSz9g",
+          "width": 1152
+        }
+      ],
+      "place_id": "ChIJWwkxBUwvdTERHxWYqmRizUk",
+      "plus_code": {
+        "compound_code": "QM9R+5R Phạm Ngũ Lão, District 1, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QM9R+5R"
+      },
+      "rating": 4,
+      "reference": "CmRbAAAAOmnMGy2eRGX1_VAIORgFP0UL5ts8IEwL_PiLFgzm5esUJsRdkL7VXcixxsjwMGDl-4daWkR0V5wW_aU3Rw2vr1dXrlpi-bpAc3UWksM_yUVk0GDuVKp788oIEybG-2TrEhACSDKnO6j4B8bVZBtxuCddGhQWY9XB7uaYm45WPizdcJRhUae_lA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "167 Hai Bà Trưng, Phường 6, Quận 3, Hồ Chí Minh 722413, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.7843233,
+          "lng": 106.6959322
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.78581027989272,
+            "lng": 106.6972126798927
+          },
+          "southwest": {
+            "lat": 10.78311062010728,
+            "lng": 106.6945130201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "9a96c1da16e4d5151d7f77b034484da99dd7f73a",
+      "name": "Novotel Saigon Centre",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115398823784330572473/photos\">Novotel Saigon Centre</a>"
+          ],
+          "photo_reference": "CmRaAAAAI9FzqgCVYGuSkUzWDfZR_K5rKb1hzmUfIdEEJHYMozMUNQIQF9D6Pn1Ye1HnE58MP6w7gSUPlfJ8GJ0uvvhhvS1-PVAU4dZ7I8orefbgYPxUa8d5LdqRkhXXKB91t6h5EhCgDn9yv5-KjxmEtOQ_8DfTGhQh-2IPlymGFYQj0VaYuJkMVMZrUQ",
+          "width": 1023
+        }
+      ],
+      "place_id": "ChIJv3u21EkvdTERd8RlwzZlJMI",
+      "plus_code": {
+        "compound_code": "QMMW+P9 phường 6, District 3, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28QMMW+P9"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAszHmqqIkKjMetQjZLfSsFEgwSM5_LXgJw-4Nc1Wb0QIbiUTHfy6fa4dz0nJl-G7rgNBxK-gtz_22ttc80-bV4Seg4eJ3Y8FKzF3wPr8wMGsaUgS8yw3yQUDmPGdVuPM4EhDClfw5UEYWGoyaL4mPz6KLGhSQjUnl0DLQgTltV7TlZXCIVBWyGQ",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "2 Hồng Hà, Phường 2, Tân Bình, Hồ Chí Minh 700000, Vietnam",
+      "geometry": {
+        "location": {
+          "lat": 10.8131996,
+          "lng": 106.6660894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 10.81467957989272,
+            "lng": 106.6674153298927
+          },
+          "southwest": {
+            "lat": 10.81197992010728,
+            "lng": 106.6647156701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "25e401d715de06fc815a0c4a116a5b66159fabbc",
+      "name": "ibis Saigon Airport Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108210657321312778412/photos\">ibis Saigon Airport</a>"
+          ],
+          "photo_reference": "CmRaAAAAGx-Yjz12qapA9pcHVJKNApMGTWjyhP0bdk5Ad9MzKAlyy7TDUN8wM-ogcTjRFri6Nw_Rwf3qdjNuNSjpNXthKHN404JTt67l6QzmGuA9Ptkip6jHNOmVWXs1Ayf3p23mEhAzLoRtNrQzEDjz9m4kLAptGhTMX7SHLZdTXAQXpbp7NK00Sb01tQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJGXQUDBgpdTERux7zgpUWGW8",
+      "plus_code": {
+        "compound_code": "RM78+7C Phường 2, Tan Binh, Ho Chi Minh City, Vietnam",
+        "global_code": "7P28RM78+7C"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAuy2_n6EAELJGmq9v_hvvM2qH8R_BpA6BDsEqwGeVn5sQo5iIG3jdaClH3i-BUskQEL4QkGBK5OyQZBv_U653zUy_ZZwY32LSlSu0JvRVS4Ybb0fQHeVJon59qIIqs0OoEhAJGG-IEZJ6AMB76EGqH-y8GhT-n_JoU4Mqilb3WUWMt8k1XzPHsQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

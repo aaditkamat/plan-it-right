@@ -1,0 +1,934 @@
+{
+  "html_attributions": [
+    "Listings by <a href=\"http://www.openrice.com/\">OpenRice</a>"
+  ],
+  "next_page_token": "CpQCAQEAAPvaMrjrMcVUDnThZYvkdVf-ytJdRgq3o0ySZtvLj_x6hSTIjD2gUizJ7_WNgipV16NNumHIqluVxqTygJSRR4Qpuu3n5iZiwOq7i9zYCkMCPRfn9_6mugWV-cCxuKth0zl2XWMiPfEVCuUt5O_mOr3KpKhedT3cj2PKiU5sV1zd3lM-6vGcOxtMAQGc2HCI7lUw5ckLIFPsDOadnz_1F193Y3wB7b22xE6wt5AO9jH4mm1yQa7_RR-ljYuxfncaW-CqU_BPiS2ouv9MgK1WUUgwDRCeg8ccSS4OJ0eQnwEcdiLbeeYwczYcVnUj5j7g6LVuLV_ridV8Vb872E85DLpON-VhoZ55TqWZOL5MbHFxEhC-71ZPhtZ8uFbNIjRdRp_vGhQ4CqAAA-gtdOvOEjugRsGm0wrG0Q",
+  "results": [
+    {
+      "formatted_address": "Gelora Bung Karno, Jl. Asia Afrika No.8, RT.1/RW.3, Gelora, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2219929,
+          "lng": 106.7990402
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.220672220107278,
+            "lng": 106.8000972298927
+          },
+          "southwest": {
+            "lat": -6.223371879892722,
+            "lng": 106.7973975701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "96e73d2827a82f34ccb3f44d94db840c82a95efc",
+      "name": "Fairmont Jakarta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107940175392477003089/photos\">Fairmont Jakarta</a>"
+          ],
+          "photo_reference": "CmRaAAAA4LCqRwu_-AlxdyF-2asF_e5n_vNt8fbjQeESwxoI3jgBDDklWycXvL-CSUYBD_xzVRhQf2cNwTk7nedKdNPEQAbZkWwHNysfuaQq0uQTeNJwHHB3fz_mJjEI74esU-eEEhANlaEfc5M22rHQxnp3Z3IjGhReaPs45fDVbEXBsc_7pfdfm-fEkw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJG_EnXEnxaS4R0gikKv_y6GM",
+      "plus_code": {
+        "compound_code": "QQHX+6J Jakarta, Indonesia",
+        "global_code": "6P58QQHX+6J"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAoy6hY5VBevvvqS2VKwfTM2WGl6sH9mGchock498Y1oI8R1GF2Qzp1ca-lmODNRd8nWts59FXfGREMjjmqgJY7qX556oeMl2IwrBCb0745PM43klE7Omex_tl-8FozdGWEhBHAstdfGnSzpwPWtGJTQBkGhQqIv3D3PNHT2WLXA2WPvsjod7eMA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Kebon Kacang Raya No.2, Kb. Melati, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1948199,
+          "lng": 106.8185468
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.193191970107279,
+            "lng": 106.8199656798927
+          },
+          "southwest": {
+            "lat": -6.195891629892722,
+            "lng": 106.8172660201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "81ecb4f9d15a7e6df9965505101d7a169d082d0c",
+      "name": "Ascott Jakarta",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102625673127147311837/photos\">Kunto Kuntjoro</a>"
+          ],
+          "photo_reference": "CmRaAAAAh3hU1xHfKKAO8DXQcclAjeg-slNSj4ruCZdgPDN8tIVfNpDX2X5vNyJH9WGI_LhJpaJ0ZStKWRvDkI8I5eIA5PFuu6w0RwSwzHMMJmV8X7QiTQGaPvFdO0QGqm0Kv0PiEhB-UprksGzDzTlH5P5lhSMLGhTKkGvzc_QjsDP9aO_sZS-aM76Z_A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJF1DmwCv0aS4RiUuhSmSlBjM",
+      "plus_code": {
+        "compound_code": "RR49+3C Jakarta, Indonesia",
+        "global_code": "6P58RR49+3C"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAnBgP-H2u4xzeyrXxO3n--FEFchceoNG30C0_wsPrRnE9D_VrU5nh4BRCc2guCUmszjk53PxiiM3Y7lTmu1p2fv65qrYzP5FzZXvIV8F-ndhghSMdbxuNpk1aTAqYA__dEhCW0gr411ls6UIe5ml4G1uZGhT-pBRxoh0URmw8N9urXJkoON7xbw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Prajurit KKO Usman dan Harun No.44-48, RT.7/RW.1, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.18171,
+          "lng": 106.8355128
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.180470670107279,
+            "lng": 106.8371761798927
+          },
+          "southwest": {
+            "lat": -6.183170329892723,
+            "lng": 106.8344765201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "99b9ded59fe048de4d0c20d7787a4df26cf2ebe3",
+      "name": "Aryaduta Jakarta",
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111194751467113615794/photos\">Jeffri Kj</a>"
+          ],
+          "photo_reference": "CmRaAAAAFenqMltS7C97fHaVH0QAMn9hwd2iIKT9n-jadj-p3pMxY8Ym2jLrO4SJr2S0rbbWJRqzK2WGiItH_7xmdQ6Ckoj8iMGXpuSk9rd7apDbF60DL2DK2fEniN28-CfA3nqGEhBcAV1qvG_297vA-tp5mkH9GhT5_VJ3jjQ4QvL7kW6mVJONEiSgHg",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJBUcbUTH0aS4R1NA8rbvdUF4",
+      "plus_code": {
+        "compound_code": "RR9P+86 Jakarta, Indonesia",
+        "global_code": "6P58RR9P+86"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAA-4cz9fnCeMzSn3UvYhVkO79k9KzbBrLyVtB4OyTf68AbvIhZOtiSXX96yuGA3L10jcUrIU6I5vu-ZtDRtX1sMgv9GHVwEAogz1CeFc5DNRpZSPo7A_LkkuxpSPFY92gUEhBlBArQ7tEHtwT0yxKGrGN9GhStgrG-z-Y80H4uxRODZONap10OMg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Kemang Raya, RT.14/RW.1, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.255664599999999,
+          "lng": 106.8107905
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.254187970107278,
+            "lng": 106.8120459798927
+          },
+          "southwest": {
+            "lat": -6.256887629892722,
+            "lng": 106.8093463201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "b18acadc898f6ef46e38fbe279f67a8f06ede92a",
+      "name": "Grandkemang Jakarta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111271366829056336650/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAwn6MiDGipr9BtWN_fKY-6Z1EiSGRy5qYjYapmKpS2LZ9oh8kBBHeUrITmPE474sQxLp_3q9kKCkYyBTC3IdN5UUqnr6-AFr1XV2AIL8ByNVy2xEAAoY43IeOIGuyzUrDEhChHY4BoJxf9YKv_BQta_t2GhR6pWnN4TcSnl0cuMwjbuBVLqoZng",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJqQJDCCaNaS4ROkwK1Ye7TIM",
+      "plus_code": {
+        "compound_code": "PRV6+P8 Jakarta, Indonesia",
+        "global_code": "6P58PRV6+P8"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAtqW1p0zl2TU-_kyGRJ1JGaYVrSbofbgcj5SbgNUUHxLbpO4xZGliCjC1bSkKz44ye9YfUd28tu2J148uAgs4Om021dG5tH_jE6rQDVjCRogP3OynFyQto7bO1J2CSkf-EhBa4307Q71DWprigGLcn-gCGhRBVa_gNtvAsVvfmmsg3lnxsTSsXw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Pecenongan No.Kav.7-17, RT.2/RW.3, Kb. Klp., Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10120, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1658718,
+          "lng": 106.8261648
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.164464320107276,
+            "lng": 106.8275485798927
+          },
+          "southwest": {
+            "lat": -6.167163979892721,
+            "lng": 106.8248489201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "611f09d8b46ad6aa9960e65ed3a8a73e507d9f9b",
+      "name": "Alila Jakarta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109584392352498594658/photos\">Alila Jakarta Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAQxbMZFXjd6yIgEDBl-4ouTB3n89Mn061Bd0qwT1OGowia7YwG__jYtVC1yAyfSfEhv4px7e-9xfdht15LK-CzOLnLndXb06Augk-5YercJcO6b2ZXr9fk_kFNNliSCS6EhAxfoq50dxsZP_vkxiE8Q3AGhRGNJp8FyUziM_85os4nUYixbV2JA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ2d3ve9r1aS4RzEA3yhGSUN4",
+      "plus_code": {
+        "compound_code": "RRMG+MF Jakarta, Indonesia",
+        "global_code": "6P58RRMG+MF"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAA_uRjA6nWZ9Q_7Y6tV2RdoR5HxCoSIQYWf6YXRZHuQ9eQLUnWHKlTY3eL92R2HhnO6O18mlYPY5veZYtNhD4CrzmnRdLm9ka1AVYRFGmOHPNiqtenxRwPbTyDWFRwm0LYEhBialY4L8lC-Eg4cbuCZuYwGhRkHvM8UR09NN_dOU19Dz2qIwiG3A",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. M.H. Thamrin No.6, RT.2/RW.1, Kb. Sirih, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1855835,
+          "lng": 106.8239725
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.184098470107278,
+            "lng": 106.8250971798927
+          },
+          "southwest": {
+            "lat": -6.186798129892722,
+            "lng": 106.8223975201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "08d1c3298333eddd907b3e275dd622ceb42a712a",
+      "name": "Sari Pacific Jakarta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108213131469929130818/photos\">Sari Pan Pacific Jakarta</a>"
+          ],
+          "photo_reference": "CmRaAAAAF-fNPrt-CaOOEhFeD_GyhkvPN8RRu8WLSRz9gcVvmcvYUFqn8qQtuZfkF7odCmmuNiLQtXrHlXOKNH0FDUotHvghz0m12ENXcqZHfWBppoGUMTEJGE991LEabDQbJVf9EhCvJTSD9uKLRQHYjXZvD1AGGhTtJ9tBr4EhbRzaGqOyknyirFO5GQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJuWggIin0aS4R474PCAs_gEQ",
+      "plus_code": {
+        "compound_code": "RR7F+QH Jakarta, Indonesia",
+        "global_code": "6P58RR7F+QH"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAzWHrBnTnRleCbTt5M22d8buo_JiH0UQfMPfRe0NoIZlwi4m1rBwFCUfehe1tZ275jU3YwGI0H1-vEIj26ifokwmhAiOF38JIQks10wzBdLja4Smlq-leRwNZAO3i3o3FEhBOCffw4-IAdAMwbw3_4Q3SGhQ2VBO2MwY_HJkzCkrS-FHng1GsiA",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Sunda No.3, RT.8/RW.4, Gondangdia, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.189011,
+          "lng": 106.82473
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.187406370107277,
+            "lng": 106.8260715298927
+          },
+          "southwest": {
+            "lat": -6.190106029892721,
+            "lng": 106.8233718701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "e1b852711722b02bf2b1026ddfa66d82d15c7331",
+      "name": "ARTOTEL THAMRIN-JAKARTA",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114704647325302382013/photos\">ARTOTEL Thamrin - Jakarta</a>"
+          ],
+          "photo_reference": "CmRaAAAAB0ujOCdl2yda2N_qImk1rQW5ttNAjaCgXDryDAbM-TQEJ5AVZfMYtd1cIqoW2kPF6qrJZt6oQ9ipfFlW8zn1aqGA_X-DGoaZ_-phSesV6B-Z9NR2qRLOXRexZnmxPz5FEhBiI6gWMTcqg4CKo_SyxwjlGhSpniuxOr1MnjdfONvcVGiGnB8NVw",
+          "width": 1329
+        }
+      ],
+      "place_id": "ChIJRSlfzCX0aS4RchFxSsiVtHs",
+      "plus_code": {
+        "compound_code": "RR6F+9V Jakarta, Indonesia",
+        "global_code": "6P58RR6F+9V"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAArg0XQWybb8iSrd20R1Ucp8Ux-nF1Df1GOnvEqdWtqtFwU6R8bbrMe9eSyfTyjHRclpLP6O7wWBhk7X7t8DnG22BJs5jq-w8h19asCPr0Yo-2U9SBnR7UaCTZb2zikQjEEhDJRxcivOQ9NmNlJ5h5T_XrGhQrDF99N4LkVhp_3GZEK5GghMvx1g",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Hayam Wuruk No.123, RT.4/RW.6, Mangga Besar, Tamansari, RT.4/RW.6, Kota Tua, Mangga Besar, Tamansari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11160, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.149093199999999,
+          "lng": 106.8174465
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.147854270107278,
+            "lng": 106.8185864798927
+          },
+          "southwest": {
+            "lat": -6.150553929892721,
+            "lng": 106.8158868201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "a4d4ce99f4316494783a66c43d106f8ff8d976fb",
+      "name": "Mercure Jakarta Kota",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106649167284646540566/photos\">Hotel Mercure Jakarta Kota</a>"
+          ],
+          "photo_reference": "CmRZAAAA0pGKVqTJL3fVEu9QqlrXu71wpj97m2veqXR-MmsyxuriUuYDAzx9yr_3IepKHVvudh8j6supCOT6zSeUzNGjjG9FsNT_p7tN1SxWk6d0TnS3Y8CczJXp47o9vLd_4jesEhDXtqyekDfBtcLQk7GwELWXGhR2Tw2_2AC_gz4Oas8Fh4tsYv5hZQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJuTeqzwn2aS4RW0L_o7vKdEc",
+      "plus_code": {
+        "compound_code": "VR28+9X Jakarta, Indonesia",
+        "global_code": "6P58VR28+9X"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAjHnSSLQO2IfXMuFLTEcXLkJIHHi33UfDZJVzlZmHL3NWvkqgbMZJDj0c-H0OgCB8-EsRRV8_FMHnEMnKhYe9eRfu1ojtfL46llbwxSNYxXwenn-isu3Amq8IQlXMPONdEhDMXT3QfiJHVvJCh_X9redgGhQ1OwqWu3KHqpRp8GaxEQQ9QUePaQ",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. KH. Wahid Hasyim No.80, RT.15/RW.3, Kb. Sirih, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1868208,
+          "lng": 106.8280378
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.185639770107279,
+            "lng": 106.8293531298927
+          },
+          "southwest": {
+            "lat": -6.188339429892722,
+            "lng": 106.8266534701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "b2d3d3f76142b1aed546e7ccd8c164baaeedeb6c",
+      "name": "AONE Hotel Jakarta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 991,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108044341102313551823/photos\">A ONE Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAqMhHsuAm6D452TuGPsD7EkXkIlmDM__chd2wFXlEU-T7KDpZMXcu2mlUso9Y_A5YBU9ZBtutgjVdNoHnYJRuJezaHPFBDwTEaPT4o22TNY1xh4HUCjx1bnA7fkePwIdeEhAUospwLGwt5EmAwsETPTUAGhRiQQwC_t3YeCmyn_ERYLKB9sU0IA",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJqaD9ZSX0aS4RCf2PgCMx8Zs",
+      "plus_code": {
+        "compound_code": "RR7H+76 Jakarta, Indonesia",
+        "global_code": "6P58RR7H+76"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAO8SOSo0nheJ6sHxMaXyYD6s_biJFiuRYaMJ6WGiPUUOfdU85Y9FGXj3NyqZtYvYwRExYH30NZ_94prMijL8YhAhiqd7S2aiypr3NsedQt3daz6_RR8krKAgbhsIYW7SkEhDKZ32UVSBObZ7AuPL2DulfGhQgItLYGB2CCm9D4s5a95VlyjjR7g",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Asia Afrika, Senayan, RT.1/RW.3, Gelora, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2154435,
+          "lng": 106.797621
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.214093670107277,
+            "lng": 106.7989708298927
+          },
+          "southwest": {
+            "lat": -6.216793329892721,
+            "lng": 106.7962711701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "55cb9c9742c6f0c9b864357bda7ca97060866a50",
+      "name": "Hotel Mulia Senayan, Jakarta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110468549993645286813/photos\">Joeska Soplantila</a>"
+          ],
+          "photo_reference": "CmRaAAAAITnFZ0HTXurKXwRiCgQ88yYpgg44e3zDaX2C1eBAfX9nonKkGI-LS8rBayPu_vetC1MZrPuQ2tVIkRYDHn8T_0U21Pt0j8Ca57eF1sFMeUlVMX-e2imQvsrK1f_4aObmEhAcJBfbbutTGs1bu3HjEtEPGhQNMVAm09mOWhrqNfc7tNBD8oPQNA",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJZRBmukvxaS4Rtbqwbj04x0A",
+      "plus_code": {
+        "compound_code": "QQMX+R2 Jakarta, Indonesia",
+        "global_code": "6P58QQMX+R2"
+      },
+      "rating": 4.7,
+      "reference": "CmRbAAAAtEyGjxkb-3Rtqc-hAnjd5vKtnD006p3_YzSE1cA5YlQ2EBzlv5rdnnqclA1GtfdMF1oofcsjQDzO7vR4PkmYKfVnMkpRPmcPZt8aqAQSLzXov5WRGoD376V2AjcJP4wcEhAyumzL6VIS58Sh1dlVBuw_GhQRkcxddjEPgytLY3Ksrq434gG5Wg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Cikini Raya No.66, RT.14/RW.5, Cikini, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1943702,
+          "lng": 106.8388447
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.192975370107279,
+            "lng": 106.8404826798927
+          },
+          "southwest": {
+            "lat": -6.195675029892723,
+            "lng": 106.8377830201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "84908f258654a91a81d14aaabcd910c9406ace2e",
+      "name": "Mercure Jakarta Cikini",
+      "photos": [
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105672706752640514212/photos\">Mercure Jakarta Cikini</a>"
+          ],
+          "photo_reference": "CmRaAAAAQtcy4fLwuYd20XM_euSdLbqOFriDqUgAQVCtjfxxtt7ZmWeJMdV1wuW2yuyKL71aHQrPJP06H526lHe9gugqfm-SeTN0nbhEOg2VPyDQwQIbpRVXu-2g6HTtEkw7qdzNEhCIIJlt8DESyFh4rYb0W3oBGhRw7_nk0KhyHJgShVgFHK5GElyMpw",
+          "width": 5616
+        }
+      ],
+      "place_id": "ChIJHY0fDzn0aS4RK5PIylkoCFc",
+      "plus_code": {
+        "compound_code": "RR4Q+7G Jakarta, Indonesia",
+        "global_code": "6P58RR4Q+7G"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAjLUZ0mdqUdyKcsbDQ7v0jhaoOhFMwoRCMhF7GUha2ZOu3F7x_qJwCizQAMSfvNPR2XsGOMUc8l5w3Wzkr8XoUWYhnxl8eH9pKAs7V67I6xTh0TL7Ywhv44aUwa2Sv2E2EhCswsUfcPjBo31-Q7h53h5dGhSWQGNGICudYGO8d5ybPDTajPTvnQ",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. H. Agus Salim No.11, RT.11/RW.2, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.182368400000001,
+          "lng": 106.8249696
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.181171020107277,
+            "lng": 106.8261344798927
+          },
+          "southwest": {
+            "lat": -6.183870679892721,
+            "lng": 106.8234348201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "bb9a3fa82c071f37c56611ff0fa78b7efedf1e64",
+      "name": "Mercure Jakarta Sabang",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 657,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105544361888446567352/photos\">Mercure Sabang</a>"
+          ],
+          "photo_reference": "CmRZAAAAFnX4MFnWB9EaopLD1YuBRYxpfFtPc7hf-oqosZn4jvNhFG6WAbYwQlPwrs4hQ9k_328RGvywEQxVJRoGzB9fYYGtr0SNgfyu1eHamAQizlgGTeTBSKPPdCSYzJqc4BDHEhBo8mCV3dDd8hdZa1h5eTR6GhR5s1N1S_dV50IHndXPy7B89nXwfA",
+          "width": 985
+        }
+      ],
+      "place_id": "ChIJ2dyvvC70aS4R0ICoUoQ3b4Q",
+      "plus_code": {
+        "compound_code": "RR9F+3X Jakarta, Indonesia",
+        "global_code": "6P58RR9F+3X"
+      },
+      "rating": 4.3,
+      "reference": "CmRbAAAAtPLKDXUACqTDxDh0g1NYDlduNTlvJ5tUVmQ8jlRZCQUsfSKjKK5o5H53ttDWn7Ru4am9LIEx3sWqpTAqRDwwTO-gaQYG9XZeeUHBo99lcQvVIcNTJTl2IKwv5Y--al65EhBa0OUt9gabUvvr7Hhe6x9wGhQ4fnNYpbV1c0ypT2CzDHQvQNgmTg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan KH. Wahid Hasyim No.77, RT.1/RW.4, Gondangdia, Menteng, RT.1/RW.4, Gondangdia, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.187547899999999,
+          "lng": 106.8268614
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.185979970107277,
+            "lng": 106.8282477298927
+          },
+          "southwest": {
+            "lat": -6.188679629892722,
+            "lng": 106.8255480701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "4c75ada5880869ada73865551f13ec6ef9273e2d",
+      "name": "Ibis Jakarta Tamarin",
+      "photos": [
+        {
+          "height": 3646,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118337776718623246808/photos\">Hotel Ibis Jakarta Tamarin</a>"
+          ],
+          "photo_reference": "CmRaAAAAvSdZlcuzPSdCyKybn5lEH-EA65sLKB61WrPwpu-S9yMpMAsUqCIiykckeHlX6vOVWmQynUJp0drOmD71fpqQB9njmrAJMZk7IHjlZcGI86NIuaVxsVOWsDQO1wQun5W1EhBDkLxCehjD8-SNjBUmgZlYGhR6GhbrVCxxa7q1AqZ6gBRlQGJsYg",
+          "width": 5433
+        }
+      ],
+      "place_id": "ChIJUQ5rX536aS4Rk_46dytn0Hg",
+      "plus_code": {
+        "compound_code": "RR6G+XP Jakarta, Indonesia",
+        "global_code": "6P58RR6G+XP"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAJK-jpxuj1YQU0nbCH-aJOv2h6T0ulbMdgYtqK96jSjJYn6Ak8LcARx2cdGN8D5lAXmF-fhJhwuZCQv9Rza9A6VEt19XynU9oqMR5meRwbvS94Cdnc05ITVUWllcIEl3WEhBxmbX_iiq5iIhrKkyvah-oGhRUWIr2m-APjZaDC1lG6KyYyZ-stA",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Tower A, Apartemen Taman Rasuna, Jalan HR. Rasuna Said, Menteng Atas, Setia Budi, RT.17/RW.1, Menteng Atas, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12960, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2194518,
+          "lng": 106.8367034
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.218101970107278,
+            "lng": 106.8380532298927
+          },
+          "southwest": {
+            "lat": -6.220801629892722,
+            "lng": 106.8353535701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "f49b807506b17f19b073849d66b89f03fdbeb534",
+      "name": "Aston Rasuna",
+      "photos": [
+        {
+          "height": 934,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105578688299515649834/photos\">Aston Rasuna</a>"
+          ],
+          "photo_reference": "CmRaAAAAVcs8REPJ96DF8pwPbz5zInRR6tU4FATZ2A6wb3qyqeS9TlM5wamvYT69GqRTuPr3mWYB-OiLUzNDHqHgI84S_uNzQizo9xIvRspD7XeCU7kuKMlYXXUdI_OnMhIpBysGEhDTZYlCyMwTCpeZsTMO8xcsGhS9O5li4gVonopzsB_MeGECAb3miQ",
+          "width": 1400
+        }
+      ],
+      "place_id": "ChIJ1eipNPTzaS4RrGIWdorEvMk",
+      "plus_code": {
+        "compound_code": "QRJP+6M Jakarta, Indonesia",
+        "global_code": "6P58QRJP+6M"
+      },
+      "rating": 4.2,
+      "reference": "CmRbAAAAPqe7y557KuavtC-f_RxJwDC2JIX1qr03nzT8Ous3Xn4iixU4GOAqoIDeznEYeygfxCKpmdl3GQS04FX0W_9hUkwlymbeF01EosnEYMflL_A42drcbOaMjznNI63ZlcRqEhAn4jEYdmaeuhdImpmsrwFPGhTgbrEn6iwwCUMn5vmN3HWEuKtk1w",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jalan Setiabudi Raya No.9, RT.2/RW.2, Setia Budi, RT.2/RW.2, Kuningan, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.21033,
+          "lng": 106.823609
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.208980170107278,
+            "lng": 106.8249588298927
+          },
+          "southwest": {
+            "lat": -6.211679829892722,
+            "lng": 106.8222591701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "3a49123dce797f065e643be6a77022536468a6d6",
+      "name": "Fraser Residence Sudirman",
+      "photos": [
+        {
+          "height": 5616,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118260530064823894934/photos\">Fraser Residence Sudirman Jakarta</a>"
+          ],
+          "photo_reference": "CmRaAAAA7o9klDu7DOOfBOJd-8I2NYGkbeFxKoafrRwXcXZrpDIPwJBDXHDrSz6BGdR7XtBgPVd5kCZFCYNCl0VY0M1bMcTPxZKYMbK-Y1GY4fpSp96YG2BCHzjdvPXyZ6TYhEgFEhAjQGFQg90YpFfSW78vSpYrGhTvrVS3FP9CRlEHtT5gKjK4ybj_bg",
+          "width": 3744
+        }
+      ],
+      "place_id": "ChIJhTGOjRz0aS4RaLoNZgcnmsc",
+      "plus_code": {
+        "compound_code": "QRQF+VC Jakarta, Indonesia",
+        "global_code": "6P58QRQF+VC"
+      },
+      "rating": 4.6,
+      "reference": "CmRbAAAA37h6u3jJ4QRzZos1Dtz0TeVc2DsUtfrzLDDtIm8eLFAlulUK9SkL2LOmwCyQwWqx-_NqOBTHufAnCvi4Qgg4C8ypwmkYhn-NLGyvsQ40yt7iF3-nqPcIo2jAcBnhjs-uEhC4SwDufIqVMJI5EPKI8vlFGhTZZhmAOYEvtewuQCqipcWiVMsYww",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Kramat Raya No.100, RT.2/RW.9, Kwitang, Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10420, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1833735,
+          "lng": 106.8426586
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.181943820107278,
+            "lng": 106.8441902798927
+          },
+          "southwest": {
+            "lat": -6.184643479892721,
+            "lng": 106.8414906201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "6f3e45c8c0ea8b76453feef368a620e5c5cd5567",
+      "name": "Ibis Jakarta Senen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1498,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104818757879384393524/photos\">Ibis Jakarta Senen</a>"
+          ],
+          "photo_reference": "CmRaAAAAH03NDyDs3MUhBz1wob8bGn_Vdf-p74Rfvy8vRreS88EGS22UAM5DkVmGB9-p6mRmoEFWxTQggOu-HBy0KIv_sMksEbVN6x44zURUX_HIf2KDRvoo5RXVo0LVEfJ3MuVAEhDSWWg6ZVZEpyjQqvXgWCRxGhQnEVTKxtuwSDtmYuAtjXBUn8aNYA",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJMVtoykn0aS4Roo5R4U6rRl4",
+      "plus_code": {
+        "compound_code": "RR8V+M3 Jakarta, Indonesia",
+        "global_code": "6P58RR8V+M3"
+      },
+      "rating": 4.1,
+      "reference": "CmRbAAAAlYA1XgNAts1dg0Pg7stL1UFTKVwM6stfxb93PbaSo3mthBeFfo4fdfG4BLMK6ZRMK8OeUVcwGb6OWTAO8DdGGDQYTmaQL3Ys7omvCPh3Tm4tSIEqfPdZbv_6-GkQMeseEhBxWP8LBfSj2ykQqXFBcXDNGhTXQYqFc2YQWSiyWbIZVExZPS7fJw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Hayam Wuruk No.36-37, Kb. Klp., Tamansari, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10120, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.160155,
+          "lng": 106.8197931
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.158805170107277,
+            "lng": 106.8211429298927
+          },
+          "southwest": {
+            "lat": -6.161504829892721,
+            "lng": 106.8184432701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "6bcf5f5b8c83232507c2b0e3942dac598e491a4d",
+      "name": "Grand Mercure Jakarta Harmoni",
+      "photos": [
+        {
+          "height": 452,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115313041261108739463/photos\">Hotel Grand Mercure Jakarta Harmoni</a>"
+          ],
+          "photo_reference": "CmRaAAAAfh60CZ1lUF5RVG5Y9Nf_w95QSddFKDosf5psGGQQ0x0KUc0sSUZ3jQaDaxmTCcoHy2A8JK0QesY0i9oqw8DmUeiSR3oRJpuGxaigAuG5xUN7x6YkSH6XA6GYKXga6m5GEhAmU9kbPYX5sUf7hEoGbNGmGhS6Bs2DSZTWCyKGZPCT3JqnNFPffg",
+          "width": 452
+        }
+      ],
+      "place_id": "ChIJsVaBPt_1aS4RHBDLxo3gMv8",
+      "plus_code": {
+        "compound_code": "RRQ9+WW Jakarta, Indonesia",
+        "global_code": "6P58RRQ9+WW"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAOPRPa3uw9yT_2199fWjh_dr7UHPjv_lmMlFtfO3alvhxdhMRE-iNMTzmmtBLY1ReU9mb1x0Qi03F8ukMB0Y_G5O6-6t9WSsA4P4DHBM1QK9YDuTvjL74AJ_UwFQIAEtXEhDCInyxkF3bjANI_XDbKZexGhTlT0gFti4vH3IArPZ7QuMoN-HaJA",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Superblok Mega, Jl. Benyamin Sueb No.Kav B6, RW.10, Gn. Sahari Sel., Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10610, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.1537909,
+          "lng": 106.8496589
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.152070420107278,
+            "lng": 106.8509204798927
+          },
+          "southwest": {
+            "lat": -6.154770079892722,
+            "lng": 106.8482208201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "ae21d749702ed7915b9148b6aa6c1a186108dc50",
+      "name": "Grand Mercure Jakarta Kemayoran",
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101289606911969984671/photos\">Arifin Mrm</a>"
+          ],
+          "photo_reference": "CmRaAAAAMXGmu6D24bLDcqFWpi1641Awpg3j-ppWX7YmBKbJwxZN4CiOQqDH1QDsjLzuPM9FoT1j0sIFR0cK4gNPzq-3MUYV3yMcxRsMPZP6cLIEMsbLiSWVB59d4Ah1b4YNuDJ7EhCCtaOAoBh655-2Cu06aZMJGhSjeAPCegZBxANJI1sCQE4c_SqQyQ",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJKWtQ-ZH1aS4RkmnmfQ6NKVY",
+      "plus_code": {
+        "compound_code": "RRWX+FV Jakarta, Indonesia",
+        "global_code": "6P58RRWX+FV"
+      },
+      "rating": 4.5,
+      "reference": "CmRbAAAA309VDdsQcg845nex-GMSGS57hT-QP_M8-7G1w33dvvm19ARRExvbYKIBwj0lYQJEWEh-m9FAZm7w3XIWdK1mUeSEt76jOPJSWbmvPvIR_qLVjmzXNf9l4UWlwKQf0lM7EhBuLD3s3nqbrtUyaJ421oqmGhTTwHsv19bLrekvQRN_AalnP8QaBg",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Pintu Satu Senayan, RT.1/RW.3, Gelora, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.223190499999999,
+          "lng": 106.8028523
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.221920370107276,
+            "lng": 106.8045414298927
+          },
+          "southwest": {
+            "lat": -6.22462002989272,
+            "lng": 106.8018417701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "1c37ba18ecf38d104d6c73a7e73d449e42bec32c",
+      "name": "Century Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113493524458348521040/photos\">Century Park Hotel Jakarta Indonesia</a>"
+          ],
+          "photo_reference": "CmRaAAAAVzuKtvFEQIFve_6i4GGLOCUBd2riFbRCJpa_-H2AIX7VpzJFQjD4h-bw3TQedNlpPWUrhruQxv3gYIfzIm7DJmqeW6ek3U_efgK5hSkPWRAtjpdLVWDNC6xdSgYzs6BoEhBF2aIdShIwWmzo58IKk_5RGhSjz_lsgvma_wTiM1Pd4qTh9qB0FQ",
+          "width": 1300
+        }
+      ],
+      "place_id": "ChIJ_QPiK0zxaS4R9Tk5k6MUSk8",
+      "plus_code": {
+        "compound_code": "QRG3+P4 Jakarta, Indonesia",
+        "global_code": "6P58QRG3+P4"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAuOp3K8ATr-fANN7ar1ro0N6fFBqLWsRt6SUrUgjxKnhGJ8U2xWTbcNR7baSWzDDykYQILi1LjFFLhj1eUcmy3OZkzGCyK4tVewu942dXuJQzrvWFZ62wtljLSX8PA2__EhAU3WGtTDx21_zrYYwWlIfmGhSeVGGntoDqJ6WofCY3IEgFXM0EDw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "Jl. Casablanca No.Kav. 18, RT.4/RW.12, Menteng Dalam, Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -6.2242282,
+          "lng": 106.8398254
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.223151820107278,
+            "lng": 106.8411345298927
+          },
+          "southwest": {
+            "lat": -6.225851479892722,
+            "lng": 106.8384348701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "6528c6b4306f4f612a003d8c424a80695375ad9a",
+      "name": "The Park Lane Jakarta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 703,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105632914476232768957/photos\">The Park Lane Jakarta</a>"
+          ],
+          "photo_reference": "CmRZAAAASTZHPZGvyUVAJ5yXAA6Le3S0FkgdS5DZ1iY2FMBf59Q6PfaqtMGGiErKslP-ID-WEgpHRglNqyX5Z8ndLqewLq_kP95X7hNd_t5YQxsG1Rz-s_HniXimspkrMFadq5ImEhDfPhI1HYPVO3ZMfI1xSj30GhRhyDlHfO1DC8-oH3yB-pxvbTTqFA",
+          "width": 1248
+        }
+      ],
+      "place_id": "ChIJgRiRH_PzaS4RFDUCrZnoVeI",
+      "plus_code": {
+        "compound_code": "QRGQ+8W Jakarta, Indonesia",
+        "global_code": "6P58QRGQ+8W"
+      },
+      "rating": 4.4,
+      "reference": "CmRbAAAAro7TwC1gEbaVnyEyAyeRDaUgdekmZmkmHTZPInGL-pdo5P4dLS4WOdhL8oFORhinbOtlrvDY8QhlzSNquIdGtzZ-tsboUNxfJMY5H8Iw_F5_1-u-cugU6fs97TAC6791EhCwYnKN2oPcK55FzRWGtj7TGhR7wo8uRNhRit0QpV3xVLGWEVAwzg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}

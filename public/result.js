@@ -1,13 +1,13 @@
 $(document).ready(function () {
     var data = JSON.parse(sessionStorage.getItem('formOptions')), title = data.city.toLowerCase();
     var heading = document.createElement('h5');
-    heading.style = "color: white; width:100%; text-align:center; padding-top: 30px;";
+    heading.style = 'color: white; width:100%; text-align:center; padding-top: 30px;';
     heading.innerText = 'PLANITRIGHT TRIP PLANNER';
     var imageDiv = $('div.hero-area.height-400.bg-img.background-overlay');
     imageDiv.attr(`style`, `background-image: url(images/destinations/${getImageLabel(title)}.jpg)`);
     title = toTitleCase(title);
     var planTitle = document.createElement('h1');
-    planTitle.style = 'color: white; padding-top: 175px;';
+    planTitle.style = 'color: white; padding-top: 175px; text-decoration: none;';
     planTitle.innerText = `${getLengthOfTrip(data)} days in ${title}`;
     imageDiv.append(planTitle);
     imageDiv.append(heading);
