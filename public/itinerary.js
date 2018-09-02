@@ -1,52 +1,22 @@
 /*jslint for:true*/
-var test_json = null;
-const itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
+import {addButton} from "./button.js";
 
 var getData = () => {
-    dataSources = [];
-    let formOptions = JSON.parse(sessionStorage.getItem('formOptions')),
-        sortProperty = (result1, result2) => result2.rating - result1.rating;
+    let sortProperty = (result1, result2) => result2.rating - result1.rating;
+    console.log(`country_data/${formOptions.city}_Hotels.json`);
     $.getJSON(`country_data/${formOptions.city}_Hotels.json`, (data) => {
         data.results.sort(sortProperty);
         dataSources.push(data);
         $.getJSON(`country_data/${formOptions.city}.json`, (data) => {
             dataSources.push(data);
-            for (option of formOptions.additionalDetails) {
+            for (let option of formOptions.additionalDetails) {
                 $.getJSON(`country_data/${formOptions.city}_${option}.json`, (data) => {
                     dataSources.push(data);
                 });
             }
-            $.getJSON('demo.json', (data) => {
-                test_json = data;
-                addContent(formOptions);
-            });
+            addContent(formOptions);
         });
     });
-};
-
-var addButton = (id, value, json, redirect_url) => {
-    var button = document.createElement("a");
-    button.setAttribute('target', '_blank');
-    button.id = id;
-    button.className = 'download-buttons';
-    button.innerText = value;
-    button.style = "color: white";
-    button.addEventListener("click", () => {
-        sessionStorage.clear();
-        if (typeof json === 'object')
-            sessionStorage.setItem('data', JSON.stringify(json));
-        if (redirect_url !== '#')
-            button.href = redirect_url;
-        else {
-            html2canvas(document.body).then((canvas) => {
-                canvas.toBlob(function (blob) {
-                    console.log(blob);
-                    saveAs(blob, `${json} Trip Itinerary.png`);
-                });
-            });
-        }
-    });
-    document.querySelector(".justify-content-center").append(button);
 };
 
 const createPlan = (planItems, planContents, curr_day) => {
@@ -117,14 +87,17 @@ const addContent = (formOptions) => {
     const numOfDays = getLengthOfTrip(formOptions), planItems = [];
 
     const addData = (result, day, time) => {
-        planItems.push({
-            name: result.name,
-            time: time,
-            day: day,
-            rating: result.rating,
-            lat: result.geometry.location.lat,
-            long: result.geometry.location.long,
-        });
+        if (result !== undefined) {
+            planItems.push({
+                name: result.name,
+                address: result.formatted_address,
+                time: time,
+                day: day,
+                rating: result.rating,
+                lat: result.geometry.location.lat,
+                lng: result.geometry.location.lng,
+            });
+        }
     };
 
     const sortingAlgo = () => {
@@ -137,8 +110,6 @@ const addContent = (formOptions) => {
                 y3 = currPoint.long;
             return distance(x2, y2, x3, y3) - distance(x1, y1, x3, y3);
         };
-
-        console.log(dataSources[0]);
         const startPoint = dataSources[0].results[0];
         let first_temp = [], second_temp = [startPoint], currPoint = startPoint;
 
@@ -155,7 +126,6 @@ const addContent = (formOptions) => {
             }
             currPoint = startPoint;
         }
-
         return second_temp;
     };
 
@@ -167,7 +137,7 @@ const addContent = (formOptions) => {
         else if (currTime.hours() >= 1 && currTime.hours() <= 11)
             displayTime = `${currTime.hours()}:00 am`;
         else if (currTime.hours() === 12)
-            displayTime = `12:00pm`;
+            displayTime = `12:00 pm`;
         else
             displayTime = `${currTime.hours() - 12}:00 pm`;
         return displayTime;
@@ -175,9 +145,8 @@ const addContent = (formOptions) => {
 
     let results = sortingAlgo(), startPoint = results.reverse().pop(), currPoint = startPoint;
     results.reverse();
-
     for (let i = 0; i < results.length + numOfDays; i++) {
-        day = Math.floor(i / (numOfDays - 1)) + 1;
+        day = Math.floor(i / 3) + 1;
         if (planItems.length === 0 || day > planItems[planItems.length - 1].day) {
             currTime = moment(new Date(1970, 1, 1, 10, 0, 0));
             currPoint = startPoint;
@@ -207,9 +176,9 @@ const addContent = (formOptions) => {
         createPlan(planItems, planContents, curr_day);
     }
     document.title = formOptions.city + " Trip Itinerary";
-
-    addButton("get-trip", "Get a downloadable copy of the trip", formOptions.city, `#`);
-    addButton("get-calendar", "Get calendar for the trip", combineJSON([], formOptions), "calendar.html");
+    console.log(planItems);
+    addButton("get-trip", "Get a downloadable copy of the trip", formOptions.city, planItems);
+    addButton("get-calendar", "Get calendar for the trip", combineJSON(planItems, formOptions), planItems);
 };
 
 var getDestinationAttributes = function(domObjects) {

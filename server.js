@@ -8,7 +8,6 @@ const path = require('path');
 
 //from the php-express docs: https://www.npmjs.com/package/php-express
 var phpExpress = require('php-express')({
-
   // assumes php is in your PATH
   binPath: 'php'
 });

@@ -175,10 +175,17 @@
 <script src="js/active.js"></script>
 <script src="canvas-toBlob.js"></script>
 <script src="FileSaver.js"></script>
+<script src="ics.js"></script>
 <script src="html2canvas.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3q2jxEqqMAXtHTs5K0p6DyL2FumTkDes&libraries=places"></script>
 <script src="result.js"></script>
-<script src="itinerary.js"></script>
+<script>
+    const dataSources = [];
+    const formOptions = JSON.parse(sessionStorage.getItem('formOptions'));
+    const itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
+</script>
+<script type="module" src="itinerary.js"></script>
+<script type="module" src="button.js"></script>
 <script src="loginStatus.js"></script>
 </body>
 </html>
