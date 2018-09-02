@@ -154,7 +154,7 @@ h4 {
 
 .entity_time {
     float: left;
-    color: gray;
+    color: black;
     margin-left: 25px;
     font-weight: bold;
 }
@@ -235,4 +235,19 @@ div.nav-link:hover {
 
 .star-visible {
     display: inline-block;
+}
+
+.journey-details {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    color: grey;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: -30px;
+}
+
+.journey {
+    margin-left: 350px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }

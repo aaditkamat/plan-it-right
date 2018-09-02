@@ -1,9 +1,9 @@
 /*jslint for:true*/
 import {addButton} from "./button.js";
+import {addDirections} from "./directions.js";
 
-var getData = () => {
+const getData = () => {
     let sortProperty = (result1, result2) => result2.rating - result1.rating;
-    console.log(`country_data/${formOptions.city}_Hotels.json`);
     $.getJSON(`country_data/${formOptions.city}_Hotels.json`, (data) => {
         data.results.sort(sortProperty);
         dataSources.push(data);
@@ -15,6 +15,7 @@ var getData = () => {
                 });
             }
             addContent(formOptions);
+            addDirections();
         });
     });
 };
@@ -176,7 +177,6 @@ const addContent = (formOptions) => {
         createPlan(planItems, planContents, curr_day);
     }
     document.title = formOptions.city + " Trip Itinerary";
-    console.log(planItems);
     addButton("get-trip", "Get a downloadable copy of the trip", formOptions.city, planItems);
     addButton("get-calendar", "Get calendar for the trip", combineJSON(planItems, formOptions), planItems);
 };
@@ -270,7 +270,7 @@ var getDestinationAttributes = function(domObjects) {
 
     var second_callback = (place, status) => {
         if (place !== null) {
-            console.log(place.name + ": " + status);
+            //console.log(place.name + ": " + status);
             createPopup(place, ctr++);
         }
         if (status === google.maps.places.PlacesServiceStatus.OK) {

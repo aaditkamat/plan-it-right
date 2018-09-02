@@ -1,3 +1,7 @@
+const dataSources = [];
+const formOptions = JSON.parse(sessionStorage.getItem('formOptions'));
+const itinerary_area = document.getElementsByClassName("row justify-content-center")[0];
+
 $(document).ready(function () {
     var data = JSON.parse(sessionStorage.getItem('formOptions')), title = data.city.toLowerCase();
     var heading = document.createElement('h5');
@@ -53,4 +57,5 @@ var addMap = (title) => {
         }
     });
 };
+
 

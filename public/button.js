@@ -31,7 +31,7 @@ export function addButton(id, value, obj, planItems) {
                     }
                 }
             }
-            cal.download(`${formOptions.city} Itinerary`);
+            cal.download(`${formOptions.city} Itinerary`, '.ics');
         }
         else {
             html2canvas(body).then((canvas) => {
