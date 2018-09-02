@@ -1,12 +1,12 @@
 export function addButton(id, value, obj, planItems) {
     const button = document.createElement("a");
+    const body = document.querySelector('div.row.justify-content-center');
     button.setAttribute('target', '_blank');
     button.id = id;
     button.className = 'download-buttons';
     button.innerText = value;
     button.style = "color: white";
     button.addEventListener("click", () => {
-        sessionStorage.clear();
         if (typeof obj === 'object') {
             let cal = ics();
             let startDate = formOptions.departure;
@@ -34,13 +34,14 @@ export function addButton(id, value, obj, planItems) {
             cal.download(`${formOptions.city} Itinerary`);
         }
         else {
-            html2canvas(document.body).then((canvas) => {
-                canvas.toBlob(function (blob) {
-                    console.log(blob);
-                    saveAs(blob, `${obj} Trip Itinerary.png`);
-                });
+            html2canvas(body).then((canvas) => {
+                const imgData = canvas.toDataURL('image/png');
+                const pdf = new jsPDF('', 'mm', [canvas.width, canvas.height]);
+                pdf.addImage(imgData, 'png', 0, 0, canvas.width, canvas.height);
+                pdf.save(`${obj} Trip Itinerary.pdf`);
             });
+
         }
     });
-    document.querySelector(".justify-content-center").append(button);
+    body.append(button);
 }
