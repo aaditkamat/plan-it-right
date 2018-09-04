@@ -44,7 +44,7 @@ var handleClickCalendar = () => {
     };
 
     let getDateFormat = (headerJSON, element) => {
-        return headerJSON.year + "/" + parse(headerJSON.month + 1) + "/" + parse(element.innerText);
+        return parse(element.innerText) + "/" + parse(headerJSON.month + 1) + "/" + headerJSON.year;
     };
 
     var departureInput = document.getElementsByName('departure')[0],
@@ -87,13 +87,13 @@ var unsetRedBorder = (element) => {
 var checkDateFormat = (type) => {
     const input = document.querySelector(`input[name=${type}]`); 
     removeRedundantWarning(type);
-    if (!moment(input.value, 'YYYY/MM/DD', true).isValid()) {
+    if (!moment(input.value, 'DD/MM/YYYY', true).isValid()) {
         setRedBorder(input);
-        addWarning(type, 'Fill date according to the format: YYYY/MM/DD');
+        addWarning(type, 'Fill date according to the format: DD/MM/YYYY');
     }
     else if (hasRedBorder(input))
         unsetRedBorder(input);
-    return moment(input.value, 'YYYY/MM/DD', true).isValid();
+    return moment(input.value, 'DD/MM/YYYY', true).isValid();
 };
 
 var checkDateBefore = (firstType, secondType) => {

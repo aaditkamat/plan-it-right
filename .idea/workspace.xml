@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ebc68e3-519c-40ca-8ead-a77560074d3b" name="Default Changelist" comment="Add distance and duration for driving route from origin to destination">
+    <list default="true" id="8ebc68e3-519c-40ca-8ead-a77560074d3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/saved-trips.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/trips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/userData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/budget.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/budget.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/calendar.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/loginStatus.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -152,22 +160,24 @@
     <session id="-1243044685">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JavaScript-modules-diagram//Users/aaditkamat/WebstormProjects/orbital-web-app" value="1" />
-          <entry key="css" value="1" />
+          <entry key="css" value="2" />
           <entry key="flowconfig" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="4" />
-          <entry key="js" value="7" />
+          <entry key="html" value="9" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="18" />
           <entry key="json" value="5" />
           <entry key="md" value="2" />
           <entry key="png" value="1" />
@@ -175,11 +185,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="4" />
-          <entry key="Image" value="1" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="9" />
+          <entry key="Image" value="2" />
           <entry key="JSON" value="5" />
-          <entry key="JavaScript" value="7" />
+          <entry key="JavaScript" value="18" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="UML" value="1" />
@@ -188,16 +198,19 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="16" />
-          <entry key="html" value="4" />
+          <entry key="html" value="566" />
+          <entry key="js" value="2164" />
           <entry key="md" value="1380" />
+          <entry key="txt" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="16" />
-          <entry key="HTML" value="4" />
+          <entry key="HTML" value="566" />
+          <entry key="JavaScript" value="2164" />
           <entry key="Markdown" value="1358" />
-          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="PLAIN_TEXT" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -262,32 +275,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/result.html">
+        <entry file="file://$PROJECT_DIR$/public/saved-trips.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="102" column="56" selection-start-line="102" selection-start-column="56" selection-end-line="102" selection-end-column="56" />
+            <state relative-caret-position="-2087">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="73" column="45" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/style.css">
+        <entry file="file://$PROJECT_DIR$/public/trips.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="1298" column="21" selection-start-line="1298" selection-start-column="21" selection-end-line="1298" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -304,13 +307,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>lodash</find>
-      <find>may</find>
-      <find>test_json</find>
-      <find>Suggestion</find>
-      <find>test</find>
-      <find>Suggestio</find>
-      <find>planItems</find>
       <find>refer</find>
       <find>Sugges</find>
       <find>getData</find>
@@ -334,11 +330,21 @@
       <find>OK</find>
       <find>css</find>
       <find>dropdown</find>
+      <find>Out</find>
+      <find>Sign Out</find>
+      <find>calendarIcon</find>
+      <find>ics()</find>
+      <find>placeho</find>
+      <find>tri</find>
+      <find>trip</find>
     </findStrings>
     <replaceStrings>
       <replace>formOptions.city =</replace>
       <replace>.</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/public</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -356,10 +362,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/cities.js" />
-        <option value="$PROJECT_DIR$/public/countries.js" />
-        <option value="$PROJECT_DIR$/public/demo.json" />
-        <option value="$PROJECT_DIR$/public/print.js" />
         <option value="$PROJECT_DIR$/public/country_data/kualalumpur.html" />
         <option value="$PROJECT_DIR$/public/calendar.html" />
         <option value="$PROJECT_DIR$/public/country_data/bandar seri begawan.html" />
@@ -385,7 +387,6 @@
         <option value="$PROJECT_DIR$/public/.jshintrc" />
         <option value="$PROJECT_DIR$/places.js" />
         <option value="$PROJECT_DIR$/public/form.css" />
-        <option value="$PROJECT_DIR$/public/form.js" />
         <option value="$PROJECT_DIR$/public/test.html" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -398,15 +399,20 @@
         <option value="$PROJECT_DIR$/public/signup.html" />
         <option value="$PROJECT_DIR$/public/country_data/googlePlacesAPIdata.sh" />
         <option value="$PROJECT_DIR$/public/ics.js" />
-        <option value="$PROJECT_DIR$/public/button.js" />
         <option value="$PROJECT_DIR$/public/addDirections.js" />
         <option value="$PROJECT_DIR$/public/itinerary.css" />
         <option value="$PROJECT_DIR$/public/directions.js" />
         <option value="$PROJECT_DIR$/public/itinerary.js" />
         <option value="$PROJECT_DIR$/public/result.js" />
-        <option value="$PROJECT_DIR$/public/form.html" />
-        <option value="$PROJECT_DIR$/public/result.html" />
         <option value="$PROJECT_DIR$/public/style.css" />
+        <option value="$PROJECT_DIR$/public/result.html" />
+        <option value="$PROJECT_DIR$/public/userData.js" />
+        <option value="$PROJECT_DIR$/public/login.js" />
+        <option value="$PROJECT_DIR$/public/form.js" />
+        <option value="$PROJECT_DIR$/public/form.html" />
+        <option value="$PROJECT_DIR$/public/button.js" />
+        <option value="$PROJECT_DIR$/public/saved-trips.html" />
+        <option value="$PROJECT_DIR$/public/trips.js" />
       </list>
     </option>
   </component>
@@ -433,10 +439,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
-    <option name="y" value="35" />
-    <option name="width" value="2560" />
-    <option name="height" value="1329" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -446,7 +451,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -459,10 +463,30 @@
               <item name="orbital-web-app" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="orbital-web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orbital-web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="orbital-web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orbital-web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="destinations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="orbital-web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orbital-web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -470,7 +494,7 @@
     <property name="SearchEverywhereHistoryKey" value="printJS&#9;FILE&#9;file:///Users/aadit/WebstormProjects/planitright/public/country_data/hochiminh_files/print.js&#10;result.html&#9;FILE&#9;file:///Users/aadit/WebstormProjects/planitright/public/result.html&#10;itinerary.js&#9;FILE&#9;file:///Users/aadit/WebstormProjects/planitright/public/itinerary.js&#10;autocomplete()&#9;null&#9;null&#10;main.css&#9;FILE&#9;file:///Users/aadit/WebstormProjects/planitright/public/css/main.css" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js.last.introduce.type" value="CONST" />
+    <property name="js.last.introduce.type" value="LET" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -482,20 +506,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/public/images/screenshots" />
-      <recent name="$PROJECT_DIR$/public/county_data" />
-    </key>
-    <key name="es6.move.members.recent.items">
-      <recent name="$PROJECT_DIR$/public/button.js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/images/icons" />
       <recent name="$PROJECT_DIR$/public/images/screenshots" />
       <recent name="$PROJECT_DIR$/public/country_data" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/public/button.js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/images/screenshots" />
+      <recent name="$PROJECT_DIR$/public/county_data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -576,6 +600,7 @@
       <workItem from="1535251308230" duration="13035000" />
       <workItem from="1535281259596" duration="2389000" />
       <workItem from="1535850121845" duration="14678000" />
+      <workItem from="1536068560338" duration="13009000" />
     </task>
     <task id="LOCAL-00001" summary="Add destination to page header and remove facebook login">
       <created>1532593552928</created>
@@ -752,11 +777,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535860570046</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Change dropdown list UI">
+      <created>1535990765474</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1535990765475</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163705000" />
+    <option name="totallyTimeSpent" value="177037000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -771,7 +803,7 @@
     <frame x="0" y="23" width="1440" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42632332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4320458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Repositories" order="3" visible="true" weight="0.32980973" />
@@ -789,8 +821,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4824734" weight="0.62489897" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51752657" side_tool="true" weight="0.62489897" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.54615927" weight="0.32174617" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.49753347" visible="true" weight="0.2813258" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.54615927" weight="0.32027972" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49753347" weight="0.2813258" />
       <window_info anchor="bottom" id="TypeScript" order="12" sideWeight="0.4982382" weight="0.32847682" />
       <window_info anchor="bottom" id="Console" order="13" />
       <window_info anchor="bottom" id="DB Execution Console" order="14" />
@@ -828,6 +860,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.configurationType" implementationName="BashConfigurationType" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -843,8 +878,8 @@
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
-                  <option value="1" />
                   <option value="2" />
+                  <option value="1" />
                   <option value="3" />
                 </list>
               </option>
@@ -859,7 +894,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Allow different capitalisations of user input" />
     <MESSAGE value="Add calendar page" />
     <MESSAGE value="Add calendar page&#10;&#10;Signed-off-by: Aadit Kamat &lt;aadit.k12@gmail.com&gt;" />
     <MESSAGE value="Change protocol from http to https for loading calendar" />
@@ -884,27 +918,13 @@
     <MESSAGE value="Add feature to export calendar in ics format" />
     <MESSAGE value="Modify format of downloaded itinerary to pdf" />
     <MESSAGE value="Add distance and duration for driving route from origin to destination" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add distance and duration for driving route from origin to destination" />
+    <MESSAGE value="Change dropdown list UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change dropdown list UI" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/country_data/Phnom Penh_Museums.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/screenshots/third_point.png" />
-    <entry file="file://$PROJECT_DIR$/public/country_data/Bander Seri Begawan_Night Clubs.json" />
-    <entry file="file://$PROJECT_DIR$/public/country_data/Naypyidaw_Shopping Malls.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/signIn.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -914,13 +934,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/loginStatus.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.flowconfig">
       <provider selected="true" editor-type-id="text-editor" />
@@ -9374,33 +9387,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/canvas-toBlob.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -9475,13 +9467,6 @@
         <state relative-caret-position="-21" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/form.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="187" column="66" selection-start-line="187" selection-start-column="66" selection-end-line="187" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/html2canvas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -9508,13 +9493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/button.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/directions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -9522,10 +9500,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="1297" column="21" selection-start-line="1297" selection-start-column="21" selection-end-line="1297" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/itinerary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="119">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#20#58#0" expanded="true" />
@@ -9533,17 +9518,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/result.js">
+    <entry file="file://$PROJECT_DIR$/public/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
+        <state relative-caret-position="379">
+          <caret line="45" column="37" selection-end-line="169" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/destinations/singapore.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/check.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/userData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="2" selection-start-column="4" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="17" column="160" selection-start-line="17" selection-start-column="160" selection-end-line="17" selection-end-column="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="95" column="28" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="102" column="56" selection-start-line="102" selection-start-column="56" selection-end-line="102" selection-end-column="56" />
+        <state relative-caret-position="244">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -9551,17 +9591,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/form.html">
+    <entry file="file://$PROJECT_DIR$/public/result.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="73" column="45" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+        <state relative-caret-position="119">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/style.css">
+    <entry file="file://$PROJECT_DIR$/public/saved-trips.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="1298" column="21" selection-start-line="1298" selection-start-column="21" selection-end-line="1298" selection-end-column="21" />
+        <state relative-caret-position="-2087">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/trips.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>

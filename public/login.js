@@ -17,6 +17,7 @@ var createProfile = () => {
     savedTripsSection.innerText = 'Saved Trips';
     savedTripsSection.className = "dropdown-options";
     savedTripsSection.id = "saved-trips";
+    savedTripsSection.onclick = () => window.open('saved-trips.html');
     let signOutSection = document.createElement('div');
     signOutSection.className = "dropdown-options";
     signOutSection.id = "sign-out";
