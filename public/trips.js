@@ -2,17 +2,29 @@ firebase.auth().onAuthStateChanged((user) => {
     sessionStorage.clear();
     let database = firebase.database();
     database.ref('users/' + user.uid).once('value').then((snapshot) => {
-        let data = snapshot.val(), ctr = 1;
-        console.log(data);
+        const data = snapshot.val(), body = document.querySelector('body > section > div');
+        let ctr = 1;
         for (value in data) {
             let detail = data[value];
-            const startTime = detail.departure, endTime = moment(startTime).add(detail.lengthOfTrip, "days").calendar();
-            console.log(moment(startTime).add(detail.lengthOfTrip).calendar());
+            const startTime = detail.departure,
+                endTime = moment(moment(startTime).format("DD/MM/YYYY")).add(detail.lengthOfTrip - 1, "days").format("DD/MM/YYYY");
+            const duration = `${detail.lengthOfTrip} days in ${detail.city}`, dateSpan = `${startTime} - ${endTime}`;
+            const imageSrc = `images/destinations/${detail.city}.jpg`;
+            console.log(startTime);
             if (ctr === 1) {
-                document.querySelector('div.duration').innerText = `${detail.lengthOfTrip} days in ${detail.city}`;
-                document.querySelector('div.date-span').innerText = `${startTime} - ${endTime}`;
+                document.querySelector('img.background').src = imageSrc;
+                document.querySelector('div.duration').innerText = duration;
+                document.querySelector('div.date-span').innerText = dateSpan;
             }
+            else {
+                const tripBox = document.querySelector('div.trip').cloneNode(true);
+                const info = tripBox.children[1];
+                info.children[0].innerText = duration;
+                info.children[1].innerText = dateSpan;
+                tripBox.children[0].src = imageSrc;
+                body.append(tripBox);
+            }
+            ctr++;
         }
     });
-    $(".trip").on("click", () => console.log());
 });

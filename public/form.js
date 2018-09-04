@@ -10,14 +10,10 @@ var controlCalendarDisplay = (calendar, calendarOpen) => {
  * This function controls the display of calendar.
  */
 var displayCalendar = () => {
-    var firstCalendarOpen = false, secondCalendarOpen = false;
-    const firstCalendar = document.querySelector('#firstCalendar'),
-        secondCalendar = document.querySelector('#secondCalendar');
+    var firstCalendarOpen = false;
+    const firstCalendar = document.querySelector('#firstCalendar');
     $('#firstCalendarIcon').on("click", function () {
-        firstCalendarOpen = controlCalendarDisplay(firstCalendar, firstCalendarOpen);
-    });
-    $('#secondCalendarIcon').on("click", function () {
-        secondCalendarOpen = controlCalendarDisplay(secondCalendar, secondCalendarOpen);
+        setTimeout(() => firstCalendarOpen = controlCalendarDisplay(firstCalendar, firstCalendarOpen), 150);
     });
 };
 
