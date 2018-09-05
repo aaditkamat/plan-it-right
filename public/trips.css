@@ -7,11 +7,6 @@
     margin-bottom: 50px;
 }
 
-.background {
-    height: 231px;
-    width: 300px;
-}
-
 .trip:hover {
     cursor: pointer;
 }
@@ -26,5 +21,10 @@
 
 .details {
     margin-top: 20px;
+    width: 300px;
+}
+
+.destination-image {
+    height: 231px;
     width: 300px;
 }
