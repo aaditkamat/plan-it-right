@@ -1,43 +1,44 @@
 {
-  "destination": [
-  {
-    "City": "Singapore",
-    "Country": "Singapore"
+  "destinations": [
+    {
+      "city": "Singapore",
+      "country": "Singapore"
   },
   {
-    "City": "Kuala Lumpur",
-    "Country": "Malaysia"
+    "city": "Kuala Lumpur",
+    "country": "Malaysia"
   },
   {
-    "City": "Jakarta",
-    "Country": "Indonesia"
+    "city": "Jakarta",
+    "country": "Indonesia"
   },
   {
-    "City": "Manila",
-    "Country": "Philippines"
+    "city": "Manila",
+    "country": "Philippines"
   },
   {
-    "City": "Bangkok",
-    "Country": "Thailand"
+    "city": "Bangkok",
+    "country": "Thailand"
   },
   {
-    "City": "Ho chi Minh",
-    "Country": "Vietnam"
+    "city": "Ho chi Minh",
+    "country": "Vietnam"
   },
   {
-    "City": "Vientiane",
-    "Country": "Laos"
+    "city": "Vientiane",
+    "country": "Laos"
   },
   {
-    "City": "Phnom Penh",
-    "Country": "Cambodia"
+    "city": "Phnom Penh",
+    "country": "Cambodia"
   },
   {
-    "City": "Naypyidaw",
-    "Country": "Myanmar"
+    "city": "Naypyidaw",
+    "country": "Myanmar"
   },
   {
-    "City": "Bander Seri Begawan",
-    "Country": "Brunei"
-  },
-  ]}
+    "city": "Bander Seri Begawan",
+    "country": "Brunei"
+  }
+  ]
+}

@@ -10,7 +10,6 @@ firebase.auth().onAuthStateChanged((user) => {
                 endTime = moment(moment(startTime).format("DD/MM/YYYY")).add(detail.lengthOfTrip - 1, "days").format("DD/MM/YYYY");
             const duration = `${detail.lengthOfTrip} days in ${detail.city}`, dateSpan = `${startTime} - ${endTime}`;
             const imageSrc = `images/destinations/${detail.city}.jpg`;
-            console.log(startTime);
             if (ctr === 1) {
                 document.querySelector('img.background').src = imageSrc;
                 document.querySelector('div.duration').innerText = duration;

@@ -1,0 +1,30 @@
+.trip {
+    float: left;
+    box-shadow: 3px 3px 3px 3px grey;
+    width: fit-content;
+    height: 380px;
+    margin-right: 80px;
+    margin-bottom: 50px;
+}
+
+.background {
+    height: 231px;
+    width: 300px;
+}
+
+.trip:hover {
+    cursor: pointer;
+}
+
+.date-span,
+.duration {
+    margin-top: 20px;
+    margin-left: 38px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.details {
+    margin-top: 20px;
+    width: 300px;
+}
