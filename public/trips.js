@@ -35,7 +35,6 @@ firebase.auth().onAuthStateChanged((user) => {
                 for (value in data) {
                     let detail = data[value];
                     for (let item of  arr) {
-                        console.log(item.ctr + " " + detail.ctr);
                         if (item.image === image && item.ctr === detail.ctr) {
                             sessionStorage.setItem('formOptions', JSON.stringify(detail));
                             break;
