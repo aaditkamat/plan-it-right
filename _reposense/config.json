@@ -1,0 +1,19 @@
+{
+	"ignoreGlobList": ["**.adoc", "collate**"],
+	"formats": ["md", "html", "xml", "js", "css", "sh", "json"],
+	"ignoreCommitList": [],
+	"authors":
+	[
+		{
+			"githubId": "aaditkamat",
+			"displayName": "Aadit Kamat",
+			"authorNames": ["Aadit Kamat"]
+		},
+		{
+			"githubId": "rahulb99",
+			"displayName": "Rahul Baid",
+			"authorNames": ["Rahul Baid"]
+		},
+	]
+}
+	
