@@ -1,7 +1,7 @@
 {
   "maxerr": 50,
   "bitwise": true,
-  "camelcase": false,
+  "camelcase": true,
   "curly": true,
   "eqeqeq": true,
   "forin": true,
@@ -17,7 +17,7 @@
   "quotmark": false,
   "undef": true,
   "unused": true,
-  "strict": true,
+  "strict": false,
   "maxparams": false,
   "maxdepth": false,
   "maxstatements": false,
@@ -28,7 +28,7 @@
   "boss": false,
   "debug": false,
   "eqnull": false,
-  "esversion": 5,
+  "esversion": 6,
   "moz": false,
   "evil": false,
   "expr": false,
@@ -68,5 +68,8 @@
   "worker": false,
   "wsh": false,
   "yui": false,
-  "globals": {}
+  "globals": {
+    "$": false,
+    "firebase": false
+  }
 }
