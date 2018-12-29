@@ -69,9 +69,9 @@ var handleRegularSignIn = (selector) => {
     $(selector).on('click', callback);
     let removeRedundantWarning = (type) => {
         let warning = document.getElementById(`${type}-warning`);
-        if (warning.style.display === 'block')
+        if (warning.style.display === 'block') {
             warning.style.display = 'none';
-
+        }
     };
 
     let addWarning = (type, message) => {
