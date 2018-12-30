@@ -9,6 +9,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "ajv": "^6.6.2",
     "bcrypt": "^3.0.0",
     "body-parser": "^1.18.3",
     "connect-mongo": "^2.0.1",
@@ -27,6 +28,7 @@
     "php-express": "0.0.3",
     "print-js": "^1.0.47",
     "shuffle-array": "^1.0.1",
+    "webpack": "^4.28.3",
     "xmlhttprequest": "^1.8.0"
   },
   "engines": {
