@@ -2,7 +2,8 @@
     
     Note: The user guide has been written primarily from the point of view of Google Chrome users
 
-1.  Access the website by typing the following URL in the address bar: https://planitright.herokuapp.com
+1.  Access the website locally by running the web app locally <sup>1</sup> using `npm start` and typing `localhost:3000` in the   
+    address bar.
     <p><img src="../public/images/screenshots/first_point.jpg"></p>
 
 2.  Click on the lock symbol (indicating that the website runs on HTTPS and the connection is secure) and select
@@ -51,3 +52,6 @@
 9.  Sign out link on the header section of the results and the form pages can be used to sign out of current Google Account and to return to the home page.
 
     <p><img src="../public/images/screenshots/sign_out.jpg"></p>
+
+# Footnote
+1. The Heroku deployed version of the app has been taken down for maintenance.
