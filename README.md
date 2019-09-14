@@ -3,7 +3,7 @@
 
 ## Project Summary 
 
-The application  'PlanItRight' specializes in providing 5-day itineraries to over 10 cities from the countries of South-east Asia. Apart from providing the daily schedule, it provides user more information about the attraction/ place, such as description, location attributes, opening hours and ratings. 
+The application  'PlanItRight' specializes in providing 5-day itineraries to over 10 cities from the countries in the ASEAN region. Apart from providing the daily schedule, it provides user more information about the attraction/place, such as description, location attributes, opening hours and ratings. 
 
 Some factors which make this application unique include- 
 1. Trip Itineraries generated takes into account the  number of people going for the trip
