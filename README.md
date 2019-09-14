@@ -14,7 +14,7 @@ Some factors which make this application unique include-
 
 ## Motivation 
 
-As NUS students, we are presented with ample opportunities to travel overseas through programs such as NOC, SEP and STEER. Many of us may have had the experience of  travelling abroad along with their family members as Singaporeans are known for being avid travellers,as part of their school trips or due to NS commitments but undertaking a journey on their own as independent adults can seem like a daunting experience. This is why making an application that provides a customised trip itinerary to users seemed like an idea worth investing time and effort in.
+NUS students are presented with ample opportunities to travel overseas through programs such as NOC, SEP and STEER. Many of the students may also have had the experience of travelling abroad along with their family, as part of school trips or to fulfill National Service commitments. However, undertaking a journey as an independent adult can seem like a daunting experience. This is why making an application that provides a customised trip itinerary to users seemed like an idea worth investing time and effort in.
 
 
 ## User Guide
