@@ -1,3 +1,9 @@
-/node_modules/
-/.idea/
-/.vscode/
+# Dependency directories
+node_modules/
+
+# IDE settings
+.idea/
+.vscode/
+
+# For MacOS
+.DS_Store
