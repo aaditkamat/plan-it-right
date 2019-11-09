@@ -1,60 +1,36 @@
 {
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "PlanItRight",
-  "version": "1.0.0",
-  "description": "An app named PlanItRight, which will provide users with personalised day-by-day itinerary.",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "name": "orbital-web-app",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "ajv": "^6.6.2",
-    "bcrypt": "^3.0.0",
-    "body-parser": "^1.18.3",
-    "braces": "^3.0.2",
-    "connect-mongo": "^2.0.1",
-    "dhtmlx-scheduler": "^5.0.1",
-    "eslint": "^5.2.0",
-    "express": "^4.16.3",
-    "express-session": "^1.15.6",
-    "express-validator": "^5.2.0",
-    "fs": "^0.0.2",
-    "html2canvas": "^1.0.0-alpha.12",
-    "js-yaml": "^3.13.1",
-    "jshint": "^2.9.6",
-    "lodash": "^4.17.15",
-    "moment": "^2.22.2",
-    "mongoose": "^5.2.3",
-    "mpath": "^0.6.0",
-    "nightmare": "^3.0.1",
-    "openssl": "^1.1.0",
-    "package.json": "^2.0.1",
-    "php-express": "0.0.3",
-    "print-js": "^1.0.47",
-    "shuffle-array": "^1.0.1",
-    "webpack": "^4.28.3",
-    "xmlhttprequest": "^1.8.0"
+    "@types/jest": "24.0.22",
+    "@types/node": "12.12.7",
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.4",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0",
+    "typescript": "3.7.2"
   },
-  "engines": {
-    "node": "11.5.0"
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "repository": {
-    "url": "https://github.com/aaditkamat/PlanItRight"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express",
-    "nightmareJS",
-    "web scraping"
-  ],
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-core": "6.26.3",
-    "babel-eslint": "8.2.6",
-    "babel-jest": "23.4.0",
-    "babel-loader": "7.1.5"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
