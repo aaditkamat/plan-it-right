@@ -3,7 +3,7 @@ import HeaderArea from './components/HeaderArea';
 import FooterArea from './components/FooterArea';
 import HeroArea from './components/HeroArea';
 import RegularPage from './components/RegularPage';
-import './App.css';
+import './App.scss';
 
 const App: React.FC = () => {
   return (
