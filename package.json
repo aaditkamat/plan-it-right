@@ -5,11 +5,14 @@
   "dependencies": {
     "@types/jest": "24.0.22",
     "@types/node": "12.12.7",
+    "@types/owl.carousel": "^2.3.1",
     "@types/react": "16.9.11",
     "@types/react-dom": "16.9.4",
     "@types/reactstrap": "^8.0.6",
+    "owl.carousel": "^2.3.4",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
+    "react-owl-carousel": "^2.3.1",
     "react-scripts": "3.2.0",
     "reactstrap": "^8.1.1",
     "typescript": "3.7.2"
@@ -36,7 +39,6 @@
     ]
   },
   "devDependencies": {
-    "bootstrap": "^4.3.1",
     "node-sass": "^4.13.0",
     "sass-loader": "^8.0.0"
   }
