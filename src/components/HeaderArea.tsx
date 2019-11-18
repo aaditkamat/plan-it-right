@@ -5,7 +5,7 @@ import './HeaderArea.scss';
 const HeaderArea: React.FC = () => {
     return (
         <header className="header-area">
-            <div className="row" style={{height: '20px'}}></div>
+            <div className="row" style={{ height: '20px' }}></div>
             <Navigation hasLine />
         </header>
         

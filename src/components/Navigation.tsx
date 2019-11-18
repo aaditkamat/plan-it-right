@@ -1,6 +1,7 @@
 import React from 'react';
 import { Nav, Navbar, NavbarBrand, NavItem, NavLink } from 'reactstrap';
 import Line from './Line';
+import logo from '../images/core-img/logo.png';
 
 interface Link {
     label: string,
@@ -49,7 +50,7 @@ const Navigation = (props: { hasLine: boolean; }) => {
                 <div className="col-12">
                     <Navbar className="h-50" expand="md">
                         <NavbarBrand> 
-                            <img src="images/core-img/logo.png" alt="Logo" />
+                            <img src={logo} alt="Logo" />
                         </NavbarBrand>
                         <Nav navbar>
                             {links.map((item) => generateLink(item))}
