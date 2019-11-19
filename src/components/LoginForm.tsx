@@ -7,13 +7,13 @@ const LoginForm: React.FC = () => {
             <form>
                 <h2>Email: </h2>
                 <input type="email" />
-                <h2>Password: </h2> 
+                <h2>Password: </h2>
                 <input type="password" />
                 <br /> <br />
                 <input type="submit" />
             </form>
         </div>
     );
-}
+};
 
 export default LoginForm;

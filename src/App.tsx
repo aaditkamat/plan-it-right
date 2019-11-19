@@ -6,14 +6,14 @@ import './App.scss';
 import HeroArea from './components/HeroArea';
 
 const App: React.FC = () => {
-  return (
-    <div className="App">
-      <HeaderArea />
-      <HeroArea />
-      <Login />
-      <FooterArea />
-    </div>
-  );
-}
+    return (
+        <div className="App">
+            <HeaderArea />
+            <HeroArea />
+            <Login />
+            <FooterArea />
+        </div>
+    );
+};
 
 export default App;
