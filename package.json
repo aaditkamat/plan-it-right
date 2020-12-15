@@ -1,7 +1,5 @@
 {
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "PlanItRight",
+  "name": "plan-it-right",
   "version": "1.0.0",
   "description": "An app named PlanItRight, which will provide users with personalised day-by-day itinerary.",
   "main": "server.js",
@@ -25,7 +23,6 @@
     "jshint": "^2.9.6",
     "lodash": "^4.17.19",
     "moment": "^2.22.2",
-    "mongoose": "^5.2.3",
     "mpath": "^0.6.0",
     "nightmare": "^3.0.1",
     "openssl": "^1.1.0",
