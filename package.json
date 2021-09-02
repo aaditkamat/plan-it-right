@@ -22,7 +22,7 @@
     "jshint": "^2.9.6",
     "lodash": "^4.17.19",
     "moment": "^2.22.2",
-    "mpath": "^0.6.0",
+    "mpath": "^0.8.4",
     "nightmare": "^3.0.1",
     "openssl": "^1.1.0",
     "package.json": "^2.0.1",
