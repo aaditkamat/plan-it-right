@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "ajv": "^6.6.2",
+    "ajv": "^6.12.3",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "braces": "^3.0.2",
