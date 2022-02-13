@@ -1,3 +1,5 @@
+import moment from "moment";
+
 var controlCalendarDisplay = (calendar, calendarOpen) => {
     if (calendarOpen === false)
         calendar.style.display = "block";

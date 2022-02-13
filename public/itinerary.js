@@ -1,6 +1,7 @@
 /*jslint for:true*/
 import {addButton} from "./button.js";
 import {addDirections} from "./directions.js";
+import moment from "moment";
 
 const getData = () => {
     let sortProperty = (result1, result2) => result2.rating - result1.rating;
