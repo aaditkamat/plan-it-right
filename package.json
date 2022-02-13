@@ -29,11 +29,11 @@
     "openssl": "^2.0.0",
     "package.json": "^2.0.1",
     "php-express": "0.0.3",
-    "print-js": "^1.0.47",
-    "serverless-http": "^2.7.0",
-    "shuffle-array": "^1.0.1",
-    "webpack": "^5.68.0",
-    "xmlhttprequest": "^1.8.0"
+    "print-js": "1.0.63",
+    "serverless-http": "2.7.0",
+    "shuffle-array": "1.0.1",
+    "webpack": "5.68.0",
+    "xmlhttprequest": "1.8.0"
   },
   "repository": {
     "url": "https://github.com/aaditkamat/PlanItRight"
@@ -47,10 +47,10 @@
     "web scraping"
   ],
   "devDependencies": {
-    "babel-cli": "^6.26.0",
+    "babel-cli": "6.26.0",
     "babel-core": "6.26.3",
     "babel-eslint": "8.2.6",
-    "babel-jest": "^27.5.1",
+    "babel-jest": "27.5.1",
     "babel-loader": "7.1.5"
   }
 }
