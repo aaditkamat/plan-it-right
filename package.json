@@ -7,7 +7,7 @@
     "build": "NODE_ENV=production ./node_modules/.bin/netlify-lambda build src"
   },
   "dependencies": {
-    "ajv": "^6.12.3",
+    "ajv": "6.12.6",
     "bcrypt": "^5.0.1",
     "body-parser": "^1.18.3",
     "braces": "^3.0.2",
