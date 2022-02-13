@@ -4,7 +4,7 @@
   "description": "An app named PlanItRight, which will provide users with personalised day-by-day itinerary.",
   "scripts": {
     "start": "NODE_ENV=development ./node_modules/.bin/netlify-lambda serve src",
-    "build": "NODE_ENV=production ./node_modules/.bin/netlify-lambda build src"
+    "build": "NODE_ENV=production NODE_OPTIONS=--openssl-legacy-provider ./node_modules/.bin/netlify-lambda build src"
   },
   "dependencies": {
     "ajv": "^6.12.3",
