@@ -7,3 +7,6 @@ node_modules/
 
 # For MacOS
 .DS_Store
+
+# Netlify
+functions/

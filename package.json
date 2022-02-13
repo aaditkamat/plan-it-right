@@ -2,10 +2,9 @@
   "name": "plan-it-right",
   "version": "1.0.0",
   "description": "An app named PlanItRight, which will provide users with personalised day-by-day itinerary.",
-  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "npm start"
+    "start": "NODE_ENV=development ./node_modules/.bin/netlify-lambda serve src",
+    "build": "NODE_ENV=production ./node_modules/.bin/netlify-lambda build src"
   },
   "dependencies": {
     "ajv": "^6.12.3",
@@ -25,17 +24,16 @@
     "lodash": "^4.17.21",
     "moment": "^2.22.2",
     "mpath": "^0.8.4",
+    "netlify-lambda": "^2.0.15",
     "nightmare": "^3.0.1",
     "openssl": "^2.0.0",
     "package.json": "^2.0.1",
     "php-express": "0.0.3",
     "print-js": "^1.0.47",
+    "serverless-http": "^2.7.0",
     "shuffle-array": "^1.0.1",
     "webpack": "^5.68.0",
     "xmlhttprequest": "^1.8.0"
-  },
-  "engines": {
-    "node": "11.5.0"
   },
   "repository": {
     "url": "https://github.com/aaditkamat/PlanItRight"
