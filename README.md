@@ -1,5 +1,5 @@
 # Welcome to PlanItRight
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5d134aa7-4ff6-421c-a2ec-5e6500166265/deploy-status)](https://app.netlify.com/sites/kind-hawking-2ee64b/deploys)
 
 ## Project Summary 
 
