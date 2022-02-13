@@ -9,7 +9,7 @@
   "dependencies": {
     "ajv": "6.12.3",
     "bcrypt": "5.0.1",
-    "body-parser": "1.19.0",
+    "body-parser": "1.19.1",
     "braces": "3.0.2",
     "daterangepicker": "3.1.0",
     "dhtmlx-scheduler": "5.3.6",
