@@ -32,7 +32,7 @@
     "print-js": "1.0.63",
     "serverless-http": "2.7.0",
     "shuffle-array": "1.0.1",
-    "webpack": "5.68.0",
+    "webpack": "5.69.1",
     "xmlhttprequest": "1.8.0"
   },
   "repository": {
