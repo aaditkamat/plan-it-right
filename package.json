@@ -22,7 +22,7 @@
     "js-yaml": "4.1.0",
     "jshint": "2.13.4",
     "lodash": "4.17.21",
-    "moment": "2.29.1",
+    "moment": "2.30.1",
     "mpath": "0.8.4",
     "netlify-lambda": "2.0.15",
     "nightmare": "3.0.2",
